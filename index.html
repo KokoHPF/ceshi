@@ -1,0 +1,1097 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>一百种狗狗 · 品种图鉴</title>
+<meta name="description" content="100 个真实犬种的图鉴，按 AKC 七大组别整理，可按体型、寿命、新手友好度筛选与排序。">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,600;1,9..144,400&display=swap" rel="stylesheet">
+<style>
+/* ============================================================
+   设计令牌：米白底 / 墨黑字 / 暖棕主色 / 鼠尾草绿
+   ============================================================ */
+:root {
+  --bg:        #FAF7F2;
+  --bg-sunk:   #F2ECE3;
+  --surface:   #FFFDFA;
+  --ink:       #1C1917;
+  --ink-soft:  #574E47;
+  --muted:     #857A70;
+  --brown:     #8B5E3C;
+  --sage:      #7C8B6F;
+  --line:      rgba(28, 25, 23, .13);
+  --line-soft: rgba(28, 25, 23, .07);
+  --skeleton1: rgba(28, 25, 23, .05);
+  --skeleton2: rgba(28, 25, 23, .10);
+  --shadow:    0 1px 2px rgba(28,25,23,.05), 0 10px 28px -18px rgba(28,25,23,.30);
+  --shadow-lg: 0 24px 70px -20px rgba(28,25,23,.38);
+  --pip-off:   rgba(28, 25, 23, .14);
+
+  --font-sans: ui-sans-serif, -apple-system, "Helvetica Neue", "PingFang SC",
+               "Hiragino Sans GB", "Noto Sans SC", "Microsoft YaHei", sans-serif;
+  --font-serif:"Fraunces", "Playfair Display", "Iowan Old Style", Georgia,
+               "Songti SC", "Noto Serif SC", serif;
+
+  --r-sm: 6px; --r-md: 10px; --r-lg: 18px;
+  --page: 1280px;
+  --dur: 240ms;
+  --ease: cubic-bezier(.22, .61, .36, 1);
+}
+
+/* 深色模式：跟随系统 */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg:        #14110F;
+    --bg-sunk:   #0E0C0B;
+    --surface:   #1E1A17;
+    --ink:       #EDE8E1;
+    --ink-soft:  #C6BDB4;
+    --muted:     #9C9189;
+    --brown:     #C08C63;
+    --sage:      #9BAE8C;
+    --line:      rgba(237, 232, 225, .15);
+    --line-soft: rgba(237, 232, 225, .08);
+    --skeleton1: rgba(237, 232, 225, .05);
+    --skeleton2: rgba(237, 232, 225, .11);
+    --shadow:    0 1px 2px rgba(0,0,0,.5), 0 10px 28px -18px rgba(0,0,0,.8);
+    --shadow-lg: 0 24px 70px -20px rgba(0,0,0,.85);
+    --pip-off:   rgba(237, 232, 225, .16);
+  }
+}
+
+*, *::before, *::after { box-sizing: border-box; }
+
+html { -webkit-text-size-adjust: 100%; scroll-behavior: smooth; }
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--ink);
+  font-family: var(--font-sans);
+  font-size: 15px;
+  line-height: 1.75;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  *, *::before, *::after { animation-duration: .01ms !important; transition-duration: .01ms !important; }
+}
+
+/* 拉丁字形走 Fraunces，中文自动落到系统衬线/黑体 —— 中英混排时
+   西文比中文视觉偏小，所以标题类统一给 Latin 段落略紧的字距。 */
+.serif { font-family: var(--font-serif); font-weight: 400; letter-spacing: -.01em; }
+
+a { color: inherit; }
+img { display: block; max-width: 100%; }
+
+:focus-visible {
+  outline: 2px solid var(--brown);
+  outline-offset: 3px;
+  border-radius: var(--r-sm);
+}
+
+.wrap { max-width: var(--page); margin-inline: auto; padding-inline: 24px; }
+@media (max-width: 640px) { .wrap { padding-inline: 18px; } }
+
+.skip-link {
+  position: absolute; left: -9999px; top: 0; z-index: 100;
+  background: var(--ink); color: var(--bg); padding: 10px 16px; border-radius: 0 0 var(--r-md) 0;
+}
+.skip-link:focus { left: 0; }
+
+/* ============================================================
+   Hero
+   ============================================================ */
+.hero { padding-block: clamp(56px, 9vw, 104px) clamp(32px, 5vw, 56px); }
+
+.hero__eyebrow {
+  font-size: 11px; letter-spacing: .22em; text-transform: uppercase;
+  color: var(--brown); font-weight: 600; margin: 0 0 22px;
+  display: flex; align-items: center; gap: 12px;
+}
+.hero__eyebrow::after {
+  content: ""; flex: 1; height: 1px; background: var(--line); max-width: 240px;
+}
+
+.hero__title {
+  font-family: var(--font-serif);
+  font-size: clamp(44px, 8.5vw, 104px);
+  line-height: .96;
+  letter-spacing: -.028em;
+  font-weight: 400;
+  margin: 0;
+}
+.hero__title em {
+  font-style: italic;
+  color: var(--brown);
+}
+.hero__title-zh {
+  display: block;
+  font-family: var(--font-sans);
+  font-size: clamp(17px, 2.6vw, 26px);
+  line-height: 1.5;
+  letter-spacing: .16em;
+  font-weight: 500;
+  color: var(--ink-soft);
+  margin-top: clamp(14px, 2vw, 22px);
+}
+
+.hero__lede {
+  max-width: 46ch; margin: 26px 0 0;
+  color: var(--ink-soft); font-size: 16px; line-height: 1.85;
+}
+
+.hero__stats {
+  display: flex; flex-wrap: wrap; gap: clamp(28px, 6vw, 72px);
+  margin-top: clamp(36px, 5vw, 56px);
+  padding-top: 26px;
+  border-top: 1px solid var(--line);
+}
+.stat__num {
+  font-family: var(--font-serif);
+  font-size: clamp(32px, 5vw, 46px); line-height: 1; font-weight: 600;
+  letter-spacing: -.02em;
+  display: block;
+}
+.stat__num span { font-size: .46em; color: var(--muted); margin-left: 4px; letter-spacing: 0; }
+.stat__label { font-size: 12px; color: var(--muted); letter-spacing: .1em; margin-top: 9px; display: block; }
+
+/* ============================================================
+   工具条
+   ============================================================ */
+.toolbar {
+  position: sticky; top: 0; z-index: 20;
+  background: color-mix(in srgb, var(--bg) 88%, transparent);
+  backdrop-filter: saturate(140%) blur(14px);
+  -webkit-backdrop-filter: saturate(140%) blur(14px);
+  border-top: 1px solid var(--line);
+  border-bottom: 1px solid var(--line);
+}
+.toolbar__inner { padding-block: 16px; display: grid; gap: 14px; }
+
+.toolbar__row { display: flex; flex-wrap: wrap; align-items: center; gap: 12px; }
+
+.search {
+  position: relative; flex: 1 1 280px; min-width: 0;
+}
+.search input {
+  width: 100%; font: inherit; color: var(--ink);
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: var(--r-md);
+  padding: 10px 38px 10px 40px;
+  transition: border-color var(--dur) var(--ease);
+}
+.search input::placeholder { color: var(--muted); }
+.search input:hover { border-color: color-mix(in srgb, var(--brown) 45%, var(--line)); }
+.search input:focus { outline: none; border-color: var(--brown); box-shadow: 0 0 0 3px color-mix(in srgb, var(--brown) 16%, transparent); }
+.search__icon {
+  position: absolute; left: 13px; top: 50%; transform: translateY(-50%);
+  width: 16px; height: 16px; color: var(--muted); pointer-events: none;
+}
+.search__clear {
+  position: absolute; right: 8px; top: 50%; transform: translateY(-50%);
+  border: 0; background: transparent; color: var(--muted); cursor: pointer;
+  width: 26px; height: 26px; border-radius: 50%; display: none;
+  align-items: center; justify-content: center; padding: 0;
+}
+.search__clear:hover { background: var(--bg-sunk); color: var(--ink); }
+.search__clear[data-show="1"] { display: flex; }
+
+.field { display: flex; align-items: center; gap: 8px; }
+.field > label { font-size: 12px; color: var(--muted); white-space: nowrap; letter-spacing: .04em; }
+.select {
+  font: inherit; font-size: 13px; color: var(--ink);
+  background: var(--surface);
+  border: 1px solid var(--line); border-radius: var(--r-md);
+  padding: 9px 30px 9px 12px; cursor: pointer;
+  appearance: none;
+  background-image: linear-gradient(45deg, transparent 50%, currentColor 50%),
+                    linear-gradient(135deg, currentColor 50%, transparent 50%);
+  background-position: calc(100% - 16px) calc(50% + 1px), calc(100% - 11px) calc(50% + 1px);
+  background-size: 5px 5px, 5px 5px;
+  background-repeat: no-repeat;
+  transition: border-color var(--dur) var(--ease);
+}
+.select:hover { border-color: color-mix(in srgb, var(--brown) 45%, var(--line)); }
+
+/* 组别 chips */
+.chips { display: flex; flex-wrap: wrap; gap: 7px; align-items: center; }
+.chip {
+  --chip: var(--muted);
+  font: inherit; font-size: 13px; line-height: 1;
+  color: var(--ink-soft);
+  background: transparent;
+  border: 1px solid var(--line);
+  border-radius: 100px;
+  padding: 8px 13px 8px 11px;
+  cursor: pointer;
+  display: inline-flex; align-items: center; gap: 7px;
+  transition: background var(--dur) var(--ease), border-color var(--dur) var(--ease), color var(--dur) var(--ease);
+  white-space: nowrap;
+}
+.chip::before {
+  content: ""; width: 7px; height: 7px; border-radius: 50%;
+  background: var(--chip); flex: none;
+}
+.chip:hover { border-color: color-mix(in srgb, var(--chip) 50%, var(--line)); }
+.chip[aria-pressed="true"] {
+  color: var(--chip);
+  border-color: color-mix(in srgb, var(--chip) 55%, transparent);
+  background: color-mix(in srgb, var(--chip) 11%, transparent);
+  font-weight: 500;
+}
+.chip--all::before { background: linear-gradient(135deg, var(--brown), var(--sage)); }
+.chip__n { color: var(--muted); font-size: 11px; font-variant-numeric: tabular-nums; }
+.chip[aria-pressed="true"] .chip__n { color: inherit; opacity: .7; }
+
+.toolbar__meta {
+  display: flex; align-items: baseline; justify-content: space-between; gap: 16px;
+  font-size: 12.5px; color: var(--muted);
+}
+.count strong { color: var(--ink); font-weight: 600; font-variant-numeric: tabular-nums; }
+.reset {
+  font: inherit; font-size: 12.5px; background: none; border: 0; padding: 0;
+  color: var(--brown); cursor: pointer; text-decoration: underline;
+  text-underline-offset: 3px; text-decoration-thickness: 1px;
+}
+.reset[hidden] { display: none; }
+
+/* ============================================================
+   卡片网格：桌面 4 / 平板 2 / 手机 1
+   ============================================================ */
+.grid {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 28px 22px;
+  padding-block: 40px 96px;
+  list-style: none; margin-block: 0; margin-inline: auto;
+}
+@media (max-width: 1099px) { .grid { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 26px 20px; } }
+@media (max-width: 639px)  { .grid { grid-template-columns: 1fr; gap: 22px; padding-block: 28px 72px; } }
+
+.card {
+  --accent: var(--brown);
+  font: inherit; color: inherit; text-align: left;
+  background: var(--surface);
+  border: 1px solid var(--line-soft);
+  border-radius: var(--r-lg);
+  padding: 0; margin: 0; width: 100%;
+  overflow: hidden; cursor: pointer;
+  display: flex; flex-direction: column;
+  box-shadow: var(--shadow);
+  transition: transform var(--dur) var(--ease), box-shadow var(--dur) var(--ease), border-color var(--dur) var(--ease);
+}
+.card:hover { transform: translateY(-3px); box-shadow: var(--shadow-lg); border-color: var(--line); }
+.card:hover .card__img { transform: scale(1.035); }
+
+.frame {
+  position: relative; aspect-ratio: 4 / 3; overflow: hidden;
+  background: var(--bg-sunk);
+  color: var(--accent);           /* 占位 SVG 通过 currentColor 取组别色 */
+  flex: none;
+}
+.card__img {
+  width: 100%; height: 100%; object-fit: cover;
+  transition: transform 420ms var(--ease), opacity var(--dur) var(--ease);
+  opacity: 0;
+}
+.card__img[data-loaded="1"] { opacity: 1; }
+
+/* 骨架屏（不用转圈） */
+.skeleton {
+  position: absolute; inset: 0;
+  background: linear-gradient(100deg, var(--skeleton1) 20%, var(--skeleton2) 42%, var(--skeleton1) 64%);
+  background-size: 260% 100%;
+  animation: shimmer 1.5s linear infinite;
+}
+@keyframes shimmer { from { background-position: 130% 0; } to { background-position: -130% 0; } }
+[data-state="done"] > .skeleton { display: none; }
+
+.ph { position: absolute; inset: 0; width: 100%; height: 100%; }
+
+.badge {
+  position: absolute; left: 12px; top: 12px; z-index: 2;
+  font-size: 11px; line-height: 1; letter-spacing: .06em; font-weight: 500;
+  color: #fff; background: var(--accent);
+  padding: 6px 9px; border-radius: 100px;
+  box-shadow: 0 2px 8px rgba(0,0,0,.18);
+}
+
+.card__body { padding: 16px 17px 18px; display: flex; flex-direction: column; gap: 13px; flex: 1; }
+
+.card__names { display: flex; flex-direction: column; gap: 2px; }
+.card__zh { font-size: 17px; font-weight: 600; letter-spacing: .01em; line-height: 1.4; }
+.card__en {
+  font-family: var(--font-serif); font-style: italic; font-size: 13.5px;
+  color: var(--muted); line-height: 1.4; letter-spacing: 0;
+}
+
+.card__meta {
+  font-size: 12px; color: var(--muted);
+  display: flex; flex-wrap: wrap; gap: 6px; align-items: center;
+}
+.card__meta i { font-style: normal; opacity: .45; }
+
+.rates { display: grid; gap: 6px; margin-top: auto; padding-top: 3px; }
+.rate { display: grid; grid-template-columns: 4.6em 1fr; align-items: center; gap: 10px; font-size: 11.5px; color: var(--muted); }
+.pips { display: flex; gap: 4px; }
+.pip { width: 100%; max-width: 22px; height: 3px; border-radius: 2px; background: var(--pip-off); }
+.pip[data-on="1"] { background: var(--accent); }
+
+/* 空状态 */
+.empty { padding-block: 90px 130px; text-align: center; }
+.empty svg { width: 56px; height: 56px; color: var(--muted); opacity: .5; margin-inline: auto; }
+.empty h2 { font-family: var(--font-serif); font-size: 25px; font-weight: 400; margin: 22px 0 8px; }
+.empty p { color: var(--muted); margin: 0 0 22px; font-size: 14px; }
+.empty button {
+  font: inherit; font-size: 13.5px; cursor: pointer;
+  background: var(--ink); color: var(--bg); border: 0;
+  padding: 10px 20px; border-radius: 100px;
+}
+
+/* ============================================================
+   详情模态
+   ============================================================ */
+.modal { position: fixed; inset: 0; z-index: 60; display: none; }
+.modal[data-open="1"] { display: block; }
+
+.modal__veil {
+  position: absolute; inset: 0;
+  background: color-mix(in srgb, var(--ink) 55%, transparent);
+  backdrop-filter: blur(3px); -webkit-backdrop-filter: blur(3px);
+  animation: fade var(--dur) var(--ease);
+}
+@keyframes fade { from { opacity: 0; } to { opacity: 1; } }
+
+.modal__scroll {
+  position: absolute; inset: 0; overflow-y: auto;
+  overscroll-behavior: contain;
+  padding: clamp(16px, 4vw, 48px);
+  display: flex; align-items: flex-start; justify-content: center;
+  -webkit-overflow-scrolling: touch;
+}
+
+.sheet {
+  --accent: var(--brown);
+  position: relative;
+  background: var(--surface);
+  border-radius: var(--r-lg);
+  box-shadow: var(--shadow-lg);
+  width: min(1000px, 100%);
+  overflow: hidden;
+  animation: rise 280ms var(--ease);
+  margin-block: auto;
+}
+@keyframes rise { from { opacity: 0; transform: translateY(14px) scale(.985); } to { opacity: 1; transform: none; } }
+
+.sheet__grid { display: grid; grid-template-columns: minmax(0, 42%) minmax(0, 58%); }
+@media (max-width: 800px) { .sheet__grid { grid-template-columns: 1fr; } }
+
+.sheet__media { position: relative; background: var(--bg-sunk); color: var(--accent); min-height: 280px; }
+@media (max-width: 800px) { .sheet__media { aspect-ratio: 4 / 3; min-height: 0; } }
+.sheet__media img { width: 100%; height: 100%; object-fit: cover; position: absolute; inset: 0; }
+
+.sheet__close {
+  position: absolute; right: 12px; top: 12px; z-index: 5;
+  width: 36px; height: 36px; border-radius: 50%;
+  border: 1px solid var(--line);
+  background: var(--surface); color: var(--ink);
+  cursor: pointer; display: grid; place-items: center; padding: 0;
+  transition: background var(--dur) var(--ease), transform var(--dur) var(--ease);
+}
+.sheet__close:hover { background: var(--bg-sunk); transform: rotate(90deg); }
+
+.sheet__body { padding: clamp(24px, 3.4vw, 38px); }
+
+.sheet__group {
+  display: inline-flex; align-items: center; gap: 7px;
+  font-size: 11.5px; letter-spacing: .1em; font-weight: 600;
+  color: var(--accent); margin-bottom: 14px;
+}
+.sheet__group::before { content: ""; width: 18px; height: 2px; background: var(--accent); }
+
+.sheet__zh { font-size: clamp(26px, 4vw, 34px); font-weight: 600; line-height: 1.25; margin: 0; letter-spacing: .01em; }
+.sheet__en {
+  font-family: var(--font-serif); font-style: italic; font-weight: 400;
+  font-size: clamp(15px, 2vw, 18px); color: var(--muted); margin: 5px 0 0; letter-spacing: 0;
+}
+.sheet__intro { color: var(--ink-soft); margin: 18px 0 0; font-size: 15px; line-height: 1.9; }
+
+.tags { display: flex; flex-wrap: wrap; gap: 7px; margin-top: 18px; }
+.tag {
+  font-size: 12px; line-height: 1; padding: 7px 11px; border-radius: 100px;
+  background: color-mix(in srgb, var(--sage) 14%, transparent);
+  color: color-mix(in srgb, var(--sage) 82%, var(--ink));
+}
+
+.specs {
+  display: grid; grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 1px; margin-top: 26px;
+  background: var(--line-soft);
+  border: 1px solid var(--line-soft); border-radius: var(--r-md); overflow: hidden;
+}
+@media (max-width: 480px) { .specs { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+.spec { background: var(--surface); padding: 13px 14px; }
+.spec dt { font-size: 11px; color: var(--muted); letter-spacing: .06em; margin-bottom: 5px; }
+.spec dd { margin: 0; font-size: 14px; font-weight: 500; font-variant-numeric: tabular-nums; }
+
+.sheet__rates { margin-top: 24px; display: grid; gap: 11px; }
+.sheet__rates .rate { grid-template-columns: 6.2em 1fr auto; font-size: 12.5px; }
+.sheet__rates .pip { height: 5px; max-width: 34px; border-radius: 3px; }
+.rate__val { font-size: 11.5px; color: var(--muted); font-variant-numeric: tabular-nums; }
+
+.fact {
+  margin: 26px 0 0; padding: 18px 20px;
+  border-left: 2px solid var(--accent);
+  background: color-mix(in srgb, var(--accent) 6%, transparent);
+  border-radius: 0 var(--r-md) var(--r-md) 0;
+}
+.fact__label { font-size: 11px; letter-spacing: .14em; color: var(--accent); font-weight: 600; display: block; margin-bottom: 7px; }
+.fact p { margin: 0; font-size: 14px; line-height: 1.85; color: var(--ink-soft); }
+
+.links { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 26px; padding-top: 22px; border-top: 1px solid var(--line-soft); }
+.link {
+  font-size: 13px; text-decoration: none; color: var(--ink-soft);
+  border: 1px solid var(--line); border-radius: 100px; padding: 8px 15px;
+  display: inline-flex; align-items: center; gap: 7px;
+  transition: border-color var(--dur) var(--ease), color var(--dur) var(--ease);
+}
+.link:hover { border-color: var(--brown); color: var(--brown); }
+.link svg { width: 13px; height: 13px; }
+
+body.is-locked { overflow: hidden; }
+
+/* ============================================================
+   页脚
+   ============================================================ */
+.foot {
+  border-top: 1px solid var(--line);
+  padding-block: 40px 56px;
+  font-size: 12.5px; color: var(--muted);
+  display: flex; flex-wrap: wrap; gap: 12px 28px; justify-content: space-between;
+}
+.foot p { margin: 0; }
+</style>
+</head>
+<body>
+<a class="skip-link" href="#grid">跳到品种列表</a>
+
+<header class="hero wrap">
+  <p class="hero__eyebrow">AKC 七大组别 · 真实犬种</p>
+  <h1 class="hero__title">
+    One Hundred <em>Dogs</em>
+    <span class="hero__title-zh">一百种狗狗品种图鉴</span>
+  </h1>
+  <p class="hero__lede">
+    从冰原上的雪橇犬到宫墙里的膝上犬，一百个真实存在的犬种，按美国养犬俱乐部的七大组别整理。
+    每一条都附上体型、寿命、运动与掉毛程度，以及一件你多半没听过的小事。
+  </p>
+  <div class="hero__stats">
+    <div class="stat"><span class="stat__num" id="statBreeds">0</span><span class="stat__label">收录品种</span></div>
+    <div class="stat"><span class="stat__num" id="statGroups">0</span><span class="stat__label">AKC 组别</span></div>
+    <div class="stat"><span class="stat__num" id="statOrigins">0</span><span class="stat__label">原产地区</span></div>
+    <div class="stat"><span class="stat__num" id="statLife">0<span>年</span></span><span class="stat__label">平均寿命中位数</span></div>
+  </div>
+</header>
+
+<div class="toolbar">
+  <div class="wrap toolbar__inner">
+    <div class="toolbar__row">
+      <div class="search">
+        <svg class="search__icon" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.7" aria-hidden="true">
+          <circle cx="9" cy="9" r="6"/><path d="M13.5 13.5 17.5 17.5" stroke-linecap="round"/>
+        </svg>
+        <input id="q" type="search" autocomplete="off" spellcheck="false"
+               placeholder="搜索中英文名、产地或性格…" aria-label="搜索犬种（支持中英文模糊匹配）">
+        <button class="search__clear" id="qClear" type="button" aria-label="清空搜索">
+          <svg viewBox="0 0 16 16" width="13" height="13" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true">
+            <path d="M3 3l10 10M13 3L3 13" stroke-linecap="round"/>
+          </svg>
+        </button>
+      </div>
+      <div class="field">
+        <label for="size">体型</label>
+        <select class="select" id="size">
+          <option value="">全部</option>
+          <option value="小">小型犬</option>
+          <option value="中">中型犬</option>
+          <option value="大">大型犬</option>
+        </select>
+      </div>
+      <div class="field">
+        <label for="sort">排序</label>
+        <select class="select" id="sort">
+          <option value="default">图鉴顺序</option>
+          <option value="life-desc">寿命 · 由长到短</option>
+          <option value="life-asc">寿命 · 由短到长</option>
+          <option value="size-asc">体型 · 由小到大</option>
+          <option value="size-desc">体型 · 由大到小</option>
+          <option value="novice-desc">新手友好度 · 由高到低</option>
+        </select>
+      </div>
+    </div>
+
+    <div class="chips" id="chips" role="group" aria-label="按 AKC 组别筛选"></div>
+
+    <div class="toolbar__meta">
+      <p class="count" id="count" role="status" aria-live="polite"></p>
+      <button class="reset" id="reset" type="button" hidden>清除全部筛选</button>
+    </div>
+  </div>
+</div>
+
+<main>
+  <ul class="grid wrap" id="grid" aria-label="犬种卡片列表"></ul>
+  <div class="empty wrap" id="empty" hidden>
+    <svg viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="1.4" aria-hidden="true">
+      <path d="M13 20c0-5 5-9 11-9s11 4 11 9v9c0 4-4 7-11 7s-11-3-11-7v-9Z"/>
+      <path d="M13 20 9 11l6 2M35 20l4-9-6 2" stroke-linejoin="round"/>
+      <path d="M20 24h.02M28 24h.02" stroke-linecap="round" stroke-width="2.6"/>
+      <path d="M20 30c1.4 1.4 6.6 1.4 8 0" stroke-linecap="round"/>
+    </svg>
+    <h2>没有匹配的犬种</h2>
+    <p>换个关键词，或者放宽组别和体型的条件试试。</p>
+    <button type="button" id="emptyReset">清除全部筛选</button>
+  </div>
+</main>
+
+<footer class="foot wrap">
+  <p>数据为静态整理，仅供了解品种特征参考；实际性格与健康状况因个体而异。</p>
+  <p>图片来自维基百科与 dog.ceo，均在浏览器端实时获取。</p>
+</footer>
+
+<!-- 详情模态 -->
+<div class="modal" id="modal" role="dialog" aria-modal="true" aria-labelledby="sheetZh" hidden>
+  <div class="modal__veil" data-close></div>
+  <div class="modal__scroll" data-close>
+    <article class="sheet" id="sheet"></article>
+  </div>
+</div>
+
+<script src="breeds.js"></script>
+<script>
+(function () {
+  'use strict';
+
+  // ==========================================================
+  // 0. 工具
+  // ==========================================================
+  var $  = function (s, r) { return (r || document).querySelector(s); };
+  var GROUP_MAP = {};
+  GROUPS.forEach(function (g) { GROUP_MAP[g.key] = g; });
+
+  var isDark = function () {
+    return window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+  };
+  /** 取当前主题下该组别的语义色 */
+  function groupColor(key) {
+    var g = GROUP_MAP[key];
+    if (!g) return '#8B5E3C';
+    return isDark() ? g.colorDark : g.color;
+  }
+
+  function esc(s) {
+    return String(s).replace(/[&<>"']/g, function (c) {
+      return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c];
+    });
+  }
+
+  /** 从 "10–12 年" 之类的区间里取中值，用于排序与统计 */
+  function midOf(range) {
+    var n = String(range).match(/[\d.]+/g);
+    if (!n) return 0;
+    return n.length > 1 ? (parseFloat(n[0]) + parseFloat(n[1])) / 2 : parseFloat(n[0]);
+  }
+
+  var SIZE_RANK = { '小': 0, '中': 1, '大': 2 };
+
+  // ==========================================================
+  // 1. 图片管线
+  //    三级回退：中文维基缩略图 → dog.ceo 随机图 → SVG 占位图
+  //    并发上限 6，结果只存内存（不用 localStorage）
+  // ==========================================================
+  var MAX_PARALLEL = 6;
+  var TIMEOUT = 8000;
+
+  var running = 0;
+  var waiting = [];
+
+  /** 极简并发闸门：同时最多跑 MAX_PARALLEL 个取图任务 */
+  function gate(job) {
+    return new Promise(function (resolve) {
+      waiting.push(function () {
+        running++;
+        job().then(resolve, function () { resolve(null); }).then(function () {
+          running--;
+          pump();
+        });
+      });
+      pump();
+    });
+  }
+  function pump() {
+    while (running < MAX_PARALLEL && waiting.length) { waiting.shift()(); }
+  }
+
+  /* @test-block:resolver —— 下面这段被 test/image-fallback.test.js 抽出来单测 */
+  /**
+   * 解析一个犬种应该用哪张图。
+   * deps 注入 fetch / 预加载 / 超时，方便离线单测三级回退。
+   * 返回 { tier: 'wiki'|'dogceo'|'placeholder', src: string|null }
+   */
+  function resolveImage(breed, deps) {
+    var fetchJSON = deps.fetchJSON;
+    var preload   = deps.preload;
+
+    // ① 中文维基条目摘要里的 thumbnail
+    function tier1() {
+      if (!breed.wikiZh) return Promise.reject();
+      var url = 'https://zh.wikipedia.org/api/rest_v1/page/summary/' +
+                encodeURIComponent(breed.wikiZh);
+      return fetchJSON(url).then(function (data) {
+        var thumb = data && data.thumbnail && data.thumbnail.source;
+        if (!thumb) throw new Error('no-thumb');
+        // 维基缩略图路径里带宽度，换成更清晰的 640px；换不成就用原图
+        var big = thumb.replace(/\/(\d+)px-/, '/640px-');
+        return preload(big).catch(function () { return preload(thumb); });
+      }).then(function (src) { return { tier: 'wiki', src: src }; });
+    }
+
+    // ② dog.ceo 随机图
+    function tier2() {
+      if (!breed.dogCeoPath) return Promise.reject();
+      var url = 'https://dog.ceo/api/breed/' + breed.dogCeoPath + '/images/random';
+      return fetchJSON(url).then(function (data) {
+        if (!data || data.status !== 'success' || !data.message) throw new Error('no-image');
+        return preload(data.message);
+      }).then(function (src) { return { tier: 'dogceo', src: src }; });
+    }
+
+    // ③ 统一风格的 SVG 占位图，永远不会失败
+    function tier3() { return { tier: 'placeholder', src: null }; }
+
+    return tier1().catch(tier2).catch(tier3);
+  }
+  /* @end-test-block */
+
+  /** 带超时的 JSON 请求 */
+  function fetchJSON(url) {
+    var ctl = typeof AbortController !== 'undefined' ? new AbortController() : null;
+    var timer = setTimeout(function () { if (ctl) ctl.abort(); }, TIMEOUT);
+    return fetch(url, ctl ? { signal: ctl.signal } : undefined)
+      .then(function (r) {
+        if (!r.ok) throw new Error('HTTP ' + r.status);
+        return r.json();
+      })
+      .then(function (d) { clearTimeout(timer); return d; },
+            function (e) { clearTimeout(timer); throw e; });
+  }
+
+  /** 真正把图片下载下来验证一遍，避免 200 但内容坏掉导致裂图 */
+  function preload(src) {
+    return new Promise(function (resolve, reject) {
+      var img = new Image();
+      var timer = setTimeout(function () { img.src = ''; reject(new Error('timeout')); }, TIMEOUT);
+      img.onload = function () { clearTimeout(timer); resolve(src); };
+      img.onerror = function () { clearTimeout(timer); reject(new Error('img-error')); };
+      img.referrerPolicy = 'no-referrer';
+      img.src = src;
+    });
+  }
+
+  var DEPS = { fetchJSON: fetchJSON, preload: preload };
+
+  /** 内存缓存：key = 英文名，value = Promise<{tier,src}>。刷新页面即清空 */
+  var cache = new Map();
+  function getImage(breed) {
+    if (!cache.has(breed.en)) {
+      cache.set(breed.en, gate(function () { return resolveImage(breed, DEPS); })
+        .then(function (r) { return r || { tier: 'placeholder', src: null }; }));
+    }
+    return cache.get(breed.en);
+  }
+
+  /** 统一风格的线描占位图：描边取 currentColor，自动跟随组别色与深色模式 */
+  function placeholderSVG(label) {
+    return '<svg class="ph" viewBox="0 0 400 300" role="img" aria-label="' + esc(label) +
+      ' 的示意图（暂无照片）" preserveAspectRatio="xMidYMid meet">' +
+      '<g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" opacity=".62">' +
+        '<g stroke-width="5">' +
+          '<path d="M150 118c0-30 22-52 50-52s50 22 50 52v30c0 26-22 44-50 44s-50-18-50-44v-30Z"/>' +
+          '<path d="M150 120 130 74c-2-5 2-9 7-7l26 11"/>' +
+          '<path d="M250 120l20-46c2-5-2-9-7-7l-26 11"/>' +
+          '<path d="M180 142h.5M220 142h.5" stroke-width="11"/>' +
+          '<path d="M200 158a9 9 0 0 1 0 12"/>' +
+          '<path d="M186 176c8 7 20 7 28 0"/>' +
+        '</g>' +
+        '<g stroke-width="3" opacity=".55">' +
+          '<circle cx="200" cy="150" r="112"/>' +
+        '</g>' +
+      '</g></svg>';
+  }
+
+  /** 把解析结果渲染进某个 .frame 容器 */
+  function paint(frame, breed) {
+    if (frame.dataset.state === 'done' || frame.dataset.state === 'loading') return;
+    frame.dataset.state = 'loading';
+    getImage(breed).then(function (res) {
+      if (res.src) {
+        var img = frame.querySelector('img');
+        if (img) { img.src = res.src; img.dataset.loaded = '1'; }
+      } else {
+        var img2 = frame.querySelector('img');
+        if (img2) img2.remove();
+        frame.insertAdjacentHTML('beforeend', placeholderSVG(breed.zh));
+      }
+      frame.dataset.state = 'done';
+      frame.dataset.tier = res.tier;
+    });
+  }
+
+  /** 懒加载：进入视口前 300px 才开始取图 */
+  var io = ('IntersectionObserver' in window)
+    ? new IntersectionObserver(function (entries) {
+        entries.forEach(function (e) {
+          if (!e.isIntersecting) return;
+          io.unobserve(e.target);
+          paint(e.target, BREEDS[+e.target.dataset.idx]);
+        });
+      }, { rootMargin: '300px 0px' })
+    : null;
+
+  // ==========================================================
+  // 2. 状态与筛选
+  // ==========================================================
+  var state = { q: '', groups: new Set(), size: '', sort: 'default' };
+
+  /** 模糊匹配：空格分词，每个词用「子串或子序列」命中即可 */
+  function fuzzy(needle, haystack) {
+    if (needle.indexOf(haystack) > -1 || haystack.indexOf(needle) > -1) return true;
+    var i = 0;
+    for (var j = 0; j < haystack.length && i < needle.length; j++) {
+      if (haystack[j] === needle[i]) i++;
+    }
+    return i === needle.length;
+  }
+
+  function hay(b) {
+    if (!b._hay) {
+      b._hay = [b.zh, b.en, b.origin, b.size, b.life, b.intro, b.traits.join(''),
+                GROUP_MAP[b.group].label, GROUP_MAP[b.group].en].join(' ').toLowerCase();
+    }
+    return b._hay;
+  }
+
+  function filtered() {
+    var terms = state.q.trim().toLowerCase().split(/\s+/).filter(Boolean);
+    var out = BREEDS.filter(function (b) {
+      if (state.groups.size && !state.groups.has(b.group)) return false;
+      if (state.size && b.size !== state.size) return false;
+      if (!terms.length) return true;
+      var h = hay(b);
+      return terms.every(function (t) { return fuzzy(t, h); });
+    });
+
+    var s = state.sort;
+    if (s !== 'default') {
+      out = out.slice().sort(function (a, b) {
+        if (s === 'life-desc')   return midOf(b.life) - midOf(a.life);
+        if (s === 'life-asc')    return midOf(a.life) - midOf(b.life);
+        if (s === 'size-asc')    return SIZE_RANK[a.size] - SIZE_RANK[b.size] || midOf(a.weight) - midOf(b.weight);
+        if (s === 'size-desc')   return SIZE_RANK[b.size] - SIZE_RANK[a.size] || midOf(b.weight) - midOf(a.weight);
+        if (s === 'novice-desc') return b.novice - a.novice || a.exercise - b.exercise;
+        return 0;
+      });
+    }
+    return out;
+  }
+
+  // ==========================================================
+  // 3. 渲染
+  // ==========================================================
+  function pipsHTML(n, label) {
+    var out = '<span class="pips" role="img" aria-label="' + label + ' ' + n + ' 分，满分 5 分">';
+    for (var i = 1; i <= 5; i++) out += '<i class="pip"' + (i <= n ? ' data-on="1"' : '') + '></i>';
+    return out + '</span>';
+  }
+
+  function cardHTML(b, idx) {
+    var g = GROUP_MAP[b.group];
+    return '<li>' +
+      '<button class="card" type="button" data-idx="' + idx + '" style="--accent:' + groupColor(b.group) + '"' +
+        ' aria-label="查看 ' + esc(b.zh) + ' 的详细资料">' +
+        '<span class="frame" data-idx="' + idx + '">' +
+          '<span class="skeleton" aria-hidden="true"></span>' +
+          '<span class="badge">' + esc(g.label) + '</span>' +
+          '<img class="card__img" alt="' + esc(b.zh) + '（' + esc(b.en) + '）的照片" decoding="async">' +
+        '</span>' +
+        '<span class="card__body">' +
+          '<span class="card__names">' +
+            '<span class="card__zh">' + esc(b.zh) + '</span>' +
+            '<span class="card__en">' + esc(b.en) + '</span>' +
+          '</span>' +
+          '<span class="card__meta">' + esc(b.origin) + '<i>·</i>' + esc(b.size) + '型<i>·</i>' + esc(b.life) + '</span>' +
+          '<span class="rates">' +
+            '<span class="rate"><span>运动需求</span>' + pipsHTML(b.exercise, '运动需求') + '</span>' +
+            '<span class="rate"><span>掉毛程度</span>' + pipsHTML(b.shedding, '掉毛程度') + '</span>' +
+            '<span class="rate"><span>新手友好</span>' + pipsHTML(b.novice, '新手友好度') + '</span>' +
+          '</span>' +
+        '</span>' +
+      '</button></li>';
+  }
+
+  var gridEl = $('#grid'), emptyEl = $('#empty'), countEl = $('#count'), resetEl = $('#reset');
+
+  function render() {
+    var list = filtered();
+
+    countEl.innerHTML = list.length
+      ? '共 <strong>' + list.length + '</strong> 个犬种' +
+        (list.length < BREEDS.length ? '（总计 ' + BREEDS.length + '）' : '')
+      : '没有匹配结果';
+
+    var dirty = !!(state.q || state.groups.size || state.size || state.sort !== 'default');
+    resetEl.hidden = !dirty;
+
+    emptyEl.hidden = list.length > 0;
+    gridEl.hidden  = list.length === 0;
+
+    gridEl.innerHTML = list.map(function (b) { return cardHTML(b, BREEDS.indexOf(b)); }).join('');
+
+    // 逐个挂懒加载观察者；已在缓存里的直接画出来
+    Array.prototype.forEach.call(gridEl.querySelectorAll('.frame'), function (f) {
+      var b = BREEDS[+f.dataset.idx];
+      if (cache.has(b.en)) { paint(f, b); }
+      else if (io) { io.observe(f); }
+      else { paint(f, b); }
+    });
+
+    // 更新 chips 上的计数
+    updateChipCounts();
+  }
+
+  // ---------- 组别 chips ----------
+  var chipsEl = $('#chips');
+  chipsEl.innerHTML =
+    '<button class="chip chip--all" type="button" data-key="" aria-pressed="true">全部组别' +
+    '<span class="chip__n" data-count="">' + BREEDS.length + '</span></button>' +
+    GROUPS.map(function (g) {
+      return '<button class="chip" type="button" data-key="' + g.key + '" aria-pressed="false"' +
+        ' style="--chip:' + groupColor(g.key) + '">' + esc(g.label) +
+        '<span class="chip__n" data-count="' + g.key + '"></span></button>';
+    }).join('');
+
+  /** chips 上的数字反映「当前搜索+体型条件下」该组还剩多少条 */
+  function updateChipCounts() {
+    var terms = state.q.trim().toLowerCase().split(/\s+/).filter(Boolean);
+    var base = BREEDS.filter(function (b) {
+      if (state.size && b.size !== state.size) return false;
+      if (!terms.length) return true;
+      var h = hay(b);
+      return terms.every(function (t) { return fuzzy(t, h); });
+    });
+    var byGroup = {};
+    base.forEach(function (b) { byGroup[b.group] = (byGroup[b.group] || 0) + 1; });
+    Array.prototype.forEach.call(chipsEl.querySelectorAll('[data-count]'), function (el) {
+      var k = el.dataset.count;
+      el.textContent = k ? (byGroup[k] || 0) : base.length;
+    });
+  }
+
+  chipsEl.addEventListener('click', function (e) {
+    var btn = e.target.closest('.chip');
+    if (!btn) return;
+    var key = btn.dataset.key;
+    if (!key) { state.groups.clear(); }
+    else if (state.groups.has(key)) { state.groups.delete(key); }
+    else { state.groups.add(key); }
+    syncChips();
+    render();
+  });
+
+  function syncChips() {
+    Array.prototype.forEach.call(chipsEl.querySelectorAll('.chip'), function (c) {
+      var k = c.dataset.key;
+      c.setAttribute('aria-pressed', String(k ? state.groups.has(k) : state.groups.size === 0));
+    });
+  }
+
+  // ---------- 搜索 / 体型 / 排序 ----------
+  var qEl = $('#q'), qClear = $('#qClear');
+  var debounce;
+  qEl.addEventListener('input', function () {
+    qClear.dataset.show = qEl.value ? '1' : '';
+    clearTimeout(debounce);
+    debounce = setTimeout(function () { state.q = qEl.value; render(); }, 120);
+  });
+  qClear.addEventListener('click', function () {
+    qEl.value = ''; state.q = ''; qClear.dataset.show = ''; qEl.focus(); render();
+  });
+  $('#size').addEventListener('change', function (e) { state.size = e.target.value; render(); });
+  $('#sort').addEventListener('change', function (e) { state.sort = e.target.value; render(); });
+
+  function resetAll() {
+    state.q = ''; state.size = ''; state.sort = 'default'; state.groups.clear();
+    qEl.value = ''; qClear.dataset.show = '';
+    $('#size').value = ''; $('#sort').value = 'default';
+    syncChips(); render();
+  }
+  resetEl.addEventListener('click', resetAll);
+  $('#emptyReset').addEventListener('click', resetAll);
+
+  // ==========================================================
+  // 4. 详情模态
+  // ==========================================================
+  var modal = $('#modal'), sheet = $('#sheet'), lastFocus = null;
+
+  function sheetHTML(b) {
+    var g = GROUP_MAP[b.group];
+    var spec = function (k, v) { return '<div class="spec"><dt>' + k + '</dt><dd>' + esc(v) + '</dd></div>'; };
+    var rate = function (label, n) {
+      return '<span class="rate"><span>' + label + '</span>' + pipsHTML(n, label) +
+             '<span class="rate__val">' + n + '/5</span></span>';
+    };
+    var extLink = function (href, text) {
+      return '<a class="link" href="' + href + '" target="_blank" rel="noopener noreferrer">' + text +
+        '<svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true">' +
+        '<path d="M6 3h7v7M13 3 4 12" stroke-linecap="round" stroke-linejoin="round"/></svg></a>';
+    };
+
+    return '' +
+      '<div class="sheet__grid">' +
+        '<div class="sheet__media" data-state="idle">' +
+          '<span class="skeleton" aria-hidden="true"></span>' +
+          '<img alt="' + esc(b.zh) + '（' + esc(b.en) + '）的照片" decoding="async">' +
+        '</div>' +
+        '<div class="sheet__body">' +
+          '<p class="sheet__group">' + esc(g.label) + ' · ' + esc(g.en) + '</p>' +
+          '<h2 class="sheet__zh" id="sheetZh">' + esc(b.zh) + '</h2>' +
+          '<p class="sheet__en">' + esc(b.en) + '</p>' +
+          '<p class="sheet__intro">' + esc(b.intro) + '</p>' +
+          '<div class="tags">' + b.traits.map(function (t) {
+            return '<span class="tag">' + esc(t) + '</span>';
+          }).join('') + '</div>' +
+          '<dl class="specs">' +
+            spec('原产地', b.origin) + spec('体型', b.size + '型犬') + spec('平均寿命', b.life) +
+            spec('肩高', b.height) + spec('体重', b.weight) + spec('AKC 组别', g.label) +
+          '</dl>' +
+          '<div class="sheet__rates">' +
+            rate('运动需求', b.exercise) + rate('掉毛程度', b.shedding) + rate('新手友好度', b.novice) +
+          '</div>' +
+          '<div class="fact">' +
+            '<span class="fact__label">冷知识</span><p>' + esc(b.fact) + '</p>' +
+          '</div>' +
+          '<div class="links">' +
+            extLink('https://zh.wikipedia.org/wiki/' + encodeURIComponent(b.wikiZh), '中文维基百科') +
+            extLink('https://en.wikipedia.org/wiki/' + encodeURIComponent(b.wikiEn.replace(/ /g, '_')), 'English Wikipedia') +
+          '</div>' +
+        '</div>' +
+      '</div>' +
+      '<button class="sheet__close" type="button" data-close-btn aria-label="关闭详情">' +
+        '<svg viewBox="0 0 16 16" width="15" height="15" fill="none" stroke="currentColor" stroke-width="1.7" aria-hidden="true">' +
+        '<path d="M3 3l10 10M13 3L3 13" stroke-linecap="round"/></svg></button>';
+  }
+
+  function openSheet(idx) {
+    var b = BREEDS[idx];
+    lastFocus = document.activeElement;
+    sheet.style.setProperty('--accent', groupColor(b.group));
+    sheet.innerHTML = sheetHTML(b);
+    modal.hidden = false;
+    modal.dataset.open = '1';
+    document.body.classList.add('is-locked');
+    paint(sheet.querySelector('.sheet__media'), b);
+    var closeBtn = sheet.querySelector('[data-close-btn]');
+    if (closeBtn) closeBtn.focus();
+  }
+
+  function closeSheet() {
+    if (modal.dataset.open !== '1') return;
+    modal.dataset.open = '';
+    modal.hidden = true;
+    sheet.innerHTML = '';
+    document.body.classList.remove('is-locked');
+    if (lastFocus && lastFocus.focus) lastFocus.focus();
+  }
+
+  gridEl.addEventListener('click', function (e) {
+    var card = e.target.closest('.card');
+    if (card) openSheet(+card.dataset.idx);
+  });
+
+  modal.addEventListener('click', function (e) {
+    // 点遮罩或右上角关闭
+    if (e.target.hasAttribute('data-close') || e.target.closest('[data-close-btn]')) closeSheet();
+  });
+
+  document.addEventListener('keydown', function (e) {
+    if (e.key === 'Escape') closeSheet();
+    // 模态内做一个简单的 Tab 循环，避免焦点跑到背景里
+    if (e.key === 'Tab' && modal.dataset.open === '1') {
+      var f = sheet.querySelectorAll('a[href], button');
+      if (!f.length) return;
+      var first = f[0], last = f[f.length - 1];
+      if (e.shiftKey && document.activeElement === first) { e.preventDefault(); last.focus(); }
+      else if (!e.shiftKey && document.activeElement === last) { e.preventDefault(); first.focus(); }
+    }
+  });
+
+  // ==========================================================
+  // 5. 顶部统计 + 启动
+  // ==========================================================
+  (function stats() {
+    var origins = new Set();
+    BREEDS.forEach(function (b) {
+      b.origin.split(/[\/（(]/)[0].trim().split('、').forEach(function (o) { if (o) origins.add(o); });
+    });
+    var lives = BREEDS.map(function (b) { return midOf(b.life); }).sort(function (a, c) { return a - c; });
+    var med = lives[Math.floor(lives.length / 2)];
+
+    // 数字做一个很短的滚动，尊重 reduced-motion
+    var reduce = window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+    function put(id, val, suffix) {
+      var el = document.getElementById(id);
+      var html = function (v) { return v + (suffix || ''); };
+      if (reduce) { el.innerHTML = html(val); return; }
+      var t0 = performance.now(), dur = 900;
+      (function step(t) {
+        var p = Math.min(1, (t - t0) / dur);
+        el.innerHTML = html(Math.round(val * (1 - Math.pow(1 - p, 3))));
+        if (p < 1) requestAnimationFrame(step);
+      })(t0);
+    }
+    put('statBreeds', BREEDS.length);
+    put('statGroups', GROUPS.length);
+    put('statOrigins', origins.size);
+    put('statLife', Math.round(med), '<span>年</span>');
+  })();
+
+  // 深色模式切换时，重算组别色（占位图靠 currentColor 自动跟随）
+  if (window.matchMedia) {
+    var mq = window.matchMedia('(prefers-color-scheme: dark)');
+    var onThemeChange = function () {
+      Array.prototype.forEach.call(gridEl.querySelectorAll('.card'), function (c) {
+        c.style.setProperty('--accent', groupColor(BREEDS[+c.dataset.idx].group));
+      });
+      Array.prototype.forEach.call(chipsEl.querySelectorAll('.chip[data-key]'), function (c) {
+        if (c.dataset.key) c.style.setProperty('--chip', groupColor(c.dataset.key));
+      });
+    };
+    if (mq.addEventListener) mq.addEventListener('change', onThemeChange);
+    else if (mq.addListener) mq.addListener(onThemeChange);
+  }
+
+  syncChips();
+  render();
+
+  // 暴露给自动化测试用，不影响正常使用
+  window.__dogs = { state: state, render: render, resolveImage: resolveImage, cache: cache };
+})();
+</script>
+</body>
+</html>
