@@ -87,6 +87,21 @@ def repl_single(m):
 
 
 body, n_single = SINGLE.subn(repl_single, body)
+
+
+# 3) 列表适配公众号编辑器：<li> 之间的换行会被当成空列表项（多出空圆点），
+#    <li> 里直接放文字时加粗部分会被拆成单独一段（冒号掉到下一行）。
+#    所以去掉列表标签之间的空白，并把每个 <li> 的内容包进一个 <p>。
+def fix_list(m):
+    ul = re.sub(r">\s+<", "><", m.group(0))
+    return re.sub(
+        r'<li style="([^"]*)">(.*?)</li>',
+        lambda li: f'<li style="{li.group(1)}"><p style="margin:0; line-height:1.8;">{li.group(2).strip()}</p></li>',
+        ul, flags=re.S)
+
+
+body, n_lists = re.subn(r"<ul\b.*?</ul>", fix_list, body, flags=re.S)
+assert "<li" not in re.sub(r'<li style="[^"]*"><p ', "", body), "有未处理的 <li>"
 assert "<table style=\"width:100%; border-collapse:collapse; margin:18px 0 0;" not in body
 print(f"拼图 {n_tables} 组，单图 {n_single} 张")
 

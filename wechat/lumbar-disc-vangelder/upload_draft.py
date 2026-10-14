@@ -4,6 +4,7 @@
 用法：
     export WX_APPID=你的AppID WX_SECRET=你的AppSecret
     python3 build.py && python3 upload_draft.py
+    # 更新已有草稿（不新建）：再加 WX_DRAFT_ID=草稿的 media_id
 
 前提：运行本脚本的机器出口 IP 已加入公众号后台「设置与开发 → 基本配置 → IP 白名单」。
 """
@@ -64,6 +65,20 @@ def main():
         url = upload(f"{API}/media/uploadimg?access_token={token}", HERE / src)["url"]
         content = content.replace(f'src="{src}"', f'src="{url}"')
         print("正文图片已上传：", src)
+
+    draft_id = os.environ.get("WX_DRAFT_ID")
+    if draft_id:
+        # 更新已有草稿：沿用原封面，只替换正文
+        old = call(f"{API}/draft/get?access_token={token}", json.dumps({"media_id": draft_id}).encode())["news_item"][0]
+        article = {
+            "title": old["title"], "author": old["author"], "digest": old["digest"], "content": content,
+            "thumb_media_id": old["thumb_media_id"], "need_open_comment": 1, "only_fans_can_comment": 0,
+        }
+        call(f"{API}/draft/update?access_token={token}",
+             json.dumps({"media_id": draft_id, "index": 0, "articles": article}, ensure_ascii=False).encode("utf-8"),
+             {"Content-Type": "application/json; charset=utf-8"})
+        print("草稿已更新：", draft_id)
+        return
 
     thumb = upload(f"{API}/material/add_material?access_token={token}&type=image", HERE / "images" / "cover.jpg")
     print("封面已上传")
