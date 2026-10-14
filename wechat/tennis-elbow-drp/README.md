@@ -5,3 +5,10 @@
 - `article.html`：用浏览器打开 → 点“一键复制正文” → 到公众号后台编辑器粘贴。样式全部内联，图片已内嵌。
 - `images/`：图 1–13 原图。粘贴后若有图片未显示，按图注里的“图N”编号手动插入 `imgNN.jpg`。
 - `build.py`：正文内容和样式都在这里，修改后运行 `python3 build.py` 重新生成 `article.html`。
+- `article_body.html`：上传用的正文（图片位置为占位符），由 `build.py` 生成。
+- `upload_draft.py`：通过公众号官方接口上传图片并创建草稿（只进草稿箱，不群发）。
+  ```bash
+  export WX_APPID=你的AppID WX_SECRET=你的AppSecret   # 不要写进任何文件
+  python3 build.py && python3 upload_draft.py
+  ```
+  运行机器的出口 IP 必须先加入公众号后台「设置与开发 → 基本配置 → IP 白名单」。

@@ -89,10 +89,9 @@ def table(head, rows, first_bold=True):
 
 
 def img(n, caption=None):
-    data = base64.b64encode((HERE / "images" / f"img{n:02d}.jpg").read_bytes()).decode()
     html = (
         '<p style="margin:0 0 8px;text-align:center;">'
-        f'<img src="data:image/jpeg;base64,{data}" alt="图{n}" style="width:100%;max-width:100%;height:auto;display:block;margin:0 auto;"></p>'
+        f'<img src="__IMG{n:02d}__" alt="图{n}" style="width:100%;max-width:100%;height:auto;display:block;margin:0 auto;"></p>'
     )
     if caption:
         html += f'<p style="margin:0 0 20px;font-size:12px;line-height:1.6;color:#888;">🔖图{n}：{caption}</p>'
@@ -102,6 +101,78 @@ def img(n, caption=None):
 def small(t):
     return f'<p style="margin:0 0 16px;font-size:12px;line-height:1.6;color:#888;">{t}</p>'
 
+
+
+# ---------- 原文 Table 1 中文全译（按模块拆成卡片表，手机上更清晰） ----------
+T1_FIELDS = ["目标", "治疗性活动", "剂量 / 负荷", "达标标准", "注意事项"]
+ADD_RES = "当患者不再出现运动后 24 小时肌肉酸痛，或疼痛上升不超过 1 级时，增加阻力"
+LOWER_RES = "进入阶段 3 的长力臂练习时，通常需要暂时降低阻力"
+T1 = [
+    ("热身", [
+        ("主动热身", ["增加血流、软组织延展性和温度", "跑步机步行，或上肢功率车（UBE）",
+                   "舒适速度，＜10 分钟（平地 2.0 mph）", "最多 10 分钟", "症状激惹性高者避免使用 UBE"]),
+    ]),
+    ("肩胛肌强化矩阵*", [
+        ("阶段 1", ["近端肩胛稳定肌的神经肌肉再教育", "前锯肌及中下斜方肌的无阻力或等长激活",
+                  "逐步加至 3 组 × 10 次，每天 1 次", "从放松中立姿势，以正确头部姿势独立完成肩胛后缩 / 挺胸 20 次",
+                  "避免加重症状及不恰当的肌肉代偿"]),
+        ("阶段 2", ["轻-中等可控应力，渐进抗阻强化近端肩胛稳定肌", "前锯肌及中下斜方肌群的抗阻练习",
+                  "1-10 lb；逐步加至 3 组 × 10 次；每天 1 次至隔天 1 次",
+                  "单臂划船 10 lb × 20 次，无痛、无代偿、症状不加重；单臂前推（出拳）10 lb，从腰部推至肩高 × 1 次",
+                  ADD_RES]),
+        ("阶段 3", ["中-大负荷、长力臂，渐进抗阻强化近端肩胛稳定肌", "前锯肌及中下斜方肌群的进阶抗阻练习",
+                  "延长力臂；5-10 lb；逐步加至 3 组 × 10 次；隔天 1 次",
+                  "独立完成进阶强化家庭训练，无痛、无代偿、症状不加重", LOWER_RES]),
+    ]),
+    ("腕 / 肘肌强化矩阵*", [
+        ("阶段 1", ["以伸腕肌和桡偏肌为主的神经肌肉再教育", "腕部肌群的无阻力或等长激活",
+                  "逐步加至 3 组 × 10 次，每天 1 次", "无痛完成腕关节主动活动及等长伸腕", "避免加重症状"]),
+        ("阶段 2", ["轻-中等可控应力，渐进抗阻强化肘腕肌群", "肘腕肌群的抗阻练习",
+                  "1-5 lb；逐步加至 3 组 × 10 次；每天 1 次至隔天 1 次",
+                  "屈肘位向心 / 离心伸腕 5 lb × 20 次，无代偿、症状不加重", ADD_RES]),
+        ("阶段 3", ["中-大负荷、长力臂的渐进抗阻强化", "肘腕肌群的进阶抗阻练习，包括增强式训练",
+                  "延长力臂；逐步加至 3 组 × 10 次；隔天 1 次",
+                  "独立完成进阶强化家庭训练，无痛、无代偿、症状不加重", LOWER_RES]),
+    ]),
+    ("教育", [
+        ("患者教育与人体工效学", ["帮助患者认识哪些活动在损伤组织，以及如何调整任务以减少有害应力", "人体工效学或活动评估",
+                          "—", "调整活动以减少有害应力，降低复发几率", "因活动而异；可能需要专项运动再训练"]),
+    ]),
+    ("局部手法治疗", [
+        ("肘关节松动", ["刺激机械感受器和本体感受器，短期缓解疼痛、提高握力", "在肱骨上对尺 / 桡骨做外侧滑动的 MWM",
+                    "每次 1 轮 6-10 次；每周最多 3 次 × 4 周", "缓解疼痛，提高对运动进阶的耐受",
+                    "症状激惹性高时使用较低级别的松动"]),
+    ]),
+    ("其他干预", [
+        ("伸腕肌牵伸", ["增加肌肉柔韧性，短期抑制疼痛", "伸肘位被动牵伸至屈腕（同时前臂旋前 / 手指屈曲）",
+                    "保持 30 秒 × 3 次；每天 3 次", "前臂后侧肌群无痛的全范围牵伸", "可能需要调整牵伸方式以适应疼痛"]),
+        ("反作用力支具", ["为伸肌总腱卸载", "支具置于疼痛区下方约两横指，松紧调至舒适",
+                     "工作、运动或可能诱发症状的活动时佩戴；休息和睡眠时取下", "—",
+                     "无法避免诱发活动时按需使用；避免绑得过紧，观察有无桡神经刺激"]),
+        ("软组织松动", ["促进成纤维细胞增殖、胶原合成与排列；增加血流", "伸肌总腱深层摩擦按摩或肌筋膜放松（5 分钟）",
+                    "3-10 分钟", "缓解疼痛，提高对运动进阶的耐受；可能增加关节活动度", "根据查体结果按需实施"]),
+        ("冷疗", ["按需控制疼痛和炎症", "冷疗：冰袋（15 分钟）或冰按摩（5 分钟）",
+                "症状激惹性较高或运动后疼痛时按需使用", "—", "—"]),
+    ]),
+]
+
+
+def table1_cn():
+    cell = "border:1px solid #d9d9d9;padding:6px 7px;font-size:13px;line-height:1.55;"
+    out = ['<p style="margin:0 0 10px;text-align:center;">'
+           '<span style="display:inline-block;background-color:#AB1942;color:#fff;font-size:14px;font-weight:bold;padding:4px 12px;">'
+           '表 1　双重康复方案总览（原文 Table 1 中文全译）</span></p>']
+    for sec, rows in T1:
+        out.append(f'<p style="margin:16px 0 8px;font-size:14px;font-weight:bold;color:#fff;background-color:#555;padding:4px 10px;">▍{sec}</p>')
+        for name, vals in rows:
+            trs = (f'<tr><td colspan="2" style="{cell}background-color:#f2f2f2;color:#000;font-weight:bold;font-size:14px;">{name}</td></tr>')
+            for k, v in zip(T1_FIELDS, vals):
+                trs += (f'<tr><td style="{cell}width:24%;color:{BLUE};font-weight:bold;white-space:nowrap;vertical-align:top;">{k}</td>'
+                        f'<td style="{cell}color:{TEXT};">{v}</td></tr>')
+            out.append(f'<table style="width:100%;border-collapse:collapse;margin:0 0 12px;"><tbody>{trs}</tbody></table>')
+    out.append('<p style="margin:0 0 20px;font-size:12px;line-height:1.6;color:#888;">*肩胛矩阵和腕 / 肘矩阵的详细动作见附录 A 和 B。'
+               'AROM＝主动关节活动度；HEP＝家庭训练计划；MWM＝动态关节松动术；lb＝磅（1 lb ≈ 0.45 kg）；mph＝英里 / 小时。</p>')
+    return "".join(out)
 
 # ---------- 正文 ----------
 A = []
@@ -168,8 +239,10 @@ A.append(table(
         ["⑥ 其他干预", "伸腕肌牵伸、反作用力支具、软组织松动、冷疗", "按需选用"],
     ],
 ))
-A.append(img(2, "原文 Table 1 双重康复方案总览（上）"))
-A.append(img(3, "原文 Table 1 双重康复方案总览（续）"))
+A.append(p(f"下面是原文 Table 1 的{b('中文全译')}，按模块拆开，方便在手机上查看——"))
+A.append(table1_cn())
+A.append(img(2, "原文 Table 1 双重康复方案总览（英文原表，上）"))
+A.append(img(3, "原文 Table 1 双重康复方案总览（英文原表，续）"))
 A.append(p(
     f"{b('一句话概括')}：DRP ＝ {red('近端肩胛稳定')} ＋ {red('远端腕肘强化')} ＋ {red('局部手法与对症处理')}，"
     "并且每一步都写清楚了“做什么、做多少、何时进阶”。"
@@ -311,19 +384,14 @@ A.append(ul([
     f"{b('提物时掌心向上')}，避免掌心向下提重物",
     f"{b('避免把注射作为止痛手段')}：原文指出多次接受激素注射的患者，长期功能和疼痛往往更差",
 ]))
-A.append(p(f"🎯{b('弹力带阻力参考（原文 Table 2）')}："))
+A.append(p(f"🎯{b('表 2　不同颜色弹力带的阻力（原文 Table 2 中文全译）')}："))
 A.append(table(
-    ["弹力带颜色", "拉长 100% 时阻力（lb）", "拉长 200% 时阻力（lb）"],
-    [
-        ["黄色", "3.0", "4.3"],
-        ["红色", "3.7", "5.5"],
-        ["绿色", "4.6", "6.7"],
-        ["蓝色", "5.8", "8.6"],
-        ["黑色", "7.3", "10.2"],
-    ],
+    ["TheraBand 颜色", "拉长 100% 时阻力", "拉长 200% 时阻力"],
+    [[c, f"{x} lb（≈{x * 0.4536:.1f} kg）", f"{y} lb（≈{y * 0.4536:.1f} kg）"]
+     for c, x, y in [("黄色", 3.0, 4.3), ("红色", 3.7, 5.5), ("绿色", 4.6, 6.7), ("蓝色", 5.8, 8.6), ("黑色", 7.3, 10.2)]],
 ))
-A.append(small("🔖注：1 lb ≈ 0.45 kg；数据来源为 TheraBand 官方，原文引用。"))
-A.append(img(10, "原文 Table 2 不同颜色 TheraBand 在不同拉伸长度下的阻力"))
+A.append(small("🔖注：括号内为换算的公斤数（1 lb ≈ 0.4536 kg）；数据来源为 TheraBand 官网，原文引用。"))
+A.append(img(10, "原文 Table 2 不同颜色 TheraBand 在不同拉伸长度下的阻力（英文原表）"))
 
 A.append(h3("❇️六、关节松动：MWM 是局部手法的核心"))
 A.append(quote(
@@ -464,7 +532,7 @@ A.append(ul([
 ]))
 A.append(p(f"📡{b('人体是一条动力链。远端反复出问题时，不妨往近端看一看。')}"))
 A.append('<hr style="border:none;border-top:1px dashed #ccc;margin:32px 0 20px;">')
-A.append(p(b("欢迎关注本公众号，获取更多物理治疗的专业知识！"), "text-align:center;"))
+A.append(p(b("欢迎关注悦美力公众号，获取更多物理治疗的专业知识！"), "text-align:center;"))
 A.append(p("📄<em>参考文献：</em>", "font-size:13px;margin-bottom:6px;"))
 A.append(small(
     "<em>Day JM, Lucado AM, Uhl TL. A Comprehensive Rehabilitation Program for Treating Lateral Elbow Tendinopathy. "
@@ -472,7 +540,13 @@ A.append(small(
     "文中图表均截取自原文，仅用于学术交流。"
 ))
 
-ARTICLE = "\n".join(A)
+ARTICLE_TPL = "\n".join(A)
+# 供 upload_draft.py 使用：图片位置保留占位符，上传时替换成微信图片地址
+(HERE / "article_body.html").write_text(ARTICLE_TPL, encoding="utf-8")
+ARTICLE = ARTICLE_TPL
+for f in sorted((HERE / "images").glob("img*.jpg")):
+    data = base64.b64encode(f.read_bytes()).decode()
+    ARTICLE = ARTICLE.replace(f"__{f.stem.upper()}__", f"data:image/jpeg;base64,{data}")
 
 PAGE = f"""<!doctype html>
 <html lang="zh-CN"><head><meta charset="utf-8">
@@ -498,7 +572,7 @@ PAGE = f"""<!doctype html>
 </div>
 <div class="phone">
 <h1>「网球肘」从肩胛到手腕：一套分期进阶的肱骨外上髁肌腱病综合康复方案</h1>
-<div class="by">原创 · 你的公众号名称</div>
+<div class="by">原创 · 悦美力</div>
 <section id="article">
 {ARTICLE}
 </section>
