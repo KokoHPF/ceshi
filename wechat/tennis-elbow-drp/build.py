@@ -3,7 +3,6 @@
 
 用法：python3 build.py   → 生成同目录下的 article.html
 """
-import base64
 import pathlib
 
 HERE = pathlib.Path(__file__).parent
@@ -241,8 +240,6 @@ A.append(table(
 ))
 A.append(p(f"下面是原文 Table 1 的{b('中文全译')}，按模块拆开，方便在手机上查看——"))
 A.append(table1_cn())
-A.append(img(2, "原文 Table 1 双重康复方案总览（英文原表，上）"))
-A.append(img(3, "原文 Table 1 双重康复方案总览（英文原表，续）"))
 A.append(p(
     f"{b('一句话概括')}：DRP ＝ {red('近端肩胛稳定')} ＋ {red('远端腕肘强化')} ＋ {red('局部手法与对症处理')}，"
     "并且每一步都写清楚了“做什么、做多少、何时进阶”。"
@@ -301,7 +298,7 @@ A.append(table(
     ],
 ))
 A.append(p(f"动作还兼顾了{b('上斜方肌 / 下斜方肌（UT/LT）比值')}——尽量多练下斜方肌，少让上斜方肌代偿。前侧（{b('前锯肌')}）和后侧（{b('中下斜方肌')}）的练习分成两行，{u('每个阶段从每一行各选 1 个动作')}。"))
-A.append(img(4, "原文 Figure 1 肩胛肌强化进阶示例：阶段 1 等长肩胛后缩 → 阶段 2 弹力带划船 → 阶段 3 俯卧后伸"))
+A.append(img(2, "原文 Figure 1 肩胛肌强化进阶示例：阶段 1 等长肩胛后缩 → 阶段 2 弹力带划船 → 阶段 3 俯卧后伸"))
 A.append(table(
     ["阶段", "前锯肌行（选 1）", "中下斜方肌行（选 1）"],
     [
@@ -310,9 +307,9 @@ A.append(table(
         ["阶段 3", "直臂内收下拉 / 抱树（水平内收）/ 上勾拳 / 标准俯卧撑 plus", "俯卧负重后伸 / 弹力带 90° 水平后拉 / 俯卧水平外展 / 弹力带水平外展"],
     ],
 ))
-A.append(img(5, "原文附录 A 肩胛肌强化阶段 1：等长募集"))
-A.append(img(6, "原文附录 A 肩胛肌强化阶段 2：轻负荷 / 短力臂"))
-A.append(img(7, "原文附录 A 肩胛肌强化阶段 3：大负荷 / 长力臂"))
+A.append(img(3, "原文附录 A 肩胛肌强化阶段 1：等长募集"))
+A.append(img(4, "原文附录 A 肩胛肌强化阶段 2：轻负荷 / 短力臂"))
+A.append(img(5, "原文附录 A 肩胛肌强化阶段 3：大负荷 / 长力臂"))
 
 A.append(h4("🔻2. 进阶标准：按“能力”而不是按“时间”"))
 A.append(quote(
@@ -351,8 +348,8 @@ A.append(table(
     ],
 ))
 A.append(p(f"阶段 2 → 3 的进阶遵循基本加载原则：{u('力臂更长、负重更多、重量或阻力更大、加入增强式训练')}。每个阶段{b('从清单中选 2-3 个动作')}。"))
-A.append(img(8, "原文 Figure 2 伸腕肌强化进阶示例：短力臂等长 → 短力臂抗阻 → 长力臂抗阻"))
-A.append(img(9, "原文附录 B 腕部强化三阶段动作清单"))
+A.append(img(6, "原文 Figure 2 伸腕肌强化进阶示例：短力臂等长 → 短力臂抗阻 → 长力臂抗阻"))
+A.append(img(7, "原文附录 B 腕部强化三阶段动作清单"))
 A.append(h4("🔻2. 进阶标准"))
 A.append(table(
     ["进阶", "必须达到的标准"],
@@ -391,7 +388,6 @@ A.append(table(
      for c, x, y in [("黄色", 3.0, 4.3), ("红色", 3.7, 5.5), ("绿色", 4.6, 6.7), ("蓝色", 5.8, 8.6), ("黑色", 7.3, 10.2)]],
 ))
 A.append(small("🔖注：括号内为换算的公斤数（1 lb ≈ 0.4536 kg）；数据来源为 TheraBand 官网，原文引用。"))
-A.append(img(10, "原文 Table 2 不同颜色 TheraBand 在不同拉伸长度下的阻力（英文原表）"))
 
 A.append(h3("❇️六、关节松动：MWM 是局部手法的核心"))
 A.append(quote(
@@ -412,8 +408,8 @@ A.append(ul([
     f"{b('剂量')}：每次 6-10 次；每周最多 3 次，持续 4 周",
     f"{b('继续的前提')}：{u('只要疼痛明显缓解，且操作后没有延迟出现的疼痛')}",
 ]))
-A.append(img(11, "原文 Figure 3 肘关节动态松动术（MWM）的三种技术"))
-A.append(img(12, "原文附录 C 肘关节 MWM 操作细节"))
+A.append(img(8, "原文 Figure 3 肘关节动态松动术（MWM）的三种技术"))
+A.append(img(9, "原文附录 C 肘关节 MWM 操作细节"))
 
 A.append(h3("❇️七、其他干预：按需选用的“工具箱”"))
 A.append(p(f"作者建议在康复早期就用上这些手段，{b('先把疼痛控制住，让患者能更充分地参与运动训练')}——而运动训练才是长期功能改善更有效的部分。"))
@@ -438,7 +434,7 @@ A.append(ul([
     "特别适合无法停止致病活动的人群，如高水平网球运动员、体力劳动者",
     "注意观察有无桡神经刺激症状",
 ]))
-A.append(img(13, "原文 Figure 4 肱骨外上髁肌腱病反作用力支具"))
+A.append(img(10, "原文 Figure 4 肱骨外上髁肌腱病反作用力支具"))
 A.append(h4("🔹3. 软组织松动"))
 A.append(ul([
     f"可选：{b('深层横向摩擦按摩（DFM）')}、伸腕肌肌腹按摩、肌筋膜放松，每次约 3-10 分钟",
@@ -543,10 +539,14 @@ A.append(small(
 ARTICLE_TPL = "\n".join(A)
 # 供 upload_draft.py 使用：图片位置保留占位符，上传时替换成微信图片地址
 (HERE / "article_body.html").write_text(ARTICLE_TPL, encoding="utf-8")
+# 预览 / 复制用：图片指向 GitHub 公开仓库的 jsDelivr 外链（固定到含图片的提交），
+# 粘贴到公众号编辑器时会被自动转存；base64 内嵌图片会被编辑器丢弃，所以不用。
+IMG_COMMIT = "d786d9d4189082f15e2ce7c5ce06ed5f6627d9a2"
+IMG_BASE = f"https://cdn.jsdelivr.net/gh/KokoHPF/ceshi@{IMG_COMMIT}/wechat/tennis-elbow-drp/images"
 ARTICLE = ARTICLE_TPL
 for f in sorted((HERE / "images").glob("img*.jpg")):
-    data = base64.b64encode(f.read_bytes()).decode()
-    ARTICLE = ARTICLE.replace(f"__{f.stem.upper()}__", f"data:image/jpeg;base64,{data}")
+    ARTICLE = ARTICLE.replace(f"__{f.stem.upper()}__", f"{IMG_BASE}/{f.name}")
+assert "__IMG" not in ARTICLE
 
 PAGE = f"""<!doctype html>
 <html lang="zh-CN"><head><meta charset="utf-8">
@@ -568,7 +568,7 @@ PAGE = f"""<!doctype html>
 <b>建议标题：</b>「网球肘」从肩胛到手腕：一套分期进阶的肱骨外上髁肌腱病综合康复方案<br>
 <b>备选标题：</b>网球肘反复发作？这份“肩胛＋腕肘”双重康复方案值得收藏<br>
 <b>摘要：</b>IJSPT 2019 临床评论精读：热身、肩胛与腕肘三阶段强化、MWM 松动、教育与辅助手段，附完整进阶标准和剂量。<br>
-<b>说明：</b>本黄色框和标题不在复制范围内。标题请填到后台“标题”栏；若粘贴后个别图片没有显示，请从 images 文件夹按“图N”编号手动插入。
+<b>说明：</b>本黄色框和标题不在复制范围内。标题请填到后台“标题”栏；粘贴后编辑器会自动转存图片（可能需要几秒）；若个别图片显示“转存失败”，请从 images 文件夹按“图N”编号手动插入。
 </div>
 <div class="phone">
 <h1>「网球肘」从肩胛到手腕：一套分期进阶的肱骨外上髁肌腱病综合康复方案</h1>
