@@ -50,6 +50,8 @@ def prepare_content():
     html = re.sub(r"<h1[^>]*>.*?</h1>\s*", "", html, count=1, flags=re.S)
     html = re.sub(r'<p style="font-size:13px; color:rgb\(136,136,136\); margin:0 0 24px; font-style:italic;">原创.*?</p>\s*', "", html, count=1, flags=re.S)
     html = html.replace("欢迎关注公众号，", "欢迎关注悦美力公众号，")
+    # 标签之间的换行在公众号编辑器里可能变成空段落，统一去掉
+    html = re.sub(r">\s*\n\s*<", "><", html)
     assert "使用说明" not in html and "<h1" not in html
     return html
 

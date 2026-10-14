@@ -89,19 +89,20 @@ def repl_single(m):
 body, n_single = SINGLE.subn(repl_single, body)
 
 
-# 3) 列表适配公众号编辑器：<li> 之间的换行会被当成空列表项（多出空圆点），
-#    <li> 里直接放文字时加粗部分会被拆成单独一段（冒号掉到下一行）。
-#    所以去掉列表标签之间的空白，并把每个 <li> 的内容包进一个 <p>。
+# 3) 列表适配公众号编辑器：公众号对 <ul>/<li> 的处理不稳定（换行会变成空列表项、
+#    加粗与正文被拆成两段），所以把列表全部改成“• + 文字”的普通段落，悬挂缩进对齐。
+BULLET_P = ('<p style="margin:0 0 8px; padding-left:1.2em; text-indent:-1.2em; line-height:1.8;">'
+            '<span style="color:rgb(171,25,66);">•</span>&nbsp;{}</p>')
+
+
 def fix_list(m):
-    ul = re.sub(r">\s+<", "><", m.group(0))
-    return re.sub(
-        r'<li style="([^"]*)">(.*?)</li>',
-        lambda li: f'<li style="{li.group(1)}"><p style="margin:0; line-height:1.8;">{li.group(2).strip()}</p></li>',
-        ul, flags=re.S)
+    items = re.findall(r"<li[^>]*>(.*?)</li>", m.group(0), re.S)
+    return '<section style="margin:0 0 14px;">' + "".join(BULLET_P.format(i.strip()) for i in items) + "</section>"
 
 
 body, n_lists = re.subn(r"<ul\b.*?</ul>", fix_list, body, flags=re.S)
-assert "<li" not in re.sub(r'<li style="[^"]*"><p ', "", body), "有未处理的 <li>"
+assert "<li" not in body and "<ul" not in body, "有未处理的列表"
+print(f"列表 {n_lists} 个已改为段落")
 assert "<table style=\"width:100%; border-collapse:collapse; margin:18px 0 0;" not in body
 print(f"拼图 {n_tables} 组，单图 {n_single} 张")
 
