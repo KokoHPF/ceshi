@@ -600,3 +600,77 @@ document.getElementById('copy').onclick = async function () {{
 
 (HERE / "article.html").write_text(PAGE, encoding="utf-8")
 print("written", HERE / "article.html", len(PAGE) // 1024, "KB")
+
+# ---------- 在线预览页（发布为 Artifact，图片作为同源文件随页面发布） ----------
+# 预览器会拦截外部图片，所以页面里用相对路径 images/imgNN.jpg；
+# 复制时临时把图片地址换成 jsDelivr 外链，粘贴到公众号后编辑器可以转存。
+PREVIEW_ARTICLE = ARTICLE_TPL
+for f in sorted((HERE / "images").glob("img*.jpg")):
+    PREVIEW_ARTICLE = PREVIEW_ARTICLE.replace(f"__{f.stem.upper()}__", f"images/{f.name}")
+
+PREVIEW = f"""<title>网球肘康复方案推文</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<style>
+  /* 单一浅色外观：模拟公众号文章页，所有颜色显式给出 */
+  :root {{ --ground:#ececec; --paper:#ffffff; --ink:#111111; --muted:#6b6b6b; --link:#576b95; --go:#07c160; --note:#fff8e1; --note-line:#ecdca0; color-scheme:light; }}
+  body {{ background:var(--ground); color:var(--ink); font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Hiragino Sans GB","Microsoft YaHei",sans-serif;
+         padding-left:max(16px, env(safe-area-inset-left, 0px)); padding-right:max(16px, env(safe-area-inset-right, 0px)); padding-block:0 32px; }}
+  .bar {{ position:sticky; top:env(safe-area-inset-top, 0px); z-index:5; background:var(--paper); border-bottom:1px solid #dddddd;
+         margin-inline:calc(-1 * max(16px, env(safe-area-inset-left, 0px))); padding:10px max(16px, env(safe-area-inset-left, 0px));
+         display:flex; flex-wrap:wrap; gap:8px 12px; align-items:center; }}
+  .bar button {{ background:var(--go); color:#ffffff; border:0; border-radius:6px; padding:9px 16px; font-size:15px; cursor:pointer; }}
+  .bar button:focus-visible {{ outline:3px solid #0a7d43; outline-offset:2px; }}
+  .bar span {{ font-size:13px; color:var(--link); min-width:0; }}
+  .note {{ max-width:640px; margin:16px auto 0; padding:12px 14px; background:var(--note); border:1px solid var(--note-line); font-size:13px; line-height:1.7; color:#555555; box-sizing:border-box; }}
+  .phone {{ max-width:640px; margin:16px auto 0; background:var(--paper); padding:20px 16px 28px; box-sizing:border-box; }}
+  .phone h1 {{ font-size:22px; line-height:1.4; margin:0 0 8px; color:var(--ink); text-wrap:balance; }}
+  .phone .by {{ font-size:14px; color:var(--link); margin-bottom:20px; }}
+  #article img {{ max-width:100%; }}
+  #article table {{ display:table; }}
+</style>
+<div class="bar"><button id="copy" type="button">一键复制正文</button><span id="msg">复制后到公众号后台编辑器里粘贴</span></div>
+<div class="note">
+<b>建议标题：</b>「网球肘」从肩胛到手腕：一套分期进阶的肱骨外上髁肌腱病综合康复方案<br>
+<b>摘要：</b>IJSPT 2019 临床评论精读：热身、肩胛与腕肘三阶段强化、MWM 松动、教育与辅助手段，附完整进阶标准和剂量。<br>
+<b>说明：</b>本黄色框和标题不在复制范围内。粘贴后编辑器会自动转存图片；如个别图片转存失败，请按图注“图N”编号手动插入。
+</div>
+<div class="phone">
+<h1>「网球肘」从肩胛到手腕：一套分期进阶的肱骨外上髁肌腱病综合康复方案</h1>
+<div class="by">原创 · 悦美力</div>
+<section id="article">
+{PREVIEW_ARTICLE}
+</section>
+</div>
+<script>
+(function () {{
+  var CDN = "{IMG_BASE}/";
+  var btn = document.getElementById('copy'), msg = document.getElementById('msg'), el = document.getElementById('article');
+  function withCdn(fn) {{
+    var imgs = el.querySelectorAll('img'), old = [];
+    imgs.forEach(function (im, i) {{ old[i] = im.getAttribute('src'); im.setAttribute('src', CDN + old[i].split('/').pop()); }});
+    try {{ return fn(); }} finally {{ imgs.forEach(function (im, i) {{ im.setAttribute('src', old[i]); }}); }}
+  }}
+  function selectCopy() {{
+    return withCdn(function () {{
+      var r = document.createRange(); r.selectNodeContents(el);
+      var s = window.getSelection(); s.removeAllRanges(); s.addRange(r);
+      var ok = false; try {{ ok = document.execCommand('copy'); }} catch (e) {{}}
+      s.removeAllRanges(); return ok;
+    }});
+  }}
+  btn.addEventListener('click', function () {{
+    var html = withCdn(function () {{ return el.innerHTML; }});
+    var done = function () {{ msg.textContent = '已复制，去公众号编辑器里粘贴'; }};
+    var fail = function () {{ msg.textContent = selectCopy() ? '已复制，去公众号编辑器里粘贴' : '复制被拦截了：请长按 / 拖选正文手动复制'; }};
+    try {{
+      navigator.clipboard.write([new ClipboardItem({{
+        'text/html': new Blob([html], {{ type: 'text/html' }}),
+        'text/plain': new Blob([el.innerText], {{ type: 'text/plain' }})
+      }})]).then(done, fail);
+    }} catch (e) {{ fail(); }}
+  }});
+}})();
+</script>
+"""
+(HERE / "preview.html").write_text(PREVIEW, encoding="utf-8")
+print("written", HERE / "preview.html")
