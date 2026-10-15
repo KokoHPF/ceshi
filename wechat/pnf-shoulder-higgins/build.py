@@ -272,6 +272,9 @@ small("肘关节在各模式中均“视目标而定”，可屈、可伸或保�
 A.append(p(b("▶ 肩部 PNF 示范视频（原文附件 6 个，截图）")))
 A.append(img(4))
 A.append(cap("视频截图：1 肩 D2 屈曲（屈曲、外展、外旋）主动肌反转；3 肩 D2 屈伸慢速反转；4 肩 D1 屈伸慢速反转；7 肩 D2 等张组合（站立）；8 肩 D2 等张组合（俯卧）；9 肩 D2 等张组合加重复牵张"))
+A.append(p(b("▶ 视频 9 动图：肩 D2 等张组合 + 重复牵张（原文附件）")))
+A.append('<p style="margin:0 0 8px;text-align:center;"><img src="gifs/video9.gif" alt="视频9" style="width:100%;max-width:100%;height:auto;display:block;margin:0 auto;"></p>')
+A.append(cap("视频9动图：治疗师用手接触肩胛区域，在患者做 D2 屈曲模式时施加阻力，并在动作中反复给予快速牵张，诱发更强的收缩（牵张反射）"))
 
 A.append(h3("❇️六、肩胛 PNF 模式"))
 A.append(table(
@@ -386,7 +389,7 @@ BODY = "".join(A)
 <div class="paper">
 <h1>""" + TITLE + """</h1>
 <div class="by">原创 · 悦美力</div>
-""" + BODY + "\n</div>\n",
+""" + BODY.replace('（牵张反射）</p>', '（牵张反射）</p><p style="font-size:12px;color:#576b95;text-align:center;margin:0 0 6px;">▼ 预览专用：原视频（含原声口令；草稿中为上方动图，视频已传入素材库）</p><video controls playsinline src="videos/video9.mp4" poster="videos/poster9.jpg" style="display:block;width:100%;margin:0 auto 16px;"></video>') + "\n</div>\n",
     encoding="utf-8",
 )
 print("written", len(BODY), "chars", BODY.count("<img"), "imgs")

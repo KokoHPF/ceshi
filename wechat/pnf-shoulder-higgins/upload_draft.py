@@ -38,7 +38,7 @@ def upload(url, path):
     boundary = uuid.uuid4().hex
     body = (
         f"--{boundary}\r\nContent-Disposition: form-data; name=\"media\"; filename=\"{path.name}\"\r\n"
-        "Content-Type: image/jpeg\r\n\r\n"
+        f"Content-Type: {'image/gif' if path.suffix == '.gif' else 'image/jpeg'}\r\n\r\n"
     ).encode() + path.read_bytes() + f"\r\n--{boundary}--\r\n".encode()
     return call(url, body, {"Content-Type": f"multipart/form-data; boundary={boundary}"})
 
@@ -56,8 +56,12 @@ def main():
     token = call(f"{API}/token?grant_type=client_credential&appid={appid}&secret={secret}")["access_token"]
 
     content = prepare_content()
-    for src in sorted(set(re.findall(r'src="(images/[^"]+)"', content))):
-        url = upload(f"{API}/media/uploadimg?access_token={token}", HERE / src)["url"]
+    for src in sorted(set(re.findall(r'src="((?:images|gifs)/[^"]+)"', content))):
+        if src.endswith(".gif"):
+            # 动图超过 uploadimg 的 1MB 限制，走永久图片素材（≤10MB），同样返回可用于正文的 url
+            url = upload(f"{API}/material/add_material?access_token={token}&type=image", HERE / src)["url"]
+        else:
+            url = upload(f"{API}/media/uploadimg?access_token={token}", HERE / src)["url"]
         content = content.replace(f'src="{src}"', f'src="{url}"')
         print("正文图片已上传：", src)
 
