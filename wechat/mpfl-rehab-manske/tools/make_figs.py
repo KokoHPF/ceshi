@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Manske & Prohaska 2017 内侧髌股韧带重建术后康复（IJSPT 临床述评）：首图中文标题卡；四期康复时间轴、髌骨活动度象限示意、
+"""Manske & Prohaska 2017 内侧髌股韧带重建术后康复（IJSPT 临床述评）：首图中文标题卡；四期康复时间轴、
 单腿下台阶评分卡、重返运动标准卡为编者绘制；原文图 1～18 加中文标注（皮肤字母标记、衣服与墙面文字、关节镜放大倍数已模糊）。
 用法：python3 make_figs.py <原文 PDF> <输出目录>"""
 import sys
@@ -117,24 +117,6 @@ for t, w, bg, g, ex, ms in ph:
     para(dr, 50, yy + 4, '进入下期：' + ms, 26, 1290, (40, 110, 60), 8)
     y += 370
 save(titled(im, '四期康复方案总览（编者根据原文整理）'), 2)
-
-# ---------- 髌骨活动度象限 ----------
-W, H = 1400, 620; im = Image.new('RGB', (W, H), 'white'); dr = ImageDraw.Draw(im)
-cx, cy, r = 360, 300, 150
-for k in range(4):
-    dr.rectangle([cx - 2 * 75 + k * 75, cy - r, cx - 2 * 75 + (k + 1) * 75, cy + r], outline=(150, 170, 180), width=3, fill=(240, 246, 248) if k % 2 else 'white')
-dr.ellipse([cx - 150, cy - r, cx + 150, cy + r], outline=TEAL, width=6)
-for k in range(1, 4): dr.line([cx - 150 + k * 75, cy - r - 30, cx - 150 + k * 75, cy + r + 30], fill=(160, 160, 160), width=2)
-ctext(dr, cx, cy + r + 40, '髌骨宽度 = 4 个象限', font(30))
-dr.line([cx + 160, cy, cx + 310, cy], fill=RED, width=6); dr.polygon([(cx + 310, cy - 16), (cx + 340, cy), (cx + 310, cy + 16)], fill=RED)
-dr.text((cx + 170, cy - 88), '外推 2 象限', font=font(26), fill=RED); dr.text((cx + 170, cy - 52), '= 半个髌骨', font=font(26), fill=RED)
-rows = [('< 1 象限', '活动度过小', '需做髌骨松动'), ('1～3 象限', '正常范围', ''), ('> 3 象限', '活动度过大', ''), ('≈ 2 象限（内、外）', '重建术后目标', '少于 2 象限就要松动')]
-for i, (a, b, c) in enumerate(rows):
-    yy = 80 + i * 120
-    dr.rounded_rectangle([760, yy, 1380, yy + 100], 12, fill=PK if i == 3 else LT)
-    dr.text((785, yy + 14), a, font=font(32), fill=RED if i == 3 else TEAL); dr.text((785, yy + 58), b + ('　' + c if c else ''), font=font(26), fill=INK)
-dr.text((40, 30), '屈膝 20°～30° 让髌骨进入滑车后，向内、向外推', font=font(28), fill=GREY)
-save(titled(im, '髌骨被动活动度：用“象限”来量（编者示意）'), 3)
 
 # ---------- 原文图 ----------
 save(board([(1, '膝内侧解剖：镊子挑起的就是内侧髌股韧带，连接髌骨内缘近端一半与股骨内髁（原文经期刊授权转载）')], '内侧髌股韧带在哪里'), 4)
