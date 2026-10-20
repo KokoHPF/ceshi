@@ -19,7 +19,7 @@ import uuid
 HERE = pathlib.Path(__file__).parent
 API = "https://api.weixin.qq.com/cgi-bin"
 
-TITLE = "「膝关节」髌股关节压迫性问题的当前概念与治疗：评估要点与干预策略"
+TITLE = "「膝关节」膝前痛反复不好？髌股关节压迫性问题的评估与治疗全解析"
 SHORT_TITLE = "「膝关节」髌股关节压迫性问题的当前概念与治疗"
 AUTHOR = "悦美力"
 DIGEST = "IJSPT 2016 临床述评精读：屈膝 60°～90° 髌股压力最大；Thomas、Ober、Silfverskiöld 等柔韧性检查和牵伸、髌骨松动、筋膜处理与髋力量训练，附能信几分和原文多处对不上的地方。"
