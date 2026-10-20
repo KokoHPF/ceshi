@@ -94,8 +94,7 @@ def para(dr, x, y, t, fs, w, fill=INK, gap=10):
 W, H = 1400, 600; im = Image.new('RGB', (W, H), (246, 248, 250)); dr = ImageDraw.Draw(im)
 dr.rectangle([0, 0, 18, H], fill=TEAL)
 dr.text((70, 60), '临床述评 · 《国际运动物理治疗杂志》2015', font=font(32), fill=TEAL)
-for i, t in enumerate(['增强式训练怎么练？', '上下肢 24 个动作 + 剂量指南']):
-    dr.text((70, 140 + i * 82), t, font=font(58), fill=INK)
+dr.text((70, 170), '增强式训练的最新概念', font=font(66), fill=INK)
 dr.text((70, 330), '原理、开练门槛、进阶顺序、训练量和禁忌证', font=font(30), fill=GREY)
 dr.line([70, 410, W - 70, 410], fill=(200, 205, 210), width=2)
 dr.text((70, 440), 'Davies G, Riemann BL, Manske R. IJSPT 2015;10(6):760-786', font=font(30), fill=GREY)

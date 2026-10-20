@@ -19,7 +19,7 @@ import uuid
 HERE = pathlib.Path(__file__).parent
 API = "https://api.weixin.qq.com/cgi-bin"
 
-TITLE = "「运动康复」增强式训练怎么练？开练门槛、24 个动作和剂量指南"
+TITLE = "「运动康复」重返赛场前的最后一环：增强式训练的开练标准、进阶与剂量"
 SHORT_TITLE = "「运动康复」增强式训练的最新概念"
 AUTHOR = "悦美力"
 DIGEST = "IJSPT 2015 临床述评精读：牵张-缩短周期原理、上下肢开练门槛、从双腿到单腿、从短弧到专项投掷的 24 个动作进阶、触地次数和上肢剂量；13 张表全部中译，并列出原文多处自相矛盾之处。"
@@ -67,10 +67,10 @@ def main():
 
     draft_id = os.environ.get("WX_DRAFT_ID")
     if draft_id:
-        # 更新已有草稿：沿用原封面，只替换正文
+        # 更新已有草稿：沿用原封面，只替换正文；设 WX_SET_TITLE=1 时同时改用当前 TITLE
         old = call(f"{API}/draft/get?access_token={token}", json.dumps({"media_id": draft_id}).encode())["news_item"][0]
         article = {
-            "title": old["title"], "author": old["author"], "digest": old["digest"], "content": content,
+            "title": TITLE if os.environ.get("WX_SET_TITLE") else old["title"], "author": old["author"], "digest": old["digest"], "content": content,
             "thumb_media_id": old["thumb_media_id"], "need_open_comment": 1, "only_fans_can_comment": 0,
         }
         call(f"{API}/draft/update?access_token={token}",
