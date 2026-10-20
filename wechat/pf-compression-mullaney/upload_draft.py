@@ -19,8 +19,8 @@ import uuid
 HERE = pathlib.Path(__file__).parent
 API = "https://api.weixin.qq.com/cgi-bin"
 
-TITLE = "「膝关节」膝前痛是髌骨被“压”出来的？先查这几处紧，再练髋"
-SHORT_TITLE = "「膝关节」髌股关节压迫问题：检查与治疗"
+TITLE = "「膝关节」髌股关节压迫性问题的当前概念与治疗：评估要点与干预策略"
+SHORT_TITLE = "「膝关节」髌股关节压迫性问题的当前概念与治疗"
 AUTHOR = "悦美力"
 DIGEST = "IJSPT 2016 临床述评精读：屈膝 60°～90° 髌股压力最大；Thomas、Ober、Silfverskiöld 等柔韧性检查和牵伸、髌骨松动、筋膜处理与髋力量训练，附能信几分和原文多处对不上的地方。"
 

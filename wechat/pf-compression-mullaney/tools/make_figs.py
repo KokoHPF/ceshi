@@ -113,9 +113,9 @@ P = {7: raw(7),
 W, H = 1400, 600; im = Image.new('RGB', (W, H), (246, 248, 250)); dr = ImageDraw.Draw(im)
 dr.rectangle([0, 0, 18, H], fill=TEAL)
 dr.text((70, 60), '临床述评 · 《国际运动物理治疗杂志》2016', font=font(32), fill=TEAL)
-for i, t in enumerate(['膝前痛、髌骨被“压”着痛，', '先查哪几处紧？']):
+for i, t in enumerate(['髌股关节压迫性问题的', '当前概念与治疗']):
     dr.text((70, 140 + i * 82), t, font=font(58), fill=INK)
-dr.text((70, 330), '髌股关节压迫问题：屈膝角度、柔韧性检查、松动、筋膜和髋力量', font=font(30), fill=GREY)
+dr.text((70, 330), 'Current Concepts and Treatment of Patellofemoral Compressive Issues', font=font(30), fill=GREY)
 dr.line([70, 410, W - 70, 410], fill=(200, 205, 210), width=2)
 dr.text((70, 440), 'Mullaney MJ, Fukunaga T. IJSPT 2016;11(6):891-902', font=font(30), fill=GREY)
 dr.text((70, 495), '编者中文重排，仅作学术交流', font=font(26), fill=(150, 150, 150))
@@ -192,8 +192,8 @@ save(titled(im, '先找出哪里出了问题，再对症处理（编者根据原
 # 封面 900×383
 im = Image.new('RGB', (900, 383), (246, 248, 250)); dr = ImageDraw.Draw(im)
 dr.rectangle([0, 0, 14, 383], fill=TEAL)
-dr.text((50, 60), '髌股关节压迫问题', font=font(40), fill=TEAL)
-dr.text((50, 130), '膝前痛，', font=font(64), fill=INK)
-dr.text((50, 220), '先查哪几处紧？', font=font(64), fill=INK)
-dr.text((50, 318), 'Thomas · Ober · 髌骨松动 · 髋力量', font=font(26), fill=GREY)
+dr.text((50, 60), 'IJSPT 2016 临床述评', font=font(40), fill=TEAL)
+dr.text((50, 130), '髌股关节压迫性问题', font=font(64), fill=INK)
+dr.text((50, 220), '当前概念与治疗', font=font(64), fill=INK)
+dr.text((50, 318), '评估要点 · 柔韧性 · 髌骨松动 · 髋肌力量', font=font(26), fill=GREY)
 im.save(f'{OUT}/cover.jpg', quality=90)

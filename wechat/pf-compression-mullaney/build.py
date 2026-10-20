@@ -145,6 +145,7 @@ A.append(cap("原文信息（编者中文重排）"))
 A.append(p(red("📚 文献信息"), "margin-bottom:10px;"))
 A.append(ul([
     "Mullaney MJ, Fukunaga T. Current concepts and treatment of patellofemoral compressive issues. Int J Sports Phys Ther. 2016;11(6):891-902.",
+    "中文题目：髌股关节压迫性问题的当前概念与治疗",
     "作者来自美国纽约 Nicholas 运动医学与运动创伤研究所、Mullaney & Associates 物理治疗诊所、霍夫斯特拉大学",
     "临床述评（专家意见），不是原始研究",
 ], square=True))
@@ -281,7 +282,7 @@ A.append(small(
     "原文 PDF 未标注开放许可协议。本文为学术交流用的中文解读：照片引自原文图 1～6（编者加中文说明，人脸、海报、仪器屏幕与鞋标已模糊），屈膝角度示意图和检查处理一览为编者根据原文绘制，成功率图按原文数字重绘。版权归原作者与期刊，如有侵权请联系删除。"
 ))
 
-TITLE = "「膝关节」膝前痛是髌骨被“压”出来的？先查这几处紧，再练髋"
+TITLE = "「膝关节」髌股关节压迫性问题的当前概念与治疗：评估要点与干预策略"
 BODY = "".join(A)
 (HERE / "article_body.html").write_text(BODY, encoding="utf-8")
 (HERE / "preview.html").write_text(
