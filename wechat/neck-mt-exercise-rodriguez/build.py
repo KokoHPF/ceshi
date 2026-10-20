@@ -172,12 +172,12 @@ A.append(ul([
 ]))
 A.append(h3("两组做了什么"))
 A.append(p(f"两组都是{b('每周 1 次、共 4 次、每次 20 分钟')}，由同一位有 5 年以上经验的治疗师一对一完成；两组都要求在家把同样的运动{b('每天做 2～5 次')}，每周视频随访督促。"))
-A.append(pic(3, "原文图 1（加中文说明，人脸已模糊）"))
+A.append(pic(3, "原文图 1（加中文说明）"))
 A.append(ul([
     f"{b('运动（两组都做）')}：每组 10 次 × 2 组，每次保持 10 秒，次间休息 40 秒、组间休息 2 分钟",
     "第 1 次：仰卧颈深屈肌（压力生物反馈仪）；第 2 次：四点跪位颈深伸肌；第 3、4 次：颅颈屈曲抬头 + 四点跪位弹力带抗阻伸肌",
 ]))
-A.append(pic(4, "原文图 2（加中文说明，人脸已模糊）"))
+A.append(pic(4, "原文图 2（加中文说明）"))
 A.append(ul([
     f"{b('手法组加做')}：按每个人的受限节段，选 {b('C0-1、C1-2、C2-3 牵引式快速手法')}（颈中立位、向头侧推，每节段每侧最多 2 次，每次就诊共 2～6 次推），和/或 {b('C0-1 向背侧松动')} 5 分钟（45 秒松动 + 15 秒休息）",
     "按国际骨科手法物理治疗师联合会（IFOMPT）的安全建议操作",
@@ -280,7 +280,7 @@ A.append(p(b("欢迎关注悦美力公众号，获取更多物理治疗的专业
 A.append(p("📄<em>参考文献：</em>", "font-size:13px;margin-bottom:6px;"))
 A.append(small(
     "<em>Rodríguez-Sanz J, Malo-Urriés M, Lucha-López MO, López-de-Celis C, Pérez-Bellmunt A, Corral-de-Toro J, Hidalgo-García C. Comparison of an exercise program with and without manual therapy for patients with chronic neck pain and upper cervical rotation restriction. Randomized controlled trial. PeerJ. 2021;9:e12546. doi:10.7717/peerj.12546</em><br>"
-    "原文以知识共享署名 4.0 协议（CC BY 4.0）发表。本文为中文解读：照片引自原文图 1、图 2（编者加中文说明，人脸已模糊），研究设计卡为编者根据原文整理，结果图按原文表 2、表 3 数字重绘，表格为编者翻译。"
+    "原文以知识共享署名 4.0 协议（CC BY 4.0）发表。本文为中文解读：照片引自原文图 1、图 2（编者加中文说明），研究设计卡为编者根据原文整理，结果图按原文表 2、表 3 数字重绘，表格为编者翻译。"
 ))
 
 TITLE = "「颈椎」慢性颈痛伴上颈椎旋转受限：只做运动够吗？加上颈椎手法的 6 个月随机对照试验"
