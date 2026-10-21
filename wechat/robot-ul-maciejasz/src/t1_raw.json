@@ -1,0 +1,1692 @@
+[
+{
+"c": [
+"Kiguchi [114]",
+"2",
+"Shoulder – FE, AA",
+"sEMG",
+"DC motors (x2)",
+"Stationary system (exoskeleton-based); power assistance",
+"C0 study: 1 hs"
+],
+"page": 2,
+"sect": "Systems assisting shoulder movements"
+},
+{
+"c": [
+"Cheng [9]",
+"1",
+"Elbow – FE",
+"sEMG",
+"DC motor",
+"Stationary system; physical therapy",
+"CI study: 5 stroke + 5 hs"
+],
+"page": 2,
+"sect": "Systems assisting elbow movements"
+},
+{
+"c": [
+"Cozens [10]",
+"1",
+"Elbow – FE",
+"Joint angle",
+"Electric servo-motor",
+"Stationary system; physical therapy",
+"CI study: 10 stroke + MS"
+],
+"page": 2,
+"sect": "Systems assisting elbow movements"
+},
+{
+"c": [
+"Kiguchi [170]",
+"1",
+"Elbow – FE",
+"sEMG",
+"DC motor",
+"Stationary system (exoskeleton-based); physical therapy",
+"C0 study: 2 hs"
+],
+"page": 2,
+"sect": "Systems assisting elbow movements"
+},
+{
+"c": [
+"MARIONET, Sulzer [142]",
+"1",
+"Elbow – FE",
+"Joint angle",
+"AC servomotor (SEA)",
+"Stationary system (end-effector-based); physical therapy",
+"C0 study: 6 hs"
+],
+"page": 2,
+"sect": "Systems assisting elbow movements"
+},
+{
+"c": [
+"Mavroidis [11]",
+"1",
+"Elbow – FE",
+"Force/torque",
+"DC motor",
+"Portable orthosis (continuous passive motion device); physical therapy",
+"Prototype"
+],
+"page": 2,
+"sect": "Systems assisting elbow movements"
+},
+{
+"c": [
+"MEM-MRB, Oda [104]",
+"[1]",
+"[Elbow – flexion]",
+"Joint angular velocity, torque",
+"MRF brake",
+"Stationary system; physical therapy",
+"C0 study: 1 hs"
+],
+"page": 2,
+"sect": "Systems assisting elbow movements"
+},
+{
+"c": [
+"Myomo e100, Myomo, Inc.; Stein [172]",
+"1",
+"Elbow – FE",
+"sEMG",
+"DC motor (x1)",
+"Portable orthosis; physical therapy",
+"Commercial system (FDA clearance); CI study: 8 cS"
+],
+"page": 2,
+"sect": "Systems assisting elbow movements"
+},
+{
+"c": [
+"Ögce [171]",
+"1",
+"Elbow – FE",
+"sEMG",
+"DC step motor",
+"Wearable shoulder-elbow orthosis; physical therapy",
+"CI study: 2 traumatic brachial plexus injury"
+],
+"page": 2,
+"sect": "Systems assisting elbow movements"
+},
+{
+"c": [
+"Pylatiuk [153]",
+"1",
+"Elbow – FE",
+"sEMG",
+"Hydraulic",
+"Wearable orthosis; physical therapy",
+"First prototype"
+],
+"page": 2,
+"sect": "Systems assisting elbow movements"
+},
+{
+"c": [
+"Rosen [169]",
+"1",
+"Elbow – FE",
+"sEMG",
+"DC motor (x1)",
+"Stationary system (exoskeleton-based); power assistance",
+"C0 study: 1 hs; predecessor of CADEN-7"
+],
+"page": 2,
+"sect": "Systems assisting elbow movements"
+},
+{
+"c": [
+"Song [12]",
+"1",
+"Elbow – FE",
+"sEMG",
+"AC servo motor",
+"Stationary system (end-effector-based); physical therapy",
+"CI studies: 8 cS [12], 7 cS [13], 3 cS [14]"
+],
+"page": 2,
+"sect": "Systems assisting elbow movements"
+},
+{
+"c": [
+"Vanderniepen [143]",
+"1",
+"Elbow – FE",
+"Joint angle",
+"Electric motors (x2) (SEA)",
+"Wearable orthosis; orthopedic physical therapy",
+"Prototype"
+],
+"page": 2,
+"sect": "Systems assisting elbow movements"
+},
+{
+"c": [
+"Kung [15]",
+"1",
+"Forearm – PS",
+"Joint angle, torque",
+"AC servomotor (1)",
+"Stationary system; physical therapy",
+"CI study: 7 cS + 8 hs [16]"
+],
+"page": 2,
+"sect": "Systems assisting forearm movements"
+},
+{
+"c": [
+"ASSIST, Sasaki [146]",
+"1",
+"Wrist – flexion",
+"Joint angle",
+"Rotary-type pneumatic actuators (x2)",
+"Wearable orthosis; power assistance",
+"C0 study: 5 hs"
+],
+"page": 2,
+"sect": "Systems assisting wrist movements"
+},
+{
+"c": [
+"Colombo [17]",
+"1",
+"Wrist – FE",
+"Torque",
+"Not specified",
+"Stationary system; physical therapy",
+"CII study: 20(8) cS"
+],
+"page": 2,
+"sect": "Systems assisting wrist movements"
+},
+{
+"c": [
+"Hu [18]",
+"1",
+"Wrist – FE",
+"sEMG",
+"Electric motor",
+"Stationary system (end-effector-based); physical therapy",
+"CI study: 15 cS"
+],
+"page": 2,
+"sect": "Systems assisting wrist movements"
+},
+{
+"c": [
+"Loureiro [100]",
+"[1]",
+"[Wrist – FE]",
+"Hand motion (tremor)",
+"MRF brake",
+"Wearable orthosis; tremor suppression",
+"CI study: 1 ET"
+],
+"page": 2,
+"sect": "Systems assisting wrist movements"
+},
+{
+"c": [
+"PolyJbot, Song [175]",
+"1",
+"Wrist – FE",
+"sEMG, joint angle and torque",
+"DC servomotor (x1)",
+"Stationary system; physical therapy",
+"CII study: 27(15) cS [19]"
+],
+"page": 2,
+"sect": "Systems assisting wrist movements"
+},
+{
+"c": [
+"Amadeo, tyromotion GmbH",
+"5",
+"Fingers (each) – FE",
+"End-point position and force",
+"Electric motors",
+"Stationary system (end-effector-based); physical therapy",
+"Commercial system; CI study: 7 aS [20]"
+],
+"page": 2,
+"sect": "Systems assisting finger(s) movements"
+},
+{
+"c": [
+"Chen [21]",
+"5",
+"Independent linear movement of each finger",
+"Fingers positions and forces, sEMG",
+"DC linear motors (x5)",
+"Stationary system (end-effector-based); physical therapy",
+"C0 study: 1 hs"
+],
+"page": 3,
+"sect": "Systems assisting finger(s) movements"
+},
+{
+"c": [
+"CyberGrasp, CyberGlove Systems LLC; Turner [22]",
+"[5]",
+"[Resistive force to each finger]",
+"Joint angles (CyberGlove)",
+"DC motors (x5)",
+"Force-feedback glove; interactions with virtual environment",
+"Commercial system for other applications, used in some clinical studies e.g. [191,192]"
+],
+"page": 3,
+"sect": "Systems assisting finger(s) movements"
+},
+{
+"c": [
+"Ertas [23]",
+"1",
+"Concurrent FE of 3 joints of a single finger",
+"Joint angles",
+"DC motor (x1)",
+"Finger exoskeleton (underactuated mechanism); tendon physical therapy",
+"C0 study: 4 hs"
+],
+"page": 3,
+"sect": "Systems assisting finger(s) movements"
+},
+{
+"c": [
+"Fuxiang [24]",
+"4",
+"Index finger– FE (x3), AA",
+"Joint positions and toques",
+"Linear stepping motors",
+"Modular-finger exoskeleton (continuous passive motion device); physical therapy",
+"C0 study: 3 hs"
+],
+"page": 3,
+"sect": "Systems assisting finger(s) movements"
+},
+{
+"c": [
+"Gloreha, Idrogenet srl",
+"5",
+"Independent passive movement of each finger",
+"Fingers positions",
+"Electric motors (x5)",
+"Portable (Gloreha Lite)/Movable (Gloreha Professional) (end-effector-based, cable-driven); physical therapy",
+"Commercial system (CE mark); CII study: 10(5) sS [25], CI studies: 9 stroke + 3 other diseases [26], 4 cS [27]"
+],
+"page": 3,
+"sect": "Systems assisting finger(s) movements"
+},
+{
+"c": [
+"Hand of Hope, Rehab-Robotics Comp. Ltd., Ho [28]",
+"5",
+"Each finger separately - FE",
+"sEMG",
+"DC linear motors (x5)",
+"Portable system (orthosis); physical therapy",
+"Commercial system (CE Mark), CI study: 8 cS"
+],
+"page": 3,
+"sect": "Systems assisting finger(s) movements"
+},
+{
+"c": [
+"HandCARE, Dovat [113]",
+"5",
+"Independent linear movement of each finger (1 at a time)",
+"Fingers positions and forces",
+"DC motor (x1!)",
+"Stationary system (end-effector-based, cable-driven); physical therapy",
+"CI study: 5 cS + 8 hs"
+],
+"page": 3,
+"sect": "Systems assisting finger(s) movements"
+},
+{
+"c": [
+"HEXORR, Schabowsky [29]",
+"2",
+"Thumb – FE, other fingers together – FE",
+"Fingers positions and forces",
+"DC motor (x1), AC motor (x1)",
+"Stationary system (end-effector-based, cable-driven); physical therapy",
+"CI study: 5 cS + 9 hs"
+],
+"page": 3,
+"sect": "Systems assisting finger(s) movements"
+},
+{
+"c": [
+"HIFE, Mali [183]",
+"2",
+"1 finger – FE",
+"End-point position",
+"DC motors",
+"Haptic interface (end-effector-based); physical therapy",
+"Prototype"
+],
+"page": 3,
+"sect": "Systems assisting finger(s) movements"
+},
+{
+"c": [
+"InMotion HAND, previous name InMotion 5.0, Interactive Motion Tech., Inc.; Masia [165]",
+"1",
+"All fingers together – GR",
+"Not specified",
+"DC brushless motor",
+"Add-on module for InMotion ARM; physical therapy",
+"Commercial system"
+],
+"page": 3,
+"sect": "Systems assisting finger(s) movements"
+},
+{
+"c": [
+"Kline [30]",
+"1",
+"All fingers together – extension",
+"Joint angles, sEMG",
+"Pneumatic",
+"Wearable glove; physical therapy",
+"CI study: 1 stroke + hs (np)"
+],
+"page": 3,
+"sect": "Systems assisting finger(s) movements"
+},
+{
+"c": [
+"Lucas [147]",
+"1",
+"Index finger – flexion (passive extension)",
+"sEMG",
+"Pneumatic (x2)",
+"Wearable orthosis; grasp assistance",
+"CI study: 1 SCI"
+],
+"page": 3,
+"sect": "Systems assisting finger(s) movements"
+},
+{
+"c": [
+"MR_CHIROD v.2, Khanicheh [158]",
+"[1]",
+"[All fingers together – GR]",
+"Finger position and torque",
+"ERF brake",
+"Exercising device (handle-like); physical therapy",
+"C0 study: hs (np); fMRI compatible"
+],
+"page": 3,
+"sect": "Systems assisting finger(s) movements"
+},
+{
+"c": [
+"MRAGES, Winter [157]",
+"[5]",
+"[Fingers(each)--FE]",
+"Finger positions and torques",
+"MRF brakes (5)",
+"Force-feedback glove; physical therapy",
+"Prototype"
+],
+"page": 3,
+"sect": "Systems assisting finger(s) movements"
+},
+{
+"c": [
+"Mulas [31]",
+"2",
+"Thumb – FE, other fingers together – FE",
+"sEMG, pulleys position",
+"DC servo motors (x2)",
+"Wearable orthosis; physical therapy",
+"CI study: 1 sS"
+],
+"page": 3,
+"sect": "Systems assisting finger(s) movements"
+},
+{
+"c": [
+"Nathan [167]",
+"1",
+"All fingers together – grasp (passive release)",
+"Hand-held trigger,indexand thumb fingers joint angles",
+"FES",
+"Wearable orthosis (glove); physical therapy",
+"CI study: 2 stroke + 1 hs"
+],
+"page": 3,
+"sect": "Systems assisting finger(s) movements"
+},
+{
+"c": [
+"PowerGrip, Broaden Horizons, Inc.",
+"1",
+"Thumb, index and middle finger together – GR",
+"Switches or sEMG",
+"DC motor (1)",
+"Wearable orthosis; grasp assistance",
+"Commercial system"
+],
+"page": 3,
+"sect": "Systems assisting finger(s) movements"
+},
+{
+"c": [
+"Reha-Digit, Reha-Stim; Hesse [32]",
+"1",
+"4 fingers (except the thumb) together – FE",
+"None",
+"DC motor",
+"Portable system (rotating handle); physical therapy",
+"Commercial system (CE mark); CII study: 8(4) sS, CI study: 1 cS"
+],
+"page": 4,
+"sect": "Systems assisting finger(s) movements"
+},
+{
+"c": [
+"Rosati [144]",
+"1",
+"4 fingers (except the thumb) together – FE",
+"Not selected yet",
+"DC motor (SEA)",
+"Wearable orthosis; physical therapy",
+"Design"
+],
+"page": 4,
+"sect": "Systems assisting finger(s) movements"
+},
+{
+"c": [
+"Rotella [33]",
+"4",
+"Index finger flexion (x2) (passive extension), thumb – flexion, other fingers together – flexion",
+"Not specified",
+"Electric motors",
+"Wearable orthosis; grasp assistance",
+"Design"
+],
+"page": 4,
+"sect": "Systems assisting finger(s) movements"
+},
+{
+"c": [
+"Rutgers Master II-ND, Bouzit [184]",
+"4",
+"Thumb, index, middle, and ring finger – FE",
+"Actuator translation and inclination",
+"Pneumatic (x4)",
+"Force-feedback glove; interactions with virtual environment",
+"Research device; often used for hand therapy (e.g. [185-187])"
+],
+"page": 4,
+"sect": "Systems assisting finger(s) movements"
+},
+{
+"c": [
+"Salford Hand Exoskeleton, Sarakoglou [34]",
+"7",
+"Index, middle, and ring finger – FE (x2), thumb – FE",
+"Joint angles and end-point force",
+"DC motors",
+"Wearable orthosis (exoskeleton); physical therapy",
+"C0 study: hs (np)"
+],
+"page": 4,
+"sect": "Systems assisting finger(s) movements"
+},
+{
+"c": [
+"Tong [35]",
+"10",
+"Each finger – FE (x2)",
+"sEMG",
+"Electric linear motors (x10)",
+"Portable system (wearable orthosis); physical therapy",
+"CI study: 2 cS"
+],
+"page": 4,
+"sect": "Systems assisting finger(s) movements"
+},
+{
+"c": [
+"TU Berlin Finger Exoskeleton, Wege [36]",
+"4",
+"1 finger – FE (x3), AA",
+"Joint angles",
+"DC motors (x4)",
+"Finger exoskeleton; physical therapy",
+"C0 study: 1 hs"
+],
+"page": 4,
+"sect": "Systems assisting finger(s) movements"
+},
+{
+"c": [
+"TU Berlin Hand Exoskeleton, Fleischer [117]",
+"20",
+"FE and AA of all major joints of each finger",
+"Joint angles, end-point force, sEMG",
+"DC motors",
+"Wearable orthosis (exoskeleton); physical therapy",
+"Prototype"
+],
+"page": 4,
+"sect": "Systems assisting finger(s) movements"
+},
+{
+"c": [
+"Worsnopp [37]",
+"3",
+"Index finger – FE (x3)",
+"Joint angles and torques",
+"DC brushless ser-vomotors (x6)",
+"Finger exoskeleton; physical therapy",
+"Prototype"
+],
+"page": 4,
+"sect": "Systems assisting finger(s) movements"
+},
+{
+"c": [
+"Xing [38]",
+"2",
+"Thumb – FE, other fingers together – FE",
+"Position, force",
+"Pneumatic (PAMs) (x2)",
+"Wearable orthosis; physical therapy",
+"C0 study: 3 hs"
+],
+"page": 4,
+"sect": "Systems assisting finger(s) movements"
+},
+{
+"c": [
+"ACRE, Schoone [108]",
+"5",
+"Shoulder * elbow",
+"Joint angles",
+"Electrical motors (x5)",
+"Stationary system (end-effector-based); physical therapy",
+"CI: 10 sS"
+],
+"page": 4,
+"sect": "Systems assisting shoulder and elbow movements"
+},
+{
+"c": [
+"ACT3D, Ellis [39]",
+"3",
+"Shoulder * elbow",
+"End-point torque, position and velocity (HapticMaster)",
+"DC brushed motors (HapticMaster)",
+"Stationary system (end-effector-based); physical therapy and assessment of therapy results",
+"CI study: 6 stroke"
+],
+"page": 4,
+"sect": "Systems assisting shoulder and elbow movements"
+},
+{
+"c": [
+"ARC-MIME, Lum [137]",
+"1+[2]",
+"Shoulder * elbow (longitudinal movements of the forearm) [forearm’s eleva-tion and yaw]",
+"Forearm position and torque",
+"DC motor (x1), magnetic particle brakes (x2)",
+"Stationary system (end-effector-based); physical therapy",
+"An attempt to commercialize; CI study: 4 cS; merges concepts from MIME and ARM Guide"
+],
+"page": 4,
+"sect": "Systems assisting shoulder and elbow movements"
+},
+{
+"c": [
+"ARM Guide, Reinkensmeyer [136]",
+"1+[2]",
+"Shoulder * elbow (longitudinal movements of the forearm) [forearm’s eleva-tion and yaw]",
+"Forearm position and torque",
+"DC motor (x1), magnetic particle brakes (x2)",
+"Stationary system (end-effector-based); physical therapy",
+"CII study: 19(10) cS [40]; see also: ARC-MIME"
+],
+"page": 4,
+"sect": "Systems assisting shoulder and elbow movements"
+},
+{
+"c": [
+"BFIAMT, Chang [41]",
+"2",
+"Shoulder * elbow (bilateral longitu-dinal movements of the forearms)",
+"End point posi-tion and torque",
+"DC servomotor (x2), magnetic particle brakes (x2)",
+"Stationary system (end-effector-based); physical therapy",
+"CI study: 20 cS [41]"
+],
+"page": 4,
+"sect": "Systems assisting shoulder and elbow movements"
+},
+{
+"c": [
+"BONES, Klein [118]",
+"4",
+"Shoulder – FE, AA, RT, elbow – FE",
+"Joint angles, cylinder pressure",
+"Pneumatic (x5)",
+"Stationary system (parallel robot + exoskeleton-based distal part); physical therapy",
+"Prototype; see also: Supinator extender (SUE)"
+],
+"page": 4,
+"sect": "Systems assisting shoulder and elbow movements"
+},
+{
+"c": [
+"Dampace, Stienen [154]",
+"[4]",
+"[Shoulder – FE, AA, RT, elbow – FE]",
+"Joint angles and torques",
+"Hydraulic brake actuators (SEA)",
+"Stationary system (exoskeleton-based); physical therapy",
+"CI study: stroke (np); see also Limpact"
+],
+"page": 5,
+"sect": "Systems assisting shoulder and elbow movements"
+},
+{
+"c": [
+"Freeman [163]",
+"2",
+"Shoulder * elbow (in the plane)",
+"Handle torque and position",
+"DC brusheless servomotors (x2), FES",
+"Stationary system (end-effector-based); physical therapy",
+"C0 study: 18 hs"
+],
+"page": 5,
+"sect": "Systems assisting shoulder and elbow movements"
+},
+{
+"c": [
+"InMotion ARM, previous name InMotion 2.0, Interactive Motion Tech., Inc.; based on: MIT Manus, Krebs [107]",
+"2+[1]",
+"Shoulder * elbow (in the plane + gravity compensation)",
+"Joint positions, angular velocity and torque",
+"DC brushless motors",
+"Stationary system (end-effector-based); physical therapy",
+"Commercial system, CIII/CIV studies: 127(49) cS [203], CII studies: 56(30) aS [42], 30(10) aS [43] and others"
+],
+"page": 5,
+"sect": "Systems assisting shoulder and elbow movements"
+},
+{
+"c": [
+"Ju [44]",
+"2",
+"Shoulder * elbow (in the plane)",
+"Handle torque and position",
+"AC motors (x2)",
+"Stationary system (end-effector-based; physical therapy",
+"CI study: stroke (np)"
+],
+"page": 5,
+"sect": "Systems assisting shoulder and elbow movements"
+},
+{
+"c": [
+"Kiguchi [45]",
+"3",
+"Shoulder – FE, AA, elbow – FE",
+"sEMG",
+"DC motors",
+"Wheelchair mounted system (exoskeleton-based); power assistance",
+"C0 study: hs (np); see also: shoulder, elbow and shoulder-elbow-forearm orthoses developed by Kiguchi and SUEFUL-7"
+],
+"page": 5,
+"sect": "Systems assisting shoulder and elbow movements"
+},
+{
+"c": [
+"Kobayashi [149]",
+"4",
+"Shoulder – FE, AA, RT, elbow – FE",
+"Joint angle",
+"Pneumatic (PAMs) (x10)",
+"Wearable (but not portable) orthosis (”muscle suit“); power assistance",
+"C0 study: 5 hs"
+],
+"page": 5,
+"sect": "Systems assisting shoulder and elbow movements"
+},
+{
+"c": [
+"Limpact, Stienen [155]",
+"4",
+"Shoulder – FE, AA, RT, elbow – FE",
+"Joint angles and torques",
+"Rotational hydroelastic actuator (SEA)",
+"Stationary system (exoskeleton-based); physical therapy",
+"Design; based on Dampace"
+],
+"page": 5,
+"sect": "Systems assisting shoulder and elbow movements"
+},
+{
+"c": [
+"MariBot, Rosati [46]",
+"5",
+"Shoulder * elbow",
+"Motor positions",
+"DC frameless brushless motors",
+"Stationary system (end-effector-based, cable-driven robot); physical therapy",
+"Prototype; successor of NeReBot"
+],
+"page": 5,
+"sect": "Systems assisting shoulder and elbow movements"
+},
+{
+"c": [
+"MEMOS, Micera [132]",
+"2",
+"Shoulder * elbow (in the plane)",
+"Torque and handle position",
+"DC motors (x2)",
+"Stationary system (end-effector-based); physical therapy",
+"CII study: 20(12) cS [17], CI study: 18 cS [47]"
+],
+"page": 5,
+"sect": "Systems assisting shoulder and elbow movements"
+},
+{
+"c": [
+"MIME, Burgar [120]",
+"6",
+"Shoulder * elbow",
+"Forearm position, orientation, torque",
+"DC brushed servomotors (PUMA 560 robot)",
+"Stationary system (end-effector-based); physical therapy",
+"CII studies: 27(13) cS [48] and 30(24) sS [49], CI study: 13 cS [50]; see also ARC-MIME"
+],
+"page": 5,
+"sect": "Systems assisting shoulder and elbow movements"
+},
+{
+"c": [
+"Moubarak [51]",
+"4",
+"Shoulder – FE, AA, RT, elbow – FE",
+"Joint position, velocity and torques",
+"DC brushless motors (x4)",
+"Wheelchair-mounted system (exoskeleton-based); physical therapy",
+"Prototype"
+],
+"page": 5,
+"sect": "Systems assisting shoulder and elbow movements"
+},
+{
+"c": [
+"NeReBot, Rosati [111]",
+"3",
+"Shoulder * elbow",
+"Motor positions",
+"DC motors (x3)",
+"Stationary system (end-effector-based, cable-driven robot); physical therapy",
+"CII studies: 24(12) sS [111], 35 (17) aS [52], 21(11) sS [53]; predecessor of MariBot"
+],
+"page": 5,
+"sect": "Systems assisting shoulder and elbow movements"
+},
+{
+"c": [
+"REHAROB, Toth [125]",
+"12",
+"Shoulder * elbow",
+"End-point torques",
+"Electrical motors (ABB IRB 140 and IRB 1400H robots)",
+"Stationary system (2 modified indus-trial robots); physical therapy",
+"CII study: 22 (13) stroke + 8(2) TBI [54], CI study: 6 cS + 2 sS + 4 hs [125]"
+],
+"page": 5,
+"sect": "Systems assisting shoulder and elbow movements"
+},
+{
+"c": [
+"Bi-Manu-Track, Reha-Stim; Hesse [55]",
+"1",
+"Forearm – PS * wrist – FE",
+"Not specified",
+"Not specified",
+"Stationary system (end-effector-based); physical therapy",
+"Commercial system, CII study: 44 (22) sA [56], CI study: 12 cS [55]"
+],
+"page": 5,
+"sect": "Systems assisting forearm and wrist movements"
+},
+{
+"c": [
+"CRAMER, Spencer [109]",
+"3",
+"Forearm – PS, wrist – FE, AA",
+"Hand accelera-tions (Nintendo Wii console)",
+"Digital servomotors (x4)",
+"Stationary system (parallel robot); physical therapy",
+"Prototype"
+],
+"page": 5,
+"sect": "Systems assisting forearm and wrist movements"
+},
+{
+"c": [
+"InMotion WRIST, previous name InMotion 3.0, Interactive Motion Tech., Inc.; Krebs [138]",
+"3",
+"Forearm – PS, wrist – FE * AA",
+"Joint angles",
+"DC brushless motors (x3)",
+"Stationary system, may be used as an add-on for InMotion ARM; physical therapy",
+"Commercial system"
+],
+"page": 5,
+"sect": "Systems assisting forearm and wrist movements"
+},
+{
+"c": [
+"RiceWrist, Gupta [119]",
+"4",
+"Forearm – PS, wrist – FE * AA",
+"Joint angles and forces",
+"Frameless DC brushless motors",
+"Wearable orthosis; physical therapy",
+"Prototype; extension for MIME, see also: MAHI"
+],
+"page": 6,
+"sect": "Systems assisting forearm and wrist movements"
+},
+{
+"c": [
+"Supinator extender (SUE), Allington [57]",
+"2",
+"Forearm – PS, wrist – FE",
+"Joint angles and forces",
+"Pneumatic",
+"Wearable orthosis; physical therapy",
+"CI study: 8 cS; extension for BONES and ArmeoSpring"
+],
+"page": 6,
+"sect": "Systems assisting forearm and wrist movements"
+},
+{
+"c": [
+"Takaiwa [110]",
+"3",
+"Forearm – PS, wrist – FE, AA",
+"Torque",
+"Pneumatic (x6)",
+"Stationary system (parallel robot); physical therapy",
+"Prototype"
+],
+"page": 6,
+"sect": "Systems assisting forearm and wrist movements"
+},
+{
+"c": [
+"W-EXOS, Gopura [174]",
+"3",
+"Forearm – PS, wrist – FE, AA",
+"sEMG, hand force, forearm torque",
+"DC motors (x3)",
+"Stationary system (exoskeleton-based); power assistance",
+"C0 study: 2hs; see also: SUEFUL-7"
+],
+"page": 6,
+"sect": "Systems assisting forearm and wrist movements"
+},
+{
+"c": [
+"AMES, Cordo [58]",
+"1",
+"wrist and MCP joints of 4 fingers (coupled together)",
+"Flexion/Extension torque, sEMG (optional)",
+"Electric motor + 2 vibrators (for flexor and extensor tendons)",
+"Stationary system (with desktop mounted orthosis), physical therapy (at home)",
+"FDA clearance; CI study: 20(11) cS; a modified version of the system is used for ankle rehabilitation"
+],
+"page": 6,
+"sect": "Systems assisting wrist and fingers movements"
+},
+{
+"c": [
+"Hand Mentor™, Kinematic Muscles, Inc.; Koeneman [59]",
+"1",
+"Wrist and 4 fin-gers (except the thumb) extension",
+"Wrist angle, flexion torque",
+"Pneumatic (PAM) (x1)",
+"Wearable orthosis; physical therapy",
+"Commercial system (FDA Class I Device); CII study: 21(11) sS [60], CI studies: 1 cS [61], 1 cS [62]"
+],
+"page": 6,
+"sect": "Systems assisting wrist and fingers movements"
+},
+{
+"c": [
+"HWARD, Takahashi [130]",
+"3",
+"Wrist – FE, thumb – FE, other fingers together – FE",
+"Joint angles and torques",
+"Pneumatic (x3)",
+"Stationary system (with desktop mounted orthosis); physical therapy",
+"CII study: 13(13) cS"
+],
+"page": 6,
+"sect": "Systems assisting wrist and fingers movements"
+},
+{
+"c": [
+"My Scrivener, Obslap Reseach, LLC; Palsbo [190]",
+"3",
+"Wrist * fingers",
+"End-point position and torque (Novint Falcon)",
+"Electric motors (Novint Falcon)",
+"Stationary system (end-effector-based, using haptic device); fine motor hand therapy",
+"CI study: 18 children with weak handwriting skills"
+],
+"page": 6,
+"sect": "Systems assisting wrist and fingers movements"
+},
+{
+"c": [
+"ADLER, Johnson [63]",
+"3+{3}",
+"Shoulder * elbow * forearm",
+"End-point torque, position and velocity (HapticMaster)",
+"DC brushed motors (HapticMaster)",
+"Stationary system (end-effector-based); physical therapy",
+"C0 study: 8 hs [64]"
+],
+"page": 6,
+"sect": "Systems assisting shoulder, elbow and forearm movements"
+},
+{
+"c": [
+"ARAMIS, Pignolo [65]",
+"6x2",
+"Shoulder – FE, AA, RT, elbow – FE, forearm – PS",
+"Joint angles and torques",
+"DC brushed motors (x6 per exoskeleton)",
+"Stationary system (2 exoskeletons); physical therapy",
+"CI study: 14 sS"
+],
+"page": 6,
+"sect": "Systems assisting shoulder, elbow and forearm movements"
+},
+{
+"c": [
+"Gentle/S, Amirabdollahian [121]",
+"3+{3}",
+"Shoulder * elbow * forearm",
+"End-point torque, position and velocity (HapticMaster)",
+"DC brushed motors (HapticMaster)",
+"Stationary system (end-effector-based); physical therapy",
+"CII study: 31(31) sS + cS [66]; predecessor of Gentle/G"
+],
+"page": 6,
+"sect": "Systems assisting shoulder, elbow and forearm movements"
+},
+{
+"c": [
+"iPAM, Culmer [67]",
+"6",
+"Shoulder * elbow * forearm",
+"Joint torques",
+"Pneumatic",
+"Stationary system (2 robotic arms); physical therapy",
+"CI study: 16 cS"
+],
+"page": 6,
+"sect": "Systems assisting shoulder, elbow and forearm movements"
+},
+{
+"c": [
+"Kiguchi [68]",
+"4",
+"Shoulder – FE, AA, elbow – FE, forearm – AA",
+"sEMG",
+"DC motors",
+"Wheelchair mounted system (exoskeleton-based); power assis-tance",
+"C0 study: 1 hs; see also: shoulder, elbow and shoulder-elbow orthoses developed by Kiguchi and SUEFUL-7"
+],
+"page": 6,
+"sect": "Systems assisting shoulder, elbow and forearm movements"
+},
+{
+"c": [
+"L-Exos, Frisoli [197]",
+"4",
+"Shoulder – FE, AA, RT, elbow – FE {forearm – PS}",
+"Joint angles",
+"Electric motors (x4)",
+"Stationary system (exoskeleton-based); physical therapy",
+"CI study: 9 cS [69]"
+],
+"page": 6,
+"sect": "Systems assisting shoulder, elbow and forearm movements"
+},
+{
+"c": [
+"MGA, Carignan [70]",
+"5",
+"Shoulder – FE, AA, RT, VD, elbow – FE, {forearm – PS}",
+"Joint torques",
+"DC brushless motors (x5)",
+"Stationary system (exoskeleton-based); physical therapy",
+"Prototype"
+],
+"page": 6,
+"sect": "Systems assisting shoulder, elbow and forearm movements"
+},
+{
+"c": [
+"MULOS, Johnson [168]",
+"5",
+"Shoulder – FE, AA, RT, elbow – FE, forearm – PS",
+"Joystick (4 DOF)",
+"Electric motors (x5)",
+"Wheelchair-mounted system (exoskeleton-based); power assistance and physical therapy",
+"C0 study: 1 hs"
+],
+"page": 6,
+"sect": "Systems assisting shoulder, elbow and forearm movements"
+},
+{
+"c": [
+"NJIT-RAVR, Fluet [71]",
+"3+{3}",
+"Shoulder * elbow * forearm",
+"End-point torque, position and velocity (HapticMaster)",
+"DC brushed motors (HapticMaster)",
+"Stationary system (end-effector-based); physical therapy of children",
+"CI study: 8 CP"
+],
+"page": 7,
+"sect": "Systems assisting shoulder, elbow and forearm movements"
+},
+{
+"c": [
+"RehabExos, Vertechy [131]",
+"4",
+"Shoulder – FE, AA, RT, elbow – FE {forearm – PS}",
+"Joint torques",
+"Custom-made frameless brushless motor (x3), DC motor (x1)",
+"Stationary system (exoskeleton-based); physical therapy",
+"First prototype"
+],
+"page": 7,
+"sect": "Systems assisting shoulder, elbow and forearm movements"
+},
+{
+"c": [
+"Pneu-WREX, Wolbrecht [145]",
+"4+{1}",
+"Shoulder – FE, AA, HD, elbow – FE, {fingers – GR}",
+"Joint angles, grasp force, cylinder pressure",
+"Pneumatic (x4)",
+"Stationary system (exoskeleton-based); physical therapy",
+"CI study: 11 cS [72]; see also: T-WREX and ArmeoSpring"
+],
+"page": 7,
+"sect": "Systems assisting shoulder, elbow and fingers movements"
+},
+{
+"c": [
+"T-WREX, Sanchez [106]",
+"{5}",
+"{Shoulder – FE, AA, RT, elbow – FE, fingers – GR}",
+"Joint angles, grasp force",
+"None",
+"Wheelchair mounted gravity balancing orthosis; physical therapy",
+"CII studies: 23(11) cS [73], 28(14) cS [74], CI studies: 9cS + 5cS (2 studies) [75]; see also: Pneu-WREX and ArmeoSpring"
+],
+"page": 7,
+"sect": "Systems assisting shoulder, elbow and fingers movements"
+},
+{
+"c": [
+"Ding [179]",
+"4",
+"Elbow – FE, forearm – PS, wrist – FE, AA",
+"Joint angles (a Motion Capture System is used)",
+"Pneumatic (x8)",
+"Wearable (but not portable) orthosis; power assistance for explicitly specified muscles",
+"C0 study: 6 hs"
+],
+"page": 7,
+"sect": "Systems assisting elbow, forearm and wrist movements"
+},
+{
+"c": [
+"MAHI, Gupta [76]",
+"5",
+"Elbow – FE, forearm – PS, wrist – FE * AA",
+"Joint angles",
+"Frameless DC brushless motors",
+"Wearable orthosis (force-feedback exoskeleton); physical therapy",
+"Prototype; extension for MIME; see also: RiceWrist"
+],
+"page": 7,
+"sect": "Systems assisting elbow, forearm and wrist movements"
+},
+{
+"c": [
+"WOTAS, Rocon [99]",
+"[3]",
+"[Elbow – FE, forearm – PS, wrist – FE]",
+"Angular velocity, torques",
+"DC motors (x3)",
+"Wearable orthosis; tremor suppression",
+"CI study: 10 mainly ET"
+],
+"page": 7,
+"sect": "Systems assisting elbow, forearm and wrist movements"
+},
+{
+"c": [
+"Haptic Knob, Lambercy [77]",
+"2",
+"Forearm – PS * wrist – FE, fingers – GR",
+"Position, torque",
+"DC brushed motors (x2)",
+"Stationary system (2 parallelograms); physical therapy",
+"CI study: 3 cS"
+],
+"page": 7,
+"sect": "Systems assisting forearm, wrist and fingers movements"
+},
+{
+"c": [
+"Hasegawa [98]",
+"11",
+"Forearm – PS, wrist – FE, AA, thumb – FE (x2), index finger – FE (x3), other fingers together – FE (x3)",
+"sEMG",
+"DC motors (x11)",
+"Wearable orthosis; grasp assistance",
+"C0 study: 1 hs"
+],
+"page": 7,
+"sect": "Systems assisting forearm, wrist and fingers movements"
+},
+{
+"c": [
+"Kawasaki [178]",
+"18",
+"Forearm – PS, wrist -- FE, thumb – FE (x3), AA, otherfingers – FE (x2), AA",
+"Joint angles of healthy hand",
+"Servo motors (x22)",
+"Stationary system (exoskeleton-based); physical therapy",
+"C0 study: 1 hs"
+],
+"page": 7,
+"sect": "Systems assisting forearm, wrist and fingers movements"
+},
+{
+"c": [
+"Scherer [156]",
+"[1]",
+"[Forearm and fingers twisting movements * wrist – FE]",
+"Position, torque",
+"Magnetic particle brake",
+"Stationary system (end-effector-based, rotating handle); physical therapy",
+"CI study: 2 stroke + 1 MS"
+],
+"page": 7,
+"sect": "Systems assisting forearm, wrist and fingers movements"
+},
+{
+"c": [
+"Braccio di Ferro, Casadio [134]",
+"2",
+"Shoulder * elbow * (forearm) * wrist (in the horizonatal or vertical plane)",
+"Device joint angles, end-point force",
+"AC brushless servomotors (x2)",
+"Stationary system (end-effector-based); physical therapy",
+"CI studies: 10 cS + 4 hs [78], 7 MS + 9 hs [79], 11 MS + 11 hs [80], 8 MS [81]"
+],
+"page": 7,
+"sect": "Systems assisting shoulder, elbow, forearm and wrist movements"
+},
+{
+"c": [
+"CADEN-7, Perry [97]",
+"2x7",
+"Shoulder – FE, AA, RT, elbow – FE, forearm – PS, wrist – FE, AA",
+"sEMG, joint angles, angular velocities and forces/torques",
+"DC brushed motors (2x7)",
+"Stationary system (exoskeleton-based), 2 robotic arms; power assistance",
+"C0 study: 1 hs"
+],
+"page": 7,
+"sect": "Systems assisting shoulder, elbow, forearm and wrist movements"
+},
+{
+"c": [
+"Denève [82]",
+"3",
+"Shoulder * elbow * (forearm) * wrist",
+"Device joint angles, end-point force",
+"AC brushless motors (x3)",
+"Stationary system (end-effector-based); physical therapy",
+"Prototype"
+],
+"page": 8,
+"sect": "Systems assisting shoulder, elbow, forearm and wrist movements"
+},
+{
+"c": [
+"EMUL, Furusho [159]",
+"3",
+"Shoulder * elbow*(forearm) * wrist",
+"End-point position",
+"Electric motors + ERF clutches",
+"Stationary system (end-effector-based); physical therapy",
+"CI study: 6 stroke; predecessor of PLEMO, see also: Robotherapist"
+],
+"page": 8,
+"sect": "Systems assisting shoulder, elbow, forearm and wrist movements"
+},
+{
+"c": [
+"ESTEC exoskeleton, Schiele [115]",
+"9",
+"Shoulder – FE, AA, RT, VD, HD, elbow – FE, forearm – PS, wrist – FE, AA",
+"Joint angles",
+"Not selected yet",
+"Wearable system (exoskeleton-based); physical therapy",
+"First prototype"
+],
+"page": 8,
+"sect": "Systems assisting shoulder, elbow, forearm and wrist movements"
+},
+{
+"c": [
+"Furuhashi [83]",
+"3",
+"Shoulder * elbow * (forearm) * wrist",
+"End-point torque",
+"DC motors (x3)",
+"Stationary system (end-effector-based); physical therapy",
+"Prototype"
+],
+"page": 8,
+"sect": "Systems assisting shoulder, elbow, forearm and wrist movements"
+},
+{
+"c": [
+"Hybrid-PLEMO, Kikuchi [135]",
+"2",
+"Shoulder * elbow * (forearm) * wrist (in the adjustable plane)",
+"Device joint angles, end-point force",
+"DC servomotors (x2) + ERF clutches/brakes (x4)",
+"Stationary system (end-effector-based); physical therapy",
+"Prototype; based on PLEMO"
+],
+"page": 8,
+"sect": "Systems assisting shoulder, elbow, forearm and wrist movements"
+},
+{
+"c": [
+"Lam [180]",
+"2",
+"Shoulder *elbow * (forearm) * wrist (in the plane)",
+"End-point position, abnor-mal trunk posi-tion detection",
+"Not specified",
+"Stationary system (end-effector-based); physical therapy",
+"C0 study: 8 hs"
+],
+"page": 8,
+"sect": "Systems assisting shoulder, elbow, forearm and wrist movements"
+},
+{
+"c": [
+"Li [176]",
+"5",
+"Shoulder – FE, AA, elbow – FE, forearm – PS, wrist – FE",
+"sEMG signals from not affected arm",
+"AC (x3) and DC (x2) servo motors",
+"Wearable system (exoskeleton-based); physical therapy",
+"Prototype"
+],
+"page": 8,
+"sect": "Systems assisting shoulder, elbow, forearm and wrist movements"
+},
+{
+"c": [
+"MACARM, Beer [112]",
+"6",
+"Shoulder * elbow * forearm * wrist",
+"End-point posi-tion and force",
+"Electric motors (x8)",
+"Stationary system (end-effector-based, cable-driven robot); physical therapy",
+"CI study: 5 cS"
+],
+"page": 8,
+"sect": "Systems assisting shoulder, elbow, forearm and wrist movements"
+},
+{
+"c": [
+"Mathai [84]",
+"3",
+"Shoulder * elbow * forearm * wrist",
+"End-point torque, position and velocity (HapticMaster)",
+"DC brushed motors (HapticMaster)",
+"Stationary system (end-effector-based); physical therapy",
+"CI study: 4 cS"
+],
+"page": 8,
+"sect": "Systems assisting shoulder, elbow, forearm and wrist movements"
+},
+{
+"c": [
+"MIME-RiceWrist, Gupta [119]",
+"10",
+"Shoulder * elbow * forearm * wrist",
+"See separate information for MIME and RiceWrist system",
+"See separate information for MIME and RiceWrist system",
+"Stationary system (robotic arm + orthosis); physical therapy",
+"CI study: stroke (np)"
+],
+"page": 8,
+"sect": "Systems assisting shoulder, elbow, forearm and wrist movements"
+},
+{
+"c": [
+"PLEMO, Kikuchi [105]",
+"[2]",
+"[Shoulder*elbow* (forearm) * wrist] (in the adjustable plane)",
+"Device joint angles, end-point force",
+"ERF brakes",
+"Stationary system (end-effector-based); physical therapy",
+"CI study: 6 stroke + 27 hs [85]; successor of EMUL, predecessor of Hybrid-PLEMO"
+],
+"page": 8,
+"sect": "Systems assisting shoulder, elbow, forearm and wrist movements"
+},
+{
+"c": [
+"Robotherapist, Furusho [160]",
+"6",
+"Shoulder * elbow * forearm * wrist",
+"End-point position",
+"Electric motors + ERF clutches",
+"Stationary system (end-effector-based); physical therapy",
+"Prototype; see also: EMUL"
+],
+"page": 8,
+"sect": "Systems assisting shoulder, elbow, forearm and wrist movements"
+},
+{
+"c": [
+"RUPERT IV, Balasubrama- nian [151]",
+"5",
+"Shoulder – AA, RT, elbow – FE, forearm – PS, wrist – FE",
+"Joint torques and actuators pressure",
+"Pneumatic (PAMs)",
+"Wearable system (exoskeleton-based); physical therapy",
+"CI study: 6 cS [86]"
+],
+"page": 8,
+"sect": "Systems assisting shoulder, elbow, forearm and wrist movements"
+},
+{
+"c": [
+"Salford Arm Rehabilitation Exoskeleton, Tsagarakis [148]",
+"7",
+"Shoulder – FE, AA, RT, elbow – FE, forearm – PS, wrist – FE, AA",
+"Joint positions and torques",
+"Linear pneumatic actuators (PAMs) (x14)",
+"Stationary system (exoskeleton-based); physical therapy",
+"Prototype"
+],
+"page": 8,
+"sect": "Systems assisting shoulder, elbow, forearm and wrist movements"
+},
+{
+"c": [
+"Sophia-3, Rosati [87]",
+"2",
+"Shoulder * elbow * (forearm) * wrist (in the plane)",
+"End-point posi-tion and force",
+"AC motors",
+"Stationary system (end-effector-based, planar cable-driven robot); physical therapy",
+"First prototype; see also: Sophia-4"
+],
+"page": 8,
+"sect": "Systems assisting shoulder, elbow, forearm and wrist movements"
+},
+{
+"c": [
+"Sophia-4, Rosati [87]",
+"2",
+"Shoulder * elbow * (forearm) * wrist (in the plane)",
+"End-point position and force",
+"DC motors",
+"Stationary system (end-effector-based, planar cable-driven robot); physical therapy",
+"Prototype; see also: Sophia-3"
+],
+"page": 8,
+"sect": "Systems assisting shoulder, elbow, forearm and wrist movements"
+},
+{
+"c": [
+"SUEFUL-7, Gopura [166]",
+"7",
+"Shoulder – FE, AA, RT, elbow – FE, forearm – PS, wrist – FE, AA",
+"sEMG/joint forces/torques",
+"DC servo motors (x7)",
+"Stationary system (exoskeleton-based); power assistance",
+"C0 study: 2 hs; shoulder-elbow orthosis integrated with W-EXOS system"
+],
+"page": 9,
+"sect": "Systems assisting shoulder, elbow, forearm and wrist movements"
+},
+{
+"c": [
+"Takahashi [182]",
+"2",
+"Shoulder * elbow * (forearm) * wrist (in the plane)",
+"End point posi-tion",
+"Electric servomotors (x2)",
+"Stationary system (end-effector-based); physical therapy",
+"CI study: 5 stroke + 2 Guillain-Bare syndrome"
+],
+"page": 9,
+"sect": "Systems assisting shoulder, elbow, forearm and wrist movements"
+},
+{
+"c": [
+"Tanaka [88]",
+"2",
+"Shoulder * elbow* (forearm)* wrist (in the plane)",
+"End-point force and position",
+"AC linear motor (x2)",
+"Stationary system (end-effector-based); physical therapy",
+"C0 study: 6 hs"
+],
+"page": 9,
+"sect": "Systems assisting shoulder, elbow, forearm and wrist movements"
+},
+{
+"c": [
+"UHD, Oblak [139]",
+"2",
+"3 configurations possible: 1) shoulder * elbow, 2) forearm – PS, wrist – FE, 3) forearm – PS, wrist – AA",
+"Torque and handle position",
+"DC motors (x2), (SEA)",
+"Stationary system (end-effector-based); physical therapy",
+"CI study: 1 cS; reconfigurable robot"
+],
+"page": 9,
+"sect": "Systems assisting shoulder, elbow, forearm and wrist movements"
+},
+{
+"c": [
+"Umemura [152]",
+"7",
+"Shoulder – FE, AA, RT, elbow – FE, forearm – PS, wrist – FE, AA",
+"Actuators pressure",
+"Hydraulic",
+"Stationary system (end-effector-based); physical therapy",
+"Prototype"
+],
+"page": 9,
+"sect": "Systems assisting shoulder, elbow, forearm and wrist movements"
+},
+{
+"c": [
+"UMH, Morales [127]",
+"6",
+"Shoulder * elbow * forearm * wrist",
+"Joint torques",
+"Pneumatic",
+"Stationary system (two robotic arms); physical therapy",
+"C0 study: hs (np)"
+],
+"page": 9,
+"sect": "Systems assisting shoulder, elbow, forearm and wrist movements"
+},
+{
+"c": [
+"Xiu-Feng [89]",
+"2",
+"Shoulder * elbow * (forearm) * wrist (in the plane)",
+"Device joint angles, end-point force",
+"AC servomotors (x2)",
+"Stationary system (end-effector-based); physical therapy",
+"CI study: 30 stroke"
+],
+"page": 9,
+"sect": "Systems assisting shoulder, elbow, forearm and wrist movements"
+},
+{
+"c": [
+"",
+"",
+"",
+"",
+"",
+"",
+""
+],
+"page": 9,
+"sect": "Systems assisting shoulder, elbow, forearm and wrist movements"
+},
+{
+"c": [
+"ArmeoPower, Hocoma AG; based on: ARMin III, Nef [90]",
+"6{+1}",
+"Shoulder – FE, AA, RT, elbow – FE, forearm – PS, wrist – FE, {fingers – GR}",
+"Joint angles, grasp force",
+"DC motors (x6)",
+"Stationary system (exoskeleton-based); physical therapy",
+"Commercial system; CI studies: 3 cS (ARMin I) [91], 4 cS (ARMin II) [92]"
+],
+"page": 9,
+"sect": "Systems assisting shoulder, elbow, forearm, wrist and finger movements (whole arm)"
+},
+{
+"c": [
+"ArmeoSpring, Hocoma AG; based on: T-WREX, Sanchez [106]",
+"{7}",
+"{Shoulder – FE, AA, RT, elbow – FE, forearm – PS, wrist – FE, fingers – GR}",
+"Joint angles, grasp force",
+"None",
+"Stationary system (exoskeleton-based); physical therapy",
+"Commercial system (CE Mark, FDA clearance); CI study: 10 MS [93]; see also: T-WREX"
+],
+"page": 9,
+"sect": "Systems assisting shoulder, elbow, forearm, wrist and finger movements (whole arm)"
+},
+{
+"c": [
+"ARMOR, Mayr [177]",
+"8",
+"Shoulder – FE, AA, RT, elbow – FE, forearm – PS, wrist – FE, thumb – FE, other fingers together – FE",
+"Joint angles of the master hand",
+"Electric motor",
+"Stationary master-slave system (exoskeleton-based); physical therapy",
+"CII study: 8(8) sS"
+],
+"page": 9,
+"sect": "Systems assisting shoulder, elbow, forearm, wrist and finger movements (whole arm)"
+},
+{
+"c": [
+"Gentle/G, Loureiro [123]",
+"6{+3}",
+"Shoulder * elbow (3 DOF, HapticMaster), {forearm – PS, wrist – FE, AA}, thumb – FE, other fingers together – FE (x2) (grasp robot)",
+"End-point torque, position and velocity (HapticMaster) joint angels and end-point force (grasp robot)",
+"DC brushed motors (HapticMaster and grasp robot)",
+"Stationary system (robotic arm + orthosis); physical therapy",
+"CII study: 4(4) sS [94]; based on Gentle/S"
+],
+"page": 9,
+"sect": "Systems assisting shoulder, elbow, forearm, wrist and finger movements (whole arm)"
+},
+{
+"c": [
+"HEnRiE, Mihelj [124]",
+"4{+2}",
+"Shoulder * elbow (3 DOF, Haptic-Master), {wrist – FE, AA}, thumb, middle and index finger together – GR",
+"End-point torque, position and velocity (HapticMaster) joint angels and end-point force",
+"DC brushed motors (HapticMaster) electric motors (grasping device)",
+"Stationary system (robotic arm + orthosis); physical therapy",
+"Prototype (with spring instead of an actuator in the hand part); C0 study: 1 hs; based on Gentle/S"
+],
+"page": 9,
+"sect": "Systems assisting shoulder, elbow, forearm, wrist and finger movements (whole arm)"
+},
+{
+"c": [
+"IntelliArm, Ren [116]",
+"8{+2}",
+"Shoulder – FE, AA, RT, VD, {HD (x2)}, elbow – FE, fore-arm – PS, wrist – FE, all fingers together – GR",
+"Joint angles and torques",
+"Not specified",
+"Stationary system (exoskeleton-based); physical therapy",
+"CI study: stroke (np)"
+],
+"page": 10,
+"sect": "Systems assisting shoulder, elbow, forearm, wrist and finger movements (whole arm)"
+},
+{
+"c": [
+"MUNDUS, Pedrocchi [101]",
+"[3]+{2}+1",
+"[Shoulder – FE, AA, elbow – FE], optional: forearm – PS, wrist – FE (shoulder-elbow-wrist exoskeleton), optional: all fingers together – GR (hand orthosis)",
+"sEMG, button, eye-movement orBranComputer Interface; object labels – radio frequency identification",
+"elastic elements or DC brakes (shoulder-elbow-wrist exoskeleton), FES (optional), DC motor (optional hand orthosis)",
+"Modular wheelchair-mounted system (exoskeleton-based); movement assistance",
+"CI study: 3 SCI + 2 MS"
+],
+"page": 10,
+"sect": "Systems assisting shoulder, elbow, forearm, wrist and finger movements (whole arm)"
+},
+{
+"c": [
+"ReoGo, Motorica Medical Inc.",
+"2+{1}",
+"Shoulder * elbow; also {* wrist} or {fingers - FE} if special handle used",
+"End-point posi-tion",
+"Electric motors (x4)",
+"Portable system (end-effector-based) with various handles; physical therapy",
+"Commercial system; CIII/CIV study: 60(np) sS [198], CI studies: 14 cS [95], 10 sS [96]"
+],
+"page": 10,
+"sect": "Systems assisting shoulder, elbow, forearm, wrist and finger movements (whole arm)"
+}
+]
