@@ -1,0 +1,21 @@
+SPEC = [
+ (['Rostral', 'electrode@427,28'], '头端\n电极'), (['Average', 'Caudal', 'spinal cord electrode'], '平均　　尾端\n脊髓　　电极'),
+ (['Dorsal root', 'recruitment', 'curves'], '背根\n募集曲线'),
+ (['Optimal positon', 'tocompensate', 'forlateralshifts'], '可补偿侧向\n偏移的最佳位置', {'al': 'l'}),
+ (['Grid with', '7x5cathode', 'positions@539,65'], '7×5 阴极\n位置网格', {'al': 'l'}),
+ (['Maximal', 'selectivity@963,97'], '最大\n选择性', {'al': 'r'}), (['Selectivity@727,312', 'Index'], '选择性\n指数'),
+ ('average cord length: 58.5 mm', '平均脊髓长度：58.5 mm'),
+ (['b:Rostrocaudal', 'length'], 'b：头尾\n长度'), (['c: Optimal', 'lateral width'], 'c：最佳\n侧向宽度'),
+ (['d:Optimalelectrode', 'forcurrentsteering'], 'd：引导电流的\n最佳电极'), (['e:Transversal', 'electrodes'], 'e：横向排列\n的电极'),
+ (['Monopolar', 'stimulation'], '单极刺激', {'rot': True}), ('Selectivity index (a.u.)', '选择性指数（任意单位）'),
+ (['el.current', '(a.u.)'], '电流\n（任意单位）'), (['Selectivityofeachelectrode', 'of the grid'], '网格中每个电极的选择性'),
+ (['Optimal position,', 'robusttolateralshifts'], '最佳位置：\n不怕侧向偏移'),
+ (['Grid testing', 'ofanode', 'positions'], '阳极位置\n网格测试', {'al': 'l'}),
+ (['Anode', 'placement', 'torecover', 'selectivity@313,397'], '放置阳极\n以恢复\n选择性', {'al': 'l'}),
+ (['Off-target', 'cathode'], '偏离目标\n的阴极', {'al': 'l'}), ('Selectivity', '选择性'),
+ (['selectivity of dorsal', 'rightS2 rootlet'], '右侧 S2 背根丝\n的选择性'), ('high', '高'), ('low', '低'), ('Potential', '电位'),
+ (['Off-target position', 'of the electrode'], '电极偏离\n目标位置'),
+ (['Midline anode', 'for current steering@244,660'], '中线阳极\n引导电流'), (['Anode position', 'for current steering@388,660'], '阳极位置\n引导电流'),
+ ('electriccurrent(a.u.)', '电流（任意单位）'),
+]
+EXTRA = []

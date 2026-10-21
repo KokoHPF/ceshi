@@ -1,0 +1,20 @@
+SPEC = [(f'Step {i}', f'步骤 {i}') for i in range(1, 8)] + [(f'Step{i}', f'步骤 {i}') for i in range(1, 8)] + [
+ ('Finiteelementmodelofoneparticipant', '一名受试者的有限元模型'), ('Side-by-sidecomparisonofmodelled and photographedrootlets', '模型根丝与实物照片根丝对比'),
+ (['withsingletubularstructures', 'torepresentspinalroots'], '用单根管状结构\n代表脊神经根'),
+ (['withmultipletubularstructures', 'torepresentspinalrootlets'], '用多根管状结构\n代表脊神经根丝'),
+ (['Monopolar stimul', 'ation'], '单极刺激'),
+ (['Afferent recruitmentpatterndiffersstronglybetweenbothmodelsinresponse', 'tothesamestimulationparameter'], '相同刺激参数下，两种模型的传入纤维募集模式差异很大'),
+ (['Leadis positioned withthemost rostraland lateral', 'electrodesalignedwiththeL1segment'], '放置电极板时，让最头端的外侧电极\n对准 L1 节段'),
+ (['Target L1 with most', 'rostrallateralelectrode'], '用最头端外侧\n电极刺激 L1'), (['Target S1 withmost', 'caudal lateralelectrode'], '用最尾端外侧\n电极刺激 S1'),
+ ('Afferent recruitment (%)', '传入纤维募集（%）'), ('selectivity index (a.u.)', '选择性指数（任意单位）'), ('Electric current (a.u.)', '电流（任意单位）'),
+ (['Spinal cordsofatlasarranged', 'fromlargesttosmallestcord'], '图谱中的脊髓\n按从长到短排列'),
+ ('Variabilityassessmentbetweenwidthof dorsal rootentryzoneandsegmental length', '背根入髓区宽度与节段长度的变异性评估'),
+ (['Inter-individual (n=27) length', 'variability (mm)@469,997'], '个体间长度变异（mm，27 人）'),
+ (['Measuredonmodels', 'elaboratedfromMRIscans', '(n=15 individuals)'], '在磁共振重建模型上测量\n（15 人）'),
+ (['Inter-individual (n=15) width', 'variability (mm)@179,999'], '个体间宽度变异（mm，15 人）'),
+ (['Dorsal root Segmental', 'entryzone@312,1255', 'length'], '背根入髓区　节段长度'),
+ (['Dorsal root', 'entryzone'], '背根\n入髓区'), (['Measuredon human', 'cadavers(n=12)'], '在人体尸体上测量\n（12 具）'),
+ ('on=15 individuals', '● 15 人', {'al': 'l', 'fg': (150, 30, 45)}), ('Variability of all segments (mm)', '所有节段的变异（mm）'),
+ ('Spinal cord length (mm)', '脊髓长度（mm）'),
+]
+EXTRA = []

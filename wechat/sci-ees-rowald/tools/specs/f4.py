@@ -1,0 +1,28 @@
+_emg = [('RF', '股直'), ('VLat', '股外'), ('VLat/', '股外'), ('VLat!', '股外'), ('ST', '半腱'), ('STI', '半腱'), ('TA', '胫前'), ('TAI', '胫前'),
+        ('MG', '腓肠'), ('Sol', '比目'), ('Sol!', '比目'), ('II.', '髂腰')]
+SPEC = [
+ (['Left&', 'Right@38,1171'], '左和右', {'rot': True}),
+ ('Hip Flexion', '屈髋', {'al': 'l'}), ('Full leg flexion', '全腿屈曲', {'al': 'l'}), ('Weight Acceptance', '承重', {'al': 'l'}),
+ ('Propulsion@859,31', '推进', {'al': 'l'}),
+ (['Rectus@81,72', 'Femoris@84,84'], '股直肌'), (['Rectus@330,75', 'Femoris@333,87', '(RF)@325,98'], '股直肌'),
+ (['Semi-@263,96', 'Tendin', '(ST)@260,121'], '半腱肌'), (['Tibialis', 'Anterior', '(TA)'], '胫前肌'),
+ (['Vastus', 'Lateralis', '(VLat)'], '股外侧肌'), (['Rectus@581,77', 'Femoris@584,99', '(RF)@575,111'], '股直肌'),
+ (['Semi-@772,70', 'Tendinosus', '(ST)@769,92'], '半腱肌'), (['Gastrocnemius', '(MG)'], '腓肠肌\n内侧头'), (['Soleus', '(Sol)'], '比目鱼肌'),
+ (['b sequence ofleg muscle', 'activity in', 'healthy individuals'], 'b 健康人腿部\n　肌肉活动序列', {'al': 'l'}),
+ (['Spatiotemporalmapof', 'motorneuronactivation', '(motorhotspot)'], '运动神经元激活\n时空图（运动热点）'),
+ (['Template of', 'spatiotemporalstimulation', 'sequence'], '时空刺激\n序列模板'),
+ (['Live adaptation', 'ofthestimulationtemplate'], '实时调整刺激模板'),
+ (['Leg kinematics and', 'muscleactivitysynchronized', 'withstimulationsequence'], '腿部运动学和肌肉活动\n与刺激序列同步'),
+ (['Weight', 'acceptance'], '承重'), ('Propulsion_', '推进'), ('Flexion', '屈曲'),
+ ('Left', '左'), ('Right', '右'), ('Right-', '右'), ('stance', '支撑'), ('swing', '摆动'), ('STANCE', '支撑期'), ('SWING', '摆动期'),
+ ('d Walking on a treadmill', 'd 跑台行走', {'al': 'l'}), ('24 h', '24 小时'), ('Walkingovergroundbetweenparallelbars', '在双杠间地面行走', {'al': 'l'}),
+ ('1 Week', '1 周'), ('Sit-to-stand', '坐到站', {'al': 'l'}), ('Swimming', '游泳', {'al': 'l'}), ('Leg press', '腿举', {'al': 'l'}),
+ ('Cycling', '骑行', {'al': 'l'}), ('Left stroke', '左侧划水'), ('Right stroke', '右侧划水'), ('Getup', '起身'), ('Stand', '站立'),
+ ('ON', '开'), ('OFF', '关'), ('Rest Push HoldReturnRest', '休息　推蹬　保持　回位　休息'),
+ ('Amplitude', '强度'),
+] + [(a, b, {'al': 'r'}) for a, b in _emg]
+EXTRA = [((114, 49, 125, 63), '髂腰', {'al': 'r'}), ((369, 49, 382, 63), '髂腰', {'al': 'r'}), ((616, 52, 629, 66), '髂腰', {'al': 'r'}),
+         ((865, 49, 878, 63), '髂腰', {'al': 'r'}), ((52, 47, 104, 62), '髂腰肌', {'al': 'l'}), ((290, 48, 347, 63), '髂腰肌', {'al': 'l'}),
+         ((66, 89, 88, 102), '', {}), ((3, 268, 29, 284), '髂腰', {'al': 'r'}), ((620, 726, 642, 742), '髂腰', {'al': 'r'}),
+         ((107, 139, 125, 152), '腓肠', {'al': 'r'}), ((283, 101, 301, 116), '', {}), ((861, 1000, 891, 1023), '左', {}),
+         ((488, 1138, 504, 1192), '左和右', {'rot': True})]
