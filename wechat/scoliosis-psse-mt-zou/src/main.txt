@@ -1,0 +1,1471 @@
+
+=====PAGE 1
+Wenxia et al. BMC Musculoskeletal Disorders          (2024) 25:874  
+https://doi.org/10.1186/s12891-024-07974-1
+RESEARCH
+Open Access
+© The Author(s) 2024. Open Access This article is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 
+International License, which permits any non-commercial use, sharing, distribution and reproduction in any medium or format, as long 
+as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if 
+you modified the licensed material. You do not have permission under this licence to share adapted material derived from this article or 
+parts of it. The images or other third party material in this article are included in the article’s Creative Commons licence, unless indicated 
+otherwise in a credit line to the material. If material is not included in the article’s Creative Commons licence and your intended use is not 
+permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To 
+view a copy of this licence, visit http://creativecommons.org/licenses/by-nc-nd/4.0/.
+BMC Musculoskeletal
+Disorders
+The efficacy of combined physiotherapeutic 
+scoliosis‑specific exercises and manual therapy 
+in adolescent idiopathic scoliosis
+Zou Wenxia1†, Li Yuelong1†, Zhang Zhou1, Jia Guoqing1, Huang Huanjie1, Zhang Guifang1, Wang Chuhuai1*, 
+Lo Wai Leung Ambrose1,2* and Liu Peng1* 
+Abstract 
+Background  Adolescent idiopathic scoliosis (AIS) is a pathological condition characterized by vertebral curvature 
+and associated trunk deformities in adolescents. The clinical efficacy of conservative treatment in alleviating spinal 
+curvature of AIS remains a topic of ongoing debate. The objective of this study was to investigate the impact of com-
+bined physiotherapeutic scoliosis-specific exercises (PSSE) and manual therapy (MT) on trunk deformity, spinal func-
+tion, mobility, and mental health in patients with AIS.
+Methods  Thirty-one participants who were diagnosed with AIS whose Cobb angle was between 10–45°were 
+enrolled in the study. Participants in the intervention group received 50 min of PSSE combined with 10 min of MT, 
+while the control group performed 50 min of PSSE as their home exercise program. Both treatments were imple-
+mented three times a week for four weeks. Cobb angle, spinal mobility, trunk morphology (vertebral rotation angle, 
+apical deviation, pelvic obliquity distance and angle), movement capability, and quality of life (QOL) were assessed 
+at baseline and post intervention. The treatment effects between the intervention and control groups were analyzed 
+using a two-way repeated measures ANOVA.
+Results  Following a 4-week treatment period, Cobb angle was significantly reduced from 21.58° to 18.58° in inter-
+vention group and increased from 18.00° at baseline and 19.14° post intervention in the control group. Significant 
+improvements were also observed in spinal mobility, movement capability, quality of life, and some of the trunk mor-
+phology indices in the intervention group compared to baseline (p < 0.05). Improvements were significantly higher 
+in the intervention group than the control group.
+Conclusion  Combining PSSE and MT shows potential benefits in alleviating AIS symptoms and improving QOL. 
+Further studies to substantiate these findings are warranted.
+Trial registration  The trial was retrospectively registered in the Chinese Clinical Trial Registry (https://​www.​chictr.​org.​
+cn) with the registration number: ChiCTR2300071357, (Date: 12/05/2023).
+Keywords  Scoliosis, Manual therapy, Surface topography, Exercise therapy
+†Zou Wenxia and Li Yuelong contributed equally to this work.
+*Correspondence:
+Wang Chuhuai
+wangchuh@mail.sysu.edu.cn
+Lo Wai Leung Ambrose
+luowliang@mail.sysu.edu.cn
+Liu Peng
+liupeng2@mail.sysu.edu.cn
+Full list of author information is available at the end of the article
+
+=====PAGE 2
+Page 2 of 12
+Wenxia et al. BMC Musculoskeletal Disorders          (2024) 25:874 
+Background
+The prevalence of adolescent idiopathic scoliosis (AIS) 
+on a global scale has been estimated to range between 2 
+and 3% [1]. AIS is a structural spinal disorder that occurs 
+during puberty and lacks a definitive etiology. Individuals 
+who experience a high severity of lateral curvature dur-
+ing their peak growth period may suffer from a decreased 
+quality of life (QOL), poor perceived appearance, disabil-
+ity, and pain [2, 3]. This condition not only exerts detri-
+mental psychosocial impacts, including social barriers, 
+elevated suicide rates in individuals with AIS [4], but 
+also has a negative psychological effect on the parents or 
+guardians [5]. Given the health risks associated with AIS, 
+it is essential to identify treatment strategies that mini-
+mize the progression of the spinal curve.
+To slow down the progression of AIS and correct the 
+spinal deformity throughout pubertal growth, non-surgi-
+cal treatment such as braces and physiotherapeutic sco-
+liosis-specific exercises (PSSE) are recommended as the 
+primary approach for mild-to-moderate AIS [6]. Bracing 
+is considered an essential therapeutic option for patients 
+with AIS who have Cobb angle exceeding 25°. The effec-
+tiveness of bracing may be influenced by the manufactur-
+ing techniques, brace type, adherence to wearing time 
+and patient compliance [7, 8]. PSSE is recommended as 
+the preferred treatment for patients with AIS who have 
+Cobb angle of less than 25° to slow down the progression 
+of the deformity [6]. It focuses on the integration of sen-
+sorimotor and enhancement of motor control through 
+specific three-dimensional autocorrection and targeted 
+exercises [9]. Several studies have suggested that PSSE 
+leads to improvements in spinal function, health related 
+quality of life, self-image, and psychosocial well-being 
+[10, 11]. However, systematic reviews indicate that the 
+evidence regarding the effectiveness of PSSE for AIS 
+remains inconclusive [12–14].
+Manual therapy (MT) can be defined as “the use of 
+hands to apply a force with a therapeutic intent”, which 
+may include joint mobilization, massage, myofascial 
+release, nerve manipulation, strain and acupressure [15]. 
+MT of myofascial release and spinal manipulations may 
+have the potential to reduce the Cobb angle, prevent sco-
+liotic curve progression, improve spinal mobility, and 
+alleviate back pain [16]. However, the effectiveness of 
+MT in improving Cobb angle of AIS remains inconclu-
+sive. Existing evidence suggests that MT may play a role 
+in reducing pain, decrease spinal stiffness and restore 
+biomechanical dysfunction segments [17]. High-velocity, 
+low-amplitude spinal manipulation (HVLA-SM) tech-
+niques have been found to elicit muscle spindle activity 
+by evoking high-frequency peripheral sensory input [18]. 
+Other studies also reported that spinal manipulation 
+may facilitate cerebral cortex reorganization to enhance 
+top-to-bottom sensorimotor integration and move-
+ment control [19]. Post-manipulation observations have 
+shown significant increases in neuronal activity, electro-
+myographic responses, paraspinal muscle activity, and 
+segmental and intersegmental acceleration responses 
+[20, 21]. The incorporation of MT may complement the 
+benefits of exercise therapy to reduce spinal curvature of 
+patients with AIS [22]. To date, there is a limited num-
+ber of studies exploring the potential advantages of inte-
+grating MT with PSSE, and ongoing research is currently 
+being conducted, with results awaiting publication [23]. 
+The present study aimed to investigate the effect of com-
+bining PSSE with MT in trunk morphology, spinal mobil-
+ity, movement abilities and quality of life in patients with 
+AIS.
+Materials and methods
+Recruitment
+Participants had been recruited through the outpatient 
+service of The First Affiliated Hospital of Sun Yat-sen 
+University from February 2021 to February 2022. The 
+inclusion criteria were that study participants volun-
+teered to be subjects of this research, that they had been 
+diagnosed with AIS, were aged 10–18  years old at the 
+time of the study, had a Cobb angle of 10–45° in tho-
+racic or lumbar. Prospective participants were excluded 
+from the study where they had non-idiopathic scoliosis, 
+exercise contraindications, had previously received treat-
+ment for scoliosis, bracing, or could not conduct motor 
+training. The trial was retrospectively registered at www.​
+chictr.​org.​cn (ChiCTR2300071357), dated 12/05/2023. 
+After approval from the institutional review approved by 
+the Clinical Research Ethics Committee of The First Affil-
+iated Hospital at Sun Yat-sen University (ETHICS No. 
+[2021]101) dated 20/01/2021, the data collection pro-
+cess was started. Written informed consent was obtained 
+from all participants and their legal representatives.
+Study design and procedure
+All participants were given the options to participate 
+in either the intervention group or the control group. 
+Standard health education was provided to both groups 
+as part of routine clinical care. The participants in 
+the intervention group underwent a 4-week interven-
+tion comprising 50 min of supervised PSSE and 10 min 
+of MT sessions for three times a week. In the control 
+group, participants and their parents were taught about 
+the PSSE by physiotherapists, and it requires parents to 
+record a video recording in the process in 50 min. AIS 
+participants in the control group were asked to perform 
+50-min home exercise programs three times a week for 
+four weeks, under parental supervision with video. The 
+benefit of bracing was not investigated in the present 
+
+=====PAGE 3
+Page 3 of 12
+Wenxia et al. BMC Musculoskeletal Disorders          (2024) 25:874 
+	
+study since the latest Cochrane review casted uncer-
+tainty about the additional benefits of combining PSSE 
+with bracing [24], along with supporting evidence for 
+PSSE for mild to moderate AIS [25].
+Intervention
+Health education
+The participants and their parents were provided with 
+comprehensive clinical information regarding AIS. This 
+information covered the potential adverse effects associ-
+ated with AIS, the factors influencing the progression of 
+scoliotic curvature, and the importance of seeking suit-
+able treatment. Additionally, patients were advised to 
+prioritize maintaining proper body posture and incorpo-
+rating regular exercise into their daily routines.
+Physiotherapeutic scoliosis‑specific exercises
+PSSE were delivered by experienced physiotherapists, 
+which encompassed a range of techniques including 
+spinal stabilizing exercises, breathing training, postural 
+correction, and three dimensions autocorrection. The 
+intervention program was based on the principles of 
+Schroth and Scientific Exercise Approach to Scoliosis 
+(SEAS) methods [9, 26, 27]. The levels of exercise diffi-
+culty were individualized based on specific clinical needs 
+to achieve participants can cooperate with the exercise. 
+Empirical evidence has shown that spinal stabilizing 
+and core strengthening exercises effectively enhance the 
+strength of the musculature surrounding the spine, play-
+ing a critical role in mitigating the progression of AIS 
+[28]. During the corrective training sessions, patients 
+were asked to maintain a neutral or corrective spinal 
+position. Breathing training was integrated with the cor-
+rective exercises, emphasizing proper inhalation and 
+exhalation techniques. It involved drawing air into the 
+concave side during inhalation and expelling air from 
+the convex side during exhalation, thus rectify the ver-
+tebral rotation and thoracic asymmetry. Daily practice 
+of postural correction exercises enabled self-recognition 
+and self-adjustment, potentially enhancing spinal func-
+tion. Yoga balls were utilized to rectify suboptimal pelvic 
+positions through rotational adjustments. Participants 
+actively engaged in an exercise program involving various 
+positions on the yoga mat and yoga balls. Figure 1 illus-
+trates examples of PSSE exercises.
+Manual therapy
+Manual therapy was performed on the intervention 
+group, which was prior to the PSSE intervention for each 
+section. A three-minute massage was first performed to 
+relax the myofascial membrane and muscles surround-
+ing the spine. This initial step aimed to alleviate muscle 
+tension and minimize the risk of injury associated with 
+applying instantaneous pressure to the spine. It also 
+Fig. 1  a-f Illustrations of the positions for muscle strengthening exercises that primarily target core stabilization. g, h Standing with both shoulders 
+abducted and externally rotated. i, j Intensive corrective exercises by curve stretching action movements; (k) breathing training (including lying 
+and sitting)
+
+=====PAGE 4
+Page 4 of 12
+Wenxia et al. BMC Musculoskeletal Disorders          (2024) 25:874 
+aimed to reduce any limitations in range of movement 
+related to soft tissue tensions. Following the massage, a 
+high-velocity, low-amplitude thrust spinal manipulation 
+technique was applied to the spinal level exhibiting incor-
+rect alignment, mainly centered on the deformed top 
+vertebra, and moving toward both ends, as determined 
+through clinical assessment. Severe harms after HVLA-
+SM were relatively scarce in adolescents were reported 
+[29].
+Assessment
+Outcome measures
+Cobb angle was the primary outcome measure. Second-
+ary outcome measures were spinal mobility, trunk shape, 
+movement capability and QOL. All the outcome meas-
+ures were assessed at baseline and post intervention. The 
+assessment team consisted of three assessors who were 
+blinded to the group allocation. Each outcome assessor 
+was responsible for specific set of outcome measures. 
+Each outcome measure was evaluated twice by the same 
+assessor. The two measurements were then averaged to 
+obtain the final value for each measure.
+Cobb angle
+The Cobb angle was determined by measuring the angle 
+on the anteroposterior view of the full-spine X-ray image 
+[30]. Cobb angle measurement was calculated from radi-
+ographs using the UniWeb Viewer (version 8.0, EBM 
+Technologies, Taiwan, China) by an experienced phy-
+sician. The end vertebrae at the top and bottom of the 
+curvature were identified. Lines parallel to the endplates 
+of these vertebrae were drawn and extended until they 
+intersected. The angle at their intersection, representing 
+the Cobb angle, was measured using the angle measure-
+ment tool and recorded to assess spinal curvature.
+Spinal mobility
+Spinal range of motion (ROM) was assessed using a 
+handheld inclinometer (MicroFET3, Hoggan Scientific, 
+Utah, USA). To measure thoracic flexion, participants 
+were asked to stand upright with their feet shoulder-
+width apart. They were then asked to flex their thoracic 
+region forward, from standing to bending, and place 
+the inclinometer on the spinous process of C7 to take 
+a reading of the final action. Participants were then 
+asked to bend again, and a second reading was taken 
+at the T12 spinous process. The difference in the read-
+ings provided the ROM of thoracic flexion. Similarly, 
+lumbar flexion was measured from T12 to S1. Lumbar 
+extension involved an initial reading at T12, followed 
+by S1 after maximum extension. Lumbar lateral flexion 
+measurements were initiated at T12, with participants 
+leaning as far as possible to each side, followed by a sec-
+ond reading at S1. All of the procedures for measuring 
+aspects of spinal mobility were performed following the 
+prescribed guidelines to ensure consistency and stand-
+ardization [31].
+Trunk shape
+Trunk shape was assessed using a surface topography sys-
+tem (DIERS Formetric4D, DIERS International GmbH, 
+Schlangenbad, Germany) [32]. Participants stood in front 
+of the system while maintaining a relaxed stance with 
+their backs exposed, particularly the posterior superior 
+iliac spine. The system automatically captured, recorded, 
+analyzed, and generated various trunk shape indices, 
+which show in Table  1. These measurements provided 
+objective quantification of trunk shape. The raster-ste-
+reographic system is validated extensively against radiol-
+ogy, demonstrating high levels of validity and excellent 
+intra- and inter-observer reliability in evaluating patients 
+with AIS [33, 34].
+Movement capability
+Movement capability was assessed using the Functional 
+Movement Screen (FMS), a tool designed to evaluate 
+human movement capability in various settings without 
+locomotion [35]. This screening tool comprises of seven 
+movements: deep squat, hurdle step, in-line lunge, shoul-
+der mobility test, active straight leg raises, trunk stabil-
+ity push-up, and rotary stability test. These movements 
+assess flexibility, balance, coordination, and neuromus-
+cular response abilities. A standardized testing and scor-
+ing method were employed, with scores ranging from 1 
+(unable to perform) to 3 (correct execution), and a score 
+of zero was assigned if participants experienced pain 
+while performing a subtest. The cumulative score ranges 
+from 0 to 21, representing the total score achieved and 
+the higher score means better status.
+Quality of life
+The Scoliosis Research Society-22 (SRS-22) question-
+naire was employed to evaluate the QOL in participants 
+with scoliosis [36]. The questionnaire measures QOL 
+across five dimensions: functional activity, pain, self-
+image, psychological state, and treatment satisfaction. 
+Each item is scored on a scale of one to five, total score 
+for all dimensions is 110 and be computed, with higher 
+scores indicating better QOL. The study utilized the Sim-
+plified Chinese version of the questionnaire [37].
+
+=====PAGE 5
+Page 5 of 12
+Wenxia et al. BMC Musculoskeletal Disorders          (2024) 25:874 
+	
+Statistics
+Statistical analysis was conducted in SPSS v.20 (IBM 
+SPSS, Armonk, NY, USA). The distribution of the data 
+was assessed using the Kolmogorov–Smirnov test. Two-
+way analysis of variance (ANOVA) was conducted to 
+assess the effects of groups and different time points. In 
+cases where the main effect of time was significant, post 
+hoc tests with Bonferroni were performed. Additionally, 
+the change rate (obtained by dividing the difference value 
+by the baseline value) and change value of each indica-
+tor in the two groups before and after treatment were cal-
+culated and analyzed using independent samples t-test. 
+The minimal clinically important difference (MCID) for 
+Cobb angle and SRS-22 for spinal deformity patients with 
+non-surgical treatments are 5° and 0.11 respectively [38, 
+39]. For the FMS, spinal range of motion, trunk shape, 
+to detect if changes are clinically meaningful, the MCID 
+was obtained by multiplying the standard deviation of 
+the baseline scores by 0.2 (i.e., MCID = 0.2 × SD) [40]. The 
+statistical significance level was set at P = 0.05.
+Results
+A total of 31 participants with AIS were recruited. Seven-
+teen participants enrolled in the intervention group and 
+fourteen participants enrolled in the control group. There 
+are twelve participants with Risser 0–2 and five partici-
+pants with over Risser 3 in the intervention group, while 
+ten participants with Risser 0–2 and four participants 
+with over Risser 3 in the control group. The curve types 
+of participants in the intervention group included nine 
+Thoracic curvature, two Lumbar curvature, two Thora-
+columbar curvature and four Double major curvature, 
+while three Thoracic curvature, four Lumbar curvature, 
+six Thoracolumbar curvature and one Double major cur-
+vature in the control group. No significant difference was 
+observed between the two groups for gender, age, height, 
+weight, and Cobb angle (p < 0.05) in Table 2.
+For Cobb angle, the results of two-way ANOVA anal-
+yses indicated the main effect of group, and the main 
+effect of time was not significant (p > 0.05). A significant 
+interaction effect was observed between the two groups 
+at different time points (p < 0.05). For FMS and SRS-22, 
+the main effect of the group was not significant, while 
+the interaction effects between the two groups at differ-
+ent time points were significant (p < 0.05). Table  3 pre-
+sents the results of ANOVA analysis. The t-test results 
+for change rate (difference value/baseline value) and 
+change value of Cobb angle were significantly different 
+between the two groups (p < 0.05). The change rate and 
+value of FMS and SRS-22 were also significantly different 
+Table 1  Trunk shape indexes output by the formetric 4D
+VP Vertebra Prominens, DL Dimple left, DR Dimple right, DM Centre between DL and DR (dimple middle), ICT Inflection point cervical thoracic, ITL Inflection point 
+thoracic lumbar, ILS Inflection point lumbar sacral
+a Trunk shape parameter definitions adapted from DIERS formetric III 4D Manual (Created 21.06.2010, Revision grade 5)
+Parameter
+Unit
+Definitiona
+Trunk length
+mm
+The distance from VP to the center point between DL and DR (DM)
+Sagittal imbalance
+mm
+The distance between VP and the connecting external plumb line
+Coronal imbalance
+mm
+The lateral distance between VP and DM
+Kyphotic angle
+°
+The angle between the surface tangents from the ICT and ITL
+Lordotic angle
+°
+The angle between the surface tangents from ITL and ILS
+Vertebral rotation (RMS)
+°
+The root mean square (RMS) of the horizontal components of the surface 
+normal on the symmetry line
+Vertebral rotation (MAX)
+°
+The maximum value of the horizontal components of the surface normal 
+on the symmetry line
+Apical deviation (RMS)
+mm
+The RMS deviation of the midline of the spine from the direct connection 
+VP-DM in the frontal plane
+Apical deviation (MAX)
+mm
+The maximum deviation of the midline of the spine from the direct con-
+nection VP-DM in the frontal plane
+Pelvic obliquity
+mm
+The difference in height between DL and DR
+Pelvic torsion
+°
+The torsion of the surface normal of DL and DR
+Table 2  Characteristics of the sample cohorts (mean (SD))
+SD Standard deviation, P-value: probability value, Statistically significant level 
+was set at P = 0.05
+Demographics
+Interventions (n = 17)
+Controls (n = 14)
+P-value
+Gender (M: F)
+6:11
+2:12
+p = 0.240
+Age (years)
+12.53(1.32)
+13.43(2.27)
+p = 0.119
+Height (cm)
+162.35(10.53)
+157.86(8.90)
+p = 0.222
+Weight (kg)
+44.76(7.74)
+46.43(6.64)
+p = 0.495
+Cobb angle (°)
+21.58(8.15)
+18.00(5.42)
+p = 0.170
+
+=====PAGE 6
+Page 6 of 12
+Wenxia et al. BMC Musculoskeletal Disorders          (2024) 25:874 
+between the two groups (p < 0.05). Table 4 presents the 
+t-test results of change rate/value and MCID. The Cobb 
+angle of the intervention group and the control group did 
+not reach the MCID threshold. For FMS and SRS-22 total 
+scores, the intervention group reached the MCID thresh-
+old and controls group did not.
+The main between group effect for thoracic spine and 
+lumbar spine ROM were not significantly (Table 5). Sig-
+nificant differences were observed in lumbar flexion 
+and lumbar left lateral flexion at different time points 
+in the intervention group. The t-test results indicated 
+significant differences (p < 0.05) in the change rate and 
+value of spinal ROM between the two groups (Table 6). 
+The ROM of spinal including thoracic flexion, lum-
+bar flexion, lumbar extension, lumbar left and right 
+lateral flexion of intervention group reached the MCID 
+threshold, while control group did not. Significant dif-
+ferences were observed in apical deviation (RMS)(mm) 
+and pelvic obliquity(mm) at different time points in the 
+intervention group (Table  7). The results of t-test for 
+the change rate and change values of some trunk shape 
+indices (Table 8) between the two groups were signifi-
+cant (p < 0.05). Trunk shape indices of surface topog-
+raphy including vertebral rotation (RMS)(°), vertebral 
+rotation(MAX)(°), apical deviation (RMS)(mm), apical 
+deviation(MAX)(mm), sagittal imbalance(mm), coro-
+nal imbalance (mm), kyphotic angle(°), lordotic angle(°), 
+pelvic torsion(°) and pelvic obliquity(mm) of interven-
+tion group reached the MCID threshold, while the con-
+trol group did not.
+Table 3  The results of ANOVA for Cobb angle, FMS score, and SRS-22 total scores at baseline and post-intervention
+FMS Functional Movement Screen, SRS-22 Scoliosis Research Society-22, SD Standard deviation, F F ratio, P probability value
+Assessment
+Interventions (n = 17) 
+mean (SD)
+Controls (n = 14) mean 
+(SD)
+Main effect of 
+time
+Main effect of group
+Interaction effects
+Primary
+4 Weeks
+Primary
+4 Weeks
+F time
+P time
+F group
+P group
+F Group*Time
+P Group*Time
+Cobb angle (°)
+21.58(8.15)
+18.58(9.68)
+18.00(5.42)
+19.14(6.43)
+2.651
+0.114
+0.307
+0.584
+13.190
+0.001
+FMS (score)
+13.52(2.23)
+15.11(2.14)
+14.78(1.25)
+14.78(1.25)
+9.664
+0.004
+0.574
+0.455
+9.664
+0.004
+SRS-22 (score)
+85.82(8.16)
+89.82(7.55)
+87.42(7.49)
+86.57(6.99)
+5.290
+0.029
+0.096
+0.759
+12.635
+0.001
+Table 4  The results of t-test for the change rate and value, MCIDs of Cobb angle, FMS score, and SRS-22 total scores
+FMS Functional Movement Screen, SRS-22 Scoliosis Research Society-22, MCID Minimal clinically important difference, SD Standard deviation, t t-value, p probability 
+value
+Assessment
+MCID
+The change value
+The change rate
+Interventions 
+(n = 17)
+Controls (n = 14)
+t
+p
+Interventions 
+(n = 17)
+Controls (n = 14)
+t
+p
+mean (SD)
+mean (SD)
+Cobb angle (°)
+5.00
+3.00(3.16)
+-1.14(3.15)
+3.632
+0.001
+0.16(0.20)
+-0.06(0.17)
+3.435
+0.002
+FMS (score)
+0.44
+1.58(1.83)
+0.00(0.55)
+3.379
+0.003
+0.13(0.15)
+0.001(0.03)
+3.302
+0.004
+SRS-22 (score)
+2.42
+4.00(4.41)
+-0.85(2.82)
+3.555
+0.001
+0.04(0.05)
+0.008(0.03)
+3.455
+0.002
+Table 5  The results of ANOVA for ROM of spinal at baseline and post-intervention
+ROM Range of motion, SD Standard deviation, F F ratio, P Probability value
+Assessment
+Interventions (n = 17) 
+mean (SD)
+Controls (n = 14) mean 
+(SD)
+Main effect of 
+time
+Main effect of 
+group
+Interaction effects
+Primary
+4 Weeks
+Primary
+4 Weeks
+F time
+P time
+F group
+P group
+F Group*Time
+P Group*Time
+Thoracic flexion (°)
+19.47(10.00)
+27.88(5.82)
+24.35(11.73)
+22.42(8.10)
+4.724
+0.220
+0.009
+0.923
+12.017
+0.002
+Lumbar flexion (°)
+66.58(10.45)
+79.88(15.88)
+68.57(11.79)
+66.85(12.64)
+12.800
+0.001
+1.595
+0.217
+21.502
+< 0.001
+Lumbar extension (°)
+18.94(8.08)
+25.17(5.49)
+25.71(5.39)
+23.42(3.22)
+1.976
+0.170
+2.418
+0.131
+9.196
+0.005
+Lumbar left lateral flexion (°)
+19.70(7.05)
+32.85(5.25)
+27.71(6.30)
+25.28(4.93)
+22.852
+< 0.001
+0.016
+0.899
+48.338
+< 0.001
+Lumbar right lateral flexion (°)
+21.17(9.19)
+29.88(4.97)
+25.85(7.95)
+22.78(4.80)
+6.133
+0.019
+0.283
+0.599
+26.797
+< 0.001
+
+=====PAGE 7
+Page 7 of 12
+Wenxia et al. BMC Musculoskeletal Disorders          (2024) 25:874 
+	
+Discussion
+The present study extends the current body of knowledge 
+by evaluating the effects of integrating MT and PSSE in 
+patients with AIS. It incorporates a range of outcome 
+measures to investigate trunk morphology, spinal mobil-
+ity, movement abilities, and quality of life. Improvements 
+in Cobb angle, QOL, movement capability, spinal mobil-
+ity and some of the trunk shape indices were observed 
+in participants who received 4 weeks of combined PSSE 
+and MT interventions. The change value and change rate 
+of the recorded parameters were also larger in the inter-
+vention group than the control group, demonstrating the 
+potential benefits associated with combining PSSE and 
+MT in managing AIS.
+Combined MT and PSSE on scoliosis curvature
+A significant change in Cobb angle was observed in the 
+intervention group (mean Cobb: 21.58° ± 8.15° before 
+intervention; 18.58° ± 9.68° after intervention). Although 
+the absolute change in Cobb angle did not exceed the 
+MCID in the intervention group, the change was consist-
+ent with the amount of change induced by PSSE (mean 
+decrease of 3.04 degrees) reported in a recent Cochrane 
+review [24]. The changes in Cobb angle from the PSSE 
+and MT group was also higher than those of home exer-
+cise programs alone, which demonstrated a deterioration 
+in both Cobb angle and trunk shape indices. This find-
+ing indicated the potential benefit of combining PSSE 
+and MT in slowing or halting the progression of sco-
+liosis compared to home exercise alone. Spinal mobil-
+ity, including thoracic and lumbar flexion, lumbar lateral 
+flexion, and posterior extension, along with higher FMS 
+scores, exceeded the MCID in the intervention group 
+but not in the control group. Trunk shape indices includ-
+ing spinal rotation angle, distance from the median line 
+of vertebral migration, and pelvic tilt, also exceeded the 
+calculated MCID. These findings suggest that supervised 
+PSSE may improve surface topography characteristics in 
+patients with AIS in the short term [41]. The pathogen-
+esis of AIS is believed to involve characteristics of muscle 
+asymmetry and muscle tension differences between the 
+left and right sides of the spine, resulting in spinal imbal-
+ance in the sagittal and frontal planes [42, 43]. MT was 
+shown to adjust tension along the myofascial chain of the 
+spine, promoting overall balance recovery [44], and may 
+improve spinal range of motion by adjusting facet joint 
+positions [17, 45]. Additionally, decreased muscle spin-
+dle activities in AIS patients [46] can be stimulated by 
+MT [18, 47]. Reduced muscle strength in AIS is linked to 
+higher intervertebral disc pressure, contributing to sco-
+liosis [48]. Strengthening core muscles through PSSE may 
+reduce intervertebral disc pressure [49] and adjust spinal 
+tension integrity, decreasing scoliosis risk [26, 27]. Pos-
+tural balance deficits contribute to AIS development [50], 
+and PSSE can correct these deficits through exterocep-
+tive and proprioceptive stimulation [51, 52].
+PSSE as home exercise on scoliosis curvature
+The control group received PSSE program as home exer-
+cises without physiotherapist supervision. The findings 
+from the present study did not demonstrate significant 
+benefits in reducing or slowing the progress of spinal 
+curvature in patients with AIS. PSSE is recommended as 
+the first line of treatment for scoliosis due to supporting 
+evidence of its effectiveness. However, conflicting results 
+have been reported in several studies. A study by Negrini 
+et al. showed that Cobb Angle increased by 1.70° ± 7.24° 
+during 25 months of treatment (p < 0.05 between groups) 
+[53]. In a prospective study, Zapata and co-authors noted 
+that the difference in Cobb angle between the PSSE 
+group and observation group was not significant after 
+six months [54]. These findings were consistent with the 
+Table 6  The results of t-test for the change rate and value, MCIDs of ROM of spinal
+ROM Range of motion, MCID Minimal clinically important difference, SD Standard deviation, t t-value, p probability value
+Assessment
+MCID The change value
+The change rate
+Interventions 
+(n = 17)
+Controls (n = 14) t
+p
+Interventions 
+(n = 17)
+Controls (n = 14) t
+p
+mean (SD)
+mean (SD)
+Thoracic flexion (°)
+2.00
+8.41(10.14)
+-1.92(5.06)
+3.467 0.002
+0.86(1.11)
+-0.01(0.19)
+3.188
+0.005
+Lumbar flexion (°)
+2.09
+13.29(11.46)
+-1.71(4.19)
+5.005 P < 0.001 0.20(0.19)
+-0.02(0.06)
+4.728
+P < 0.001
+Lumbar extension (°)
+1.61
+6.23(9.64)
+-2.28(4.54)
+3.232 0.004
+0.57(0.67)
+-0.05(0.23)
+3.610
+0.002
+Lumbar left lateral 
+flexion (°)
+1.41
+13.11(7.08)
+-2.42(4.87)
+6.953 P < 0.001 0.94(0.93)
+0.06(0.14)
+4.396
+P < 0.001
+Lumbar right lateral 
+flexion (°)
+1.81
+8.70(6.95)
+-3.07(5.39)
+5.177 P < 0.001 0.84(1.37)
+0.07(0.18)
+U = 21.00 P < 0.001
+
+=====PAGE 8
+Page 8 of 12
+Wenxia et al. BMC Musculoskeletal Disorders          (2024) 25:874 
+Table 7  The results of ANOVA for trunk shape index of Surface topography at baseline and post-intervention
+SD Standard deviation, F F ratio, P Probability value
+Assessment
+Interventions (n = 17) mean (SD)
+Controls (n = 14) mean (SD)
+Main effect of time
+Main effect of group
+Interaction effects
+Primary
+4 Weeks
+Primary
+4 Weeks
+F time
+P time
+F group
+P group
+F Group*Time
+P Group*Time
+Trunk length(mm)
+406.10(45.44)
+412.04(44.21)
+404.22(39.05)
+401.29(33.49)
+0.880
+0.356
+0.182
+0.673
+7.598
+0.010
+Vertebral rotation (RMS)(°)
+5.95(2.57)
+4.60(2.08)
+5.46(1.84)
+5.76(1.65)
+2.439
+0.129
+0.245
+0.624
+5.975
+0.021
+Vertebral rotation (MAX)(°)
+11.21(4.58)
+8.37(3.14)
+9.95(3.18)
+10.78(2.80)
+3.169
+0.086
+0.251
+0.620
+10.635
+0.003
+Apical deviation (RMS)(mm)
+8.26(4.86)
+4.99(2.41)
+8.03(4.30)
+7.53(4.54)
+12.385
+0.001
+0.693
+0.412
+6.669
+0.015
+Apical deviation (MAX)(mm)
+15.06(8.56)
+8.90(3.68)
+14.61(7.23)
+12.44(7.54)
+17.506
+< 0.001
+0.446
+0.509
+4.026
+0.054
+Sagittal imbalance (mm)
+2.77(1.58)
+2.24(1.80)
+2.95(1.61)
+3.00(1.29)
+1.169
+0.288
+0.779
+0.385
+1.637
+0.211
+Coronal imbalance (mm)
+7.62(4.62)
+5.16(3.25)
+8.13(5.48)
+8.39(6.94)
+0.913
+0.347
+1.671
+0.206
+1.381
+0.249
+Kyphotic angle (°)
+36.29 (10.36)
+33.27 (8.85)
+37.70 (8.78)
+36.44 (11.19)
+3.918
+0.057
+0.459
+0.503
+0.666
+0.421
+Lordotic angle (°)
+40.97 (8.38)
+38.57 (10.25)
+34.43 (10.68)
+34.70 (10.25)
+0.551
+0.464
+2.548
+0.121
+0.861
+0.361
+Pelvic torsion (°)
+2.66(1.29)
+2.34(1.66)
+1.92(1.17)
+2.14(1.07)
+0.049
+0.826
+1.205
+0.281
+1.451
+0.238
+Pelvic obliquity(mm)
+2.32(2.46)
+0.96(1.26)
+2.19(1.73)
+2.20(1.91)
+3.781
+0.062
+0.871
+0.358
+3.861
+0.059
+
+=====PAGE 9
+Page 9 of 12
+Wenxia et al. BMC Musculoskeletal Disorders          (2024) 25:874 
+	
+findings of the present study where no significant dif-
+ference in scoliosis curvature was observed post inter-
+vention. The negative results may be attributed to the 
+difference in exercise delivery settings. A previously pub-
+lished randomized controlled trial reported that PSSE 
+program, when applied in the clinic under physiothera-
+pist supervision, was superior to the home exercise [54]. 
+The study by Kuru et al., (2015) reported an increase in 
+Cobb angle of 5 degrees and angle of trunk rotation of 
+1.5 degrees for the home exercise group [55]. Thus, the 
+capacity for each child to learn and perform exercises 
+effectively in home setting, potentially coupled with poor 
+compliance, may contribute to the negative results of 
+PSSE [56, 57].
+PSSE has the characteristics of strong feasibility, but the 
+specific programs are varied. Many studies have explored 
+the efficacy of PSSE combined with other treatment pro-
+grams in the treatment of AIS, and the results are mostly 
+positive. Schreiber et al. found that PSSE, when used in 
+combination with conventional therapy, improved the 
+Cobb angle, vertebral rotation, and increased back mus-
+cle endurance and body posture in AIS [58]. Rrecaj-Malaj 
+et  al. showed that PSSE and Pilates exercises provided 
+benefit on the Cobb angle, angle of trunk rotation (ATR), 
+chest expansion, trunk flexion and QOL in mild and 
+moderate AIS [59].
+Quality of life and cosmetic appearance
+Spinal curve deformities in patients with AIS can lead 
+to both physical and psychological complications [60]. 
+The International Society on Scoliosis Orthopedic and 
+Rehabilitation Treatment published a consensus report 
+emphasizing that the primary goals in treating AIS 
+should be deformity correction and aesthetic appearance 
+enhancement [6]. Gera et al., found that using a combina-
+tion of spine adjustment techniques and PSSE can signifi-
+cantly reduce the psychosomatic symptoms in functional 
+scoliosis [61]. This finding aligns with the results of our 
+study, where the combination of PSSE and MT may 
+have better outcomes than home-based PSSE alone. The 
+intervention group demonstrated a 4-point increase 
+in quality-of-life total scores and exceeded the MCID 
+value, whereas the home-training group demonstrated a 
+1-point decrease. This finding is consistent with a study 
+where home exercise alone was found to have no signifi-
+cant effect on QOL [62]. Our findings also shed light on 
+cosmetic and physical improvements in the participants 
+who received combined MT and PSSE. Participants 
+in the intervention group exhibited more significant 
+enhancements than participants in the control group in 
+the spinal appearance, potentially due to the increased 
+symmetry and reduction in spinal curve. This enhance-
+ment in appearance corroborates with the observed 
+improvement in quality of life, further supporting the 
+efficacy of combined intervention of MT and PSSE.
+Limitations
+The results of the present study should be interpreted 
+with cautions due to the limitations. The absence of a 
+control group, comprising either a general exercise 
+group or individual PSSE and MT training groups, 
+limits the direct comparisons which hinder the inter-
+pretation on the specific impact of each interven-
+tion. However, follow-up data and imaging data lend 
+Table 8  The results of t-test for the change rate and value, MCIDs of trunk shape index of Surface topography
+MCID Minimal clinically important difference, SD Standard deviation, t t-value, p probability value
+Assessment
+MCID
+The change value
+The change rate
+Interventions 
+(n = 17)
+Controls (n = 14)
+t
+p
+Interventions (n = 17)
+Controls (n = 14)
+t
+p
+mean (SD)
+mean (SD)
+Trunk length(mm)
+9.08
+5.94(8.05)
+-2.92(9.87)
+2.757
+0.010
+0.15(0.01)
+-0.006(0.02)
+2.778
+0.009
+Vertebral rotation (RMS)(°)
+0.51
+1.35(1.82)
+-0.29(1.92)
+2.444
+0.021
+0.16(0.25)
+-0.14(0.47)
+2.334
+0.027
+Vertebral rotation (MAX)(°)
+0.91
+2.84(3.03)
+-0.83(3.24)
+3.261
+0.003
+0.21(0.19)
+-0.15(0.39)
+3.186
+0.005
+Apical deviation (RMS)(mm)
+0.97
+3.27(3.71)
+0.50(1.63)
+2.582
+0.015
+0.33(0.19)
+0.05(0.25)
+3.560
+0.001
+Apical deviation (MAX)(mm)
+1.71
+6.16(6.73)
+2.16(3.46)
+2.007
+0.054
+0.34(0.20)
+0.13(0.28)
+2.386
+0.024
+Sagittal imbalance (mm)
+0.31
+0.53(1.00)
+-0.04(1.51)
+1.280
+0.070
+0.17(0.45)
+-0.44(1.26)
+1.743
+0.101
+Coronal imbalance (mm)
+0.92
+2.45(6.33)
+-0.25(6.46)
+1.175
+0.249
+-1.12(4.18)
+-0.53(1.56)
+-0.494
+0.625
+Kyphotic angle (°)
+2.07
+3.02(5.68)
+1.25(6.34)
+0.816
+0.421
+0.06(0.15)
+0.03(0.17)
+0.518
+0.608
+Lordotic angle (°)
+1.67
+2.38(8.62)
+-0.26(6.89)
+0.928
+0.361
+0.04(0.20)
+-0.04(0.32)
+0.976
+0.337
+Pelvic torsion (°)
+0.25
+0.31(1.23)
+-0.22(1.24)
+1.205
+0.238
+0.07(0.37)
+-1.54(5.25)
+1.155
+0.269
+Pelvic obliquity(mm)
+0.49
+1.35(2.37)
+0.007(1.16)
+2.089
+0.047
+0.67(0.61)
+0.08(0.60)
+2.940
+0.008
+
+=====PAGE 10
+Page 10 of 12
+Wenxia et al. BMC Musculoskeletal Disorders          (2024) 25:874 
+quantitative support to our positive results. Compli-
+ance to PSSE was not monitored in the present study. 
+This may lead to incomplete or insufficient treatment in 
+both groups. Factors such as high academic pressure or 
+inadequate parental supervision are known to influence 
+compliance to the prescribed regimen. Center-specific 
+factors and the limited representation of patients with 
+AIS within the sample may impede the external validity 
+of the findings. The sample size of 31 participants may 
+be considered small, which affects the generalizability 
+of the findings. Given the non-randomized grouping 
+in this study, the influence of the families’ choices on 
+the experimental outcomes should be considered. The 
+four-week intervention period limits the interpreta-
+tion of the potential long-term benefits. Future studies 
+should incorporate longer follow-up periods to evalu-
+ate the long-term benefits of the intervention regimen. 
+The inclusion of participants with potentially non-
+progressive curves and curvature of less than 20° may 
+mask or exaggerate the observed benefit. Observational 
+approach may often be adopted for patients with mild 
+curvature due to potential of non-progression. How-
+ever, this approach is contentious and lacks definitive 
+guidance for untreated curves under 20° due to a lack 
+of clinical indicators for scoliosis progression [63]. The 
+observation approach does not address the patient’s 
+anxiety and the stress of the parents, who worry about 
+the progression of curvatures [64]. Thus, early identi-
+fication and early intervention may be beneficial. The 
+SOSORT guideline which indicated that current evi-
+dence suggested that conservative treatment was effec-
+tive at stopping curve from progression, as well as 
+improving the curves at skeletal maturity [6]. Stratified 
+sampling was not conducted, and Risser stage and Cobb 
+angle size were not applied as influencing factors to 
+assess the intervention’s efficacy for different severities 
+of scoliosis. Future studies should incorporate stratified 
+sampling and consider Risser stage and Cobb angle size 
+to rigorously evaluate the efficacy across varying severi-
+ties of scoliosis.
+Conclusion
+The present study provides evidence supporting the 
+potential clinical benefits of integrating PSSE with MT 
+for managing AIS. The combined intervention approach 
+demonstrated improvements in Cobb angle, spinal 
+mobility, movement ability, trunk morphology, and qual-
+ity of life. However, these findings should be interpreted 
+with caution due to study limitations. Larger clinical tri-
+als are recommended to substantiate the findings of this 
+study and to further explore the long-term benefits of the 
+combined approach.
+Abbreviations
+AIS	
+Adolescent idiopathic scoliosis
+PSSE	
+Physiotherapeutic scoliosis-specific exercises
+MT	
+Manual therapy
+QOL	
+Quality of life
+ROM	
+Range of motion
+HVLA-SM	
+High-velocity, low-amplitude spinal manipulation
+SEAS	
+Scientific Exercise Approach to Scoliosis
+FMS	
+Functional Movement Screen
+ANOVA	
+Two-way analysis of variance
+SRS-22	
+Scoliosis Research Society-22
+ATR​	
+Angle of trunk rotation
+MCID	
+Minimal clinically important difference
+Acknowledgements
+The authors would like to thank the participants who gave up their time for 
+this study and all the clinical and research staff members of the institute for 
+their tremendous support during the course of the research.
+Authors’ contributions
+ZWX, LYL, WCH, LWLA, and LP: Study conception and design ZZ, JGQ, HHJ, and 
+ZGF: Acquisition of data and figures ZWX, LP, and LYL: Analysis and interpreta-
+tion of data  ZWX: Drafting of the manuscript WCH, LWLA, and LP: Critical 
+revision and proofreading of the manuscript All authors: final approval of the 
+manuscript.
+Funding
+This research project was supported by National Key Research and Develop-
+ment Program of China (2022YFC2009700); Guangdong-Hong Kong Technol-
+ogy and Innovation Cooperation Funding (2023A0505010014); Natural Sci-
+ence Foundation of Guangdong Province (grant number 2023A1515011758).
+Data availability
+Data that support the findings of this study have been deposited in the Scien-
+tific Research System of Affiliated Hospital of Sun Yat-sen University, China.It is 
+available from the authors upon request.
+Declarations
+Ethics approval and consent to participate
+The trial was retrospectively registered at www.​chictr.​org.​cn 
+(ChiCTR2300071357), dated 12/05/2023. Approval from the institutional 
+review approved by the Clinical Research Ethics Committee of The First 
+Affiliated Hospital at Sun Yat-sen University (ETHICS No. [2021]101) dated 
+20/01/2021. Written informed consent was obtained from all the participants.
+Consent for publication
+Written informed consent for patient information and images to be published 
+was provided by the participants.
+Competing interests
+The authors declare no competing interests.
+Author details
+1 Department of Rehabilitation Medicine, The First Affiliated Hospital, Sun 
+Yat-Sen University, No. 58 Zhongshan Er Road, Guangzhou 510080, P.R. China. 
+2 Guangdong Engineering and Technology Research Centre for Rehabilitation 
+Medicine and Translation, The First Affiliated Hospital, Guangzhou, China. 
+Received: 18 March 2024   Accepted: 17 October 2024
+References
+	1.	
+Hengwei F, Zifang H, Qifei W, Weiqing T, Nali D, Ping Y, et al. Prevalence of 
+idiopathic scoliosis in chinese schoolchildren: a large population-based 
+study. Spine (Phila Pa 1976). 2016;41(3):259–64.
+
+=====PAGE 11
+Page 11 of 12
+Wenxia et al. BMC Musculoskeletal Disorders          (2024) 25:874 
+	
+	2.	
+Sperandio EF, Alexandre AS, Yi LC, Poletto PR, Gotfryd AO, Vidotto MC, 
+et al. Functional aerobic exercise capacity limitation in adolescent idi-
+opathic scoliosis. Spine J. 2014;14(10):2366–72.
+	3.	
+Shen J, Lin Y, Luo J, Xiao Y. cardiopulmonary exercise testing in patients 
+with idiopathic scoliosis. J Bone Joint Surg Am. 2016;98(19):1614–22.
+	4.	
+Mitsiaki I, Thirios A, Panagouli E, Bacopoulou F, Pasparakis D, Psaltopoulou 
+T, et al. Adolescent Idiopathic Scoliosis and Mental Health Disorders: A 
+Narrative Review of the Literature [J]. Children (Basel). 2022;9(5):597.
+	5.	
+Motyer G, Dooley B, Kiely P, Fitzgerald A. Parents’ information needs, 
+treatment concerns, and psychological well-being when their child is 
+diagnosed with adolescent idiopathic scoliosis: a systematic review. 
+Patient Educ Couns. 2021;104(6):1347–55.
+	6.	
+Negrini S, Donzelli S, Aulisa AG, Czaprowski D, Schreiber S, De Mauroy JC, 
+et al. 2016 SOSORT guidelines: orthopaedic and rehabilitation treatment 
+of idiopathic scoliosis during growth. Scoliosis Spinal Disord. 2018;13:3.
+	7.	
+Hawary RE, Zaaroor-Regev D, Floman Y, Lonner BS, Alkhalife YI, Betz RR. 
+Brace treatment in adolescent idiopathic scoliosis: risk factors for failure-a 
+literature review. Spine J. 2019;19(12):1917–25.
+	8.	
+Brigham EM, Armstrong DG. Motivations for Compliance With Bracing in 
+Adolescent Idiopathic Scoliosis. Spine Deform. 2017;5(1):46–51.
+	9.	
+Berdishevsky H, Lebel VA, Bettany-Saltikov J, Rigo M, Lebel A, Hennes A, 
+et al. Physiotherapy scoliosis-specific exercises - a comprehensive review 
+of seven major schools. Scoliosis Spinal Disord. 2016;11:20.
+	10.	 Fan Y, Ren Q, To MKT, Cheung JPY. Effectiveness of scoliosis-specific exer-
+cises for alleviating adolescent idiopathic scoliosis: a systematic review. 
+BMC Musculoskelet Disord. 2020;21(1):495.
+	11.	 Burger M, Coetzee W, Du Plessis LZ, Geldenhuys L, Joubert F, Myburgh E, et al. 
+The effectiveness of Schroth exercises in adolescents with idiopathic scolio-
+sis: a systematic review and meta-analysis. S Afr J Physiother. 2019;75(1):904.
+	12.	 Thompson JY, Williamson EM, Williams MA, Heine PJ, Lamb SE. Effective-
+ness of scoliosis-specific exercises for adolescent idiopathic scoliosis 
+compared with other non-surgical interventions: a systematic review and 
+meta-analysis. Physiotherapy. 2019;105(2):214–34.
+	13.	 Day JM, Fletcher J, Coghlan M, Ravine T. Review of scoliosis-specific 
+exercise methods used to correct adolescent idiopathic scoliosis. Arch 
+Physiother. 2019;9:8.
+	14.	 Zhou Z, Liu F, Li R, Chen X. The effects of exercise therapy on adolescent 
+idiopathic scoliosis: an overview of systematic reviews and meta-analy-
+ses. Complement Ther Med. 2021;58:102697.
+	15.	 Smith AR Jr. Manual therapy: the historical, current, and future role in the 
+treatment of pain. ScientificWorldJournal. 2007;7:109–20.
+	16.	 Lotan S, Kalichman L. Manual therapy treatment for adolescent idiopathic 
+scoliosis. J Bodyw Mov Ther. 2019;23(1):189–93.
+	17.	 Gyer G, Michael J, Inklebarger J, Ibne Alam I. Effects of biomechanical 
+parameters of spinal manipulation: A critical literature review [J]. J Integr 
+Med. 2022;20(1):4–12.
+	18.	 Reed WR, Long CR, Kawchuk GN, Pickar JG. Neural responses to the 
+mechanical characteristics of high velocity, low amplitude spinal manipu-
+lation: effect of specific contact site. Man Ther. 2015;20(6):797–804.
+	19.	 Gyer G, Michael J, Inklebarger J, Tedla JS. Spinal manipulation therapy: Is it 
+all about the brain? A current review of the neurophysiological effects of 
+manipulation. J Integr Med. 2019;17(5):328–37.
+	20.	 Paige NM, Miake-Lye IM, Booth MS, Beroes JM, Mardian AS, Dougherty 
+P, et al. Association of spinal manipulative therapy with clinical benefit 
+and harm for acute low back pain: systematic review and meta-analysis. 
+JAMA. 2017;317(14):1451–60.
+	21.	 Gross A, Langevin P, Burnie SJ, Bédard-Brochu MS, Empey B, Dugas E, et al. 
+Manipulation and mobilisation for neck pain contrasted against an inac-
+tive control or another active treatment [J]. Cochrane Database Syst Rev. 
+2015;2015(9):Cd004249.
+	22.	 Theroux J, Stomski N, Losco CD, Khadra C, Labelle H, Le May S. Spinal 
+manipulative therapy for adolescent idiopathic scoliosis: a systematic 
+review. J Manipulative Physiol Ther. 2017;40(6):452–8.
+	23.	 Wang L, Wang C, Youssef ASA, Xu J, Huang X, Xia N. Physiotherapeutic 
+scoliosis-specific exercises performed immediately after spinal manipula-
+tive therapy for the treatment of mild adolescent idiopathic scoliosis: 
+study protocol for a randomized controlled pilot trial. Trials. 2021;22(1):58.
+	24.	 Romano M, Minozzi S, Bettany-Saltikov J, Zaina F, Chockalingam N, Kot-
+wicki T, et al. Therapeutic exercises for idiopathic scoliosis in adolescents 
+[J]. Cochrane Database Syst Rev. 2024;2(2):Cd007837.
+	25.	 Gámiz-Bermúdez F, Obrero-Gaitán E, Zagalaz-Anula N, Lomas-Vega R. 
+Corrective exercise-based therapy for adolescent idiopathic scoliosis: 
+systematic review and meta-analysis. Clin Rehabil. 2022;36(5):597–608.
+	26.	 Romano M, Negrini A, Parzini S, Tavernaro M, Zaina F, Donzelli S, et al. 
+SEAS (Scientific Exercises Approach to Scoliosis): a modern and effective 
+evidence based approach to physiotherapic specific scoliosis exercises. 
+Scoliosis. 2015;10:3.
+	27.	 Kocaman H, Bek N, Kaya MH, Büyükturan B, Yetiş M, Büyükturan Ö. The 
+effectiveness of two different exercise approaches in adolescent idi-
+opathic scoliosis: a single-blind, randomized-controlled trial. PLoS One. 
+2021;16(4):e0249492.
+	28.	 Kim G, Hwangbo PN. Effects of Schroth and Pilates exercises on the Cobb 
+angle and weight distribution of patients with scoliosis. J Phys Ther Sci. 
+2016;28(3):1012–5.
+	29.	 Driehuis F, Hoogeboom TJ, Der Nijhuis-Van Sanden MWG, De Bie RA, 
+Staal JB. Spinal manual therapy in infants, children and adolescents: a 
+systematic review and meta-analysis on treatment indication, technique 
+and outcomes. PLoS One. 2019;14(6):e0218940.
+	30.	 Vrtovec T, Pernus F, Likar B. A review of methods for quantitative evalua-
+tion of spinal curvature. Eur Spine J. 2009;18(5):593–607.
+	31.	 Tully E. The practical guide to range of motion assessment. British Journal 
+of Sports Medicine. 2005;39(4):245.
+	32.	 Applebaum A, Ference R, Cho W. Evaluating the role of surface topogra-
+phy in the surveillance of scoliosis [J]. Spine Deform. 2020;8(3):397–404.
+	33.	 Navarro I, Rosa BND, Candotti CT. Anatomical reference marks, evaluation 
+parameters and reproducibility of surface topography for evaluating the 
+adolescent idiopathic scoliosis: a systematic review with meta-analysis. 
+Gait Posture. 2019;69:112–20.
+	34.	 Tabard-Fougere A, Bonnefoy-Mazure A, Hanquinet S, Lascombes P, 
+Armand S, Dayer R. Validity and reliability of spine rasterstereogra-
+phy in patients with adolescent idiopathic scoliosis. Phila Pa 1976. 
+2017;42(2):98–105.
+	35.	 Cuchna JW, Hoch MC, Hoch JM. The interrater and intrarater reliability of 
+the functional movement screen: a systematic review with meta-analysis. 
+Phys Ther Sport. 2016;19:57–65.
+	36.	 Monticone M, Nava C, Leggero V, Rocca B, Salvaderi S, Ferrante S, et al. 
+Measurement properties of translated versions of the scoliosis research 
+society-22 patient questionnaire, SRS-22: a systematic review. Qual Life 
+Res. 2015;24(8):1981–98.
+	37.	 Asher M, Lai SM, Burton D, Manna B. The reliability and concurrent validity 
+of the scoliosis research society-22 patient questionnaire for idiopathic 
+scoliosis. Spine. 2003;28(1):63–9.
+	38.	 Yuksel S, Ayhan S, Nabiyev V, Domingo-Sabat M, Vila-Casademunt A, 
+Obeid I, et al. Minimum clinically important difference of the health-
+related quality of life scales in adult spinal deformity calculated by latent 
+class analysis: is it appropriate to use the same values for surgical and 
+nonsurgical patients? Spine J. 2019;19(1):71–8.
+	39.	 Richards BS, Bernstein RM, D’amato CR, Thompson GH. Standardization of 
+criteria for adolescent idiopathic scoliosis brace studies: SRS Commit-
+tee on Bracing and Nonoperative Management. Spine (Phila Pa 1976). 
+2005;30(18):2068–75 discussion 76-7.
+	40.	 Samsa G, Edelman D, Rothman ML, Williams GR, Lipscomb J, Matchar D. 
+Determining Clinically Important Differences in Health Status Measures. 
+Pharmacoeconomics. 1999;15(2):141–55.
+	41.	 Parent E, Ghaneei M, Adeeb S, Schreiber S, Moreau M, Hedden D, et al. 
+Effects of schroth exercises added to standard care in adolescents with 
+idiopathic scoliosis (Ais) on markerless surface topography asymmetry 
+measurements – a randomized controlled trial (RCT). 2016. p. 70.
+	42.	 Liu Y, Pan A, Hai Y, Li W, Yin L, Guo R. Asymmetric biomechanical charac-
+teristics of the paravertebral muscle in adolescent idiopathic scoliosis. 
+Clin Biomech (Bristol, Avon). 2019;65:81–6.
+	43.	 Menger RP, Sin AH. Adolescent and Idiopathic Scoliosis [M]. StatPearls. 
+Treasure Island (FL): StatPearls Publishing Copyright © 2022, StatPearls 
+Publishing LLC; 2022.
+	44.	 Ajimsha MS, Shenoy PD, Gampawar N. Role of fascial connectivity in 
+musculoskeletal dysfunctions: a narrative review. J Bodyw Mov Ther. 
+2020;24(4):423–31.
+	45.	 Anderst WJ, Gale T, Levasseur C, Raj S, Gongaware K, Schneider M. 
+Intervertebral kinematics of the cervical spine before, during, and after 
+high-velocity low-amplitude manipulation. Spine J. 2018;18(12):2333–42.
+
+=====PAGE 12
+Page 12 of 12
+Wenxia et al. BMC Musculoskeletal Disorders          (2024) 25:874 
+	46.	 Ford DM, Bagnall KM, Clements CA, Mcfadden KD. Muscle spindles in the 
+paraspinal musculature of patients with adolescent idiopathic scoliosis. 
+Spine (Phila Pa 1976). 1988;13(5):461–5.
+	47.	 Blecher R, Heinemann-Yerushalmi L, Assaraf E, Konstantin N, Chapman 
+JR, Cope TC, et al. New functions for the proprioceptive system in skeletal 
+biology [J]. Philos Trans R Soc Lond B Biol Sci. 2018;373(1759).
+	48.	 Smit TH. Adolescent idiopathic scoliosis: The mechanobiology of differen-
+tial growth. JOR Spine. 2020;3(4):e1115.
+	49.	 Li P, Gan Y, Wang H, Zhang C, Wang L, Xu Y, et al. Dynamic compression 
+effects on immature nucleus pulposus: a study using a novel intelligent 
+and mechanically active bioreactor. Int J Med Sci. 2016;13(3):225–34.
+	50.	 Gómez Cristancho DC, Trujillo GJ, Pérez Rodríguez IF, Pérez JC, Díaz Orduz 
+RC, Berbeo Calderón ME. Neurological mechanisms involved in idiopathic 
+scoliosis. Systematic review of the literature. Neurocirugia (Astur : Engl 
+Ed). 2023;34(1):1–11.
+	51.	 Radwan NL, Ibrahim MM, Mahmoud WS. Comparison of two periods 
+of Schroth exercises for improving postural stability indices and Cobb 
+angle in adolescent idiopathic scoliosis. J Back Musculoskelet Rehabil. 
+2022;35(3):573–82.
+	52.	 Dolan LA, Weinstein SL. Surgical rates after observation and bracing for 
+adolescent idiopathic scoliosis: an evidence-based review [J]. Spine (Phila 
+Pa 1976). 2007;32(19 Suppl):S91–s100.
+	53.	 Negrini S, Donzelli S, Negrini A, Parzini S, Romano M, Zaina F. Specific 
+exercises reduce the need for bracing in adolescents with idiopathic 
+scoliosis: a practical clinical trial. Ann Phys Rehabil Med. 2019;62(2):69–76.
+	54.	 Zapata KA, Sucato DJ, Jo CH. Physical therapy scoliosis-specific exercises 
+may reduce curve progression in mild adolescent idiopathic scoliosis 
+curves. Pediatr Phys Ther. 2019;31(3):280–5.
+	55.	 Kuru T, Yeldan P, Dereli EE, Zdinler AR, Olak L. The efficacy of three-dimen-
+sional Schroth exercises in adolescent idiopathic scoliosis: a randomised 
+controlled clinical trial. Clin Rehabil. 2016;30(2):181.
+	56.	 Jack K, Mclean SM, Moffett JK, Gardiner E. Barriers to treatment adher-
+ence in physiotherapy outpatient clinics: a systematic review. Man Ther. 
+2010;15(3):220–8.
+	57.	 Kuru T, Yeldan I, Dereli EE, Ozdincler AR, Dikici F, Colak I. The efficacy of 
+three-dimensional Schroth exercises in adolescent idiopathic scoliosis: a 
+randomised controlled clinical trial. Clin Rehabil. 2016;30(2):181–90.
+	58.	 Schreiber S, Parent EC, Hedden DM, Moreau M, Hill D, Lou E. Effect of 
+Schroth exercises on curve characteristics and clinical outcomes in 
+adolescent idiopathic scoliosis: protocol for a multicentre randomised 
+controlled trial. J Physiother. 2014;60(4):234 discussion.
+	59.	 Rrecaj-Malaj S, Beqaj S, Krasniqi V, Qorolli M, Tufekcievski A. Outcome 
+of 24 Weeks of combined schroth and pilates exercises on cobb angle, 
+angle of trunk rotation, chest expansion, flexibility and quality of life 
+in adolescents with idiopathic scoliosis. Med Sci Monit Basic Res. 
+2020;26:e920449.
+	60.	 Negrini S, Aulisa AG, Aulisa L, Circo AB, De Mauroy JC, Durmala J, et al. 
+2011 SOSORT guidelines: orthopaedic and Rehabilitation treatment of 
+idiopathic scoliosis during growth. Scoliosis. 2012;7(1):3.
+	61.	 Gera C, Malik M. Efficacy of spinal manipulations and Schroth exer-
+cises on psychological parameters in patients with functional scolio-
+sis: a randomised controlled trial. Comparative Exercise Physiology. 
+2023;19(2):111–8.
+	62.	 Yagci G, Yakut Y. Core stabilization exercises versus scoliosis-specific 
+exercises in moderate idiopathic scoliosis treatment. Prosthet Orthot Int. 
+2019;43(3):301–8.
+	63.	 Yan NG S, NG Y, Cheng K, Chan W, Ho T. Intervention Versus Observation 
+in Mild Idiopathic Scoliosis in Skeletally Immature Patients. Open Orthop 
+J. 2020;14:186–94.
+	64.	 Sanders AE, Andras LM, Iantorno SE, Hamilton A, Choi PD, Skaggs DL. 
+Clinically significant psychological and emotional distress in 32% of ado-
+lescent idiopathic scoliosis patients*. Spine Deformity. 2018;6(4):435–40.
+Publisher’s Note
+Springer Nature remains neutral with regard to jurisdictional claims in pub-
+lished maps and institutional affiliations.
