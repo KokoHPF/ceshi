@@ -112,6 +112,15 @@ def relabel(im, boxes, k, dark):
     return im
 
 
+def cover_from(im, cx=0.5, cy=0.5):
+    """封面 900×383：从原文插图按比例裁出一块（cx、cy 为裁剪中心的相对位置）"""
+    r = 900 / 383; w, h = im.size
+    if w / h > r: cw, ch = round(h * r), h
+    else: cw, ch = w, round(w / r)
+    x = min(max(0, round(cx * w - cw / 2)), w - cw); y = min(max(0, round(cy * h - ch / 2)), h - ch)
+    im.crop((x, y, x + cw, y + ch)).resize((900, 383), Image.LANCZOS).convert('RGB').save(f'{OUT}/cover.jpg', quality=90)
+
+
 # 首图
 W, H = 1400, 700; im = Image.new('RGB', (W, H), (246, 248, 250)); dr = ImageDraw.Draw(im)
 dr.rectangle([0, 0, 18, H], fill=TEAL)
@@ -197,11 +206,11 @@ phases('落到临床（编者整理）', [
         '术后 0～3 周用的是修复术后的保护支具，因为食指同时做了肌腱固定；单纯松解通常可以更早主动活动',
         '念珠和阿拉伯咖啡带有宗教和地域背景，借鉴的是“用患者熟悉的任务”这一思路'])], 7)
 
-# 封面 900×383
-im = Image.new('RGB', (900, 383), (246, 248, 250)); dr = ImageDraw.Draw(im)
-dr.rectangle([0, 0, 14, 383], fill=TEAL)
-dr.text((50, 56), '手外科康复 · 屈肌腱松解 · 个案', font=font(34), fill=TEAL)
-dr.text((50, 128), '30 年没弯过的两根手指', font=font(54), fill=INK)
-dr.text((50, 214), '松解后靠日常动作练回来', font=font(54), fill=INK)
-dr.text((50, 318), '念珠手势 · 阿拉伯咖啡方案 · 18 个月随访', font=font(26), fill=GREY)
-im.save(f'{OUT}/cover.jpg', quality=90)
+# 封面：原文图 2（念珠手势）上排
+# 封面：图 2 上排 4 个手部动作（取原图数据，比页面渲染清晰），横向拼成一条
+import io
+raw2 = Image.open(io.BytesIO(doc.extract_image(13)['image'])).convert('RGB')
+strip = Image.new('RGB', (4 * 320 + 3 * 10, 624), 'white')
+for i, x0 in enumerate((10, 435, 913, 1735)):
+    strip.paste(raw2.crop((x0, 6, x0 + 320, 630)), (i * 330, 0))
+cover_from(strip, 0.5, 0.45)

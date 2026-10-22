@@ -80,6 +80,15 @@ def phases(title, S, n, fs=24):
 
 import io
 
+def cover_from(im, cx=0.5, cy=0.5):
+    """封面 900×383：从原文插图按比例裁出一块（cx、cy 为裁剪中心的相对位置）"""
+    r = 900 / 383; w, h = im.size
+    if w / h > r: cw, ch = round(h * r), h
+    else: cw, ch = w, round(w / r)
+    x = min(max(0, round(cx * w - cw / 2)), w - cw); y = min(max(0, round(cy * h - ch / 2)), h - ch)
+    im.crop((x, y, x + cw, y + ch)).resize((900, 383), Image.LANCZOS).convert('RGB').save(f'{OUT}/cover.jpg', quality=90)
+
+
 # 首图
 W, H = 1400, 680; im = Image.new('RGB', (W, H), (246, 248, 250)); dr = ImageDraw.Draw(im)
 dr.rectangle([0, 0, 18, H], fill=TEAL)
@@ -189,11 +198,5 @@ phases('落到临床（编者整理）', [
         '单个试验都不够准，要和症状、影像一起判断']),
     ('弹响分清内外', PU, (90, 60, 150), ['看得见、侧方：髂胫束，做 Ober 和呼啦圈试验', '听得见、前方：髂腰肌，做 FABER → EADIR'])], 13)
 
-# 封面 900×383
-im = Image.new('RGB', (900, 383), (246, 248, 250)); dr = ImageDraw.Draw(im)
-dr.rectangle([0, 0, 14, 383], fill=TEAL)
-dr.text((50, 56), '髋关节 · 青少年及青年 · 临床查体', font=font(34), fill=TEAL)
-dr.text((50, 128), '年轻人髋痛怎么查？', font=font(56), fill=INK)
-dr.text((50, 214), '问诊、查体到特殊检查', font=font(48), fill=INK)
-dr.text((50, 318), '撞击 · 不稳 · SCFE · 弹响髋', font=font(26), fill=GREY)
-im.save(f'{OUT}/cover.jpg', quality=90)
+# 封面：原文图 7（俯卧恐惧复位试验）
+cover_from(Image.open(io.BytesIO(doc.extract_image(25)['image'])).convert('RGB'), 0.5, 0.5)

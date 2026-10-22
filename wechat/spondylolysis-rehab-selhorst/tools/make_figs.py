@@ -114,6 +114,15 @@ def relabel(im, boxes, k, dark):
 
 import io
 
+def cover_from(im, cx=0.5, cy=0.5):
+    """封面 900×383：从原文插图按比例裁出一块（cx、cy 为裁剪中心的相对位置）"""
+    r = 900 / 383; w, h = im.size
+    if w / h > r: cw, ch = round(h * r), h
+    else: cw, ch = w, round(w / r)
+    x = min(max(0, round(cx * w - cw / 2)), w - cw); y = min(max(0, round(cy * h - ch / 2)), h - ch)
+    im.crop((x, y, x + cw, y + ch)).resize((900, 383), Image.LANCZOS).convert('RGB').save(f'{OUT}/cover.jpg', quality=90)
+
+
 # 首图
 W, H = 1400, 680; im = Image.new('RGB', (W, H), (246, 248, 250)); dr = ImageDraw.Draw(im)
 dr.rectangle([0, 0, 18, H], fill=TEAL)
@@ -227,11 +236,7 @@ phases('落到临床（编者整理）', [
     ('别只盯着腰', GR, (40, 120, 60), ['查髋屈肌、腘绳肌柔韧性；查胸椎旋转和肩外旋，比如投手旋转不够就会用腰代偿',
         '不做腰椎推拿（高速手法）；被动治疗少用，目的是让孩子动起来'])], 8)
 
-# 封面 900×383
-im = Image.new('RGB', (900, 383), (246, 248, 250)); dr = ImageDraw.Draw(im)
-dr.rectangle([0, 0, 14, 383], fill=TEAL)
-dr.text((50, 56), '青少年腰痛 · 峡部裂 · IJSPT', font=font(34), fill=TEAL)
-dr.text((50, 128), '腰椎峡部裂的孩子', font=font(56), fill=INK)
-dr.text((50, 214), '三期康复怎么回场', font=font(56), fill=INK)
-dr.text((50, 318), '腹横肌 · 多裂肌 · 按标准进阶 · 不必等骨愈合', font=font(26), fill=GREY)
-im.save(f'{OUT}/cover.jpg', quality=90)
+# 封面：原文图 1（峡部缺损，已换中文标注）
+# 封面：图 4 治疗师手法辅助多裂肌训练（真人操作，横幅构图）
+import io
+cover_from(Image.open(io.BytesIO(doc.extract_image(38)['image'])).convert('RGB'), 0.5, 0.55)
