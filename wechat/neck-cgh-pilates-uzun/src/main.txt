@@ -1,0 +1,746 @@
+
+=====PAGE 1
+Citation: Uzun, M.; ˙Ikida˘g, M.A.;
+Ekmekyapar Fırat, Y.; Ergun, N.;
+Akbayrak, T. The Effects of Cervical
+Mobilization with Clinical Pilates
+Exercises on Pain, Muscle Stiffness
+and Head and Neck Blood Flow in
+Cervicogenic Headache: Randomized
+Controlled Trial. Medicina 2024, 60,
+852. https://doi.org/10.3390/
+medicina60060852
+Academic Editor: Jan Bilski
+Received: 19 April 2024
+Revised: 15 May 2024
+Accepted: 20 May 2024
+Published: 23 May 2024
+Copyright: © 2024 by the authors.
+Licensee MDPI, Basel, Switzerland.
+This article is an open access article
+distributed
+under
+the
+terms
+and
+conditions of the Creative Commons
+Attribution (CC BY) license (https://
+creativecommons.org/licenses/by/
+4.0/).
+medicina
+Article
+The Effects of Cervical Mobilization with Clinical Pilates
+Exercises on Pain, Muscle Stiffness and Head and Neck Blood
+Flow in Cervicogenic Headache: Randomized Controlled Trial
+Meltem Uzun 1,*, Mehmet Ali ˙Ikida˘g 2, Yasemin Ekmekyapar Fırat 3
+, Nevin Ergun 1 and Türkan Akbayrak 4
+1
+Department of Physiotherapy and Rehabilitation, Faculty of Health Sciences, SANKO University,
+27090 Gaziantep, Turkey; nevinergun53@gmail.com
+2
+Department of Radiology, SANKO University Hospital, 27090 Gaziantep, Turkey; mikidag@hotmail.com
+3
+Department of Neurology, Faculty of Medicine, SANKO University, 27090 Gaziantep, Turkey;
+yaseminekmekyapar@gmail.com
+4
+Faculty of Physical Therapy and Rehabilitation, Hacettepe University, 06100 Ankara, Turkey;
+takbayrak@yahoo.com
+*
+Correspondence: meltemozturk03@hotmail.com
+Abstract: Background and Objectives: Physiotherapy approaches are used to eliminate the problems
+caused by cervicogenic headache (CHA), known as secondary headache associated with the structures
+of the upper cervical region. This study aimed to investigate the effects of cervical mobilization (CM)
+with clinical Pilates exercises (CPE) on pain, muscle stiffness and head–neck blood flow in CGH.
+Materials and Methods: A total of 25 patients participated in this randomized controlled study and were
+randomized into either the CM group or the CM+CPE group. All treatment methods were applied
+3 days a week for 6 weeks. The outcome measure was headache intensity and frequency, the number
+of analgesics, muscle stiffness and vertebral artery (VA) and internal carotid artery (ICA) blood flow.
+Headache intensity was measured by a visual analogue scale, muscle stiffness by a myotonometer
+and blood flow by Doppler US. Evaluations were repeated after 6 weeks of treatment. Within-group
+comparisons were made by the Wilcoxon signed rank test, and between-group comparisons were
+made by the Mann–Whitney U test. Results: After treatments in the two groups, headache intensity
+and frequency and the number of analgesics decreased, the muscle stiffness of the suboccipital,
+upper trapezius and sternocleidomastoid (SCM) muscles decreased, and the blood flow of the ICA
+and VA increased (p < 0.05). There was a significant difference between the groups in terms of
+headache intensity (p = 0.025) and muscle stiffness in SKM (p = 0.044) in favor of the CM+CPE group.
+Conclusions: Non-pharmacological treatment approaches have an important role in CHA related to
+the upper cervical region. This study suggests that it would be beneficial to add CM in combination
+with CPE to the non-pharmacological treatment of patients with CHA.
+Keywords: cervicogenic headache; neck; musculoskeletal diseases; blood flow; Pilates-based exercises
+1. Introduction
+A cervicogenic headache (CHA) is a type of headache of musculoskeletal origin,
+especially associated with the structures of the upper cervical region. CHA is defined in
+the International Classification of Headache Disorders as one of the secondary headache
+types spreading from the back of the head and neck to the ear and zygomatic region, with
+unilateral compressive and sometimes throbbing character. While pain can be triggered
+after mechanical maneuvers, it can last for weeks, starting from a few days, and can have a
+significant negative impact on people’s quality of life [1].
+It has been reported that cervical mobility decreases in CHA and muscle functions of
+the cervical region are adversely impacted [2,3]. In particular, the weakness of the deep
+neck flexors comes to the fore, and there are studies reporting the presence of anterior
+Medicina 2024, 60, 852. https://doi.org/10.3390/medicina60060852
+https://www.mdpi.com/journal/medicina
+
+=====PAGE 2
+Medicina 2024, 60, 852
+2 of 11
+tilt posture of the head [4,5]. Accordingly, various studies have determined the presence
+of stiffness in the muscles of the neck region [6]. In headache problems, musculoskeletal
+changes such as spinal mobility, muscle weakness, muscle stiffness and posture disorders
+should be evaluated, and appropriate treatment approaches should be applied in light of
+the results obtained. The importance of a multidisciplinary approach in headaches in terms
+of patient satisfaction with treatment has been reported in the literature [7].
+There are types of exercises that have been reported to reduce muscle stiffness in CHA,
+but more randomized controlled studies are needed [8,9]. Although studies in the literature
+are mostly related to primary headache types, there are various studies examining the
+presence of head and neck blood flow changes in headache [10,11]. However, there are no
+studies that investigate changes in the blood flow of the arteries feeding the head and neck
+in physiotherapy approaches applied in CHA. The present study eliminates this deficiency
+in the literature and is pioneering in this respect.
+Manual therapy approaches are recommended in studies on the management of
+CHA [12,13]. Studies have examined the effects of upper-segment cervical mobilization
+such as Mulligan SNAG and Maitland’s technique [14]. Our study is the first in which
+the Cyriax cervical mobilization technique is applied in CHA. There are studies showing
+the effectiveness of various exercise methods in CHA [15–17]. Pilates includes special
+movements intended to stabilize the joints, strengthen the deep spinal stabilizing muscles,
+lengthen the spine, increase mind–body awareness and improve posture [18]. The Aus-
+tralian Physiotherapy and Pilates Institute (APPI) has modified Pilates exercises so that
+they can be used in the clinic. This method aims to place five elements: lateral breathing,
+neutral spine position and centering, shoulder girdle placement, rib cage placement and
+head–neck placement [19]. In this context, the Pilates method appears to be an alternative
+for the treatment of musculoskeletal disorders [20]. It was reported that when individuals
+with CHA stay in a long-term fixed sitting position, postural compliance in the cervi-
+cal, thoracic and lumbar spinal segments is lower than that of healthy individuals, and
+headache is triggered [21]. In light of the studies conducted, it is thought that a holistic
+exercise approach involving the entire spine, such as clinical Pilates, may be more effective
+in CHA instead of exercises that only concern the cervical region. There is a case series
+reporting that the Pilates exercise program can induce positive effects on disorders related
+to tension-type headaches [22]. However, there are no studies examining the effectiveness
+of clinical Pilates in CHA.
+For the current study, we hypothesized that the combined use of cervical mobilization
+(CM) and clinical Pilates exercises (CPEs) is more effective than CM alone in patients with
+CHA. The present study aimed to examine the effects of CM and CM combined with CPE
+on pain frequency and intensity, the number of analgesics, cervical muscle stiffness and
+head and neck blood flow in individuals with CHA.
+2. Materials and Methods
+2.1. Study Design and Ethics
+This study is a prospective and randomized controlled trial. The study was approved
+by the Clinical Research Ethics Committee of SANKO University in accordance with the
+Declaration of Helsinki (Session No: 2020/04, Decision No: 03). This study was registered
+at Clinicaltrials.gov (ID number: NCT05883319 (22 March 2022)).
+2.2. Participants
+Consort flow diagram illustrating the participants in the study is presented in Figure 1.
+Patients who presented to the Neurology Outpatient Clinic of Sani Konuko˘glu Practice
+and Research Hospital and were diagnosed with CHA by a specialist were included in the
+study. Individuals who signed the voluntary consent form and were included in the study
+were randomly divided into groups using the minimization method, considering their age,
+gender and presence of headache. Individuals were grouped into the CM and CM+CPE
+treatment groups.
+
+=====PAGE 3
+Medicina 2024, 60, 852
+3 of 11
+Figure 1. CONSORT Flow Diagram.
+The inclusion criteria were determined as follows: being diagnosed with CHA, being
+an adult between the ages of 18 and 65 and not having received medical (excluding
+analgesic) treatment or physiotherapy for CHA in the previous few months. The exclusion
+criteria were determined as follows: having undergone headache surgery, serious cardiac
+history or surgery, current or previous malignancy history and being diagnosed with
+epilepsy. We calculated the sample size based on power analysis (G*power version 3.1.9.2,
+Axel Buchner, Universität Kiel) with a large effect size of d: 0.8. With two-sided test
+(alpha = 5%, power = 95%), we estimated that based on the headache frequency variable,
+nine people were determined per group [23]. When post hoc power analysis was performed
+according to the difference in ICA blood flow within CM groups, the power of the study
+was found to be 0.97, with ICA blood flow within CM+CPE 0.18 (G*Power 3.1, Düsseldorf,
+Germany). Due to the possibility of data loss, it was planned to include 15 people in each
+group. In line with the inclusion criteria, 31 patients were included in the evaluation.
+Three out of six patients discontinued treatment due to COVID-19 concerns and the other
+three patients due to a lack of time. The study was finalized with a total of 25 patients,
+12 in one group and 13 in the other group.
+
+=====PAGE 4
+Medicina 2024, 60, 852
+4 of 11
+2.3. Measurements
+While the head and neck blood flow evaluation was carried out by a radiologist
+with 20 years of experience, all other evaluations were performed face-to-face by the
+same physiotherapist under the same conditions. The evaluations were made before the
+treatment and after the treatment.
+First, the demographic data of individuals such as gender, age, body weight (kg),
+height (cm) and body mass index (kg/m) and presence of headache (years) were also recorded.
+Pain: headache frequency of pain (per month), headache intensity and analgesic use
+(number/month) were recorded. Headache intensity was evaluated in cm with visual
+analogue scale (VAS).
+Muscle Stiffness: Suboccipital, upper trapezius and sternocleidomastoid (SCM) muscle
+stiffness of the patients was evaluated bilaterally with a myotonometer (Myoton AS, Tallinn,
+Estonia). Myotonometers are valid and reliable methods for assessing stiffness [24]. In
+muscle stiffness evaluations, SCM was evaluated in the supine position, suboccipital in
+the prone position and upper trapezius in the sitting position. The measurement was
+repeated 3 times for the right and left sides. The average of the measurements was taken
+and recorded in N/m unit [8,25].
+Blood flow: A Siemens Acuson S2000 (Siemens, Erlangen, Germany) device was used
+to evaluate the patients’ internal carotid artery (ICA) and vertebral artery (VA) blood flow.
+Measurements were recorded for the right and left sides [26]. The average values of the
+right and left sides in blood flow were taken.
+2.4. Interventions
+All treatment methods were applied by the same physiotherapist under the same
+conditions, 3 times a week for 6 weeks. Before the treatment, the patients were informed
+about the treatment method applied.
+2.4.1. CM
+Neck mobilization techniques of Cyriax were applied to one group. Prior to applying
+CM, the patients were placed in the supine position on the treatment bed. The verte-
+brobasilar artery (VBA) test was conducted before mobilization. All patients’ VBA tests
+were negative. The bridging technique, manual traction rotation with manual traction,
+anterior-posterior gliding with manual traction, lateral gliding and trapezoidal manual
+stretching were applied among CM techniques [27]. CM was applied for approximately
+10 min as 8–10 repetitions for each technique.
+2.4.2. CPE
+CPE program selected from the exercises developed by the APPI. The exercise program
+of all patients in the group was carried out in the presence of a physiotherapist certified as
+an exercise instructor by the APPI [19].
+Firstly, the patients were shown the 5 basic elements of lateral breathing, neutral spine
+position and centering, shoulder girdle placement, rib cage placement and head–neck
+placement and taught them practically. During the exercise sessions, the patients were
+guided using verbal and tactile stimuli to ensure the continuity of these basic elements.
+Each exercise was performed with 8–10 repetitions in all sessions.
+The following exercise program was applied as shown in Figure 2. When planning the
+exercise program, it was aimed to increase DNFE, relax the muscles around the neck and
+increase spinal stability and mobility.
+Only CM was applied to the 1st group, and CM and CPE were applied together to the
+2nd group. Interventions in all groups were applied three days 3 times a week for 6 weeks.
+
+=====PAGE 5
+Medicina 2024, 60, 852
+5 of 11
+Figure 2. Clinical Pilates Programme. (A) Upper Back Warm-up; (B) Dumb Waiter; (C) Chest Stretch;
+(D) Corkscrew; (E) Upper Body Rolls; (F) Arm Opening Level 1; (G) Double Leg Stretch Level 1;
+(H) Swan Dive Level 1–3; (I) Breast Stroke Prep 1 Level 2; (J) Spine Twist; (K) Cat Stretch; (L) Active
+Trapezius Stretch.
+2.5. Statistical Analysis
+All analyses were conducted using SPSS software version 25. The normality and
+homogeneity of the data were evaluated with the Shapiro–Wilk test. As descriptive statistics,
+mean and standard deviation values were presented for continuous variables specified by
+the measurement, while frequency and percentage values were presented for qualitative
+variables. Categorical variables between the groups were compared using the chi-square
+test. The Mann–Whitney U test was used for comparisons between the groups. The pre-
+treatment and post-treatment values within groups were compared with the Wilcoxon
+signed rank test. The level of significance was taken as p < 0.05 for all analyses.
+3. Results
+In line with the inclusion criteria, 31 patients were included in the evaluation. Three
+out of six patients discontinued treatment due to COVID-19 concerns and the other three pa-
+tients due to a lack of time. The study was finalized with a total of 25 patients, 13 in the CM
+group and 12 in the CM+CPE group. There was no difference between the groups in terms
+of age (p = 0.276), the presence of headache (p = 0.782) and gender (p = 0.748) (Table 1).
+
+=====PAGE 6
+Medicina 2024, 60, 852
+6 of 11
+Table 1. Demographics and presence of headache.
+CM (n = 13)
+CM+CPE (n = 12)
+p
+X ± SD
+X ± SD
+Age (years)
+34.9 ± 9.214
+30.25 ± 9.016
+0.276 b
+Presence of headache (years)
+3.38 ± 2.142
+3.25 ± 2.454
+0.782 b
+BMI (kg/m2)
+21.432 ± 4.896
+20.612 ± 3.946
+0.744 b
+Gender
+n (%)
+n (%)
+Famele
+9 (69)
+9 (75)
+0.748 a
+Male
+4 (31)
+3 (25)
+X Mean, SD Standard deviation, BMI Body mass index, CM Cervical mobilization group, CPE Clinical Pilates
+exercise group; a Chi-square; b Mann–Whitney U test.
+Pain frequency and intensity, the number of analgesics, muscle stiffness, blood flow
+values pre- and post-treatment and the change between the two groups are listed in Table 2.
+According to a within-group comparison, a decrease in pain parameters, suboccipital,
+upper trapezius and SCM muscle stiffness and an increase in ICA and VA blood flow were
+observed in both groups (p < 0.05).
+Table 2. Comparisons of outcome measures within and between groups.
+CM
+X ± SS
+p a
+CM+CPE
+p a
+Z
+p b
+Pain
+Frequency
+(times month)
+Pre-treatment
+13.38 ± 7.54
+0.001 *
+17.08 ± 10.71
+0.002 *
+Post-treatment
+3.62 ± 2.78
+3.58 ± 2.99
+Change
+9.769 ± 5.433
+13.5 ± 8.969
+−0.982
+0.325
+Intensity (cm)
+Pre-treatment
+5.81 ± 1.18
+0.001 *
+7.43 ± 1.04
+0.002 *
+Post-treatment
+1.74 ± 1.41
+1.88 ± 1.14
+Change
+4.072 ± 1.076
+5.55 ± 1.720
+−2.232
+0.025 *
+Number of
+analgesics (per
+month)
+Pre-treatment
+12.23 ± 10.94
+0.001 *
+13.75 ± 12.70
+0.002 *
+Post-treatment
+2.62 ± 3.30
+2.42 ± 2.39
+Change
+9.615 ± 8.713
+11.33 ± 11.364
+−0.491
+0.623
+Muscle
+stiffness
+(N/m)
+R suboccipital
+Pre-treatment
+331.85 ± 98.75
+0.001 *
+304.92 ± 70.98
+0.002 *
+Post-treatment
+254.23 ± 67.46
+232.08 ± 54.45
+Change
+77.61 ± 85.81
+72.83 ± 44.29
+−0.598
+0.549
+L suboccipital
+Pre-treatment
+326.69 ± 98.78
+0.001 *
+302.83 ± 76.13
+0.002 *
+Post-treatment
+237.69 ± 45.17
+236 ± 47.94
+Change
+89 ± 94.36
+66.83 ± 46.99
+−0.163
+0.870
+R upper trapez
+Pre-treatment
+291.08 ± 47.40
+0.001 *
+319.42 ± 55.64
+0.002 *
+Post-treatment
+243.62 ± 40.39
+268.58 ± 51.25
+Change
+47.461 ± 26.38
+50.83 ± 17.23
+−1.008
+0.313
+L upper trapez
+Pre-treatment
+299.08 ± 53.87
+0.001 *
+332.42 ± 68.32
+0.002 *
+Post-treatment
+255.46 ± 46.01
+275.50 ± 54.20
+Change
+43.61 ± 30.30
+56.58 ± 27.87
+−1.142
+0.253
+R SCM
+Pre-treatment
+242.69 ± 45.31
+0.001 *
+246.50 ± 45.83
+0.002 *
+Post-treatment
+210.08 ± 22.29
+204.83 ± 28.02
+Change
+34.30 ± 36.88
+41.66 ± 21.70
+−1.715
+0.086
+L SCM
+Pre-treatment
+233.38 ± 21.9
+0.001 *
+253.25 ± 58.77
+0.002 *
+Post-treatment
+210.08 ± 22.29
+209.92 ± 52.15
+Change
+23.307 ± 12.31
+43.33 ± 29.61
+−2.013
+0.044 *
+Blood flow
+(cm/s)
+ICA PS
+Pre-treatment
+111.36 ± 14.86
+0.001 *
+118.89 ± 13.11
+0.002 *
+Post-treatment
+112.62 ± 14.95
+120.64 ± 13.22
+Change
+1.261 ± 1.025
+1.745 ± 1.104
+−1.198
+0.231
+ICA ED
+Pre-treatment
+37.62 ± 7.63
+0.011 *
+40.31 ± 4.38
+0.005 *
+Post-treatment
+38.46 ± 7.27
+42.40 ± 5.462
+Change
+0.842 ± 0.902
+2.087 ± 3.207
+−1.306
+0.191
+VA PS
+Pre-treatment
+82.75 ± 16.35
+0.034 *
+70.720 ± 15.41
+0.010 *
+Post-treatment
+83.39 ± 16.72
+71.49 ± 15.33
+Change
+0.638 ± 0.975
+0.775 ± 0.907
+−0.326
+0.744
+VA ED
+Pre-treatment
+27.43 ± 6.80
+0.012 *
+25.85 ± 6.50
+0.015 *
+Post-treatment
+28.05 ± 6.86
+27.01 ± 6.40
+Change
+0.623 ± 0.709
+1.160 ± 1.382
+−0.708
+0.479
+Mean ± Standard deviation (SD). * p < 0.05 for p a (within the group) by Wilcoxon test and p b (between groups)
+by Mann–Whitney U test. CM cervical mobilization group, CPE clinical Pilates exercise group, R right, L left,
+SCM sternocleidomastoideus, ICA internal carotid artery, VA vertebral artery, PS peak systolic, ED end diastolic.
+
+=====PAGE 7
+Medicina 2024, 60, 852
+7 of 11
+According to a between-group comparison, pain intensity and left SCM muscle stiff-
+ness changes were found to decrease more significantly in the CM+CPE group compared
+to the CM group (respectively, p = 0.025, p = 0.044).
+There was no difference in ICA and VA blood flow change between the two groups.
+4. Discussion
+The present study was carried out to compare the impacts of CM and CM+CPE
+on CHA and found decreased pain frequency and intensity, the number of analgesics
+and muscle stiffness and increased blood flow in two groups. However, CM+CPE was
+determined to be more effective in decreasing pain intensity and left SCM muscle stiffness.
+4.1. Pain
+The results of the present study demonstrated that CM alone and CPE+CM signifi-
+cantly decrease headache intensity, headache frequency and analgesic use in CHA. It is
+thought that CM relieves headache by reducing stress on cervical structures and increasing
+blood flow when applied alone or in combination with CPE.
+Guidelines on CHA support the positive impacts of cervical mobilization and ma-
+nipulation on headaches [28]. Furthermore, there are sources stating that therapeutic
+local exercises can be used in headache. A systematic review examining studies on pa-
+tients with CHA showed that the use of craniocervical flexion, cervical stabilization, cervi-
+coscapular strengthening, corrective exercises and active cervical region exercises might be
+effective [17]. CPE is an exercise approach based on neutral spine and core stabilization. In
+all exercises, neck stabilization is provided by deep neck flexor activation in the neck region,
+while scapular stabilization is ensured by activating the rhomboids, trapezius middle-lower
+part and serratus anterior in the shoulder girdle. In the meantime, the trapezius upper
+part and pectoral muscles are kept in a long position, and proper posture is tried to be
+maintained throughout the exercise period. There is no study in the literature in which
+CPE, an exercise approach that takes a holistic approach to the body and cares about the
+mind–body connection, is used specifically for headaches. Our study contributes to the
+literature in this respect. A significant improvement was observed in terms of headache
+frequency and intensity and the number of analgesics in both groups, which proves that the
+manual approach is effective in pain treatment. The addition of CPE to CM had a positive
+effect, especially on the decrease in pain intensity. There is a need for studies in which
+long-term results are monitored for the effect of CPE on headache.
+4.2. Muscle Stiffness
+It is known that CHA is caused by problems in the structures of the cervical region.
+Especially SCM, upper trapezius and suboccipital muscle tenderness and stiffness are
+frequently encountered [6,29,30].
+A study examining the effects of dry needling and ischemic compression methods in
+the presence of SCM active trigger points associated with CHA reported that both methods
+were effective [31]. A study evaluated the effect of cervical stretching and craniocervical
+flexion exercises on cervical muscles in individuals with CHA and stated that craniocervi-
+cal exercises were more effective in improving upper trapezius and suboccipital muscle
+stiffness measured with Myoton Pro [32].
+Although there is serious evidence that tension and tenderness in the neck muscles
+affect CHA, there are very few studies in the literature on how interventions change muscle
+stiffness. In our study, the stiffness of these muscles decreased significantly in both groups.
+Left SCM stiffness decreased more in the group where CPE was applied. The present study
+contributes significantly to the literature in terms of showing that CM applied in CHA
+alone or in combination with CPE can reduce the stiffness of the neck muscles. Long-term
+follow-up studies are needed to determine how long the muscle-stiffness-reducing effect of
+CM and CPE lasts.
+
+=====PAGE 8
+Medicina 2024, 60, 852
+8 of 11
+4.3. Blood Flow
+There are recent studies in the literature, indicating the need to examine the relation-
+ship between headache and the vessels feeding the brain. How the applied treatment
+methods affect this blood flow has also become important.
+In their study conducted with Doppler US, Abdullaiev R Ya et al. compared the VA
+blood flow of patients with CHA and healthy individuals and reported that blood flow
+decreased, especially in head rotation [10]. A study stated that VA blood flow increased
+significantly after acupressure application in a tension-type headache [33]. There is a study
+in the literature showing that VA blood flow increases significantly after neuromuscular
+joint facilitation in healthy individuals [34]. As a different opinion, another study examining
+VA and ICA blood flow after manipulation in individuals with chronic neck pain showed
+that blood flow parameters did not change [26]. It is stated that there is no change in head
+and neck blood flow after different head positions and cervical manipulation and that
+cervical interventions can be used safely [35]. Studies examining head and neck blood
+flow in the literature often question whether mobilization and manipulation interventions
+can be applied safely. Studies have been conducted to examine the effect of blood flow on
+chronic neck pain and different types of headaches. It is seen that there is no consensus
+among the studies showing different results. The study results showed that blood flow
+increased significantly in both groups. We believe that CM and CPE interventions can
+correct posture and relax circulation in individuals with CHA by reducing existing muscle
+tensions, thus increasing head and neck blood flow. Therefore, we think that more studies
+are needed. Our study will be the first in the literature to examine the effect of CHA on
+head and neck blood flow.
+In the case report we presented earlier, we observed the acute effect of CM on headache
+intensity, blood flow, muscle stiffness and CROM. In line with the positive results we
+obtained, we stated that there was a need for randomized controlled trials on the subject [36].
+In this randomized controlled study, we also observed the positive effects of CM after 6
+weeks of treatment. Furthermore, we demonstrated the additional effect of CPE on pain
+and muscle stiffness by adding CPE to one group.
+There are studies about the neck suggesting the use of CPE in patients with neck pain
+and sagittal cervical disorientation, but their number is very small [37]. Leite et al., in a case
+series, reported that the clinical Pilates program can induce positive effects on pain intensity,
+daily life function and negative emotional states related to tension-type headaches [22].
+Studies examining the effect of CPE on headaches are quite limited. A study concluded
+that CPE was an effective and safe exercise for pain, deep neck flexor, posture, the cervical
+range of motion and proprioception in patients with non-specific chronic neck pain [38].
+Our study showed that CPE contributed to the decrease in headache intensity and muscle
+stiffness in CHA, which is a headache originating from the neck.
+5. Conclusions
+It is impossible to ignore the increase in neck and cervical disorders due to modern
+lifestyles and the use of technological devices, and cervicogenic headache is one of these
+disorders with an increasing incidence. The increase in the use of analgesics, especially for
+chronic musculoskeletal pain, represents a significant burden on the healthcare system. In
+addition, given the negative effects of long-term analgesic use, it is important to develop
+alternative approaches to pain relief in terms of human health. Our study contributes to
+the literature by investigating the effects of CM and CPE in combination with CM on pain,
+muscle stiffness and cervical blood flow in CHA and offers alternative solutions. Studies on
+the long-term effects of specific exercise programs and manipulative treatment approaches
+applied to CHA are needed.
+In summary, alternative approaches in the management of musculoskeletal pain are
+important for the health systems of countries. In patients with CHA, CM was found to
+reduce headache intensity, headache frequency, the number of analgesics used and neck
+muscle stiffness and increase neck blood flow. It was concluded that CM and CPE together
+
+=====PAGE 9
+Medicina 2024, 60, 852
+9 of 11
+may be more effective in reducing pain intensity and muscle stiffness. It was suggested
+that it would be beneficial to add these interventions to the treatment plans of patients
+with CHA.
+The limitation of our study is that there was no follow-up to check the sustainability
+of the effects of the interventions.
+Author Contributions: Conceptualization, M.U. and T.A.; methodology, M.U. and T.A.; formal
+analysis, M.U.; investigation, M.U.; data curation, M.U., M.A.˙I. and Y.E.F.; writing—original draft
+preparation, M.U.; writing—review and editing, M.A.˙I., Y.E.F., N.E. and T.A.; visualization, M.U.;
+supervision, N.E.; project administration, T.A. All authors have read and agreed to the published
+version of the manuscript.
+Funding: This research received no external funding.
+Institutional Review Board Statement: The study was approved by the Clinical Research Ethics
+Committee of SANKO University in accordance with the Declaration of Helsinki (Session No: 2020/04,
+Decision No: 03).
+Informed Consent Statement: Informed consent was obtained from all subjects involved in the study.
+Data Availability Statement: The data presented in this study are available on request from the
+corresponding author. The data are not publicly available due to privacy.
+Acknowledgments: Thanks to all volunteer participants and authors for their contributions to
+this study.
+Conflicts of Interest: No potential conflicts of interest are reported by the authors.
+Abbreviations
+CHA, cervicogenic headache; APPI, the Australian Physiotherapy and Pilates Institute; CM,
+cervical mobilization; CPE, clinical Pilates exercise; VAS, visual analogue scale; SCM, sternocleido-
+mastoid; ICA, internal carotid artery; VA, vertebral artery; X, mean; SD, standard deviation; BMI,
+body mass index; R, right; L, left; PS, peak systolic; ED, end diastolic.
+References
+1.
+Headache Classification Committee of the International Headache Society (IHS). The International Classification of Headache
+Disorders, third edition. Cephalalgia 2018, 38, 1211.
+2.
+Dumas, J.P.; Arsenault, A.B.; Boudreau, G.; Magnoux, E.; Lepage, Y.; Bellavance, A.; Loisel, P. Physical impairments in cervicogenic
+headache: Traumatic vs. nontraumatic onset. Cephalalgia 2001, 21, 884–893. [CrossRef] [PubMed]
+3.
+Mingels, S.; Granitzer, M. Habitual Cervical Posture in Women With Episodic Cervicogenic Headache versus Asymptomatic
+Controls. J. Manip. Physiol. Ther. 2020, 43, 171–178. [CrossRef] [PubMed]
+4.
+Farmer, P.K.; Snodgrass, S.J.; Buxton, A.J.; Rivett, D.A. An investigation of cervical spinal posture in cervicogenic headache. Phys.
+Ther. 2015, 95, 212–222. [CrossRef] [PubMed]
+5.
+Zito, G.; Jull, G.; Story, I. Clinical tests of musculoskeletal dysfunction in the diagnosis of cervicogenic headache. Man. Ther. 2006,
+11, 118–129. [CrossRef]
+6.
+Lin, L.Z.; Yu, Y.N.; Fan, J.C.; Guo, P.W.; Xia, C.F.; Geng, X.; Zhang, S.Y.; Yuan, X.Z. Increased Stiffness of the Superficial Cervical
+Extensor Muscles in Patients with Cervicogenic Headache: A Study Using Shear Wave Elastography. Front. Neurol. 2022,
+27, 874643. [CrossRef] [PubMed]
+7.
+Blumenfeld, A.; Siavoshi, S. The Challenges of Cervicogenic Headache. Curr. Pain Headache Rep. 2018, 22, 47. [CrossRef]
+8.
+Park, S.K.; Yang, D.J.; Kim, J.H.; Heo, J.W.; Uhm, Y.H.; Yoon, J.H. Analysis of mechanical properties of cervical muscles in patients
+with cervicogenic headache. J. Phys. Ther. Sci. 2017, 29, 332–335. [CrossRef]
+9.
+Park, S.K.; Yoon, J.H. Effects of Neck Stabilizing Exercise on Muscle Characteristics, Muscle Activity and Posture in Patients with
+Cervicogenic Headache. J. Korean Soc. Integr. Med. 2019, 7, 301–309. [CrossRef]
+10.
+Abdullaiev, R.Y.; Kalashnikov, V.; Voronzhev, I.; Sharmazanova, E.P.; Kostyukovskaya, A.E.; Abdullaiev, R.R. Dopplerography
+Assessment of Blood Flow Parameters of Vertebral Arteries in Patients with Cervicogenic Headache due to Arthrosis and
+Instability of Atlanto-Axial Junction. Trends. Tech. Sci. Res. 2018, 1, 97–101. [CrossRef]
+
+=====PAGE 10
+Medicina 2024, 60, 852
+10 of 11
+11.
+Shayestagul, N.A.; Christensen, C.E.; Amin, F.M.; Ashina, S.; Ashina, M. Measurement of blood flow velocity in the middle
+cerebral artery during spontaneous migraine attacks: A systematic review. Headache 2017, 57, 852–861. [CrossRef] [PubMed]
+12.
+Garcia, J.D.; Arnold, S.; Tetley, K.; Voight, K.; Frank, R.A. Mobilization and Manipulation of the Cervical Spine in Patients with
+Cervicogenic Headache: Any Scientific Evidence? Front. Neurol. 2016, 7, 40. [CrossRef] [PubMed]
+13.
+Núñez-Cabaleiro, P.; Leirós-Rodríguez, R. Effectiveness of manual therapy in the treatment of cervicogenic headache: A systematic
+review. Headache 2022, 62, 271–283. [CrossRef] [PubMed]
+14.
+Rania, M.; Kulandaivelan, S.; Bansal, A.; Pawalia, A. Physical therapy intervention for cervicogenic headache: An overview of
+systematic reviews. Eur. J. Physiother. 2019, 21, 217–223. [CrossRef]
+15.
+Rani, M.; Kaur, J. Effectiveness of spinal mobilization and postural correction exercises in the management of cervicogenic
+headache: A randomized controlled trial. Eur. J. Physiother. 2023, 39, 1391–1405. [CrossRef] [PubMed]
+16.
+Ahmed, M.M.; El-Mageed, S.F.A.; Hassan, K.A.; Saweeres, E.S.B. Efficacy of Biofeedback Exercise of Deep Neck Flexors on
+Cervicogenic Headache. Med. J. Cairo Univ. 2019, 87, 967–980. [CrossRef]
+17.
+Bini, P.; Hohenschutz-Schmidt, D.; Masullo, V.; Pitt, D.; Dreaper-Rodi, J. The effectiveness of manual and exercise therapy on
+headache intensity and frequency among patients with cervicogenic headache: A systematic review and meta-analysis. Chiropr.
+Man. Therap. 2022, 30, 49. [CrossRef]
+18.
+Bass, M.; Robinson, L.; Thomson, G. The Complete Classic Pilates Method: Centre Yourself with This Step-by-Step Approach to Joseph
+Pilates Original Mat Work Programme, 1st ed.; Macmillan: London, UK, 2006.
+19.
+The Australian Physiotherapy and Pilates Institute. Available online: https://www.ausphysio.com (accessed on 3 November 2023).
+20.
+Cruz, J.; Liberali, R.; Cruz, T.; Netto, M. The Pilates method in the rehabilitation of musculoskeletal disorders: A systematic
+review. Fisioter. Mov. 2016, 29, 609–622. [CrossRef]
+21.
+Mingels, S.; Dankaerts, W.; Van Etten, L.; Bruckers, L.; Granitzer, M. Lower spinal postural variability during laptop-work in
+subjects with cervicogenic headache compared to healthy controls. Sci. Rep. 2021, 11, 5159. [CrossRef]
+22.
+Leite, A.; Matignon, A.; Marlot, L.; Coelho, A.; Lopes, S.; Brochado, G. The Impact of Clinical Pilates Exercises on Tension-Type
+Headaches: A Case Series. Behav. Sci. 2023, 13, 105. [CrossRef]
+23.
+Jull, G.; Trott, P.; Potter, H.; Zito, G.; Niere, K.; Shirley, D.; Emberson, J.; Marschner, I.; Richardson, C. A Randomized Controlled
+Trial of Exercise and Manipulative Therapy for Cervicogenic Headache. Spine 2002, 27, 1835–1843. [CrossRef]
+24.
+Pruyn, E.C.; Watsford, M.L.; Murphy, A.J. Validity and reliability of three methods of stiffness assessment. Sport Health Sci. 2016,
+5, 476–483. [CrossRef] [PubMed]
+25.
+Ta¸s, S.; Ya¸sar, Ü.; Kaynak, B.A. Interrater and Intrarater Reliability of a Handheld Myotonometer in Measuring Mechanical
+Properties of the Neck and Orofacial Muscles. J. Manip. Physiol. Ther. 2021, 44, 42–48. [CrossRef] [PubMed]
+26.
+Kocabey, B.; Co¸skunsu, D.K.; Güven, K.; A˘gao˘glu, M.H.; Yüce, S. Effects of Manual Versus Instrumental Spinal Manipulation on
+Blood Flow of the Vertebral and Internal Carotid Arteries in Participants with Chronic Nonspecific Neck Pain: A Single-Blind,
+Randomized Study. J. Chirop. Med. 2023, 22, 1–10. [CrossRef]
+27.
+Kesson, M.; Atkins, E. The Cervical Spine. In Orthopaedic Medicine: A Practical Approach, 2nd ed.; Elsevier Butterworth-Heinemann
+Medical: New York, NY, USA, 1998; pp. 302–322.
+28.
+Xiao, H.; Peng, B.-G.; Ma, K.; Huang, D.; Liu, X.-G.; Lv, Y.; Liu, Q.; Lu, L.J.; Liu, J.F.; Li, Y.M.; et al. Expert panel’s guideline on
+cervicogenic headache: The Chinese Association for the Study of Pain recommendation. World J. Clin. Cases 2021, 9, 2027–2036.
+[CrossRef] [PubMed]
+29.
+Olivier, B.; Pramod, A.; Maleka, D. Trigger Point Sensitivity Is a Differentiating Factor between Cervicogenic and Non-
+Cervicogenic Headaches: A Cross-Sectional, Descriptive Study. Physiother. Can. 2018, 70, 323–329. [CrossRef]
+30.
+Sedlackova, Z.; Vita, M.; Herman, J.; Furst, T.; Dornak, T.; Herman, M. Elasticity of neck muscles in cervicogenic headache. Biomed.
+Pap. Med. Fac. Univ. Palacky Olomouc Czech Repub. 2022, 166, 328–333. [CrossRef] [PubMed]
+31.
+Togha, M.; Bahrpeyma, F.; Jafari, M.; Nasiri, A. A sonographic comparison of the effect of dry needling and ischemic compression
+on the active trigger point of the sternocleidomastoid muscle associated with cervicogenic headache: A randomized trial. J. Back.
+Musculoskelet. Rehabil. 2020, 33, 749–759. [CrossRef] [PubMed]
+32.
+Park, S.K.; Yang, D.J.; Kim, J.H.; Kang, D.H.; Park, S.H.; Yoon, J.H. Effects of cervical stretching and cranio-cervical flexion exercises
+on cervical muscle characteristics and posture of patients with cervicogenic headache. Phys. Ther. Sci. 2017, 29, 1836–1840.
+[CrossRef] [PubMed]
+33.
+Lee, Y.H.; Seo, H.S.; Yun, Y.D. Effects of Acupressure on Vertebral Artery Blood Flow in Tension-type Headache Patients. Korean J.
+Acupunct. 2011, 28, 49–58. [CrossRef]
+34.
+Huo, M.; Yin, L.; Li, D.; Murakami, S.; Zhou, D.; Maruyama, H. Immediate effects of neuromuscular joint facilitation treatment on
+vertebral artery blood flow. J. Phys. Ther. Sci. 2021, 33, 928–930. [CrossRef] [PubMed]
+35.
+Kranenburg, H.A.R.; Tyer, R.; Schmitt, M.; Luijckx, G.J.; Van der Schans, C.; Hutting, N.; Kerry, R. Effects of Head and Neck
+Positions on Blood Flow in the Vertebral, Internal Carotid, and Intracranial Arteries: A Systematic Review. J. Orthop. Sports Phys.
+Ther. 2019, 49, 688–697. [CrossRef]
+36.
+Uzun, M.; ˙Ikidag, M.A.; Akbayrak, T. Acute effect of neck mobilization on the head neck blood flow, muscle stiffness, and neck
+range of motion in cervicogenic headache: A case report. J. Exerc. Ther. Rehabil. 2020, 7, 74–79. [CrossRef]
+
+=====PAGE 11
+Medicina 2024, 60, 852
+11 of 11
+37.
+Hürer, E.; Angın, E.; Tüzün, E.H. Effectiveness of clinical Pilates and home exercises in sagittal cervical disorientation: Randomized
+controlled study. J. Comp. Eff. Res. 2021, 10, 365–380. [CrossRef] [PubMed]
+38.
+Picak, G.S.; Yesilyaprak, S.S. Effects of clinical pilates exercises in patients with chronic nonspecific neck pain: A randomized
+clinical trial. Ir. J. Med. Sci. 2023, 192, 1205–1214. [CrossRef] [PubMed]
+Disclaimer/Publisher’s Note: The statements, opinions and data contained in all publications are solely those of the individual
+author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to
+people or property resulting from any ideas, methods, instructions or products referred to in the content.
