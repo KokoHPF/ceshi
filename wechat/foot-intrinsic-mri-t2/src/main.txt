@@ -1,0 +1,651 @@
+
+=====PAGE 1
+Journal of Athletic Training
+2016;51(8):644–650
+doi: 10.4085/1062-6050-51.10.07
+ by the National Athletic Trainers’ Association, Inc
+www.natajournals.org
+original research
+Intrinsic Foot Muscle Activation During Specific
+Exercises: A T2 Time Magnetic Resonance Imaging
+Study
+Thomas M. Gooding, MEd, ATC; Mark A. Feger, PhD, ATC; Joseph M. Hart,
+PhD, ATC, FNATA; Jay Hertel, PhD, ATC, FNATA, FACSM
+University of Virginia, Charlottesville
+Context:
+The intrinsic foot muscles maintain the medial
+longitudinal arch and aid in force distribution and postural control
+during gait. Impaired intrinsic foot-muscle function has been
+linked to various foot conditions. Several rehabilitative exercises
+have been proposed to improve it; however, literature that
+identifies which individual muscles are activated during specific
+intrinsic foot-muscle exercises is lacking.
+Objective:
+To describe changes in activation of the intrinsic
+plantar foot muscles after 4 exercises as measured with T2
+magnetic resonance imaging (MRI).
+Design:
+Descriptive laboratory study.
+Setting:
+Research laboratory.
+Patients or Other Participants:
+Eight healthy National
+Collegiate Athletic Association Division I collegiate cross-country
+and track athletes (5 men and 3 women: age ¼ 20 6 0.93 years,
+height ¼ 180.98 6 10.84 cm, mass ¼ 70.91 6 7.82 kg).
+Intervention(s):
+Participants underwent T2 MRI before and
+after each exercise. They completed 1 set of 40 repetitions of
+each exercise (short-foot exercise, toes spread out, first-toe
+extension, second- to fifth-toes extension).
+Main Outcome Measure(s):
+Percentage increases in mus-
+cle activation of the abductor hallucis, flexor digitorum brevis,
+abductor digiti minimi, quadratus plantae, flexor digiti minimi,
+adductor hallucis oblique, flexor hallucis brevis, and interossei
+and lumbricals (analyzed together) after each exercise were
+assessed using T2 MRI.
+Results:
+All muscles showed increased activation after all
+exercises. The mean percentage increase in activation ranged
+from 16.7% to 34.9% for the short-foot exercise, 17.3% to 35.2%
+for toes spread out, 13.1% to 18.1% for first-toe extension, and
+8.9% to 22.5% for second- to fifth-toes extension. All increases
+in activation had associated 95% confidence intervals that did
+not cross zero.
+Conclusions:
+Each of the 4 exercises was associated with
+increased activation in all of the plantar intrinsic foot muscles
+evaluated. These results may have clinical implications for the
+prescription of specific exercises to target individual intrinsic foot
+muscles.
+Key Words:
+short-foot exercise, muscle functional magnetic
+resonance imaging, toes spread out, medial longitudinal arch
+Key Points
+ Clinicians can prescribe the short-foot exercise, toes-spread-out exercise, ﬁrst-toe–extension exercise, and second-
+to ﬁfth-toes–extension exercise to activate the intrinsic foot muscles.
+ These exercises can result in a 9% to 35% increase in intrinsic foot-muscle activity.
+T
+he foot is an intricate structure consisting of a
+complex network of bones, ligaments, and muscles
+that work synchronously to maintain its shape and
+allow movements such as walking and running. The extrinsic
+foot muscles primarily provide osteokinematic move-
+ments,1,2 whereas the intrinsic foot muscles maintain the
+medial longitudinal arch,3–6 control the degree and velocity
+of arch deformation,7 and aid in postural control during
+stance and gait.8–11 Several conditions, such as plantar
+fasciopathy,1,3,6 hallux valgus,12–14 and pes planus,1,12,15,16
+are associated with weakened or atrophied intrinsic foot
+muscles. Rehabilitation and strengthening of these muscles
+are used to treat these conditions,1,2,17 and prophylactic
+exercises targeting the intrinsic foot muscles may aid in
+injury prevention. Unfortunately, literature describing the
+individual activation levels for most of the intrinsic foot
+muscles during speciﬁc exercises is lacking. Surface
+electromyography4,6,13,18 (sEMG) has been used to describe
+activation of the abductor hallucis, ﬂexor digitorum brevis,
+and quadratus plantae, but the small sizes and close
+proximity of these muscles increase the risk for crosstalk
+from adjacent and underlying muscles.19 Intramuscular EMG
+with ﬁne-wire electrodes has been used to observe activation
+and minimize crosstalk of the abductor hallucis, ﬂexor
+digitorum brevis, and quadratus plantae during gait.9
+However, it is difﬁcult to conﬁrm into which muscle an
+electrode has been inserted, and thus, researchers often use
+ultrasonography5,9 to ensure ﬁne-wire placement. The
+smaller number of muscles analyzed during these studies
+may not represent the foot core system2 as a functional unit.
+Muscle functional magnetic resonance imaging (MRI) has
+been used to quantify changes in T2 signal intensity on the
+basis of hemodynamic, metabolic, and mechanical changes
+that are directly related to neuromuscular activation of
+muscle tissue.20–22 The use of T2 MRI allows for a
+noninvasive assessment of individual muscle activation. To
+644
+Volume 51  Number 8  August 2016
+
+=====PAGE 2
+our knowledge, this technique has not been used previously
+to assess activation patterns of the intrinsic foot muscles.
+Several exercises that are currently prescribed for the
+rehabilitation of acute and chronic foot and lower extremity
+conditions are thought to improve intrinsic foot-muscle
+function.2,17 However, limited evidence describes speciﬁcal-
+ly which intrinsic foot muscles are targeted by different
+exercises. Using a technique that can provide a more
+comprehensive analysis of muscle activity within the
+intrinsic foot muscles is crucial for determining which
+muscles are contracting during speciﬁc exercises. Knowl-
+edge of which muscles are used during different exercises is
+essential for clinicians to target speciﬁc deﬁcits or
+impairments that may be found in injured populations.
+Therefore, the purpose of our study was to quantify intrinsic
+plantar foot muscle activation as measured by T2 MRI after
+4 speciﬁc exercises.
+METHODS
+We performed a descriptive laboratory study using a
+crossover study design. The independent variable was time
+(pre-exercise and postexercise). Four exercises were ana-
+lyzed: short-foot exercise, toes spread out, ﬁrst-toe extension,
+and second- to ﬁfth-toes extension (Figure 1). Our dependent
+variable was T2 time, which is presented as the percentage
+increase in activation (relative to baseline levels of
+activation) after each of the 4 exercises, recorded individ-
+ually for these intrinsic plantar foot muscles: abductor
+hallucis, ﬂexor digitorum brevis, abductor digiti minimi,
+quadratus plantae, ﬂexor digiti minimi, adductor hallucis
+oblique, ﬂexor hallucis brevis, and interossei and lumbricals.
+Participants
+Eight National Collegiate Athletic Association Division I
+cross-country and track athletes (5 men and 3 women: age
+¼ 20 6 0.93 years, height ¼ 180.98 6 10.84 cm, mass ¼
+70.91 6 7.82 kg) participated. Participants were included if
+they had prior experience with the exercises assessed in this
+study and could perform all 4 exercises correctly on both
+feet. They were excluded if they had any conditions known
+to adversely affect muscle size or function or if they were
+restricted from full participation in sport due to injury status
+at the time of testing. All participants provided informed
+consent, and the study methods were approved by the
+Institutional Review Board for Health Sciences Research.
+Instruments
+Participants were scanned on a 3-Tesla MRI machine
+(Magnetom Trio; Siemens, Munich, Germany) from the
+most posterior aspect of the calcaneus through the toes with
+a large Siemens 4-channel ﬂex coil secured around their
+feet. Images were acquired using a turbo spin-echo pulse
+sequence with a repetition time of more than 2.5 seconds
+and echo times of 11 and 67 milliseconds. We performed a
+voxel-by-voxel ﬁt using these 2 echo times to estimate T2
+time. Slice thickness was 10 mm with a 0-mm interslice
+gap, and scan time was approximately 7 minutes.
+Testing Procedures
+Participants sat in a non–weight-bearing position for 10
+minutes before the baseline scan to minimize activity of the
+intrinsic foot muscles. They were transferred from a seated
+position to the scanner and were positioned supine with
+their feet ﬁrst in the scanner. Participants’ feet were secured
+in a standardized position of 08 of ankle dorsiﬂexion against
+a footplate and lightly wrapped in a ﬂex coil. The
+standardized position was selected to ensure consistency
+across all scans and all participants.
+After the baseline scan, participants were returned to a
+seated position with their feet on the ﬂoor. They performed
+1 of the 4 exercises with the right foot and a different
+exercise with the left foot (different pairs of exercises were
+performed on day 1 and day 2). Exercises were performed
+in alternating fashion (right foot contraction followed by
+Figure 1.
+Intrinsic foot muscle exercises: A, short-foot exercise; B, toes-spread-out exercise, C, ﬁrst-toe extension; and D, second- to
+ﬁfth-toe extension.
+Journal of Athletic Training
+645
+
+=====PAGE 3
+left foot contraction) to the beat of a metronome while
+seated. The metronome was set at 20 beats per minute, so
+that each contraction would be 3 seconds in duration.
+Participants completed 40 repetitions with each foot and
+then immediately returned to the scanner for the postexer-
+cise scan. We determined the number of repetitions (40)
+through pilot testing and selected this number to elicit a
+moderate amount of muscle activation across all 4 exercises
+in all participants. The order of exercises and the foot (right
+or left) that performed each exercise were randomized
+using a Latin square. Participants performed 2 of the
+exercises (1 with each foot) on day 1 and then returned 48
+hours later to complete a new baseline scan, the other 2
+exercises, and a postexercise scan.
+Exercise Descriptions
+Short-Foot Exercise. The short-foot exercise was
+performed by shortening and raising the medial
+longitudinal arch by bringing the metatarsal heads toward
+the calcaneus without ﬂexing the toes or contracting the
+extrinsic foot muscles.1
+Toes-Spread-Out Exercise. The toes-spread-out
+exercise was performed by extending all 5 toes and then
+simultaneously abducting all 5 toes while also ﬂexing the
+ﬁrst and ﬁfth toes to the ground, keeping toes 2 to 4
+extended. The middle toes were then relaxed.13
+First- and Second- to Fifth-Toe–Extension Exercise.
+First-toe extension was performed by extending the great
+toe while the second to ﬁfth toes remained on the ﬂoor in a
+neutral position. Second- to ﬁfth-toe extension was
+performed by extending the second to ﬁfth toes while the
+great toe remained ﬂat on the ﬂoor.23
+Data Processing
+A specialized software package (version 2.011; WinVessel,
+Michigan State University, East Lansing, MI) was used to
+process the MRI scans pre-exercise and postexercise. For each
+muscle, the series of 3 contiguous MRI slices that provided
+the largest cross-sectional area was used for analysis. Muscles
+were identiﬁed by a single trained researcher who was blinded
+to whether scans were taken pre-exercise or postexercise and
+which exercise was associated with each scan. Baseline scans
+were used to establish a threshold for muscle activation above
+resting values. To establish a threshold value for signal
+intensity, 5 individual circular regions of interest were traced
+within the desired muscle on each of the 3 baseline slices. The
+mean T2 value and associated standard deviation were
+calculated from these 5 regions of interest and then used as
+the lower threshold. Any pixel that exceeded the lower
+threshold (T2 mean þ 1 SD) was considered active tissue
+(Figure 2). This threshold was applied to both the pre-exercise
+and postexercise scans to identify the change in muscle
+activation after each exercise was performed. An upper limit
+for signal intensity was set from 900 to 10000 so that inactive
+tissue, such as fat, would be excluded from the total number of
+pixels within each muscle. A lower limit for signal intensity
+was applied to all scans for any pixel with a value of 0 to 200,
+which represented other inactive tissues such as blood vessels.
+Each muscle was manually outlined and a pixel-by-pixel
+count was obtained for the total number of pixels within that
+muscle, within the active range (tissue that exceeded 1 SD
+above the mean resting T2 value to the upper limit of 900),
+and within any inactive tissue (T2 values between 0 and 200).
+The percentage increase in muscle activation after each
+exercise was calculated using the following equations:
+Active Pixels
+ðTotal Pixels  Inactive PixelsÞ 3 100 ¼ % Active Muscle
+% Active Muscle Postexercise
+ % Active Muscle Pre-exercise
+¼ % Increase in Activation
+This process was followed for each of the 3 largest slices
+within a muscle, and we used the most active individual
+slice of each muscle for data analysis. Due to the 10-mm
+slice thickness and the orientation of the adductor hallucis
+transverse, we were unable to clearly distinguish this
+muscle in 3 contiguous slices for each participant and, thus,
+this muscle was not included in our analysis. In addition,
+the interossei and lumbricals were not separated by clear
+fascial borders and, therefore, were treated as a single group
+in the analysis.
+Statistical Analysis
+The T2 time for each muscle was measured pre-exercise
+and postexercise and reported as the percentage increase in
+muscle activation after each exercise, as demonstrated in
+the aforementioned equations. Group means and 95%
+conﬁdence intervals (CIs) were calculated for the percent-
+age increase in activation of each muscle after each
+exercise. A muscle was considered to be activated above
+baseline value when the lower limit of the 95% CI did not
+cross zero. A Pearson correlation coefﬁcient was also
+calculated to assess possible relationships between pre-
+exercise levels of activation and the percentage change in
+activation after the exercises.
+RESULTS
+Each of the 4 exercises resulted in activation of all of the
+intrinsic plantar foot muscles by at least 8.9% (range, 8.9%
+to 35.2%) with associated 95% CIs that did not cross zero
+(Table).
+Short-Foot Exercise
+The short-foot exercise resulted in an increase in muscle
+activation ranging from 16.7% 6 12.1% in the quadratus
+plantae to 34.9% 6 8.1% in the abductor digiti minimi
+(Figure 3A).
+Figure 2.
+Representative example illustrating A, muscle heads; B,
+pre-exercise levels of activation, and C, postexercise levels of
+activation used in the analysis of muscle activation after intrinsic
+foot-muscle exercises.
+646
+Volume 51  Number 8  August 2016
+
+=====PAGE 4
+Toes-Spread-Out Exercise
+Similarly, the toes-spread-out exercise demonstrated an
+increase ranging from 17.3% 6 10.8% for the interossei
+and lumbricals to 35.2% 6 11.6% for the abductor digiti
+minimi (Figure 3B).
+First-Toe–Extension Exercise
+The ﬁrst-toe–extension exercise had a more narrow range
+for the increase across muscles, with the lowest value being
+13.1% 6 8.8% increase for the ﬂexor hallucis brevis and
+the highest being 18.1% 6 8.6% increase for the ﬂexor
+digitorum brevis (Figure 3C).
+Second- to Fifth-Toes–Extension Exercise
+The second- to ﬁfth-toe–extension exercise resulted in an
+increase that ranged from 8.9% 6 5.0% for the interossei
+and lumbricals to 22.5% 6 12.6% for the abductor
+digitorum minimi (Figure 3D).
+In addition, heat maps (Figure 4) were created after each
+exercise depicting the percentage increase in activation for
+all muscles of each participant. Average percentage
+increases for each muscle shown on the heat maps were
+transposed onto corresponding intrinsic foot muscle images
+(Figure 5) for each exercise. The correlation between pre-
+exercise activation and the pre-to-post increase in activation
+was weak (r ¼0.19).
+DISCUSSION
+All 4 exercises activated all of the intrinsic plantar foot
+muscles, with average percentage increases in activation that
+ranged from 8.9% to 35.2%. To our knowledge, this is the
+ﬁrst study to describe intrinsic foot-muscle activity using T2
+MRI and the ﬁrst study to quantify the extent of activation of
+those muscles after speciﬁc exercises designed to target them.
+Table.
+Increase in Intrinsic Foot-Muscle Activation With 4 Intrinsic Foot Muscle Exercises, Mean % (95% Confidence Interval)
+Muscle
+Exercise
+Short Foot
+Toes Spread Out
+First-Toe Extension
+Second- to Fifth-Toe
+Extension
+Abductor hallucis
+29.7 (16.8, 42.6)
+18.9 (7.4, 30.5)
+16.9 (8.3, 25.5)
+16.5 (5.8, 27.2)
+Flexor digitorum brevis
+24.8 (11.8, 37.9)
+27.0 (18.3, 35.7)
+18.1 (9.5, 26.7)
+15.1 (5.4, 24.7)
+Abductor digiti minimi
+34.9 (26.7, 43.0)
+35.2 (23.6, 46.9)
+14.1 (3.9, 24.2)
+22.5 (10.0, 35.1)
+Quadratus plantae
+19.0 (12.0, 26.0)
+25.4 (12.6, 38.2)
+13.9 (5.8, 21.9)
+17.0 (4.7, 29.3)
+Flexor digiti minimi
+23.4 (4.0, 42.9)
+30.2 (9.7, 50.6)
+16.3 (6.5, 26.1)
+10.3 (4.9, 15.7)
+Adductor hallucis oblique
+22.4 (4.5, 40.3)
+31.5 (17.2, 45.8)
+15.9 (5.9, 26.0)
+17.6 (7.4, 27.8)
+Flexor hallucis brevis
+20.8 (7.6, 33.9)
+29.5 (20.8, 38.3)
+13.1 (4.3, 22.0)
+20.2 (9.6, 30.7)
+Interossei and lumbricals
+16.7 (4.5, 28.8)
+17.3 (6.5, 28.0)
+15.0 (9.3, 20.7)
+8.9 (3.9. 13.9)
+Figure 3.
+Percentage increase in activation: A, short-foot exercise; B, toes-spread-out exercise; C, ﬁrst-toe extension; D, second- to ﬁfth-
+toe extension. Abbreviations: ABH, abductor hallucis; ADM, abductor digiti minimi; AHO, adductor hallucis oblique; FDB, ﬂexor digitorum
+brevis; FDM, ﬂexor digiti minimi; FHB, ﬂexor hallucis brevis; I&L, interossei and lumbricals; QP, quadratus plantae.
+Journal of Athletic Training
+647
+
+=====PAGE 5
+These ﬁndings are important and relevant for clinicians
+involved in the assessment and treatment of foot and lower
+extremity conditions that may involve dysfunction of the
+intrinsic foot muscles and in the prevention of lower
+extremity injury.
+The short-foot exercise showed the greatest mean
+percentage activation in the abductor digiti minimi
+(34.9%), abductor hallucis (29.7%), and ﬂexor digitorum
+(24.8%). This could be a result of the parallel anatomical
+orientations these muscles have to the longitudinal arches in
+Figure 4.
+Anatomic representation of heat maps for group mean muscle-activation increases for each exercise. A, Short foot. B, Toes
+spread out. C, First-toe extension. D, Second- to ﬁfth-toe extension. Reprinted with permission from BMJ Publishing Group Ltd.2
+Figure 5.
+Muscle-activation increases (%), group means, and associated 95% conﬁdence intervals for each exercise. Abbreviations: ABH,
+abductor hallucis; ADM, abductor digiti minimi; AHO, adductor hallucis oblique; FDB, ﬂexor digitorum brevis; FDM, ﬂexor digiti minimi;
+FHB, ﬂexor hallucis brevis; I&L, interossei and lumbricals; QP, quadratus plantae.
+648
+Volume 51  Number 8  August 2016
+
+=====PAGE 6
+the foot. The toes-spread-out exercise showed the highest
+percentage mean activation in the abductor digiti minimi
+(35.2%), adductor hallucis oblique (31.5%), and ﬂexor
+digiti minimi (30.2%). Due to the circumferential motion
+that occurs at the ﬁrst and ﬁfth toes as these digits are
+extended, abducted, and then ﬂexed back to the ﬂoor, it is
+not surprising that the intrinsic plantar foot muscles that
+insert on the ﬁrst and ﬁfth toes demonstrated the greatest
+levels of activation with the toes-spread-out exercise. The
+ﬁrst-toe–extension exercise showed the greatest percentage
+mean activation in the ﬂexor digitorum brevis (18.1%),
+abductor hallucis (16.9%), and ﬂexor digiti minimi
+(16.3%). As the ﬁrst toe is extended, the intrinsic plantar
+ﬂexors for the second to ﬁfth toes are likely being used to
+keep these toes ﬂat on the ﬂoor. Similarly, the abductor
+hallucis may be activated to either stabilize the great toe
+during extension or keep the ﬁrst metatarsal head on the
+ﬂoor. The second- to ﬁfth-toe–extension exercise had the
+highest mean percentage activation in the abductor digiti
+minimi (22.5%), ﬂexor hallucis brevis (20.2%), and
+adductor hallucis oblique (17.6%). For the completion of
+this exercise, the ﬂexor hallucis brevis and adductor
+hallucis oblique may play roles in stabilizing the great toe
+on the ground as the other 4 toes extend.
+We did not identify any noticeable trends among
+participants in terms of which muscles were activated the
+most or least during each of the 4 exercises. Unfortunately,
+this limits our ability to make speciﬁc recommendations
+about which exercise may be best suited to target speciﬁc
+intrinsic foot-muscle insufﬁciencies. However, the distinct
+variability in the extent of muscle activation across
+participants underscores several key considerations when
+interpreting the percentage activation after submaximal
+exercises. Although we can conclusively identify which
+muscles were being used for the speciﬁc exercises, we
+cannot speculate about whether increased or decreased levels
+of activation among participants indicated how difﬁcult the
+task was for each individual to complete or the muscle force
+required to complete the exercise. For example, 1 participant
+may have better neuromuscular control (able to recruit a
+greater proportion of the motor-neuron pool) of the intrinsic
+foot muscles and require less activation to complete the 40
+repetitions than participants with worse neuromuscular
+control. Conversely, if a participant has better neuromuscular
+control, he or she may also be capable of activating more of
+the motor-neuron pool over the course of 40 repetitions. In
+addition, the different strategies that could be used to
+complete these exercises should also be considered when
+interpreting the present results. For example, the second- to
+ﬁfth-toe–extension exercise is designed to target the intrinsic
+plantar foot muscles attached to the hallux. As the participant
+extends the second through ﬁfth toes off the ground, the
+muscles acting on the hallux can be activated in an attempt to
+resist ﬁrst-toe extension from activation of the extensor
+hallucis longus, which often occurs simultaneously with
+activation of the extensor digitorum longus. However, as an
+individual’s ﬁne motor skill improves, he or she could, in
+theory, accomplish this task by selectively activating the
+extensor digitorum longus without concurrent extensor
+hallucis recruitment, which would minimize the activation
+required of the plantar intrinsic muscles acting on the hallux.
+Previous researchers13 used sEMG to compare muscle
+activation of the abductor and adductor hallucis when
+participants with mild hallux valgus performed the short-foot
+and toes-spread-out exercises. In that study,13 the toes-
+spread-out exercise showed greater activation of the abductor
+hallucis than did the short-foot exercise (mean difference ¼
+44.96%). Whereas it was not our aim to compare the extent
+of activation across exercises, the average percentage
+increases of the abductor hallucis for the short-foot and
+toes-spread-out exercises had similar means and associated
+95% CIs with substantial overlap, suggesting that the
+magnitude of difference between these 2 exercises was
+minimal in our healthy sample. Our results demonstrated that
+all of the intrinsic plantar foot muscles were activated when
+both exercises were completed and, thus, crosstalk from
+deeper or adjacent muscles may have inﬂuenced previous
+sEMG results or differences between healthy and injured
+populations may need to be examined further.
+Kelly et al5 recently demonstrated that the extent of
+activation of the intrinsic foot muscles increases as postural
+demands increase up to 150% of normal body weight. They
+also showed5 that when electrically inducing a contraction
+of the muscles of the medial longitudinal arch, arch height
+and length during weight bearing could be restored to
+similar dimensions as during non–weight bearing. These
+ﬁndings were instrumental in illustrating the collective role
+of the intrinsic foot muscles in maintaining the structure of
+the medial longitudinal arch. Our results have now
+demonstrated that, regardless of which motion segment of
+the foot is being moved during the execution of these 4
+exercises, all of the intrinsic plantar foot muscles were
+activated after the task was completed. This ﬁnding is
+important because it indicates how the functional roles of
+the intrinsic foot muscles cannot simply be described by
+their anatomical origin and insertion. Our results support
+the idea that the intrinsic foot muscles act as functional
+units during exercises2; however, we cannot identify the
+exact functional contribution (eg, eccentric control, iso-
+metric stability) of each muscle. Although the mechanisms
+for coordinated motor control among the intrinsic foot
+muscles are not fully understood, our results suggest that
+their shared neural innervation may make it more difﬁcult
+to isolate individual muscles; however, this should be
+evaluated further.
+To our knowledge, we were the ﬁrst to speciﬁcally examine
+activation of the intrinsic foot muscles through the use of T2
+MRI after performing exercises designed to target those
+muscles. A previous feasibility study24 showed that T2 changes
+were greater in young participants’ foot muscles (105.8% 6
+3.3%) than in those of elderly participants (103.9% 6 3.2%).
+The authors24 also found a longer time to peak T2 signal
+intensity in elderly participants (157.1 6 109.9 seconds) than
+in younger ones (95.1 6 77.6 seconds), suggesting that age
+may inﬂuence T2 peaks and the time to return to baseline. Heat
+mapping through T2 percentage-activation change has
+shown25 varying activation levels in the medial gastrocnemius
+(13.3% 6 1.3%), lateral gastrocnemius (7.8% 6 1.2%), and
+soleus (6.3% 6 2.1%) after unilateral heel raises, which are
+comparable to the percentage increases in the intrinsic plantar
+foot muscles in our study. Emerging evidence has shown that
+for T2, higher-intensity exercises result in a quicker rate of
+change26 as well as a larger overall increase21 when compared
+with lower-intensity exercises. In our study, all exercises were
+performed without resistance to the beat of a metronome in an
+attempt to standardize the rate of contraction and contraction
+Journal of Athletic Training
+649
+
+=====PAGE 7
+intensity across participants. When performing intrinsic foot-
+muscle exercises, it is common to increase task difﬁculty by
+progressing from a seated position to double-leg stance and
+ﬁnally to single-leg stance and, thus, it may be beneﬁcial to
+examine activation levels of the intrinsic foot muscles
+throughout this progression. In addition, it would be
+worthwhile to use T2 MRI to compare the intrinsic foot-
+muscle function of healthy and injured (plantar fasciopathy,
+hallux valgus, or other foot and ankle disorders) populations
+and in tasks such as walking, running, or other functional
+exercises so that we can expand our evidence-based
+recommendations for intrinsic foot-muscle exercises.
+Our study had some obvious limitations due to the nature
+of T2 MRI. The overall cost of the MRI scans and the large
+amount of data-processing time required the relatively
+small sample size. Our participants were a relatively
+homogeneous, healthy sample of athletic young adults,
+and this may limit our ability to generalize our results to
+less physically active or injured populations as well as to
+individuals with different arch morphologies.
+CONCLUSIONS
+All of the plantar intrinsic muscles assessed in our study
+showed increased activation with each of the 4 exercises.
+The short-foot exercise, toes-spread-out exercise, ﬁrst-toe–
+extension exercise, and second- to ﬁfth-toe–extension
+exercise each caused activation of all of the intrinsic
+plantar foot muscles and can be recommended as a means
+of exercising these muscles.
+REFERENCES
+1. Jam B. Evaluation and retraining of the intrinsic foot muscles for pain
+syndromes related to abnormal control of pronation. Posturology Web
+site. Published 2006. http://posturology.nl/ﬁleadmin/user_upload/
+IntrinsicMuscles_Pain_Syndromes.pdf. Accessed June 10, 2015.
+2. McKeon PO, Hertel J, Bramble D, Davis I. The foot core system: a
+new paradigm for understanding intrinsic foot muscle function. Br J
+Sports Med. 2015;49(5):290.
+3. Chang R, Kent-Braun JA, Hamill J. Use of MRI for volume
+estimation of tibialis posterior and plantar intrinsic foot muscles in
+healthy and chronic plantar fasciitis limbs. Clin Biomech (Bristol,
+Avon). 2012;27(5):500–505.
+4. Fiolkowski P, Brunt D, Bishop M, Woo R, Horodyski M. Intrinsic
+pedal musculature support of the medial longitudinal arch: an
+electromyography study. J Foot Ankle Surg. 2003;42(6):327–333.
+5. Kelly LA, Cresswell AG, Racinais S, Whiteley R, Lichtwark G.
+Intrinsic foot muscles have the capacity to control deformation of the
+longitudinal arch. J R Soc Interface. 2014;11(93):20131188.
+6. Headlee DL, Leonard JL, Hart JM, Ingersoll CD, Hertel J. Fatigue of
+the plantar intrinsic foot muscles increases navicular drop. J
+Electromyogr Kinesiol. 2008;18(3):420–425.
+7. Lees A, Lake M, Klenerman L. Shock absorption during forefoot
+running and its relationship to medial longitudinal arch height. Foot
+Ankle Int. 2005;26(12):1081–1088.
+8. Mann R, Inman VT. Phasic activity of intrinsic muscles of the foot. J
+Bone Joint Surg Am. 1964;46:469–481.
+9. Kelly LA, Kuitunen S, Racinais S, Cresswell AG. Recruitment of the
+plantar intrinsic foot muscles with increasing postural demand. Clin
+Biomech (Bristol, Avon). 2012;27(1):46–51.
+10. Mulligan EP, Cook PG. Effect of plantar intrinsic muscle training on
+medial longitudinal arch morphology and dynamic function. Man
+Ther. 2013;18(5):425–430.
+11. Grey T, Redguard D, Wengle R, Wegscheider P. Effect of plantar
+ﬂexor muscle fatigue on postural control. WURJ: Health Nat Sci.
+2013;4(1):1.
+12. Stewart S, Ellis R, Heath M, Rome K. Ultrasonic evaluation of the
+abductor hallucis muscle in hallux valgus: a cross-sectional
+observational study. BMC Musculoskelet Disord. 2013;14:45.
+13. Kim MH, Kwon OY, Kim SH, Jung DY. Comparison of muscle
+activities of abductor hallucis and adductor hallucis between the short
+foot and toe-spread-out exercises in subjects with mild hallux valgus.
+J Back Musculoskelet Rehabil. 2013;26(2):163–168.
+14. Donatelli R. Abnormal biomechanics of the foot and ankle. J Orthop
+Sports Phys Ther. 1987;9(1):11–16.
+15. Jung D, Koh E, Kwon O. Effect of foot orthoses and short-foot
+exercise on the cross-sectional area of the abductor hallucis muscle in
+subjects with pes planus: a randomized controlled trial. J Back
+Musculoskelet Rehabil. 2011;24(4):225–231.
+16. Michelson JD, Durant DM, McFarland E. The injury risk associated
+with pes planus in athletes. Foot Ankle Int. 2002;23(7):629–633.
+17. McKeon PO, Fourchet F. Freeing the foot: integrating the foot core
+system into rehabilitation for lower extremity injuries. Clin Sports
+Med. 2015;34(2):347–361.
+18. Jung D, Kim M, Koh E, Kwon O, Cynn H, Lee W. A comparison in
+the muscle activity of the abductor hallucis and the medial
+longitudinal arch angle during toe curl and short foot exercises.
+Phys Ther Sport. 2011;12(1):30–35.
+19. Solomonow M, Baratta R, Bernardi M, et al. Surface and wire EMG
+crosstalk in neighbouring muscles. J Electromyogr Kinesiol. 1994;
+4(3):131–142.
+20. Price TB, Kamen G, Damon BM, et al. Comparison of MRI with
+EMG to study muscle activity associated with dynamic plantar
+ﬂexion. Magn Reson Imaging. 2003;21(8):853–861.
+21. Damon BM, Wadington MC, Hornberger JL, Lansdown DA.
+Absolute and relative contributions of BOLD effects to the muscle
+functional MRI signal intensity time course: effect of exercise
+intensity. Magn Reson Med. 2007;58(2):335–345.
+22. Jacobi B, Bongartz G, Partovi S, et al. Skeletal muscle BOLD MRI:
+from underlying physiological concepts to its usefulness in clinical
+conditions. J Magn Reson Imaging. 2012;35(6):1253–1265.
+23. Dicharry J. Anatomy for Runners: Unlocking Your Athletic Potential
+for Health, Speed, and Injury Prevention. New York, NY: Skyhorse
+Publishing, Inc; 2013.
+24. Heo H, An D. The effect of an inclined ankle on the activation of the
+abductor hallucis muscle during short foot exercise. J Phys Ther Sci.
+2014;26(4):619–620.
+25. Soysa A, Hiller C, Refshauge K, Burns J. Importance and challenges
+of measuring intrinsic foot muscle strength. J Foot Ankle Res. 2012;
+5(1):29.
+26. Kos S, Klarhofer M, Aschwanden M, Schefﬂer K, Jacob AL, Bilecen
+D. Simultaneous dynamic blood oxygen level-dependent magnetic
+resonance imaging of foot and calf muscles: aging effects at ischemia
+and postocclusive hyperemia in healthy volunteers. Invest Radiol.
+2009;44(11):741–747.
+Address correspondence to Mark A. Feger, PhD, ATC, University of Virginia, PO Box 400407, Memorial Gymnasium, Charlottesville,
+VA 22903. Address e-mail to mf3de@virginia.edu.
+650
+Volume 51  Number 8  August 2016
