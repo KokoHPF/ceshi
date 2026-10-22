@@ -1,0 +1,869 @@
+
+=====PAGE 1
+ABSTRACT
+Background: The stabilizing action of the serratus anterior (SA) muscle is vital in maintaining normal scapulotho-
+racic rhythm. This warrants investigation of exercises to discern which are best to activate the SA muscle. Recruit-
+ment of the muscles in the trunk and lower extremity kinetic chain during exercises has demonstrated increased SA 
+activation due to the myofascial connections between various segments of the body. Variation of surfaces during an 
+exercise has also been shown to alter the muscle recruitment patterns. 
+Purpose: The primary purpose was to determine the effects of trunk and lower extremity kinetic chain muscle 
+recruitment on the SA muscle activity while on an unstable surface. The secondary purpose was to determine if the 
+SA muscle activity would change when the surface stability during the exercises was reduced.
+Study Design: Descriptive, within-subject repeated measures. 
+Methods: Surface electromyographic activity of the SA, latissimus dorsi (LD), external oblique (EO) on the dominant, 
+and femoral adductor (FA) muscles on the non-dominant side and gluteus maximus bilaterally was analyzed during 
+forward punch plus (FPP) and two of its’ variations: FPP with closed chain serape (CS), FPP with open chain serape 
+(OS) on stable and unstable surface in twenty-one healthy males. A two-way repeated measure ANOVA was used to 
+determine the difference in the muscle activation between exercises, surfaces, and interaction between these two 
+variables. A separate one-way repeated measures ANOVA with Sidak post hoc test was used for comparisons between 
+stable and unstable surfaces. (p≤0.05).
+Results: Muscle activity was statistically significantly higher for the CS and the OS exercises compared to the FPP for 
+all the muscles except for the LD within the same surface. There was no significant difference in muscle activity for 
+any of the muscles when compared between stable and unstable surfaces.
+Conclusions: Incorporating the trunk and lower extremity kinetic chain during the FPP exercise increased the SA 
+activation on both stable and unstable surfaces. However, the type of surface did not influence the activation of any 
+muscle across exercises. The results of this study further strengthen the benefit of the kinetic chain exercises but also 
+caution that adding an unstable surface to an exercise does not always imply higher muscle activation. 
+Level of Evidence: 2b
+Key Words: Kinetic chain, serratus anterior, movement system, myofascial chains
+IJSPT
+ORIGINAL RESEARCH
+EFFECTS OF LOWER EXTREMITY AND TRUNK KINETIC 
+CHAIN RECRUITMENT ON SERRATUS ANTERIOR 
+MUSCLE ACTIVATION DURING FORWARD PUNCH 
+PLUS EXERCISE ON STABLE AND UNSTABLE SURFACES
+Navpreet Kaur, PT, DPT, PhD, MTC1
+Kunal Bhanot, PT, PhD, FAAOMPT1
+Germaine Ferreira, PT, DPT1
+1 University of St. Augustine for Health Sciences, Austin, TX, 
+USA
+Conﬂ ict of interest statement: The authors declare no 
+conﬂ icts of interest. 
+CORRESPONDING AUTHOR
+Navpreet Kaur, PT, DPT, PhD, MTC
+University of St. Augustine for Health Sciences 
+5401 La Crosse Avenue, Austin TX 78739
+P: 737-202-3338, Fax: 512-394-9764
+E-mail: nkaur@usa.edu 
+The International Journal of Sports Physical Therapy | Volume 15, Number 1 | February 2020 | Page 126
+DOI: 10.26603/ijspt20200126
+
+=====PAGE 2
+The International Journal of Sports Physical Therapy | Volume 15, Number 1 | February 2020 | Page 127
+INTRODUCTION
+Normal scapulothoracic kinetics and kinematics are 
+essential for proper function of the upper extrem-
+ity.1 Due to its anatomical location, the scapula acts 
+as a connecting link between the upper extremity 
+and the trunk. Abnormal scapular kinematics such 
+as decreased scapular upward rotation, posterior 
+tilting, and external rotation have been related to 
+various mechanical dysfunctions at the shoulder 
+such as subacromial impingement.2,3 Chronic and 
+repetitive shoulder impingement could lead to 
+rotator cuff pathologies such as tendinopathies or 
+tears.1,2 Abnormal scapular kinematics could repre-
+sent a dysfunctional link in the chain that connects 
+the upper extremity to the rest of the body. In the 
+absence of a normal scapular kinematics, all of the 
+muscles that attach to the scapula cannot function 
+efficiently. This muscular imbalance may contrib-
+ute to scapular dyskinesis.4-6
+Although several muscles attach to the scapula and 
+are responsible for the normal three-dimensional 
+scapulothoracic motion, the serratus anterior (SA) 
+has been shown to be one of the primary muscles 
+responsible for normal rhythm.6,7 The SA commonly 
+presents as weak in patients with shoulder dysfunc-
+tion.1,8 Reduced SA muscle activation could lead to 
+abnormal scapular motion during all the motions 
+of the shoulder complex. Therefore, the SA plays a 
+key role in regulating the normal scapulothoracic 
+rhythm by stabilizing the scapula over the thoracic 
+cage. Hence, motor control and/or strengthening of 
+the SA is an important intervention in patients with 
+various shoulder dysfunctions.1,4
+Researchers have suggested several exercises to 
+strengthen the SA muscle.9-14 Since the shoulder 
+complex depends on the synchronous movement 
+of multiple segments in the body, kinetic chain 
+recruitment during various exercises has shown to 
+increase the SA muscle activation.9-11,14,15 The use 
+of the kinetic chain model during rehabilitation of 
+patients with shoulder dysfunctions has been sug-
+gested to be more effective than traditional exer-
+cises that include upper extremity muscles alone.16 
+Kinetic chain model exercises engage multiple seg-
+ments and muscles of the body simultaneously. 
+This treatment approach also takes into consider-
+ation the entire neuromuscular system rather than 
+isolating the different segments of the body while 
+treating common shoulder and upper extremity 
+(UE) dysfunctions. 
+One explanation why incorporating the kinetic chain 
+during various UE exercises may result in higher SA 
+muscle activation is due to various myofascial con-
+nections between the trunk and the limbs. The SA 
+muscle is part of what has been described as “the 
+serape effect” which highlights the myofascial con-
+nections between the SA, ipsilateral rhomboids, 
+external oblique (EO), and contralateral internal 
+oblique, and femoral adductor (FA) muscles. Addi-
+tionally, SA has myofascial connections to the 
+ipsilateral latissimus dorsi (LD) near the inferior 
+scapular border. Due to its myofascial connection 
+with the LD, the SA muscle has indirect connections 
+with bilateral gluteus maximus (GM) muscles via 
+thoracolumbar fascia. Increased activation of the SA 
+has been achieved when all the other muscles in a 
+kinetic chain have been activated along with the SA 
+during various exercises.9-11,15,17
+With an intent to increase the muscle activation and 
+improve proprioception, use of different surfaces has 
+been advocated. For this reason, unstable surfaces 
+such as balance boards, inflatable discs, and exercise 
+balls are commonly used during rehabilitation exer-
+cises.18-20 Although there is evidence supporting an 
+increase or decrease in the muscle activation when 
+the exercise was performed on unstable rather than 
+a stable surface, no change in the muscle activation 
+by addition of the unstable surface has also been 
+documented.21-25 
+Hence, researchers have not reached a consensus 
+regarding the benefits of adding unstable surfaces 
+during the performance of various exercises. Vari-
+ous electromyographic studies have been conducted 
+to investigate the best exercises for the activation of 
+the SA.9,11,13,26,27 Forward punch plus (FPP) has been 
+one of the previously documented exercises to best 
+activate the SA muscle in an open chain.9,26 Kaur 
+et. al9 found that the extremities and trunk kinetic 
+chain recruitment increased the SA muscle activa-
+tion on a stable surface during the FPP exercise. 
+Previous studies have reported increased SA activa-
+tion with the extremities and trunk kinetic chain 
+recruitment on an unstable surface during a closed 
+
+=====PAGE 3
+The International Journal of Sports Physical Therapy | Volume 15, Number 1 | February 2020 | Page 128
+chain exercise.10,11,13 There are no studies that have 
+examined the effects of the kinetic chain on the SA 
+activation on an unstable surface during an open 
+chain exercise. Thus, the primary purpose was to 
+determine the effects of trunk and lower extremity 
+kinetic chain muscle recruitment on the SA muscle 
+activity while on an unstable surface. The secondary 
+purpose was to determine if the SA muscle activity 
+would change when the surface stability during the 
+exercises was reduced.
+METHODS
+Subjects
+Twenty-one healthy males with fair to very lean 
+body composition (low percentage body fat), as 
+reported in ACSM’s Guidelines for Exercise Testing and 
+Prescription28 completed the study. The body com-
+position of the participants was assessed to achieve 
+most accurate surface electromyography (EMG) sig-
+nal by reducing the effects of body fat on the EMG 
+signal.29 The subjects mean age was 26.7 ± 2.6 years, 
+mean height, 177.2 ± 5.6cm, mean weight, 79.5 ± 
+7.8 kg, and mean percentage body fat, 12 ± 3.6%. 
+The study was approved by the Institutional Review 
+Board of the University of St. Augustine for Health 
+Sciences, Austin, TX. Sample size of 19 subjects was 
+needed using conventional values for a medium 
+effect size (f= 0.25); degrees of freedom = 6, power 
+= 0.80; alpha = 0.05. Twenty-one subjects com-
+pleted the study. 
+Procedures 
+The subjects provided informed consent and then 
+were screened regarding inclusion and exclusion cri-
+teria (Table 1). Skin fold measurements were taken 
+using the guidelines provided in the ACSM’s Guide-
+lines for Exercise Testing and Prescription.28 Lange® 
+skin fold calipers (model # 68902, Fitness Mart®, 
+division of Country Technology, Inc., Gays Mills, 
+Wisconsin) and the three site formula regression 
+equations for men (chest, abdomen, and thigh) were 
+used to assess the body composition.28 Leg length 
+was measured by the principal investigator to stan-
+dardize the step length during exercises to allow for 
+the accurate comparisons of performance among 
+participants.30 The leg length was measured from 
+the anterior superior iliac spine (ASIS) to the end of 
+the medial malleolus with the subject lying supine 
+while not wearing shoes. 
+The Trigno wireless EMG system (Delsys Inc. Bos-
+ton, MA, USA) was used to collect all the EMG data. 
+Wireless electrodes (37mm x 26mm x 15 mm ) and 
+a four bar (99.9% silver) contact area, with an inter-
+electrode distance of 10 mm (Delsys Inc. Boston, MA, 
+USA) were used in conjunction with a hard-wired 
+single differential amplifier. The skin was prepared 
+before the electrode placement using vigorous clean-
+ing of the area with an alcohol pad. The subjects 
+shaved the area if body hair was present. EMG elec-
+trodes were applied using the double sided hypoal-
+lergenic adhesive tape to the lower muscle fibers of 
+Table 1. Inclusion/Exclusion Criteria.
+
+=====PAGE 4
+The International Journal of Sports Physical Therapy | Volume 15, Number 1 | February 2020 | Page 129
+the SA, LD, and EO muscles on the dominant side, 
+GM bilaterally, and FA of the contralateral side of 
+the subjects according to the procedure described 
+by Cram et al.31 The electrode placement for each 
+muscle was as follows: for the SA the electrodes were 
+placed below the axillary area, at the level of the 
+inferior tip of the scapula, and just medial to fibers of 
+the latissimus dorsi; for the LD, the electrodes were 
+placed approximately 4 cm below the inferior tip of 
+the scapula, half the distance between the spinous 
+processes and the lateral edge of the torso; for the 
+EO, the electrodes were placed lateral to the rectus 
+abdominis and directly above the anterior superior 
+iliac spine, halfway between the crest and the ribs 
+at a slightly oblique angle so that they were parallel 
+to the muscle fibers; for the GM, the electrodes were 
+placed half the distance between the greater trochan-
+ter and the sacral vertebrae in the middle of the mus-
+cle on an oblique downward angle at the level of the 
+trochanter or slightly above; and for the FA muscle, 
+the electrodes were placed on the medial aspect of 
+the thigh in an oblique direction 4 cm from the pubis. 
+After placing the electrodes, subjects performed light 
+jumping jacks for 30 seconds to warm up.32
+For normalization of the EMG data, maximum 
+voluntary isometric contractions (MVICs) were 
+established for each muscle. Test positions were con-
+sistent with those described by Kendall33 and previ-
+ous research.30,34 For the SA muscle, participant was 
+asked to sit at the edge of the bed with feet touching 
+the floor. The arm of the testing side was elevated to 
+125°. The investigator placed one hand on the upper 
+arm and the other hand was placed on the lateral 
+border of the scapula. The participant was asked to 
+resist downwardly directed force. For the LD mus-
+cle, participant was asked to lie prone. The arm was 
+positioned in adduction, extension and internal rota-
+tion. The investigator provided resistance just below 
+the elbow in the combined direction of shoulder 
+abduction and flexion. For the FA muscles, the par-
+ticipant was placed in the side lying position with 
+testing side down. The top leg was cradled by the 
+investigator while providing resistance to the lower 
+thigh, just above the knee. While the participant 
+was instructed to lift the leg towards the ceiling. 
+For the GM muscle, participant was in prone posi-
+tion with hip extended and knee flexed beyond 90°. 
+The resistance was applied in the downward direc-
+tion on the posterior thigh just above the knee. For 
+the EO muscle, the participant while in hook lying 
+was asked to perform an oblique sit up to move the 
+resisted shoulder towards the opposite knee.
+The MVICs were performed over a five-second 
+period using a metronome involving a gradual build 
+up to maximum muscle activity. Each muscle test 
+was repeated three times, with a 15-second rest 
+between contractions.9,11 Between MVIC measure-
+ments of different muscles, a two minute of rest 
+period was provided. Verbal feedback was provided 
+for each subject for the MVIC procedures. 
+Exercises
+The exercises under investigation were either based 
+on the previous recommendations to best activate 
+the SA muscle9,13,26 or based on the myofascial con-
+nections reported in the literature.35-37 The following 
+exercises were performed on the ground (stable sur-
+face) and the BOSU® Balance Trainer (Ashland, OH, 
+USA), (unstable surface) with the subject wearing 
+shoes. The order of the exercises was randomized 
+using a computerized random sequence generator. 
+Exercises 1 and 4: Forward punch plus (FPP) (Figure 
+1 and 4): Subject stood in a parallel stance, and the 
+exercise started with subject’s dominant arm at the 
+side of the body with elbow flexed to 90° and radio-
+ulnar joint in the midway between pronation and 
+supination. The subject then flexed the shoulder to 
+90° and fully extended the elbow, internally rotated 
+the humerus to 45°, and protracted the scapula. 
+The subject then returned to the initial position 
+by extending the shoulder, flexing the elbow in the 
+same forearm position, and standing in a parallel 
+stance. 
+Exercises 2 and 5: FPP with closed chain serape effect 
+(CS) (Figure 2 and 5): Subject performed FPP with 
+the dominant arm as he rotated the trunk to the 
+opposite side with simultaneous contralateral leg 
+flexion and adduction in a closed chain. The sub-
+ject stepped forward and crossed the midline of the 
+trunk as marked by the white tape on the ground. 
+The subject then returned to the initial position by 
+extending the shoulder, flexing the elbow in a neu-
+tral position and standing in a parallel stance. The 
+
+=====PAGE 5
+The International Journal of Sports Physical Therapy | Volume 15, Number 1 | February 2020 | Page 130
+length of the forward step was standardized for each 
+subject by placing the tapes on the floor at a distance 
+of 75% of their leg length (± 3 cm on either side of 
+the 75% of the leg length).
+Exercises 3 and 6: FPP with open chain serape effect (OS) 
+(Figure 3 and 6): Subject performed FPP with the 
+dominant arm as the trunk was rotated to the oppo-
+site side and performed simultaneous contralateral 
+Figure 1. Exercise 1- Forward Punch Plus (FPP), stable.
+Figure 2. Exercise 2-Forward Punch Plus (FPP) with closed 
+chain Serape effect (CS), stable.
+Figure 3. Exercise 3-Forward Punch Plus (FPP) with open 
+chain Serape effect (OS), stable.
+Figure 4. Exercise 4-Forward Punch Plus (FPP), unstable.
+
+=====PAGE 6
+The International Journal of Sports Physical Therapy | Volume 15, Number 1 | February 2020 | Page 131
+leg flexion and adduction in an open chain. The sub-
+ject swung the contralateral leg in front and crossed 
+the midline of the trunk as he maintained his bal-
+ance. The subject then returned to the initial posi-
+tion by extending the shoulder, flexing the elbow in 
+neutral position, and standing in a parallel stance.
+The subjects were verbally instructed to punch as 
+hard as possible with maximum force to reach a stand 
+with a visual marker placed at the maximum reach 
+distance to ensure adequate protraction of the scapula 
+with the exercises. The subjects were required to bring 
+their fist close to the marker with each exercise trial. 
+The subjects were asked to stand with feet at their 
+hip width apart on both surfaces while maintaining 
+their balance. The positions of the feet were marked 
+to make sure that the subjects returned to their previ-
+ous foot positions in case they moved between trials. 
+Practice trials were provided to the subjects, and three 
+trials of the exercises were performed with at least five 
+seconds rest between repetitions. The speed of the tri-
+als was regulated by a metronome set to 50 beats per 
+minute, where each phase (starting position to maxi-
+mum reach and maximum reach to the ending posi-
+tion) was performed during one beat.9,11,26 The subjects 
+were given verbal commands to begin and end each 
+exercise trial for proper technique during the training 
+and data collection. A minimum of two minutes of 
+rest was provided between different exercises to pre-
+vent the influence of fatigue on muscle activation.9,11
+Data processing 
+The data were collected at a sampling frequency of 
+1926 Hz, CMRR > 80 dB@60 Hz; signal to noise ratio 
+of > 750 nv, and no gain was applied to the signal. 
+All collected signals were subsequently band pass 
+filtered (between 20 and 450 Hz) with a 2nd order fil-
+ter on the high-pass, and a 4th order filter on the low-
+pass then rectified and finally smoothed by using a 
+root-mean-square (RMS) calculation. RMS was calcu-
+lated using a default window length of 0.125 s with a 
+0.0625s window overlap. For all subjects, MVIC was 
+averaged across the three intermediate seconds for 
+each muscle to calculate the mean of the peak RMS 
+value of the three trials. The mean RMS EMG activity 
+of each muscle was calculated across the three trials 
+of every exercise, for all the subjects. The mean RMS 
+value of the three trials for each muscle was normal-
+ized to its respective MVIC value and represented as 
+Figure 5. Exercise 5-Forward Punch Plus (FPP) with closed 
+chain Serape effect (CS), unstable.
+Figure 6. Exercise 6- Forward Punch Plus with open chain 
+Serape effect (OS), unstable.
+
+=====PAGE 7
+The International Journal of Sports Physical Therapy | Volume 15, Number 1 | February 2020 | Page 132
+a percentage of MVIC (%MVIC) using the following 
+equation:9,11
+%MVIC = (Average RMS value of the three repeti-
+tions/average peak RMS value) X 100
+Data Analysis
+A two-way repeated measure analysis of variance 
+(ANOVA) with two repeated factors, surface (two lev-
+els) and exercises (three levels), was performed on the 
+%MVIC EMG activity for each of the six muscles (SA, 
+LD, EO, FA, and bilateral GM) to determine significance 
+between surfaces, between exercises, and interaction 
+between surface and exercises. In the event of signifi-
+cant results, a separate one-way repeated measures 
+ANOVAs was performed to compare the normalized 
+EMG values of the same muscle during three exercises 
+for both the stable and the unstable surfaces. Separate 
+ANOVAs were performed on each muscle tested to 
+determine if the change in the SA activation was due 
+to the recruitment of the trunk and LE muscles and if 
+there were any significant differences among the three 
+exercises. In the event of a significant ANOVA, Sidak 
+post hoc test was used for the pairwise comparison of 
+exercises. The level of significance was set at 0.05 for 
+all analyses, and 95% confidence intervals (CIs) were 
+reported around the %MVIC for each exercise. The Sta-
+tistical Package for the Social Sciences (SPSS Inc, 24.0, 
+Chicago, IL, USA) was used for the analyses.
+Results
+The two-way repeated measures ANOVA was not sta-
+tistically significant for the surface (F = 0.045, p = 
+0.835) and for the interaction between surface and 
+exercises (F = 0.237, p = 0.714). This indicates that 
+the change in the surface from stable to unstable did 
+not significantly change the muscle activity for any 
+of the muscles during each exercise. 
+However, the muscle activity was statistically sig-
+nificantly different between the exercises for all the 
+muscles except for Latissimus Dorsi (F = 12.7, p 
+< 0.001). One-way repeated measures ANOVA was 
+statistically significant for the main effects for both 
+surfaces among the three exercises for the SA (Table 
+2) (stable: F = 12.2, p < 0.001: unstable: F = 9.3, p 
+= 0.002), EO (Table 3) (stable: F = 20.8, p < 0.001; 
+unstable: F = 13.6, p < 0.001), FA (Table 4) (sta-
+ble: F = 20.3, p < 0.001; unstable: F = 12.726, p < 
+0.001), contralateral gluteus maximus (cGM) (Table 
+5) (stable: F = 9.5, p < 0.001; unstable: F = 3.4, p = 
+0.041), and ipsilateral gluteus maximus (iGM) (Table 
+6) (stable: F = 17.3, p < 0.001; unstable F = 12.8, p 
+= 0.001). 
+Results of the pairwise comparisons indicate that 
+the EMG activity (% MVIC) of the SA, EO, FA, and 
+iGM during both the stable and the unstable surfaces 
+for the CS and the OS was significantly higher than 
+the EMG activity of the FPP. However, cGM activity 
+was significantly higher for the CS but not for the 
+OS (Tables 1 - 6). There were no statistically signifi-
+cant differences between CS and OS for any muscle 
+for the either surface (p > 0.05) except for the FA 
+(stable: p = 0.003 and unstable: p = 0.025). There 
+was no statistically significant difference for the acti-
+vation of the LD (Table 7) (stable: F = 2.1, p = 0.146 
+Table 2. Mean EMG activation of the Serratus Anterior for the three 
+exercises.
+
+=====PAGE 8
+The International Journal of Sports Physical Therapy | Volume 15, Number 1 | February 2020 | Page 133
+Table 3. Mean EMG activation of the External Oblique for the three 
+exercises.
+Table 4. Mean EMG activation of the Adductor muscles for the three 
+exercises.
+Table 5. Mean EMG activation of the contralateral Gluteus Maximus 
+for the three exercises.
+
+=====PAGE 9
+The International Journal of Sports Physical Therapy | Volume 15, Number 1 | February 2020 | Page 134
+and unstable: F = 4.8, p = 0.074) among the three 
+exercises across the two surfaces. 
+Discussion
+To effectively rehabilitate a patient with shoulder 
+complex dysfunction, it is vital to choose the exer-
+cises that are best in recruiting the SA muscle due to 
+its role in the normal scapulothoracic rhythm. In the 
+current study, EMG activation of the SA during the 
+FPP exercise and its two variations, CS and OS, that 
+incorporated the muscles (LD, EO, FA, GM) in the 
+kinetic chain linkages on various surfaces was inves-
+tigated. The SA muscle activation was significantly 
+increased with the integration of the extremities and 
+trunk kinetic chains on both surfaces, but there was 
+no statistically significant difference in the mean 
+EMG activation of the SA between the stable and the 
+unstable surfaces. 
+Comparison of the three Exercises
+This study is not the first to investigate the effects 
+of the kinetic chain recruitment on the activation 
+of the SA muscle. The SA muscle activation was sig-
+nificantly greater during the CS and the OS exercises 
+as compared to the FPP (only) exercise. Therefore, 
+simultaneous recruitment of various trunk and lower 
+extremity muscles during the CS and the OS exer-
+cises probably facilitated the SA muscle activation. 
+To authors’ knowledge, no other researchers have 
+compared the effects of the stable and the unstable 
+surfaces on the recruitment of the SA muscle activa-
+tion in the FPP exercise. This study is in agreement 
+with the previous research that has investigated the 
+effects of kinetic chain recruitment on the activa-
+tion of the SA muscle.9-11,15 Maenhout et al.11 and Kim 
+et al.10 proposed that kinetic chain recruitment via 
+the ipsilateral leg extension activated the muscles 
+Table 6. Mean EMG activation of the ipsilateral Gluteus Maximus for 
+the three exercises.
+Table 7. Mean EMG activation of the Latissimus Dorsi muscle for the 
+three exercises.
+
+=====PAGE 10
+The International Journal of Sports Physical Therapy | Volume 15, Number 1 | February 2020 | Page 135
+in a myofascial chain that connects the SA muscle 
+to the GM muscles via the LD and thoracolumbar 
+fascia, which in turn resulted in higher SA activation 
+during a push-up plus exercise.
+The present and the previous investigations sup-
+ported the hypothesis that by engaging the adja-
+cent muscles in a kinetic chain, there was improved 
+activation of the primary muscle of interest.9-11,15,17 
+Based on the results, it may be reasonable to choose 
+exercises (exercises 2, 3, 5, and 6) that utilize the 
+muscles incorporated in various myofascial chains 
+(serape effect that connects SA to the EO, FA, and 
+the SA connections to the bilateral GM via thoraco-
+lumbar fasci and the LD) connected to the SA if the 
+aim is to achieve higher SA activation than a tradi-
+tional FPP exercise. Yamauchi et al.15 investigated 
+the effects of trunk rotation on the activation of the 
+scapular muscles and concluded that incorporating 
+diagonal movement patterns could be more benefi-
+cial than engaging the scapular muscles in isolation. 
+Similar results were reported by De Mey et al.17 as 
+they investigated the effects of kinetic chain on the 
+muscle recruitment during various scapular retrac-
+tion exercises and found increased activation of the 
+proximal muscles as they recruited the distal mus-
+cles in the chain. 
+Comparison of the stable versus the unstable 
+surfaces 
+To compare the effects of different surfaces on the 
+SA muscle activity exercises 1 and 4, 2 and 5, and 3 
+and 6 were compared with each other. There was no 
+change in the muscle activation between the stable 
+and the unstable surfaces. The amount of muscle 
+activation on an unstable surface has been docu-
+mented to be dependent on the extent of instabil-
+ity.21,25 The BOSU® Balance Trainer may not have 
+created enough instability to increase the SA muscle 
+activation. Other types of unstable surfaces such as 
+balance boards and inflatable discs need to be inves-
+tigated in the future in order to identify their effects 
+on SA activation. Therefore, the current findings 
+cannot be generalized to all types of unstable sur-
+faces. The type of exercises investigated in the pres-
+ent study may be another reason for no statistically 
+significant differences in the activation of the SA 
+muscle between different surfaces. More dynamic 
+exercises than the FPP and its variations may result 
+in higher SA muscle activation on the unstable sur-
+face. The authors of the present study chose not 
+to incorporate any other type of unstable surface 
+or other exercises due to the risk of injury to the 
+subjects while performing the exercises. The non-
+significant differences in the SA muscle activation 
+between the stable and the unstable surfaces are sup-
+ported by several investigations secondary to vari-
+ous factors such as subject’s characteristics and their 
+response to various types of unstable surfaces used, 
+the nature and intensity of exercises performed, and 
+the type of unstable surface used.17,20-22,24,25,38 
+No significant change in the muscle activation on 
+the unstable surface could also be attributed to the 
+additional demands placed on the body in maintain-
+ing stability in the unstable environment.19,21,39-41 To 
+maintain the balance, antagonists, synergists, and 
+stabilizing muscles may play a bigger role in main-
+taining posture and stability.19,23,42 In addition, these 
+muscles have been documented to cause either 
+facilitation or inhibition of the agonist muscles. 
+The SA muscle acts more as a prime mover/agonist 
+in performing the FPP exercise used in this study. 
+Therefore, previous researchers support the results 
+of the present study that there was no change in the 
+SA muscle activation with the addition of LE insta-
+bility. Additionally, a muscle group may show no 
+change in the muscle activation by adding unstable 
+surface because unstable surfaces may result in a 
+lower muscle force output to provide more stabili-
+zation. Hence, no change in muscle activation was 
+observed on an unstable surface for the other mus-
+cles (LD, EO, FA, and GM) in the present study could 
+be because these muscles are not the prime stabi-
+lizers of the body. It may be a possibility that the 
+muscle activation of the prime stabilizers may have 
+increased when the exercises were performed on the 
+unstable surface. The authors of the present study 
+did not measure the force production and the EMG 
+activation of the prime stabilizers of the body during 
+these exercises. Future studies are recommended to 
+investigate these variables when performing these 
+exercises on different surfaces. 
+A significant decrease in SA activation while per-
+forming a push up plus exercise on the unstable 
+surface was found by Lehman et al.,22 Maenhout 
+
+=====PAGE 11
+The International Journal of Sports Physical Therapy | Volume 15, Number 1 | February 2020 | Page 136
+et al.,11 and De Mey et al.25 Those authors concluded 
+that the lack of increased muscle activation on the 
+unstable surface could be due to subject variability 
+to the exercise performance and the type of unstable 
+surface used. Lehman et al.,43 compared the push-
+up plus exercise on stable and the unstable surfaces 
+and concluded that the vertical distance between 
+the center of mass of the subject and the unstable 
+surface might have a role to play in the amount of 
+muscle activation. They further stated that greater 
+the distance between the subject’s center of mass 
+and the unstable surface the higher the muscle acti-
+vation. This study did not measure the position of 
+the center of mass, but the insufficient distance 
+between the subject’s center of mass and the cen-
+ter of the BOSU® Balance Trainer could be another 
+reason why the authors did not find any significant 
+change in the SA muscle activation across two sur-
+faces. However, caution should be exercised when 
+generalizing such phenomenon because research 
+also exists supporting a change in the muscle acti-
+vation of various muscles with the addition of the 
+unstable surfaces.18-20,42,44 Further investigation on 
+the effects of various surfaces on the muscle acti-
+vation among different exercises and what factors 
+could lead to increase, decrease, or no change in the 
+muscle activation on the unstable surfaces is war-
+ranted. Lastly, since the width of the base of sup-
+port was standardized for each subject across both 
+surfaces, it would be interesting to see if changing 
+the width of the base of support has any effect on 
+the activation of the SA muscle between the two 
+surfaces. 
+Limitations and Future Scope
+The present study recruited young healthy males 
+which limits the generalization of the results to other 
+populations that are not similar to the subjects in the 
+present investigation such as people with shoulder 
+dysfunction, of a different age group, and females. 
+Use of surface EMG to record motor recruitment of 
+specific muscles during dynamic exercises has limi-
+tations such as consistency and security of electrode 
+placement, motor unit recruitment by participants, 
+crosstalk among various muscles in the vicinity, and 
+amount of effort given by the subjects.31 Several test-
+ing positions have been reccomended for measuring 
+the MVIC activity of the SA muscle across various 
+participants.45 For EMG normalization purpose, 
+MVIC data for the SA muscle was collected with par-
+ticipants shoulder flexed to 125˚ as recommended 
+by Cram et.al31 and as per another study.9 Caution is 
+warranted in extrapolating the results of our study 
+due to the variability in the MVIC positions for the 
+SA muscle activation. Significant variation in the 
+SA MVIC positions across subjects may also explain 
+why the SA muscle activation was higher than the 
+MVIC with exercises that incorporated the additional 
+muscles in the kinetic chain that have connections 
+with the SA muscle (exercises 2,3,5, and 6). Future 
+studies are warranted to compare the activation of 
+the SA muscle in the kinetic chain exercises with 
+other MVIC positions that could produce maximum 
+EMG amplitudes for various fibers of the SA muscle 
+across subjects.EMG data for all the muscles that 
+have myofascial connections with the SA muscle 
+was not collected due to the limited ability of the 
+surface EMG in evaluating the deeper muscles accu-
+rately. It could be interesting to see the role of all the 
+muscles in a kinetic chain that could influence the 
+recruitment of the SA muscle during these dynamic 
+exercises, perhaps using kinesiological needle EMG. 
+Future studies could also look at the kinetic and 
+kinematic data while performing these dynamic 
+exercises. It would be beneficial to compare vari-
+ous rehabilitation exercises that have demonstrated 
+high SA recruitment including the ones in the pres-
+ent study and develop a continuum of exercises 
+from a lower to higher recruitment of the SA that 
+could assist clinicians in rehabilitating the patients 
+with shoulder dysfunctions in progressive training 
+regimes. 
+CONCLUSION 
+Given the SA’s pivotal role in controlling scapular 
+rhythm during various shoulder movements, find-
+ing the best exercises for higher SA muscle activa-
+tion is crucial for effective rehabilitation of various 
+shoulder dysfunctions. In light of the current incli-
+nation towards utilization of the kinetic chain during 
+rehabilitation due to its clinical efficacy, this study 
+further investigated the effects of various surfaces 
+on the SA muscle activation in a kinetic chain model. 
+Consistent with the previous research, LE and trunk 
+kinetic chain utilization resulted in higher activation 
+of the SA muscle regardless of the surface. Further 
+
+=====PAGE 12
+The International Journal of Sports Physical Therapy | Volume 15, Number 1 | February 2020 | Page 137
+research is required to substantiate any additional 
+benefit of adding unstable surfaces to achieve higher 
+muscle activation. 
+REFERENCES
+1. Ludewig PM, Reynolds JF. The association of 
+scapular kinematics and glenohumeral joint 
+pathologies. J Orthop Sports Phys Ther. 2009;39(2):
+90-104.
+2. Ludewig PM, Cook TM. Alterations in shoulder 
+kinematics and associated muscle activity in people 
+with symptoms of shoulder impingement. Phys Ther. 
+2000;80(3):276-291.
+3. Warner JJP, Micheli LJ, Arslanian LE, Kennedy J, 
+Kennedy R. Scapulothoracic motion in normal 
+shoulders and shoulders with glenohumeral 
+instability and impingement syndrome: A study 
+using Moire topographic analysis. Clin Orthop. 
+1992(285):191-199.
+4. Allegrucci M, Whitney SL, Irrgang JJ. Clinical 
+implications of secondary impingement of the 
+shoulder in freestyle swimmers. J Orthop Sports Phys 
+Ther. 1994;20(6):307-318.
+5. Doukas WC, Speer KP. Anatomy, pathophysiology, 
+and biomechanics of shoulder instability. Oper Tech 
+Sports Med. 2000;8(3):179-187.
+6. Ludewig PM, Cook TM, Nawoczenski DA. Three-
+dimensional scapular orientation and muscle 
+activity at selected positions of humeral elevation. 
+J Orthop Sports Phys Ther. 1996;24(2):57-65.
+7. Dvir Z, Berme N. The shoulder complex in elevation 
+of the arm: a mechanism approach. J Biomech. 
+1978;11(5):219-225.
+8. Kibler WB. The role of the scapula in athletic 
+shoulder function. Am J Sports Med. 1998;26(2):325-
+337.
+9. Kaur N, Bhanot K, Brody LT, Bridges J, Berry DC, 
+Ode JJ.  Effects of lower extremity and trunk 
+muscles recruitment on serratus anterior muscle 
+activation in healthy male adults. Int J Sports Phys 
+Ther. 2014;9(7):924.
+10. Kim JB, Choi IR, Yoo WG. A comparison of 
+scapulothoracic and trunk muscle activities among 
+three variations of knee push-upplus exercises. 
+J Phys Ther Sci. 2011;23(3):365-367.
+11. Maenhout A, Van Praet K, Pizzi L, Van Herzeele M, 
+Cools A. Electromyographic analysis of knee push 
+up plus variations: What is the inﬂ uence of the 
+kinetic chain on scapular muscle activity? Br J Sports 
+Med. 2010;44(14):1010-1015.
+12. Moseley Jr JB, Jobe FW, Pink M, Perry J, Tibone J. 
+EMG analysis of the scapular muscles during a 
+shoulder rehabilitation program. Am J Sports Med. 
+1992;20(2):128-134.
+13. Park SY, Yoo WG. Differential activation of parts of 
+the serratus anterior muscle during push-up 
+variations on stable and unstable bases of support. 
+J Electromyogr Kinesiol. 2011;21(5):861-867.
+14. Tucker WS, Bruenger AJ, Doster CM, Hoffmeyer DR. 
+Scapular muscle activity in overhead and 
+nonoverhead athletes during closed chain exercises. 
+Clin J Sport Med. 2011;21(5):405-410.
+15. Yamauchi T, Hasegawa S, Matsumura A, Nakamura 
+M, Ibuki S, Ichihashi N. The effect of trunk rotation 
+during shoulder exercises on the activity of the 
+scapular muscle and scapular kinematics. J Shoulder 
+Elbow Surg. 2015;24(6):955-964.
+16. McMullen J, Uhl TL. A Kinetic Chain Approach for 
+Shoulder Rehabilitation. J Athl Train. 2000;35(3):
+329-337.
+17. De Mey K, Danneels L, Cagnie B, Van den Bosch L, 
+Flier J, Cools AM. Kinetic chain inﬂ uences on upper 
+and lower trapezius muscle activation during eight 
+variations of a scapular retraction exercise in 
+overhead athletes. J Sci Med Sport. 2012;16(1):65-70.
+18. Anderson K, Behm DG. The impact of instability 
+resistance training on balance and stability. Sports 
+Med. 2005;35(1):43-53.
+19. Behm DG, Anderson K, Curnew RS. Muscle force 
+and activation under stable and unstable conditions. 
+J Strength Cond Res. 2002;16(3):416-422.
+20. Behm DG, Colado Sanchez JC. Instability resistance 
+training across the exercise continuum. Sports 
+Health. 2013;5(6):500-503.
+21. Behm D, Colado JC. The effectiveness of resistance 
+training using unstable surfaces and devices for 
+rehabilitation. Int J Sports Phys Ther. 2012;7(2):226.
+22. Lehman GJ, Gilas D, Patel U. An unstable support 
+surface does not increase scapulothoracic stabilizing 
+muscle activity during push up and push up plus 
+exercises. Man Ther. 2008;13(6):500-506.
+23. Martins J, Tucci HT, Andrade R, Araujo RC, 
+Bevilaqua-Grossi D, Oliveira AS. Electromyographic 
+amplitude ratio of serratus anterior and upper 
+trapezius muscles during modiﬁ ed push-ups and 
+bench press exercises. J Strength Cond Res. 
+2008;22(2):477-484.
+24. Marshall PW, Desai I. Electromyographic analysis of 
+upper body, lower body, and abdominal muscles 
+during advanced Swiss ball exercises. J Strength Cond 
+Res. 2010;24(6):1537-1545.
+25. De Mey K, Danneels L, Cagnie B, et al. Shoulder 
+muscle activation levels during four closed kinetic 
+chain exercises with and without Redcord slings. 
+J Strength Cond Res. 2014;28(6):1626-1635.
+
+=====PAGE 13
+The International Journal of Sports Physical Therapy | Volume 15, Number 1 | February 2020 | Page 138
+35. Myers TW. Anatomy Trains. Myofascial Meridians for 
+Manual An Movement Therapists. Edinburgh: 
+Churchill Livingstone; 2001.
+36. Porterﬁ eld JA, DeRosa C. Mechanical Shoulder 
+Disorders. Perspectives in Functional Anatomy. St 
+Louis, Missouri: USA: Elsevier Science; 2004.
+37. Stecco C. Functional Atlas of the Human Fascial 
+System 1st ed: Churchill Livingstone; 2015.
+38. Shin D, Cha J, Song C. Electromyographic analysis 
+of trunk and lower extremity muscle activities 
+during pulley-based shoulder exercises performed on 
+stable and unstable surfaces. J Phys Ther Sci. 
+2015;27(1):71-74.
+39. Enoka RM. Muscle strength and its development. 
+Sports Med. 1988;6(3):146-168.
+40. Naito A, Shindo M, Miyasaka T, Sun Y-J, Momoi H, 
+Chishima M. Inhibitory projections from pronator 
+teres to biceps brachii motoneurones in human. Exp 
+Brain Res. 1998;121(1):99-102.
+41. Vandervoort A, Sale D, Moroz J. Comparison of 
+motor unit activation during unilateral and bilateral 
+leg extension. J Appl Physiol. 1984;56(1):46-51.
+42. Anderson KG, Behm DG. Maintenance of EMG 
+activity and loss of force output with instability. 
+J Strength Cond Res. 2004;18(3):637-640.
+43. Lehman GJ, MacMillan B, MacIntyre I, Chivers M, 
+Fluter M. Shoulder muscle EMG activity during push 
+up variations on and off a Swiss ball. Dyn Med. 
+2006;5.
+44. Anderson K, Behm DG. Trunk muscle activity 
+increases with unstable squat movements. Can J 
+Appl Physiol. 2005;30(1):33-45.
+45. Ekstrom RA, Bifulco KM, Lopau CJ, Andersen CF, 
+Gough JR. Comparing the function of the upper and 
+lower parts of the serratus anterior muscle using 
+surface electromyography. J Orthop Sports Phys Ther. 
+2004;34(5):235-243.
+26. Decker MJ, Hintermeister RA, Faber KJ, Hawkins 
+RJ. Serratus anterior muscle activity during selected 
+rehabilitation exercises. Am J Sports Med. 
+1999;27(6):784-791.
+27. Hardwick DH, Beebe JA, McDonnell MK, Lang CE. 
+A comparison of serratus anterior muscle activation 
+during a wall slide exercise and other traditional 
+exercises. J Orthop Sports Phys Ther. 2006;36(12):
+903-910.
+28. Thompson WR, Gordon NF, Pescatello LS. ACSM’s 
+Guidelines for Exercise Testing and Prescription. 8th ed. 
+Baltimore, MD: Lippincott Williams & Wilkins; 2009.
+29. Escamilla RF, Babb E, DeWitt R, et al. 
+Electromyographic analysis of traditional and 
+nontraditional abdominal exercises: implications for 
+rehabilitation and training. Phys Ther. 2006;86(5):
+656-671.
+30. Farrokhi S, Pollard CD, Souza RB, Chen YJ, Reischl S, 
+Powers CM. Trunk position inﬂ uences the 
+kinematics, kinetics, and muscle activity of the lead 
+lower extremity during the forward lunge exercise. 
+J Orthop Sports Phys Ther. 2008;38(7):403-409.
+31. Cram JR, E C. Cram’s Introduction to Surface 
+Electromyography. 2nd ed. Sudbury MA: Jones & 
+Bartlett Publishers; 2010.
+32. Fradkin AJ, Gabbe BJ, Cameron PA. Does warming 
+up prevent injury in sport?: The evidence from 
+randomised controlled trials? J Sci Med Sport. 
+2006;9(3):214-220.
+33. Kendall FP ME, Provance PG, Rodgers MM, WA R. 
+Muscles: Testing and Function, with Posture and Pain. 
+5th ed. Baltimore MD: Lippincott Williams & 
+Wilkins; 2005.
+34. Souza GM, Baker LL, Powers CM. Electromyographic 
+activity of selected trunk muscles during dynamic 
+spine stabilization exercises. Arch Phys Med Rehabil. 
+2001;82(11):1551-1557.
