@@ -1,0 +1,1292 @@
+
+=====PAGE 1
+Journal of Athletic Training
+2024;59(3):243–254
+doi: 10.4085/1062-6050-0468.22
+ by the National Athletic Trainers’ Association, Inc
+www.natajournals.org
+Upper Extremity
+Current Clinical Concepts: Nonoperative Management
+of Shoulder Instability
+Margie Olds, PhD, PT*; Timothy L. Uhl, PhD, PT, ATC†
+*Flawless Motion, Auckland, New Zealand; †Department of Physical Therapy, College of Health Sciences, University of
+Kentucky, Lexington
+N
+onoperative management after shoulder dislocation
+or subluxation remains a challenging and complex
+task. Accurate diagnosis of the condition and shared
+decision-making regarding operative and nonoperative man-
+agement and timing of return to play is required. In this
+Current Clinical Concepts paper, we introduce a shoulder
+instability framework that addresses these fundamental clini-
+cal dilemmas. Valid clinical prognostic tools that can be
+used to predict recurrent shoulder instability are reviewed.
+The process of shared decision-making in the realm of
+shoulder instability is presented. Finally, a framework for
+progressive rehabilitation that addresses deﬁcits in motor
+control, strength, and endurance in scapular and shoulder
+musculature is provided to guide patients from an initial
+instability event through to return to play.
+Shoulder instability is deﬁned as the inability to maintain
+the humeral head within the glenoid fossa.1 Traditionally,
+researchers have focused on both the assessment and out-
+comes of operative management of shoulder instability.2,3
+Even though authors of individual studies have reported
+recurrence rates as high as 75% to 100%,2,3 evidence from 2
+systematic reviews indicated a much lower recurrence rate
+of 21% to 39% across all populations.4,5 Therefore, many
+patients would likely beneﬁt from and be appropriate for
+nonoperative management. Unfortunately, literature detailing
+speciﬁc nonoperative interventions is limited.6,7 In addition,
+some patients with chronic shoulder microinstability are
+misdiagnosed and may not have responded to traditional
+shoulder rehabilitation programs. Ultimately, direct-access
+or ﬁrst-contact clinicians face at least 3 clinical decisions:
+(1) determining the patient’s correct diagnosis; (2) identify-
+ing if the patient should be managed operatively or nonoper-
+atively (incorporating multiple biopsychosocial factors); and
+(3) if the patient chooses nonoperative intervention, deciding
+which interventions should be provided to maximize the out-
+come. The purpose of this clinical concepts paper is to share
+a framework for managing shoulder instability that addresses
+these 3 fundamental concerns.
+SHOULDER INSTABILITY FRAMEWORK
+What Is the Diagnosis?
+Patients with shoulder instability present with a spectrum
+of symptoms ranging from intermittent pain with activi-
+ties because of microinstability to severe pain associated
+with complete or frequent shoulder dislocation. A traumatic
+dislocation may be relatively simple to identify from observa-
+tion and palpation. However, in patients with instability but
+without obvious deformity, a thorough subjective history
+and examination for signs of abnormalities in range of
+motion (ROM), strength, and scapular control and provoc-
+ative special tests are required to determine the direction
+of the instability and the potential for nonoperative man-
+agement. Detailed information on examination procedures
+and provocative tests has been well supplied in the litera-
+ture.8,9 This assessment is important to differentiate shoul-
+der pain from other sources, such as cervical, scapular, or
+neurologic origins. From this examination, shoulder insta-
+bilities are typically classiﬁed by the frequency (single or
+multiple instability episodes), cause (traumatic or atrau-
+matic), direction (anterior, posterior, or multidirectional), and
+severity (microinstability, subluxation, or dislocation).10,11
+Physical impairments of motor control and strength in the
+anterior and posterior rotator cuff and scapular musculature
+are commonly identiﬁed through the physical examination
+(Figure 1). In addition, shoulder mobility limitations such as
+posterior shoulder tightness may be observed in overhead
+athletes. After the diagnosis is made and impairments are
+identiﬁed, patients and clinicians together can decide on the
+appropriate management.
+Clinical Decision-Making on Management
+Deciding between operative and nonoperative manage-
+ment of shoulder instability is challenging. Historically,
+physically active male patients aged ,25 years have been
+considered good candidates for surgery to reduce the redis-
+location risk,12 but relying on these factors can result in unnec-
+essary surgery.13 Recent prognostic research can help guide
+clinicians on the prognosis after anterior shoulder instability
+events.14,15 The key point of both prognostic factors14,15 is that
+items in addition to sex and age after a ﬁrst traumatic anterior
+dislocation should be considered when advising the patient on
+the likelihood of reinjury after an initial anterior shoulder
+instability event. Olds et al14 published a predictive model
+that discussed 6 factors that together predicted recurrent
+shoulder instability:
+(1) Presence of a bony Bankart lesion,
+(2) Age 16 to 25 years,
+Journal of Athletic Training
+243
+
+=====PAGE 2
+(3) Dominant-shoulder involvement,
+(4) Elevated Tampa Scale of Kinesiophobia score,
+(5) Elevated Shoulder Pain and Disability Index score,
+indicating more pain and dysfunction, and
+(6) Lack of immobilization.
+Clinicians can enter individual patient data into a free
+online calculator (www.margieolds.com/pris) to help deter-
+mine their patient’s risk of recurrence.
+Tokish et al15 also identiﬁed 6 factors that can be used to
+predict recurrent shoulder instability and created the Non-
+operative Instability Severity Index Score (NISIS). This
+tool was originally developed to guide decision-making
+regarding operative or nonoperative treatment after a pri-
+mary traumatic anterior shoulder dislocation in primarily
+high school athletes15 but has also been used to predict
+recurrent shoulder instability.16 The authors weighted the
+6 factors, and patients deemed low risk (NISIS score ,
+7) were managed successfully with nonoperative treat-
+ment 97% of the time.15 Patients classiﬁed as high risk
+(NISIS score . 7) were more likely to have unsuccessful
+nonoperative management (60.3%) than those classiﬁed
+as low risk (48.9%; P ¼ .03).16 The 6 factors and weights
+are as follows:
+(1) Collision sport ¼ 3, not a collision sport ¼ 0;
+(2) Age . 15 years ¼ 2, age  15 years ¼ 0;
+(3) Bone loss detectable on radiograph ¼ 2, no bone loss
+on radiograph ¼ 0;
+(4) Dislocation ¼ 1, subluxation ¼ 0;
+(5) Dominant-arm involved ¼ 1, nondominant-arm involved ¼
+0; and
+(6) Male ¼ 1, female ¼ 0.
+Patients presenting with a ﬁrst-time anterior disloca-
+tion should be classiﬁed using either tool along with other
+contextual considerations that should be incorporated
+into the shared decision-making process regarding opera-
+tive versus nonoperative management (Figure 2). Shared
+decision-making consists of providing an explanation of
+the shoulder instability; outlining the natural history; dis-
+cussing the potential beneﬁts and harms of operative and
+nonoperative management; and establishing the patient’s
+values, preferences, and expectations. This process assists
+patients in reaching an informed decision about the manage-
+ment of their condition.17 Management of subsequent sublux-
+ations or dislocations in the literature is controversial, and
+clinicians are encouraged to share all relevant research so
+Spectrum
+Signs
+Multiple episodes of
+instability (dislocation
+and subluxation)
+Pain +/-
+“dead arm”
+or loss
+of feeling
+Recurrent episodes of
+instability – may occur
+with decreasing levels
+of external force
+Microinstability
+Intermittent pain
+Screen and exclude
+patients with cervical
+dysfunction, referred pain,
+and neurological symptoms
+Subluxation
+Patient presents with subjective history of instability or after acute dislocation immobilization period
+Asessment
+Dislocation
+Symptoms
+Immobilization period varies
+Intermittent pain +/-
+sensation of slipping and
+sliding; may have “dead arm”
+or loss of feeling
+Assess range of motion
+Assess special tests and 
+symptom modiﬁ cation
+Assess rotator cuﬀ  strength
+Assess scapula control
+and strength
+Patient diagnosed with shoulder instability in ≥1 directions
+through a combination of clinical history and instability tests
+Anterior
+Posterior
+Anterior, posterior,
+and inferior
+Direction
++/- Patient symptoms are
+substantially altered by
+addressing scapula position
+Figure 1.
+Spectrum, symptoms, and assessment of shoulder instability.
+244
+Volume 59  Number 3  March 2024
+
+=====PAGE 3
+patients can make decisions regarding their treatment. Recur-
+rent shoulder instability may also be a consequence of inade-
+quate previous rehabilitation, which occurs when patients
+have not regained strength, endurance, and ROM within 10%
+of the unaffected side (accounting for a 10% strength effect of
+dominance).18–21
+Nonoperative Management of Shoulder Instability
+When patients have decided to proceed with nonoperative
+management, deﬁcits that were identiﬁed in the clinical
+assessment (Figure 1) are incorporated into treatment in
+a staged, progressive manner. Our perspective of rehabil-
+itation intervention is based on the direction of the insta-
+bility, mobility limitations, and common muscular deﬁciencies
+found with shoulder instabilities, which is the primary focus
+of this article (Figure 3).
+ACUTE SHOULDER INSTABILITY
+First-time acute anterior shoulder subluxation or dislocation
+requires speciﬁc management within the initial 6 weeks after
+an injury to maximize patient outcomes. After reduction, the
+shoulder should be immobilized for a length of time that
+depends on the symptoms.22 Regarding an anterior dislocation,
+No. of instability 
+events
+Decision making
+Management
+options
+First-time
+shoulder dislocation
+Second
+dislocation
+≥3 Dislocations or
+dislocating in sleep
+PRIS/NISIS
+tool
+Insuﬃ  cient
+previous
+rehabilitation
+Adequate/good
+previous
+rehabilitation
+Low risk
+High risk
+Conservative
+management
+Shared decision making
+regarding surgery or no surgery
+Surgery
+Rarely
+used
+Figure 2.
+Decision-making regarding operative versus nonoperative management after a shoulder dislocation. Abbreviations: NISIS,
+Nonoperative Instability Severity Index Score; PRIS, Predicting Recurrent Instability of the Shoulder.
+Direction
+Treatment
++/- Patient symptoms are
+substantially altered by
+addressing scapula position
+Assess
+lower
+trapezius
+strength
+Assess
+serratus
+anterior
+strength
+Lower
+trapezius
+strengthing
+protocol
+Serratus
+anterior
+strengthing
+protocol
+Address
+posterior
+restriction
+Monitor posterior 
+restriction
+Anterior
+Anterior with
+posterior
+shoulder
+restriction
+Anterior
+without
+posterior
+restriction
+Anterior cuﬀ  
+strength
+stage 1
+Anterior cuﬀ  
+strength
+stage 2
+Anterior cuﬀ  
+motor
+control
+stage 1
+Anterior cuﬀ  
+motor
+control
+stage 2
+Anterior cuﬀ  protocol
+Anterior cuﬀ  stage 3
+Anterior cuﬀ  stage 4
+Anterior, posterior,
+and inferior
+Cocontraction protocol
+Cocontraction stage 1
+Cocontraction stage 2
+Posterior
+Posterior cuﬀ  
+strength
+stage 1
+Posterior cuﬀ  
+strength
+stage 2
+Posterior cuﬀ  
+motor
+control
+stage 1
+Posterior cuﬀ  
+motor
+control
+stage 2
+Posterior cuﬀ  protocol
+Posterior cuﬀ  stage 3
+Posterior cuﬀ  stage 4
+Figure 3.
+Progressive rehabilitation intervention from subacute to end stage, based on the direction of instability, mobility limitations,
+and common muscular deﬁciencies.
+Journal of Athletic Training
+245
+
+=====PAGE 4
+evidence for whether immobilization should be in external or
+internal rotation is inconsistent.23 Although no evidence
+showed that immobilization for .1 week reduced the risk of
+recurrent shoulder instability,23 we advise immobilizing the
+shoulder for pain and symptoms as needed but not beyond 3
+weeks. The shoulders of people with recurrent instability
+should be immobilized as symptoms require. No data are
+available regarding the appropriate length of immobilization
+in the population with recurrent instability, and clinicians
+should use symptoms and presentation to guide their man-
+agement. People with microinstability seldom require immo-
+bilization. Indeed, they commonly present with restricted
+movement in the posterior shoulder and require stretch-
+ing or mobilization of these structures. The shoulders of
+individuals with acute traumatic posterior instability may be
+immobilized, but few researchers have examined outcomes,
+position, or the length of immobilization in this population.
+Patients with multidirectional instability tend to have less
+hemarthrosis and joint damage and may beneﬁt from a short
+period of immobilization (1–3 days) if they have symptoms.
+Again, rigorous evidence for immobilization in people with
+multidirectional instability is limited.
+Clinicians should focus on early resolution of strength
+impairments as acute symptoms allow.24 Low-level isometric
+contractions can often be performed in pain-free positions in
+multiple directions to facilitate shoulder neuromuscular con-
+trol. Patients should then slowly regain their active ROM.
+Early resolution of full shoulder ROM after a traumatic sub-
+luxation or dislocation is not thought to be clinically advan-
+tageous. The symptoms and impairments experienced after
+an episode of shoulder instability vary greatly. Therefore, a
+criterion-based progression uses functional milestones with
+speciﬁc endurance- and strength-based criteria (Table 1) instead
+of more time-based protocols. A general consideration for pos-
+terior instability is that patients initially tolerate mobility
+exercises in the frontal or scapular plane, whereas those
+with anterior instability initially tolerate mobility exercise
+in the sagittal or scapular plane. Regardless of the speciﬁc
+direction of the instability, patients, family, and other interested
+parties often have several questions. Therefore, patients and
+stakeholders should be educated on the pathoanatomy, risk
+of recurrence, return to activity, and treatment options.
+Kinetic chain deﬁcits may contribute to shoulder instability
+through alterations in muscle activity; thus, the positioning
+of the scapula and trunk (eg, with decreased contralateral
+gluteal or trunk-rotation strength or both) should be
+assessed, and any deﬁcits should be treated.
+SUBACUTE AND END-STAGE REHABILITATION:
+DIRECTION-SPECIFIC INTERVENTIONS
+A direction-speciﬁc approach is required in the rehabilita-
+tion of a patient with instability, as the injury and impairments
+(eg, strength and ROM) differ depending on the direction
+of the instability. Treatment in the subacute stages follows a
+staged progression based on the primary direction of the insta-
+bility, using the anterior rotator cuff, posterior rotator cuff,
+and cocontraction protocols outlined in Figure 3. Rehabilita-
+tion consists of re-establishing motor control and strength of
+the key shoulder musculature (stages 1 and 2). Then dynamic
+exercises are added to facilitate the position, amplitude, load,
+and speed (PALS) of movement (stage 3). Finally, internal
+and external perturbations and unexpected movements (stage 4)
+are integrated, and then readiness to return to sport is examined.
+Each stage has a direction-speciﬁc focus to facilitate speciﬁc
+muscle activation, and treatment for anterior and posterior
+Table 1.
+Criteria to Progress for Each Phase
+Stage
+Protocol
+Anterior Rotator Cuff
+Posterior Rotator Cuff
+Cocontraction
+1
+Motor control: Patients demonstrate good motor
+control by activating and relaxing the
+subscapularis isometrically 153 without
+difficulty.
+Motor control: Prone patients can hold the
+upper extremity in 908 of abduction and
+908 of external rotation 3 30 s with no
+weight and minimal scapular movement.
+Progression from stage 1 can
+occur when side-lying patients
+can hold their shoulder in 908 of
+abduction in 3 3 sets of 30 s.
+Strength: Patients sustain 3 3 30-s isometric
+contractions in prone lift-off position.
+Strength: Patients hold 1 kg in 458 of flexion
+for 30 s 3 3 reps.
+2
+Motor control: Patients demonstrate smooth
+eccentric and concentric movement from 08–908
+with the upper extremity abducted to 908 in
+supine with 1–1.5-kg (2–3-lb) load 3 15
+repetitions with continuous palpable
+subscapularis contraction.
+Motor control: Prone patients perform
+30 reps from 08–908 with 1-kg weight.
+Scapula must remain relatively still,
+and humeral head motion must be
+differentiated from scapular
+compensation.
+Patients hold 5 kg 3 3 sets of 30 s
+and control clockwise and
+counterclockwise circles with
+scapula protracted.
+Strength: Patients lift and hold their hand away
+from their spine (1–2 in [2.54–5.08 cm]) using
+a 1-m heavy resistance band (blue or black) for
+30 s without losing control and without pain.
+Strength: Patients hold 1 kg at 908 of
+flexion 3 3 sets of 30 s.
+3
+Patients perform elastic resistance of concentric
+and eccentric internal rotation 3 30 s before
+increasing speed. Speed of movement can
+usually increase every 5–7 d or every few visits
+based on level of function and motor control.
+Patients perform elastic resistance of
+concentric and eccentric external rotation
+3 30 s before increasing speed. Speed
+of movement can usually increase every
+5–7 d or every few visits based on level
+of function and motor control.
+Patients perform side hold on hand
+and hips 3 3 sets of 30 s with
+body weight supported on hand.
+4
+Patients can withstand 1 min of perturbations
+without pain before attempting return-to-sport
+testing.
+Patients can withstand 1 min of
+perturbations without pain before
+attempting return-to-sport testing.
+Abbreviation: rep, repetition.
+246
+Volume 59  Number 3  March 2024
+
+=====PAGE 5
+instability may or may not include both the anterior and poste-
+rior directions, depending on the deﬁcits found in each patient.
+All criteria to progress for each protocol are summarized in
+Table 1. Scapular muscle strengthening is outlined in the
+Appendix and can begin when patients are able to perform
+exercises without pain. Discussions and possible referral
+to an appropriate health care provider may be needed for
+patients with fear of reinjury or decreased conﬁdence.
+Anterior Rotator Cuff Protocol
+The anterior rotator cuff protocol is primarily used for ante-
+rior instability and principally develops motor control and
+strength of the subscapularis muscle (Figure 3). This muscle
+blends with the anterior shoulder capsule and is an important
+dynamic anterior stabilizer of the glenohumeral joint.25 Clini-
+cians should initially incorporate motor-control training to dif-
+ferentiate subscapularis activity from that of the often-
+compensating latissimus dorsi and pectoralis major muscles
+and can palpate subscapularis activity at the base of the axilla
+to determine the level of activation.26 Furthermore, forces cre-
+ated by the pectoralis major and the latissimus dorsi muscles
+may increase anterior translation of the humeral head on the
+glenoid.27 If patients with anterior instability also present with
+posterior rotator cuff impairment, clinicians should address
+this deﬁcit using the posterior rotator cuff protocol after stages
+1 and 2 of the anterior protocol have been completed.
+Some patients with microinstability in the anterior direc-
+tion present with restrictions of passive ROM in horizontal
+ﬂexion, internal rotation at 908 of abduction, or end-range
+elevation. Several treatment approaches28,29 can be used to
+normalize ROM of the posterior shoulder, including but not
+limited to the sleeper stretch, cross-body stretching, massage,
+contract-relax, and mobilization. When posterior shoulder
+restriction is identiﬁed, it should be addressed in the early stages
+and throughout rehabilitation of the anterior rotator cuff proto-
+col to ensure full mobility and function are restored (Figure 3).
+Stage 1. Anterior Rotator Cuff Motor Control and
+Strengthening. In stage 1, we advocate for the use of exer-
+cises that bias the activation of the subscapularis over the pec-
+toralis major and latissimus dorsi muscles. These exercises
+are performed in supine position with the upper extremity
+abducted comfortably to allow the clinician to palpate the
+subscapularis. Patients are instructed to “draw the shoulder into
+its socket” or internally rotate the humerus without humeral
+adduction or horizontal ﬂexion and without activating the
+other internal rotators (Supplemental Video 1, available online
+at https://dx.doi.org/10.4085/1062-6050-0468.22.S1).30 Light
+distraction of the humeral head from the glenoid can facilitate
+subscapularis activation. Clinicians can use gentle isometric
+shoulder abduction or horizontal extension to reciprocally
+inhibit the adductors (predominantly the latissimus dorsi) and
+horizontal ﬂexors (predominantly the pectoralis major). This
+allows patients to contract the subscapularis with decreased
+contributions from other muscles.31 Clinicians instruct patients
+to palpate the subscapularis during this exercise to facilitate
+motor-control feedback (Supplemental Video 1).
+The strength-based approach to increase the strength and
+activation of the subscapularis uses a prone lift-off position
+to decrease the contribution of the latissimus dorsi and the
+pectoralis major because of their anatomic constraints. Patients
+lie prone with their wrist over L4, lift the hand from the back
+(no more than 1 in [2.54 cm]), and hold this position for 30 sec-
+onds. If this exercise is painful, it can be modiﬁed by moving
+the hand down to over the buttock or using a belly-press exer-
+cise. As they are able, patients should progress toward the
+prone lift-off L4 position. The exercise is performed to promote
+subscapularis fatigue and should not be painful (Figure 4). Ide-
+ally, both motor-control and strength criteria will be achieved
+before moving to stage 2, but the strength-based goal must be
+achieved (Table 1).
+Stage 2. Anterior Rotator Cuff Motor Control and
+Strengthening. After patients can activate the subscapu-
+laris more independently, the focus of rehabilitation is con-
+centric and eccentric subscapularis control through ROM.
+Stage 2 exercises can be performed supine with the upper
+extremity abducted so that the clinician or patient is able to
+palpate the subscapularis (Supplemental Video 2, available
+online at https://dx.doi.org/10.4085/1062-6050-0468.22.S2).
+If this position is painful, the upper extremity should be
+moved to the scapular plane with a towel placed under the distal
+humerus and the range limited to pain-free movement.27 Light
+weights or elastic bands should be used for daily home exercises
+to increase patient control of the subscapularis through ROM.
+Progression of the strength-based approach is achieved
+by using a 1-m-long resistance band ﬁxed to the wall in
+front of patients who stand 1 m away. The band is passed
+around the unaffected side of the body, so patients grasp
+with the hand of their affected shoulder behind their back.
+They then lift their hand 1 to 2 in (2.54 to 5.08 cm) away
+from their back to perform a 10-second isometric hold 3 times.
+They progress the exercise up to 30 seconds and the level of
+resistance until the goal is achieved in order to advance. Clini-
+cians should instruct patients to maintain the load through inter-
+nal rotation without pain and not compensate with shoulder
+extension or wrist ﬂexion. Patients with anterior instability
+Figure 4.
+Isometric external-rotation strengthening at 908 and 1358 of ﬂexion.
+Journal of Athletic Training
+247
+
+=====PAGE 6
+often also need posterior rotator cuff strengthening after they
+have established subscapularis control to balance the glenohu-
+meral joint.
+Stage 3. Anterior Rotator Cuff PALS. Stage 3 is the
+dynamic stage during which rehabilitation is tailored to
+the individual’s sport or job demands by altering the PALS
+of the exercise. This protocol has similarities across all 3
+directions of instability, although the focus should remain
+on the speciﬁc direction of the instability. After patients
+with anterior instability have progressed through anterior
+rotator cuff motor control and strengthening stages 1 and 2,
+clinicians should assess them for any deﬁcits in posterior
+rotator cuff motor control and strength. Any such deﬁcits
+should now be addressed by adding posterior rotator cuff
+stages 1 and 2 to the rehabilitation protocol.
+Patients who are required to lift heavy loads should focus
+on increasing the loads in the relevant ROM. Those who
+need to return to quick movements should focus on increasing
+the speed of the movement in positions, amplitudes, and loads
+that replicate their requirements. A metronome provides exter-
+nal pacing and monitoring of the progression. Initially, patients
+start exercises with no pace to allow for proper execution.
+We recommend beginning at 30 beats/min, progressing to
+120 beats/min for 30 seconds in 20-beats/min steps. Assum-
+ing a 908 arc of motion is covered, patients would progress
+speed from 458/s to 1808/s. The key is humeral head move-
+ment without scapular or trunk movement and a maintained
+pace without substitution before progression. The anterior
+rotator cuff protocol focuses on internal-rotation strength
+after the stage 2 criteria are met.
+Patients should begin shoulder internal-rotation strength-
+ening with the upper extremity at the side, going through a
+full arc of internal rotation of the humerus using an elastic-
+resistance band and without scapular substitution. They often
+have muscle weakness and difﬁculty near end range due to
+decreased muscular control in this part of the range. There-
+fore, exercises should be modiﬁed to focus on the speciﬁc arc
+with stability deﬁcits until patients have enough strength to
+move through the entire arc of motion. When patients can
+demonstrate smooth control of concentric and eccentric
+motion using the elastic-resistance band through the full arc
+for 30 seconds, they can begin to keep pace with a metronome
+(beginning at 30 beats/min). Typically, as patients demonstrate
+the third level in the progression (approximately 70 beats/
+min) without scapular or trunk movement, a more challenging
+rotation exercise with additional upper extremity elevation
+can be initiated. Patients advance toward performing exercises
+with the upper extremity abducted to 908 in the scapular plane
+and then the frontal plane. Speed and resistance should be
+based on patients’ physical activity requirements. A typical
+progression for both the anterior and posterior rotator cuff
+muscle protocols is provided in Table 1. Pain-free weight-
+room activities are typically started in this stage but may
+require limitations in arcs of motions (eg, bench press from
+the ﬂoor to limit horizontal extension).
+Stage 4. Motor-Pattern Integration and Perturbation
+Training. After patients can activate speciﬁc musculature
+and have acquired the appropriate speed and endurance of
+the subscapularis, further overload of the shoulder is
+required. Stage 4 should include expected and unexpected
+directional perturbations, beginning with expected motions
+(eyes open) and progressing to unexpected activities (eyes
+closed). Patients can start by receiving a perturbation of a
+light weight (0.5 kg) dropped into their hand while lying
+supine, with the arm in abduction and external rotation and
+their eyes open, eventually progressing to receiving the per-
+turbation in this position with their eyes closed. They can
+then move to an upright position and receive perturbations
+from the clinician into external rotation or horizontal exten-
+sion in a position of abduction and external rotation with
+the instruction “don’t let me move you.” Further progressions
+include moving from a stable to an unstable surface (eg, kneel-
+ing on a Swiss ball) and the use of elastic-resistance bands or
+straps to increase the force applied.
+Weight-room exercises should be advanced, incorporating
+training multiple movement patterns that simulate patients’
+sport or work involving the entire kinetic chain. Targeted
+gymnasium strengthening for the shoulder can progress with
+supine ﬂies or the bench press and prone rollouts. At the end
+of this stage, patients should demonstrate movement through
+the ROM without pain, with added visual (movement in
+peripheral vision), aural (distracting noise), and tactile
+(altered surface) disturbances in the absence of opponents or
+other players. Clinicians should limit oral and visual feedback
+during this stage to encourage patients’ cognitive processing
+and problem solving.32 This is the ﬁnal stage to prepare
+patients for criterion-based return-to-sport testing.
+Criteria for return-to-sport testing are both rotator cuff and
+scapular strength. Patients should also have progressed through
+scapular rehabilitation so they can perform pain-free push-ups
+and side planks on an extended upper extremity for 3 repeti-
+tions of 30 seconds (Appendix). They should be able to with-
+stand 1 minute of perturbations in abduction and external
+rotation with no pain before attempting return-to-sport testing.
+Posterior Rotator Cuff Protocol
+The key to rehabilitation of the posterior rotator cuff is
+activating the external rotators without excessive compen-
+satory scapular motion. Clinical experience indicates that
+the emerging pattern of compensatory movement is exces-
+sive posterior scapular tilt and retraction of the scapula in
+the absence of isolated external rotation of the humerus,
+particularly when the infraspinatus is short in terminal
+external rotation. This protocol is the mainstay of treatment
+for people with posterior shoulder instability. It can also be
+added after stage 2 for patients with anterior and multidi-
+rectional instability when strength or motor control of the
+external rotators is lacking.
+Stage 1. Posterior Rotator Cuff Motor Control and
+Strengthening. The crucial factor in stage 1 is establishing
+whether patients can externally rotate the humerus without
+scapular posterior tilt or retraction. Patients are evaluated
+and treated in prone position with a folded towel placed
+under the anterior proximal humerus (Supplemental Video
+3, available online at https://dx.doi.org/10.4085/1062-
+6050-0468.22.S3). They perform 1 repetition of external
+rotation to 908 without pain or scapular substitution. If patients
+cannot externally rotate to 908 without scapular move-
+ment, they are instructed to perform an isometric external-
+rotation hold at the limit of external rotation before scapular
+movement. Isometric contractions should be held for 30 sec-
+onds for 3 repetitions. Clinicians should provide oral, visual,
+and tactile feedback so that scapular movement is minimal in
+this stage.33,34 This position can be modiﬁed initially
+into scaption if pain is present.
+248
+Volume 59  Number 3  March 2024
+
+=====PAGE 7
+The strength-based approach to increase infraspinatus
+strength is initiated with patients in side-lying position with
+the elbow supported on a towel and bent to 908. Patients
+should hold a 1-kg weight isometrically and parallel to the
+ﬂoor for 30 seconds for 3 repetitions. Then patients should
+support the distal humerus at 458 of ﬂexion with the oppo-
+site hand and repeat the isometric exercise without scapular
+substitution; this promotes infraspinatus endurance and should
+not be painful. Ideally, both motor-control and strength criteria
+will be achieved before moving to stage 2, but the strength-
+based goal must be achieved (Table 1).
+Stage 2. Posterior Rotator Cuff Motor Control and
+Strengthening. The goal of stage 2 is to facilitate motor
+control of external rotators through the ROM, both concen-
+trically and eccentrically. Patients move through a 908 arc of
+motion in side-lying position and then progress to lying prone
+with manual resistance or light resistance (0.5–1 kg) without
+symptoms and scapular compensation. To continue isometric
+strengthening, upper extremity elevation is advanced to 908
+and 1358 if needed, with the load and exercise variables as
+presented in stage 1 (Figure 4).
+Stage 3. Posterior Rotator Cuff PALS. Stage 3 is simi-
+lar to stage 3 of the anterior rotator cuff protocol but pro-
+gressively loads the posterior rotator cuff. Patients with
+posterior instability can start external rotation with the
+upper extremity at the side and proceed to more elevated
+upper extremity positions after they can hold the resistance in
+the end range of external rotation for 30 seconds (Table 2). Typ-
+ical progressions move the upper extremity into more elevation
+in the frontal plane and then the sagittal plane and overhead. A
+common error is to start this stage too early, without adequate
+strength and isolation of humeral external rotation on a stable
+scapula.
+Stage 4. Motor-Pattern Integration and Perturbation
+Training. Stage 4 also has similarities to stage 4 of the
+anterior rotator cuff protocol, although again, the direction of
+the load is reversed. Patients lie prone and perform drop catches
+using a light weight with the shoulder positioned in 908/908 to
+eccentrically load the posterior rotator cuff. Perturbations from
+clinicians include pushing the hand to move the arm into
+internal rotation in this position or moving the arm into a
+more sagittal-plane position to prepare patients for functional
+activities. The complexity of the tasks can be increased, as in
+stage 4 of the anterior rotator cuff protocol, by incorporating
+multiple stimuli, such as distraction or noise, altering sur-
+faces for enhanced stability, and incorporating opponents. The
+exercise interventions are detailed in stage 4 of the anterior
+rotator cuff protocol and follow similar criteria to progress.
+Cocontraction Protocol
+Patients with multidirectional instability may not respond to
+a direction-speciﬁc muscular protocol due to increased general-
+ized capsular laxity. An imbalance in the transverse force cou-
+ple of the subscapularis and infraspinatus, which dynamically
+centers the humeral head on the glenoid during work, sport, or
+activities of daily living, can create the instability.35,36 The
+cocontraction protocol can also be used if loading either the
+anterior or posterior shoulder is painful or ineffective. This
+principle uses the axial compressive load through the humerus
+to facilitate joint stability by placing the patient in a position
+that centers the humeral head on the glenoid. With the humeral
+Figure 5.
+Side-hold progressions that keep the humeral head centered in the glenoid among patients with multidirectional shoulder
+instability.
+Table 2.
+Progression of Concentric and Eccentric Internal and External Rotation
+Protocol
+Progressiona–e (beats/min)
+Anterior rotator cuff
+Internal rotation at side through pain-free arc
+Self-paced
+30
+50
+70
+90
+120
+Internal rotation in scapular plane from 08 to 908
+Self-pacedd
+30
+50
+70
+90
+120
+Internal rotation in frontal plane from 08 to 908
+Self-pacedd
+30
+50
+70
+90
+120
+Posterior rotator cuff
+External rotation at side through pain-free arc
+30-s holdsd
+30
+50
+70
+90
+120
+External rotation in frontal plane at 908 of abduction from
+08 to 908
+30-s holdsd,e
+30
+50
+70
+90
+120
+External rotation in frontal plane at 1358 of abduction from
+08 to 908
+30-s holdsd,e
+30
+50
+70
+90
+120
+a Patients perform exercise for 30 s on pace with proper form and no substitutions before moving to the next speed or level.
+b Assuming a 908 arc of motion, 30 beats/min ¼ 458/s, 90 beats/min ¼ 1358/s, and 120 beats/min ¼ 1808/s.
+c Blank cells indicate exercise is not performed.
+d When progressing positions, continue to perform only 3 sets for 30 s, but for 1 set of 30 s in the new position and incrementally move to
+the more challenging positions and pace as tolerated while maintaining the 3 3 30 s volume.
+e Holds performed with an elastic-resistance band (green/blue) in the described position.
+Journal of Athletic Training
+249
+
+=====PAGE 8
+head centered, cocontraction of the anterior and posterior rota-
+tor cuff can be used to stabilize it as opposed to using these
+muscles to affect the rotation of the humerus on the glenoid.
+Stage 1. Patients begin stage 1 lying on their side with the
+affected upper extremity at approximately 908 using no
+weight. They are instructed to hold the upper extremity
+in neutral position. The initial hold may be for 10 seconds
+for 10 repetitions and then advances to 30 seconds for 3 repe-
+titions. Conceptually, patients are centering the humeral head
+on the glenoid (Figure 5A).
+Stage 2. For stage 2, patients perform small circles within
+the pain-free ROM in either direction. In electromyography
+research, investigators demonstrated that creating a circular
+motion facilitated activity of both prime movers (eg, the pec-
+toralis major and deltoid) and the rotator cuff to stabilize the
+humeral head.37 The exercise is followed by loading the
+humerus axially with a 3-kg and then a 5-kg load for 30
+seconds (Figure 5B). To activate the scapular musculature,
+patients can be encouraged to reach for the ceiling as gleno-
+humeral stability and strength increase.
+Once patients with multidirectional instability can support
+the upper torso body weight in a closed chain position of 1
+hand or elbow and hips (Figure 5C), they should be reas-
+sessed for their primary direction of instability and treated as
+per the protocols described earlier. Scapular strengthening
+should start after patients can adopt positions without pain
+and continue throughout rehabilitation (Appendix).
+Return-to-Sport Clinical Tests
+In stage 4, activities are incorporated to prepare athletes
+to return to sport. In this current clinical concepts paper, we
+have identiﬁed criteria at the end of each stage to progress
+to the next stage; returning to sport is the ﬁnal criterion.
+Before transitioning back to full sport activities, the athlete
+must be psychologically ready and demonstrate appropriate
+physical performance based on the direction of instability,
+sporting demand, and endurance needed. Clinicians are advised
+against attempting return-to-sport testing until the patient has
+met the previous rehabilitation milestones.
+As the “2016 Consensus statement on return to sport from
+the First World Congress in Sports Physical Therapy” indi-
+cated, assessment tests for the upper extremity are limited.38
+Several conceptual models for returning an athlete to sport
+have clearly identiﬁed multiple factors that must be consid-
+ered before return to sport.39,40 Some components that should
+be incorporated are pain, mobility, strength, physical perfor-
+mance, time of season, level of competition, and psychologi-
+cal readiness. The Shoulder Instability-Return to Sport after
+Injury is a valid scale for measuring psychological readiness
+in patients after shoulder-instability events.41,42 This scale suc-
+cessfully discriminated between those who were and those
+who were not likely ready to return, with a cut point of 55.43
+Several reliable physical performance tests have been
+described for use after a shoulder injury (eg, Athletic Shoulder
+test, upper limb rotation test, line hops, and push-ups).20,30,44
+Conceptually, many of the physical performance tests are pro-
+gressions from rehabilitation. Unfortunately, these physical
+performance tests for assessing readiness to return to sport
+lack predictive validity. Physical performance readiness must
+entail the classic measures of impairment, such as ROM,
+pain, and strength measured objectively with an isometric or
+isokinetic dynamometer. Physical performance tests should be
+selected based on sport demand and the direction of instabil-
+ity.19 Nearly all physical performance tests were found to be
+reliable, but the decision of which to use depends on the tis-
+sues being challenged and the loads that must be controlled
+during sport performance. In biomechanical studies examin-
+ing muscle activity, forces, and moments around the shoul-
+der, researchers have shown that the closed kinetic chain
+upper extremity stability test,45 push-ups,30 side-hold rota-
+tions,32 and line hops32 activated the serratus anterior and
+infraspinatus maximally while primarily placing posterior
+translation forces on the shoulder for posterior instability
+assessment. Tests that stress the anterior stabilizers, including
+the Athletic Shoulder test,46 upper limb rotation test,44 and
+side-hold rotation test,32 should be considered for athletes
+requiring anterior stabilization to return to sport. In those play-
+ers returning to overhead sport who have endurance require-
+ments of the posterior shoulder, clinicians should consider
+including the posterior shoulder endurance test47 and the
+shoulder endurance test.48 No single test is likely to evaluate
+all the demands on a particular athlete. Therefore, a battery of
+tests should be based on the patient’s physical demands. Each
+athlete and sport demand is different, so the testing battery
+will likely differ; we offer suggested test batteries in Figure 6.
+These return-to-sport decisions ultimately lie with the athletes,
+but they will seek multiple inputs from family, coaches, and
+their sports medicine team. Shared decision-making to ensure
+patients are empowered for successful short- and long-term
+decisions regarding return to sport is optimal.
+ 
+Throwing and overhead athletes 
+Collision athletes 
+Anterior instability 
+Posterior instability 
+Self-assessment corner 
+Side-hold rotations 
+BABER 
+Upper quarter Y 
+Shoulder endurance test 
+Posterior shoulder 
+Endurance test 
+Single-arm seated shotput 
+Side-hold rotations 
+ASH test 
+Supine moving 
+apprehension test 
+Side-hold rotations 
+Line hops 
+Push-up claps 
+Push-ups 
+CKUEST 
+Upper quarter Y 
+1-Arm hop 
+Upper limb rotations 
+Figure 6.
+Return-to-sport tests by sport and injury. Abbreviations: ASH, Athletic Shoulder test; BABER, ball abduction external rotation;
+CKUEST, closed kinetic chain upper extremity stability test.
+250
+Volume 59  Number 3  March 2024
+
+=====PAGE 9
+CONCLUSIONS
+Treatment of shoulder instability has advanced considerably
+in recent years, and in this clinical commentary, we highlighted
+our current opinion of rehabilitation across the continuum of
+acute instability to return-to-sport decision-making, including
+incorporation of psychosocial and personal factors. Clinicians
+should remain abreast of developments in operative and nonop-
+erative decision-making and should include motor control and
+motor programming in their rehabilitation programs. Future
+investigators should examine the clinical outcomes of patients
+using this motor-control and motor-programming approach.
+Successful rehabilitation can return many patients to their pre-
+vious level of activity without operative intervention, and clini-
+cians should maximize patient outcomes and reduce the risk of
+recurrent shoulder instability using contemporary rehabilitation
+practices.
+REFERENCES
+1. Brownson P, Donaldson O, Fox M, et al. BESS/BOA patient care
+pathways: traumatic anterior shoulder instability. Shoulder Elbow.
+2015;7(3):214–226. doi:10.1177/1758573215585656
+2. Marans HJ, Angel KR, Schemitsch EH, Wedge JH. The fate of trau-
+matic anterior dislocation of the shoulder in children. J Bone Joint
+Surg Am. 1992;74(8):1242–1244.
+3. te Slaa RL, Brand R, Marti RK. A prospective arthroscopic study of
+acute ﬁrst-time anterior shoulder dislocation in the young: a ﬁve-year
+follow-up study. J Shoulder Elbow Surg. 2003;12(6):529–534. doi:10.
+1007/s00167-009-0998-3
+4. Olds M, Ellis R, Donaldson K, Parmar P, Kersten P. Risk factors
+which predispose ﬁrst-time traumatic anterior shoulder dislocations to
+recurrent instability in adults: a systematic review and meta-analysis. Br
+J Sports Med. 2015;49(14):913–922. doi:10.1136/bjsports-2014-094342
+5. Wasserstein DN, Sheth U, Colbenson K, et al. The true recurrence
+rate and factors predicting recurrent instability after nonsurgical man-
+agement of traumatic primary anterior shoulder dislocation: a system-
+atic review. Arthroscopy. 2016;32(12):2616–2625. doi:10.1016/j.arthro.
+2016.05.039
+6. Burkhead WZ II, Rockwood CA II. Treatment of instability of the shoulder
+with an exercise program. J Bone Joint Surg Am. 1992;74(6):890–896.
+7. Eshoj H, Rasmussen S, Frich LH, et al. A neuromuscular exercise pro-
+gramme versus standard care for patients with traumatic anterior shoul-
+der instability: study protocol for a randomised controlled trial (the
+SINEX study). Trials. 2017;18(1):90. doi:10.1186/s13063-017-1830-x
+8. van Kampen DA, van den Berg T, van der Woude HJ, Castelein RM,
+Terwee CB, Willems WJ. Diagnostic value of patient characteristics,
+history, and six clinical tests for traumatic anterior shoulder instabil-
+ity. J Shoulder Elbow Surg. 2013;22(10):1310–1319. doi:10.1016/j.
+jse.2013.05.006
+9. Hippensteel KJ, Brophy R, Smith MV, Wright RW. Comprehensive
+review of provocative and instability physical examination tests of the
+shoulder. J Am Acad Orthop Surg. 2019;27(11):395–404. doi:10.5435/
+JAAOS-D-17-00637
+10. Kuhn JE, Helmer TT, Dunn WR, Throckmorton TW V. Development
+and reliability testing of the frequency, etiology, direction, and sever-
+ity (FEDS) system for classifying glenohumeral instability. J Shoul-
+der Elbow Surg. 2011;20(4):548–556. doi:10.1016/j.jse.2010.10.027
+11. Warby SA, Pizzari T, Ford JJ, Hahne AJ, Watson L. The effect of
+exercise-based management for multidirectional instability of the
+glenohumeral joint: a systematic review. J Shoulder Elbow Surg.
+2014;23(1):128–142. doi:10.1016/j.jse.2013.08.006
+12. Handoll HH, Almaiyah MA, Rangan A. Surgical versus non-surgical
+treatment for acute anterior shoulder dislocation. Cochrane Database Syst
+Rev. 2004;2004(1):CD004325. doi:10.1002/14651858.cd004325.pub2
+13. Kavaja L, Lähdeoja T, Malmivaara A, Paavola M. Treatment after
+traumatic shoulder dislocation: a systematic review with a network
+meta-analysis. Br J Sports Med. 2018;52(23):1498–1506. doi:10.
+1136/bjsports-2017-098539
+14. Olds M, Ellis R, Kersten P. Predicting Recurrent Instability of the
+Shoulder (PRIS): a valid tool to predict which patients will not have
+repeat shoulder instability after ﬁrst-time traumatic anterior disloca-
+tion. J Orthop Sports Phys Ther. 2020;50(8):431–437. doi:10.2519/
+jospt.2020.9284
+15. Tokish JM, Thigpen CA, Kissenberth MJ, et al. The Nonoperative
+Instability Severity Index Score (NISIS): a simple tool to guide opera-
+tive versus nonoperative treatment of the unstable shoulder. Sports
+Health. 2020;12(6):598–602. doi:10.1177/1941738120925738
+16. Marigi EM, Wilbur RR, Song BM, Krych AJ, Okoroha KR, Camp
+CL. The Nonoperative Instability Severity Index Score: is it predic-
+tive in a larger shoulder instability population at long-term follow-
+up? Arthroscopy. 2022;38(1):22–27. doi:10.1016/j.arthro.2021.05.021
+17. Hoffmann T, Bakhit M, Michaleff Z. Shared decision making and
+physical therapy: what, when, how, and why? Braz J Phys Ther.
+2022;26(1):100382. doi:10.1016/j.bjpt.2021.100382
+18. Yildiz TI, Turhan E, Ocguder DA, Yaman F, Huri G, Duzgun I. Func-
+tional performance tests reveal promising results at 6 months after shoul-
+der stabilization surgery. Sports Health. 2023;15(6):878–885. doi:10.
+1177/19417381221141075
+19. Wilk KE, Bagwell MS, Davies GJ, Arrigo CA. Return to sport partic-
+ipation criteria following shoulder injury: a clinical commentary. Int J
+Sports Phys Ther. 2020;15(4):624–642. doi:10.26603/ijspt20200624
+20. Olds M, Coulter C, Marant D, Uhl T. Reliability of a shoulder arm
+return to sport test battery. Phys Ther Sport. 2019;39:16–22. doi:10.
+1016/j.ptsp.2019.06.001
+21. Alentorn-Geli E, Álvarez-Díaz P, Doblas J, et al. Return to sports
+after arthroscopic capsulolabral repair using knotless suture anchors
+for anterior shoulder instability in soccer players: minimum 5-year
+follow-up study. Knee Surg Sports Traumatol Arthrosc. 2016;24(2):440–
+446. doi:10.1007/s00167-015-3895-y
+22. Olds MK, Ellis R, Parmar P, Kersten P. Who will redislocate his/her
+shoulder? Predicting recurrent instability following a ﬁrst traumatic
+anterior shoulder dislocation. BMJ Open Sport Exerc Med. 2019;5(1):
+e000447. doi:10.1136/bmjsem-2018-000447
+23. Paterson WH, Throckmorton TW, Koester M, Azar FM, Kuhn JE.
+Position and duration of immobilization after primary anterior shoul-
+der dislocation: a systematic review and meta-analysis of the litera-
+ture. J Bone Joint Surg Am. 2010;92(18):2924–2933. doi:10.2106/
+JBJS.J.00631
+24. Eshoj HR, Rasmussen S, Frich LH, et al. Neuromuscular exercises
+improve shoulder function more than standard care exercises in
+patients with a traumatic anterior shoulder dislocation: a randomized
+controlled trial. Orthop J Sports Med. 2020;8(1):2325967119896102.
+doi:10.1177/2325967119896102
+25. DePalma AF, Cooke AJ, Prabhakar M. The role of the subscapularis
+in recurrent anterior dislocations of the shoulder. Clin Orthop Relat
+Res. 1967;54:35–49.
+26. Magarey ME, Jones MA. Dynamic evaluation and early management
+of altered motor control around the shoulder complex. Man Ther.
+2003;8(4):195–206. doi:10.1016/S1356-689X(03)00094-8
+27. Labriola JE, Lee TQ, Debski RE, McMahon PJ. Stability and instability
+of the glenohumeral joint: the role of shoulder muscles. J Shoulder Elbow
+Surg. 2005;14(1 Suppl S):32S–38S. doi:10.1016/j.jse.2004.09.014
+28. McClure P, Balaicuis J, Heiland D, Broersma ME, Thorndike CK,
+Wood A. A randomized controlled comparison of stretching proce-
+dures for posterior shoulder tightness. J Orthop Sports Phys Ther.
+2007;37(3):108–114. doi:10.2519/jospt.2007.2337
+29. Salamh PA, Kolber MJ, Hanney WJ. Effect of scapular stabiliza-
+tion during horizontal adduction stretching on passive internal rota-
+tion and posterior shoulder tightness in young women volleyball
+Journal of Athletic Training
+251
+
+=====PAGE 10
+athletes: a randomized controlled trial. Arch Phys Med Rehabil.
+2015;96(2):349–356. doi:10.1016/j.apmr.2014.09.038
+30. Fanning E, Daniels K, Cools A, Miles JJ, Falvey É. Biomechanical
+upper-extremity performance tests and isokinetic shoulder strength in
+collision and contact athletes. J Sports Sci. 2021;39(16):1873–1881.
+doi:10.1080/02640414.2021.1904694
+31. Sherrington CS. Strychnine and reﬂex inhibition of skeletal muscle. J
+Physiol. 1907;36(2–3):185–204. doi:10.1113/jphysiol.1907.sp001228
+32. Olds MK, Lemaster N, Picha K, Walker C, Heebner N, Uhl T. Line
+hops and side hold rotation tests load both anterior and posterior shoul-
+der: a biomechanical study. Int J Sports Phys Ther. 2021;
+16(2):477–487. doi:10.26603/001c.21454
+33. Leech KA, Roemmich RT, Gordon J, Reisman DS, Cherry-Allen
+KM. Updates in motor learning: implications for physical therapist
+practice and education. Phys Ther. 2022;102(1):pzab250. doi:10.1093/
+ptj/pzab250
+34. Lin JJ, Lim HK, Yang JL. Effect of shoulder tightness on glenohu-
+meral translation, scapular kinematics, and scapulohumeral rhythm in
+subjects with stiff shoulders. J Orthop Res. 2006;24(5):1044–1051.
+doi:10.1002/jor.20126
+35. Poppen NK, Walker PS. Forces at the glenohumeral joint in abduc-
+tion. Clin Orthop Relat Res. 1978;135:165–170.
+36. Poppen NK, Walker PS. Normal and abnormal motion of the shoul-
+der. J Bone Joint Surg Am. 1976;58(2):195–201. doi:10.2106/00004623-
+197658020-00006
+37. Pearl ML, Perry J, Torburn L, Gordon LH. An electromyographic
+analysis of the shoulder during cones and plane of arm motion. Clin
+Orthop Relat Res. 1992;284:116–127.
+38. Ardern CL, Glasgow P, Schneiders A, et al. 2016 Consensus state-
+ment on return to sport from the First World Congress in Sports Phys-
+ical Therapy, Bern. Br J Sports Med. 2016;50(14):853–864. doi:10.
+1136/bjsports-2016-096278
+39. Creighton DW, Shrier I, Shultz R, Meeuwisse WH, Matheson GO.
+Return-to-play in sport: a decision-based model. Clin J Sport Med.
+2010;20(5):379–385. doi:10.1097/JSM.0b013e3181f3c0fe
+40. Bittencourt NFN, Meeuwisse WH, Mendonça LD, Nettel-Aguirre A,
+Ocarino JM, Fonseca ST. Complex systems approach for sports injuries:
+moving from risk factor identiﬁcation to injury pattern recognition-
+narrative review and new concept. Br J Sports Med. 2016;50(21):1309–
+1314. doi:10.1136/bjsports-2015-095850
+41. Gerometta A, Klouche S, Herman S, Lefevre N, Bohu Y. The Shoulder
+Instability-Return to Sport after Injury (SIRSI): a valid and repro-
+ducible scale to quantify psychological readiness to return to sport
+after traumatic shoulder instability. Knee Surg Sports Traumatol
+Arthrosc. 2018;26(1):203–211. doi:10.1007/s00167-017-4645-0
+42. Olds M, Webster KE. Factor structure of the shoulder instability
+return to sport after injury scale: performance conﬁdence, reinjury
+fear and risk, emotions, rehabilitation and surgery. Am J Sports Med.
+2021;49(10):2737–2742. doi:10.1177/03635465211024924
+43. Rossi LA, Pasqualini I, Brandariz R, et al. Relationship of the SIRSI
+score to return to sports after surgical stabilization of glenohumeral
+instability. Am J Sports Med. 2022;50(12):3318–3325. doi:10.1177/
+03635465221118369
+44. Decleve P, Attar T, Benameur T, Gaspar V, Van Cant J, Cools AM.
+The “upper limb rotation test”: reliability and validity study of a
+new upper extremity physical performance test. Phys Ther Sport.
+2020;42:118–123. doi:10.1016/j.ptsp.2020.01.009
+45. Tucci HT, Felicio LR, McQuade KJ, et al. Biomechanical analysis of
+the closed kinetic chain upper-extremity stability test. J Sport Reha-
+bil. 2017;26(1):42–50. doi:10.1123/jsr.2015-0071
+46. Ashworth B, Hogben P, Singh N, Tulloch L, Cohen DD. The Athletic
+Shoulder (ASH) test: reliability of a novel upper body isometric
+strength test in elite rugby players. BMJ Open Sport Exerc Med.
+2018;4(1):e000365. doi:10.1136/bmjsem-2018-000365
+47. Moore SD, Uhl TL, Kibler WB. Improvements in shoulder endur-
+ance following a baseball-speciﬁc strengthening program in high
+school baseball players. Sports Health. 2013;5(3):233–238. doi:10.
+1177/1941738113477604
+48. Declève P, Van Cant J, Attar T, et al. The Shoulder Endurance Test
+(SET): a reliability and validity and comparison study on healthy over-
+head athletes and sedentary adults. Phys Ther Sport. 2021;47:201–207.
+doi:10.1016/j.ptsp.2020.12.005
+SUPPLEMENTAL MATERIAL
+Supplemental Video 1. Anterior rotator cuff motor control stage
+1. Activation of the subscapularis with minimal pectoralis major
+or latissimus dorsi activation.
+Found at DOI: https://dx.doi.org/10.4085/1062-6050-0468.22.S1
+Supplemental Video 2. Anterior rotator cuff motor control stage
+2. Eccentric and concentric subscapularis contraction through range
+of motion with clinician and home exercises.
+Found at DOI: https://dx.doi.org/10.4085/1062-6050-0468.22.S2
+Supplemental Video 3. Posterior rotator cuff stages 1 and 2.
+Humeral external rotation without scapular movement.
+Found at DOI: https://dx.doi.org/10.4085/1062-6050-0468.22.S3
+Address correspondence to Margie Olds, PhD, PT, Flawless Motion, 7/88 Cook Street, Auckland CBD, Auckland, Auckland 1010, New
+Zealand. Address email to margie@flawlessmotion.com.
+Appendix.
+Scapular Rehabilitation
+The targeted muscles are the trapezius and serratus anterior, which
+are often dysfunctional in shoulder instability.1–3 Typically, motor
+control, strength, and endurance deﬁcits are found. Isometric holds
+for up to 30 seconds for 3 repetitions during the outlined program pro-
+vide criteria to progress.
+The lower trapezius has multiple roles in scapular dynamics, includ-
+ing stabilizing the scapula during elevation and creating upward rota-
+tion with the serratus anterior.4 Clinicians should check for substitution
+from the upper trapezius, the latissimus dorsi, or both, through these
+progressions. The key to this progression is maintaining posterior tilt of
+the scapula for increased middle and lower trapezius activity.
+The prone scapular posterior tilt exercise progresses as follows:
+• Place hands on the table in forearm pronation (palms up;
+isometric),
+• Abduct upper extremities to 458 with elbows straight and palms
+facing the ﬂoor (isometric), and
+• Move from a starting position of upper extremities abducted and
+externally rotated to 908 with elbows bent and palms facing the ﬂoor
+(W position) to an ending position of arms abducted to 1358 with
+elbows straight and palms facing the ﬂoor (Y position; Appendix
+Figure 1).
+252
+Volume 59  Number 3  March 2024
+
+=====PAGE 11
+The serratus anterior functions to posteriorly tilt and upwardly
+and externally rotate the scapula in addition to the classic role of
+scapular protraction.5 Poor control and decreased serratus anterior
+activity have been documented in patients with shoulder instabil-
+ity.6,7 The serratus anterior exercise progression is illustrated in
+Appendix Figure 2. It typically starts with a supine (Appendix
+Figure 2A) or side-lying punch (Appendix Figure 2B) to establish
+good motor control during both concentric and eccentric control
+around the thoracic cage. After patients can demonstrate smooth
+and controlled concentric and eccentric contractions for 30 repeti-
+tions, those who function in a closed chain or weight-bearing posi-
+tion (offensive lineman) can progress to endurance-strengthening
+exercises that use 10-second isometric holds for 10 repetitions,
+progressing to 30-second holds for 3 repetitions before advancing
+to the next exercise.
+Patients typically start in the quadruped position with approxi-
+mately 10% body weight through the injured upper extremity, pro-
+gressing to 50% through both arms (Appendix Figure 2C).
+However, this may be difﬁcult, or the patient may be fearful due to
+the history of injury. One modiﬁcation we have used is a side-sitting
+position with weight through the upper extremity in a more
+abducted position, advancing to side plank through the knees
+(Appendix Figure 2F). Ultimately, patients need to develop endur-
+ance strength and conﬁdence in accepting loads with a forward-
+ﬂexed shoulder. Progressing this by altering positions (Appendix
+Figure 2D) or lifting the lower extremities (Appendix Figure 2E)
+will increase muscle activation of the infraspinatus as loads increase
+(Appendix Figure 2).8 Clinicians should be aware of substitution of
+the latissimus dorsi and upper trapezius during closed chain exer-
+cises, which produces scapular anterior tilt and downward rotation.9
+They should instruct patients to elongate and retract the cervical
+spine to minimize upper trapezius activity and to facilitate increased
+serratus anterior activation by protraction, resulting in the medial
+scapular border staying ﬂush with the thoracic cage.
+Stages 3–5
+In stages 3 through 5, patients can perform closed chain exercises
+in a side-support position (stage 3), side-lying planks from the knees
+(stage 4), and then side planks from the hand or elbow to the feet
+(stage 5; Appendix Figure 2F–H).
+Criteria for Progressions Between Stages 3–5
+When patients can hold the side-support position for 30 seconds
+for 3 repetitions, they can advance to isometric holds from their knees
+and then feet. This progression increases the loads using body weight
+stabilization as depicted in Appendix Figure 2F. After patients can
+perform body-weight side holds from their knees, the subscapularis
+and infraspinatus/teres protocol can usually be incorporated without
+pain. In these patients, both sides of the force couple must be addressed
+throughout the rehabilitation process.
+REFERENCES
+1. Cools AM, Tongel A V, Berckmans K, et al. Electromyographic
+analysis of selected shoulder muscles during a series of exercises
+commonly used in patients with symptomatic degenerative rotator
+cuff tears. J Shoulder Elbow Surg. 2020;29(10):e361–e373. doi:10.
+1016/j.jse.2020.03.019
+2. Kibler W, Sciascia A. Scapular dyskinesis and glenohumeral instabil-
+ity. In: Kibler W, Sciascia A, eds. Disorders of the Scapula and Their
+Role in Shoulder Injury. Springer; 2017:79–90.
+3. Moroder P, Plachel F, Van-Vliet H, Adamczewski C, Danzinger V. Shoul-
+der-pacemaker treatment concept for posterior positional functional shoul-
+der instability: a prospective clinical trial. Am J Sports Med. 2020;
+48(9):2097–2104. doi:10.1177/0363546520933841
+4. Johnson G, Bogduk N, Nowitzke A, House D. Anatomy and actions of
+the trapezius muscle. Clin Biomech (Bristol, Avon). 1994;9(1):44–50.
+doi:10.1016/0268-0033(94)90057-4
+C
+D
+A
+B
+Appendix Figure 1.
+A–D, Lower trapezius exercise progression.
+Journal of Athletic Training
+253
+
+=====PAGE 12
+5. Ludewig PM, Reynolds JF. The association of scapular kinematics and
+glenohumeral joint pathologies. J Orthop Sports Phys Ther. 2009;
+39(2):90–104. doi:10.2519/jospt.2009.2808
+6. Spanhove V, Van Daele M, Van den Abeele A, et al. Muscle activity
+and scapular kinematics in individuals with multidirectional shoul-
+der instability: a systematic review. Ann Phys Rehabil Med. 2021;
+64(1):101457. doi:10.1016/j.rehab.2020.10.008
+7. Matias R, Pascoal AG. The unstable shoulder in arm elevation: a three-
+dimensional and electromyographic study in subjects with glenohumeral
+instability. Clin Biomech (Bristol, Avon). 2006;21(suppl 1):S52–S58.
+doi:10.1016/j.clinbiomech.2005.09.014
+8. Uhl TL, Carver TJ, Mattacola CG, Mair SD, Nitz AJ. Shoulder muscu-
+lature activation during upper extremity weight-bearing exercise. J
+Orthop Sports Phys Ther. 2003;33(3):109–117. doi:10.2519/jospt.
+2003.33.3.109
+9. Lunden JB, Braman JP, Laprade RF, Ludewig PM. Shoulder kinemat-
+ics during the wall push-up plus exercise. J Shoulder Elbow Surg.
+2010;19(2):216–223. doi:10.1016/j.jse.2009.06.003
+B
+A
+C
+E
+D
+F
+H
+G
+Appendix Figure 2.
+Progressive loading of the serratus anterior in the A–E, frontal and F–H, sagittal planes. A, Supine punch; B, side-
+lying punch; C, 4-point kneeling; D, plank feet; E, plank with leg lift; F, side support; G, side-plank knees; and H, side-plank feet.
+254
+Volume 59  Number 3  March 2024
