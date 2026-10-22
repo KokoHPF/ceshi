@@ -43,6 +43,12 @@ def upload(url, path):
     return call(url, body, {"Content-Type": f"multipart/form-data; boundary={boundary}"})
 
 
+def image_size(path):
+    from PIL import Image
+    with Image.open(path) as im:
+        return im.size
+
+
 def prepare_content():
     html = (HERE / "article_body.html").read_text(encoding="utf-8")
     # 标签之间的换行在公众号编辑器里可能变成空段落，统一去掉
@@ -57,12 +63,12 @@ def main():
 
     content = prepare_content()
     for src in sorted(set(re.findall(r'src="((?:images|gifs)/[^"]+)"', content))):
-        if src.endswith(".gif"):
-            # 动图超过 uploadimg 的 1MB 限制，走永久图片素材（≤10MB），同样返回可用于正文的 url
-            url = upload(f"{API}/material/add_material?access_token={token}&type=image", HERE / src)["url"]
-        else:
-            url = upload(f"{API}/media/uploadimg?access_token={token}", HERE / src)["url"]
-        content = content.replace(f'src="{src}"', f'src="{url}"')
+        # 正文图片一律存为永久图片素材：图片进入公众号素材库，编辑器和预览里都能正常加载
+        url = upload(f"{API}/material/add_material?access_token={token}&type=image", HERE / src)["url"]
+        w, h = image_size(HERE / src); kind = "gif" if src.endswith(".gif") else "jpeg"
+        # 按公众号编辑器自己的格式写 img：带 data-type、data-w、data-ratio，去掉 alt（加载慢时编辑器会把 alt 当正文显示）
+        content = re.sub(rf'<img src="{re.escape(src)}" alt="[^"]*"',
+                         f'<img class="rich_pages wxw-img" data-type="{kind}" data-w="{w}" data-ratio="{h / w:.4f}" src="{url}"', content)
         print("正文图片已上传：", src)
 
     draft_id = os.environ.get("WX_DRAFT_ID")
