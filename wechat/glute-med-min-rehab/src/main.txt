@@ -1,0 +1,1171 @@
+
+=====PAGE 1
+Rehabilitation and Return to Sport in Athletes
+Rehabilitation After Gluteus Medius and Minimus
+Treatment
+Victor M. Ilizaliturri Jr., M.D., Rafael Zepeda Mora, M.D., and
+Liliana Patricia Rodríguez Vega, M.D.
+Abstract: We reviewed the current literature regarding rehabilitation after gluteus medius and minimus tears as part of
+a conservative management or postoperative protocol. The greater trochanteric pain syndrome includes a constellation
+of pathologies that generate pain in the greater trochanteric region and may be accompanied by varying degrees of hip
+abductor disfunction. It may be related to tendinitis of the gluteus medius and minimus, greater trochanteric bursitis, or
+even formal tears of the hip abductor tendons. The initial management strategy of the hip abductor tears is conservative,
+including different anti-inﬂammatory therapies such as physical therapy and cortisone and platelet-rich plasma in-
+jections. The clearest indication for surgical management is failure of conservative management and loss of abductor
+muscle power. Surgical management has been performed both open and endoscopic with good reported clinical results.
+More severe tears typically require a more rigid and complex type of ﬁxation. Exorcise intervention seem to improve
+symptoms after 4 months to a year of therapy therefore a very close supervision of the rehabilitation protocol is
+mandatory. Gluteus medius and minimus tears are frequent and may be not diagnosed timely. Treatment of these of
+lesions is based on the knowledge of pathomechanics involved and the extent of injury to the tendon and muscle tissue.
+Conservative management is based on protecting the hip abductor tendons from excessive tensile and compression
+stresses while applying progressive load in conjunction with physical and medical anti-inﬂammatory measures. Surgical
+treatment is indicated when conservative management fails or an abductor power deﬁcit is associated with pain. Similar
+physical therapy protocols to those used in conservative management are used postoperatively. Level of Evi-
+dence: Level V, expert opinion.
+G
+luteus medius and minimus tears have been
+identiﬁed recently as an important source of
+lateral hip pain and in some cases gait problems that
+may be an important cause of disability. Tears of the
+gluteus medius and minimus are included in what is
+now recognized as the greater trochanteric pain syn-
+drome (GTPS), which includes a constellation of pa-
+thology ranging from greater trochanteric bursitis,
+tightness of the iliotibial band, and tendinitis to formal
+muscle and tendon tears of the hip abductors.1 GTPS
+affects between 10% and 25% of the general popula-
+tion, with a peak incidence between the fourth and
+sixth decades of life.2 In a multicenter observational
+study, Segal et al.3 found that the prevalence of GTPS
+was 15% for unilateral disease and 8.5% for bilateral
+disease in women and 6.6% for unilateral disease and
+1.9% for bilateral disease in men. The clearest indica-
+tion for surgical treatment of gluteus medius and or
+minimus tears seems to be loss of abductor power
+(Medical Research Council Grading of Power) less than
+44 and Trendelenburg gait.5
+Gluteus medius and/or gluteus minimus tendinop-
+athy is now accepted as the most prevalent pathology in
+those with pain and tenderness over the greater
+trochanter.6
+Understanding the pathomechanics of these condi-
+tions is mandatory to understand the principals for
+physical therapy for both conservative management
+and therapy after surgical treatment. We reviewed
+current literature regarding rehabilitation after gluteus
+medius and minimus tears as part of a conservative
+management or postoperative protocol.
+From the National Rehabilitation Institute of Mexico, Mexico City, Mexico.
+The authors report that they have no conﬂicts of interest in the authorship
+and publication of this article. Full ICMJE author disclosure forms are
+available for this article online, as supplementary material.
+Received September 20, 2021; accepted October 26, 2021.
+Address correspondence to Victor M. Ilizaliturri Jr., M.D., National
+Rehabilitation Institute of Mexico, Av. Mexico-Xochimilco 289, Coapa, Arenal
+Tepepan, Tlalpan 14389, Mexico City, Mexico. E-mail: vichip2002@yahoo.
+com.mx
+ 2021 Published by Elsevier Inc. on behalf of the Arthroscopy Association
+of North America. This is an open access article under the CC BY-NC-ND
+license (http://creativecommons.org/licenses/by-nc-nd/4.0/).
+2666-061X/211385
+https://doi.org/10.1016/j.asmr.2021.10.024
+Arthroscopy, Sports Medicine, and Rehabilitation, Vol 4, No 1 (January), 2022: pp e41-e50
+e41
+
+=====PAGE 2
+Pathomechanics of Gluteal Medius and
+Minimus Tendon Pathology
+Mechanical loading is a strong driver of the biological
+processes that occur within a tendon and these, in turn,
+determine its structural shape and load-bearing capac-
+ity. A tendon can undergo both catabolic and anabolic
+processes. Under conditions of normal loading, these
+processes are balanced and provide the basis for a
+healthy homeostatic state within the tissue. This bal-
+ance can be altered by the type, intensity, and fre-
+quency of loading.7 Tendon loads can be longitudinal
+(tension or traction loads) or perpendicular (compres-
+sion) to its collagen ﬁbers. Tensile loads can be applied
+actively
+via
+muscle
+contraction
+or
+passively
+via
+stretching. Tendon loads will be greater when the
+muscle is active and the tendon lengthens at the same
+time,
+that
+is,
+with
+eccentric
+contractions,
+where
+anatomical compression may also occur.8
+The pathomechanics associated with the development
+of gluteal tendinopathy are like those proposed for
+other insertional tendinopathies: relatively increased
+tensile load (overload)9 or decreased (protection against
+stress/load).
+The
+combination
+of
+traction
+and
+compression
+overload
+appears
+to
+be
+particularly
+damaging.10 Gradual increases in tensile load with
+adequate adaptation and recovery time induce a net
+anabolic effect, with a subsequent increase in tendon
+load capacity.7 A rapid increase in the intensity and/or
+frequency of the tensile load can lead to failure of
+adaptation and a net catabolic effect. Net catabolism
+also results from a lack of tensile and compressive
+loading. At the cellular level, stress deprivation and
+compression induce the expression of catabolic en-
+zymes, which degrade type 1 collagen11 and increase
+the expression of large proteoglycans in tenocytes,
+which cleave collagen ﬁbers.12 This matrix degradation
+and changes in tenocyte expression reduce load-
+bearing capacity and predispose to injuries with rela-
+tively low tensile loads.10 The interaction between bone
+and muscle factors must be considered to understand
+how compressive load or protection against stress con-
+tributes to the underlying pathomechanics of this
+disorder.13
+The tendons of gluteus medius and gluteus minimus,
+can be compressed by the iliotibial band at its insertion
+into the greater trochanter. Compressive load is
+inﬂuenced by the position of the hip joint. Compres-
+sive loads in this region of 4 Newtons (N) at 0 hip
+adduction have been shown to rise to 36 N at 10
+adduction and 106 N at 40 adduction.14 During ac-
+tivities with excessive hip adduction, compressive
+loads are likely to accumulate on the tendons, both in
+static postures and in dynamic tasks.15 It is likely that
+during
+activities
+such
+as
+standing
+with
+one
+hip
+adducted, sitting with the knees together or crossed in
+adduction, an excessive tilt or lateral displacement of
+the pelvis during dynamic single-leg loading tasks, and
+running in a pattern gait with footeground contact
+with
+excessive
+hip
+adduction,
+compressive
+loads
+accumulate on the tendons.
+Greater ranges of hip ﬂexion also can alter iliotibial
+band tension due to the signiﬁcant fascial conﬂuence of
+the iliotibial band with the gluteal fascia and lumbo-
+dorsal
+fascia,16
+thus
+potentially
+contributing
+to
+compression of the gluteus medius and gluteus mini-
+mus tendons. The combination of greater ranges of hip
+ﬂexion and adduction is likely to induce a substantial
+compressive loading on the gluteus medius tendon.
+The abductor mechanism of the hip involves 2 muscle
+group synergies, the ﬁrst of which is the trochanteric
+abductor muscles consisting of the gluteus medius and
+minimus and, second, the tensor fascia lata and the
+gluteus maximus in conjunction with the vastus later-
+alis that provide tension to the iliotibial band.15 The
+trochanteric abductors provide 70% of the abductor
+force required for pelvic control in a single leg stance,
+with the remaining 30% provided by the iliotibial band
+tensing muscles.17 The tensor fascia lata has been
+shown to hypertrophy and the gluteus medius and
+minimus to atrophy in those patients with gluteal
+tendon pathology.18,19 The imbalance in the activity of
+the trochanteric abductors and iliotibial band tensors
+could alter the relative contribution of these muscle
+groups in the control of movement or postures in the
+frontal plane.16
+Bone morphology also inﬂuences the compression
+forces exerted on the hip by the iliotibial band. At a
+femoral neckeshaft angle of 128, the iliotibial band
+exerts a compression force of around 656 N on the
+greater trochanter, but at 115, the compressive force
+increases up to 997 N.14,15
+The gluteus medius in women has been found to have
+a smaller insertion on the femur across which to dissi-
+pate the tensile load and a shorter moment arm,
+resulting in reduced mechanical efﬁciency. This me-
+chanical disadvantage is further accentuated in those
+with a smaller femoral neckeshaft angle, which may
+lead to greater tensile loads in female gluteal tendons.20
+Women who have a less efﬁcient gluteus medius more
+often use greater adduction during functional activities
+to provide a mechanical advantage to their abductors.
+Hip abductors have been shown to generate the great-
+est forces from a hip adducted position, probably asso-
+ciated with lengthetension relationships.21 In addition,
+pretensioning the iliotibial band in adduction provides
+an advantage for the superﬁcial abductor system,
+exerting its force through the iliotibial band. These
+strategies can reduce the tensile load and increase the
+compressive load in the deeper regions of the gluteus
+medius and minimus tendons.
+e42
+V. M. ILIZALITURRI ET AL.
+
+=====PAGE 3
+Conservative Treatment of Gluteus Medius
+and Minimus Pathology
+Initial treatment of abductor tendon pathology is
+conservative
+and
+may
+include
+short-term
+use
+of
+nonsteroidal anti-inﬂammatory drugs, activity modiﬁ-
+cation, physical therapy, local injections of corticoste-
+roid or platelet-rich plasma (PRP), and shock wave
+therapy. If conservative treatment fails to alleviate
+symptoms, surgical treatment can be attempted. How-
+ever, the limited availability of high-quality studies and
+elusive evidence between tendinosis and partial tears
+cannot provide deﬁnitive conclusions regarding the best
+treatment
+of
+gluteal
+tendinopathy.
+Randomized
+controlled trials are needed to test the proposed treat-
+ment modalities.22,23
+Cortisone is one of the most commonly prescribed
+treatment
+methods
+for
+gluteal
+tendinopathy.24,25
+Cortisone inﬁltration of the peritrochanteric region,
+both blind and guided by ultrasound, has been used.
+However, most studies are case series without controls
+and studies with sufﬁcient statistical power are scarce.
+In
+addition,
+abductor
+tendon
+pathology
+is
+rarely
+conﬁrmed by magnetic resonance imaging. Corticoste-
+roid injection generally provides immediate substantial
+pain relief within the ﬁrst month; however, pain is not
+completely relieved, with a positive response in less
+than one-half of patients at mid- to long term.26 In
+different series, corticosteroid injection provided mod-
+erate pain relief at 4 weeks in 72% to 75% of patients,
+decreasing to 41% to 55% at 3 to 4 months25-27 and at
+12 months, there was no difference in outcomes be-
+tween the groups receiving corticosteroid injection and
+those receiving usual care (pain relievers as needed).28
+One of the drawbacks of corticosteroid injections is the
+unknown mechanism of action and safety with respect
+to repeated use. The main mode of action is probably as
+a local analgesic and not as an anti-inﬂammatory,
+interacting with local neuropeptides and neurotrans-
+mitters. Recurrence of pain after injection generally
+reﬂects the inability of corticosteroids to address the
+underlying pathology.23
+Data on the use of PRP to treat gluteal tendinopathy is
+limited. Mautner et al.29 Performed ultrasound-guided
+PRP injections in 16 patients with chronic gluteus
+medius tendinopathy. They reported 82% moderate-
+to-complete lateral thigh pain resolution at 6 months.
+In a case series study, ultrasound-guided PRP injections
+in 21 patients with tendinosis or partial tendon rupture
+without atrophy improved symptoms and functionality
+at a mean of 20 months of follow-up.30 In a randomized
+clinical trial comparing ultrasound-guided triamcino-
+lone and PRP in 20 patients with major trochanteric
+pain syndrome, triamcinolone had better initial results
+but was not superior to PRP at 2 months.31 In a pro-
+spective randomized control trial investigating only
+partial tears, ultrasound-guided injection of PRP was
+superior to cortisone in 70 patients at 12 weeks using
+the modiﬁed Harris Hip Score scale.32
+Radial shock wave therapy is an alternative treatment
+modality for gluteal tendinopathy. Shock waves can
+penetrate soft tissues up to 4 cm, providing both anal-
+gesia and healing of the abductor tendons.33 The
+beneﬁt of shock wave therapy in the mid- and long
+term for gluteal tendinopathy has been reported in the
+literature. A study published by Rompe et al.,25 in 2009
+reported that at 4 weeks only 13% of the participants
+reported an improvement, which increased to 68% at 4
+months and 74% at 15 months. An additional study by
+the same group compared the shock wave with several
+other traditional nonsurgical measures that were not
+described. The results of this study suggested that a
+single shock wave therapy treatment would be more
+effective than other conservative measures at a 12-
+month follow-up.34
+Postural Hygiene and Exercise
+Postural Hygiene
+Minimizing positions or activities that involve sus-
+tained or repetitive compression of the hip abductor
+tendons tendon has shown to help improve symptom-
+atology, especially when compressive forces are applied
+in combination with high tensile loads.8,9 It is recom-
+mended to avoid hip adduction positions, standing
+cross-legged, and sitting with the knees crossed or
+together15 (Fig 1).
+Decubitus postures: In side-lying, the gluteal tendons
+on both sides are compressed: the lower side against
+the bed and the upper side due to the position of
+the hip in adduction (Fig 2). Alternative or modiﬁed
+positions would include lying supine with a pillow
+under the knees if necessary (to unload the antero-
+lateral hips and lumbar spine). Some patients also can
+obtain relief in a position that is one-quarter of the
+prone position, in which the body weight rests on the
+anterolateral thigh (eliminating the compressive load
+of the greater trochanter), with the hip higher in
+relative abduction.15
+Stretching of the hip adductors, ﬂexors, or extensors
+combines strong passive tensile loads and compressive
+loads and should therefore be avoided. Massage and
+puncture techniques can be used instead of stretching,
+although strong “iliotibial band releases” can be chal-
+lenging, as the iliotibial band is often sensitive.3
+Movement
+patterns
+employed
+during
+functional
+weight-bearing tasks and deﬁciencies observed and
+used to direct treatment should be assessed.15
+Controlling high tensile loads, particularly rapid in-
+creases in activities that involve an additional stretch-
+shortening or compression cycle, may be critical for
+GLUTEUS MEDIUS AND MINIMUS REHAB
+e43
+
+=====PAGE 4
+optimal results in people with tendon pain. Patient
+education regarding avoiding potentially aggravating
+activities and careful titration of exercise volume are
+key components of a load management strategy.15
+Recreational or sporting activity can generally be
+maintained if the more challenging aspects of those
+activities are avoided or minimized. Managing the load
+during activity for the elderly or physically uncondi-
+tioned patient may involve minimizing climbing hills
+and stairs and titrating walking distance as necessary to
+control symptoms. For the athlete, the temporary sus-
+pension of long-distance running, tempo running, hill
+running, and plyometrics may be necessary. Alternative
+activities such as aquatic exercise and cycling could be
+explored. As pain subsides and depending on the
+physical conditioning and occupational and sporting
+requirements of the patient, hip adduction control can
+be retrained under higher loads, at faster speeds, and
+during more complex actions such as running, land and
+change direction.15
+Exercise
+The implementation of an early and gradually pro-
+gressive tensile loading program (in minimally adduc-
+ted hip positions) aims to reduce pain and improve
+tendon capacity.8 In addition, strengthening exercises
+along with speciﬁc exercises in functional movements,
+at graded levels of difﬁculty appropriate to the indi-
+vidual, are likely to be key to rehabilitation.
+Isometric Exercises
+Sustained
+isometric
+muscle
+contractions
+are
+commonly used clinically for the management of
+tendon pain due to their analgesic effects.8,35,36 Low-
+intensity sustained contractions (25% maximal volun-
+tary isometric contraction) are more effective in raising
+pain thresholds than high intensity (80%) in the
+normal population.37
+The optimal isometric loading dose is yet to be
+determined for tendon pain and may vary with the
+characteristics of the patient and with the particular
+Figure 1. Clinical photographs:
+Standing, top left, demonstrates a
+relaxing position of the iliotibial
+band.
+Top
+center,
+leg-crossing
+increases tension on the iliotibial
+band. Siting, top right, this posi-
+tion will relax the iliotibial band.
+Bottom right, leg-crossing sitting,
+this will increase pressure on the
+iliotibial band. Bottom left, supine
+stretching of the iliotibial band.
+e44
+V. M. ILIZALITURRI ET AL.
+
+=====PAGE 5
+tendon
+and
+its
+anatomical
+relationships.
+A
+low-
+intensity effort focused on recruitment of the trochan-
+teric abductor and thus loading these tendons in a
+painless manner is recommended for patients with
+painful gluteal tendinopathy.15 Greater isometric loads,
+with at least slight hip abduction to avoid compression,
+may be possible once the patient’s response is carefully
+evaluated.
+A
+recently
+published
+systematic
+review
+studied
+gluteus medius and minimus activity levels measured
+with surface electromyography using the percentage of
+maximal isometric voluntary contraction. Through this
+review, a group of exercises could be classiﬁed accord-
+ing to the percentage of isometric activity generated in
+the abductor muscles38 (Table 1).
+Low-load, low-velocity isometric hip abduction may
+be performed on the side, with the affected side up, and
+pillows are used to keep the hip in a neutral position or
+slightly abducted to avoid compression of the tendon.
+For bilateral conditions, a slightly abducted supine po-
+sition can be substituted with a belt or elastic band
+around the distal thighs for slight resistance. Low-load
+isometric abduction also may be performed standing
+with slight abduction and even leaning with the back
+against a wall or hands on a bench in front, if the pa-
+tient cannot achieve relaxation of the iliotibial band
+tensors in an initial position. It is suggested to instruct
+the patient to slowly increase the intensity of the
+contraction and to minimize pain in the early stages,
+until the therapist and the patient have determined
+how reactive the tendon is15 (Fig 3).
+To achieve muscle hypertrophy of the gluteus medius
+and minimus, and to improve the tensile loadebearing
+of the gluteal tendons, a higher-level tensile loading is
+required. Low velocity, highetensile load exercise,
+typical of muscle hypertrophy programs, has also been
+shown to produce beneﬁcial effects on tendon structure
+that are not provided by exclusively eccentric pro-
+grams.39 Targeted strengthening of the trochanteric
+abductors is perhaps best achieved in people with
+lateral hip pain by low-velocity, high-tensile load
+abduction, which minimizes tendon compression.15
+High-tensile load-bearing exercise should only be
+performed 3 times per week, allowing adequate time
+for soft tissue recovery and adaptation.7 To achieve
+muscle hypertrophy, the patient must work at an
+adequate intensity, although there is considerable po-
+tential for exacerbation of pain and even rupture of a
+weakened degenerative tendon if the traction load is
+initiated at an excessive level or the load progresses too
+rapidly. It is safest to start with a moderate level of effort
+and few repetitions until the tendon response to the
+tensile load is established. For gluteal tendinopathy, the
+change in nighttime pain is often a good indicator of
+response to the exercise program. Once each level of
+tensile load is well tolerated, the load should be slowly
+increased and the response monitored to maximize
+structural change in the musculotendinous unit, while
+avoiding or minimizing exacerbation of pain.15
+Management of associated modiﬁable risk factors and
+comorbidities is often a feature of gluteal tendinopathy
+rehabilitation. Although bone morphology cannot be
+modiﬁed, interventions may be necessary to improve
+lumbar spine, hip, and knee function to optimize con-
+trol of hip and pelvic motion and thus the loading
+environment
+of
+the
+gluteal
+tendons.15
+Coexisting
+degenerative joint disease of the lumbar spine, hip, and
+knee can result in associated weakness of the hip and
+knee extensors.3,40,41 Functional exercises, such as
+bridge, squat, and step exercises, can serve multiple
+purposes to optimize control of functional hip adduc-
+tion, improve function of the lower-extremity exten-
+sors, and improve muscle support in the lumbopelvic
+region, hip and knee. Manual therapy and other spe-
+ciﬁc exercises for the lumbar spine, hip, or knee joint
+may be required to address coexisting joint disease, but
+it is important that the principles of respecting gluteal
+tendon loading, particularly the gluteal tendon, are
+Figure 2. This photographs demonstrate positions of high and low compression of the iliotibial band supine and sidelying.
+GLUTEUS MEDIUS AND MINIMUS REHAB
+e45
+
+=====PAGE 6
+preserved. compression control. Exercise and general
+increases in activity also can reduce weight.15
+Evidence-Based Exercise
+A study examined the effect of an exercise interven-
+tion for patients with pain and tenderness on the
+greater trochanter and positive results in clinical test.
+This nonrandomized trial compared exercise at home
+with shock-wave therapy and corticosteroid injection.
+In the short term, the exercise intervention was inef-
+fective, as only 7% of the participants reported an
+improvement at 4 weeks. However, positive results
+increased to 40% at 4 months and 80% at 15 months.
+The exercise program included piriformis and iliotibial
+Table 1. Segmental Mean Gluteus Medius Activity Levels (% MVIC) for Exercises
+Exercise
+Category
+Exercise
+Muscle Segment
+(Middle Unless
+Indicated)
+Low (0%-20%
+MVIC)
+Moderate (21%-
+40% MVIC)
+High
+(41%-60% MVIC)
+Very High
+(>60%MVIC)
+Side lie
+Hip abduction
+Hip abduction þ ER
+Hip abduction þ IR
+Hip abduction þ Ext
+Clam hip ﬂex 0
+Clam hip ﬂex 30
+Clam hip ﬂex 45
+Claim hip ﬂex 60
+Anterior
+Middle
+Posterior
+13%-17%
+13%-21%
+3%
+13%-18%
+29%-37%
+23%-37%
+33%-36%
+31%
+27%-40%
+27%-36%
+23%
+18%-38%
+42%-45%
+41%-53%
+45%-49%
+47%
+79-100R
+62%
+Squat
+Single leg squat
+Single leg squat þ
+Abd
+Single leg squat þ
+Add
+Single leg wall squat
+Single leg wall
+squat þ Abd
+Single leg wall
+squat þ Add
+Squat
+Wall squat
+Squat þ Abd
+Squat þ Add
+Anterior
+Middle
+Posterior
+Anterior
+Middle
+Posterior
+Anterior
+Middle
+Posterior
+Anterior
+Middle
+Posterior
+Anterior
+Middle
+Posterior
+Anterior
+Middle
+Posterior
+18%
+19%
+13%
+16%
+9%-12%
+9%-10%
+24%-37%
+27%
+33%
+31%
+22%
+22%-32%
+35%
+29%
+33%
+21%
+28%
+21%-33%
+24%
+41%-60%
+42%-46%
+42%
+52%
+44%
+47%-52%
+59%
+90%
+60%-92%
+87%
+Step
+Lateral step-up
+Lateral step-up þ IR
+Lateral step-up þ
+ER
+Lateral step-down
+Lateral step
+Lateral step
+Lateral step þ IR
+Lateral step þ ER
+Forward step-up
+Forward step-down
+Retro step-up
+Middle
+Posterior
+17%
+14%-17%
+38%-39%
+30%
+19%-25%
+24-40R
+19-36R
+27-48R
+29%-30%
+19%-28%
+37%
+60%
+41%
+40-50R
+44-58R
+44-55R
+63%
+74%
+62%
+Lunge
+Forward lunge
+Transverse lunge
+Sideways lunge
+Anterior
+Middle
+Posterior
+8%-25%
+13%
+29%
+28R
+39%
+45R
+42%
+48%
+71R
+68%
+Standing
+Hip hitch/pelvic
+drop
+Hip abduction
+Hip abduction
+(moving limb)
+Anterior
+Middle
+Posterior
+Anterior
+Middle
+Posterior
+21%-25%
+23%-38%
+22%-38%
+30%
+28%-33%
+42%-58%
+56%
+42-50R
+41%
+53R
+69%-80%
+66%-88%
+74%-88%
+Supine
+Single leg bridge
+Double leg bridge
+11%-17%
+20%-28%
+31%-35%
+40%-58%
+ER, external rotation; IR, internal rotation; MVIC, maximal isometric voluntary contraction.
+e46
+V. M. ILIZALITURRI ET AL.
+
+=====PAGE 7
+band stretches, potentially exposing the gluteal tendons
+to compression, strengthening with straight leg raises,
+wall squats, and prone hip extension, but muscle
+strengthening of hip abductors was not included.25
+A prospective, randomized, single-blind, 3-arm clin-
+ical trial compared education plus exercise versus the
+use of corticosteroid injections versus a wait-and-see
+approach to pain and overall improvement in gluteal
+tendinopathy. At 52 weeks, the 78.6% success rate for
+overall improvement for education plus exercise was
+better than the 58.3% success rate for the use of
+corticosteroid injections (risk difference 20.4%; 95%
+conﬁdence interval 4.9%-35.9%) and better than the
+51.9% success rate for the wait and see approach
+(26.8%; 95% conﬁdence interval 11.3%-42.3%). In
+contrast to the study by Rompe et al.,25 in this study of
+greater methodologic quality, the beneﬁt of education
+plus exercise over the injection of corticosteroids was
+greater in all short-term primary outcomes (8 weeks).
+This greater rate could be due to the fact that the study
+focused on the principles of tendon load management
+and speciﬁcally focused on the function of the gluteus
+medius and minimus muscles with the prescribed ex-
+ercise program. Exercises at home in the previous study
+included exercises that did not speciﬁcally target these
+muscles, or control the degree of tendon loading
+(especially
+compression
+loading)
+for
+the
+gluteal
+musculotendinous complex, and involved limited ex-
+ercise supervision.42
+Postoperative Rehabilitation Protocol
+In the case of postoperative rehabilitation protocols, it
+is of the utmost importance to know the surgical
+approach, surgical ﬁndings, and repair techniques for
+gluteal medius and/or minimus muscle tears. The
+rehabilitation protocol will then be adjusted accordingly
+to offer the greatest beneﬁt and optimize the patient’s
+function and quality of life. The most important con-
+siderations are the restriction of mobility and weight
+bearing, the use of bracing to limit abduction or not,
+and
+the
+allowed
+ambulation
+and
+strengthening
+exercises.
+The Milwaukee Classiﬁcation of hip abductor tears is
+a 4-tier system based on the hours on a clock-face. For a
+right hip the clock hours are assigned from 11 to 3
+o’clock and for a left hip the hours are assigned from 9
+to 1 o’clock. Tears will begin at the central ﬁbers of the
+gluteus medius tendon which corresponds to 1 o’clock
+in a right hip or 11 o’clock on a left hip. The tears
+typically extend inferiorly and posteriorly with the
+grade increasing as the tear progresses. Grade I tears
+will include the surface extension of one hour in the
+clock-face, grade II tears will include the surface
+Figure 3. Hip abductor exercises
+for the management of gluteal
+tendinopathy.
+GLUTEUS MEDIUS AND MINIMUS REHAB
+e47
+
+=====PAGE 8
+extension of 2 hours, grade III 3 hours, and grade IV
+almost a complete detachment.43
+Davies and Davies43 reported that there was no sta-
+tistically signiﬁcant difference in the results of open
+surgical technique in 23 open repairs regardless of the
+type of tear. The majority of the patients were satisﬁed
+with the surgical outcome. The mechanical strength of
+the repair was increased in this series according to the
+type of rupture. For grade I and II tears, it was sufﬁcient
+to use 6.5-mm anchors with number 2 sutures,
+whereas for Grade III and IV bone tunnels and number
+5 sutures were necessary. Davies and Davies43 suggest
+that the patients begin with 25% weight-bearing for the
+ﬁrst 6 weeks when the tear was grade I, 8 weeks for
+grade II, 10 weeks for grade III and 12 weeks for grade
+IV.
+For an open repair of an acute traumatic tear of
+gluteus medius and minimus tendons, Stanton et al.44
+decided to restrict the weight-bearing for 12 weeks,
+with gradual progression. The hip ﬂexion was limited to
+90 for the ﬁrst 6 weeks and the hip abduction or
+passive hip internal rotation was allowed after 8 weeks.
+For
+endoscopic
+management
+of
+gluteus
+medius
+tendon tears, according to Thaunat et al.,45 active
+rehabilitation should be avoided for the ﬁrst 6 weeks.
+This consists of avoiding the active lateral rotation and
+adduction but allowing up to 90 of hip ﬂexion for the
+ﬁrst 3 weeks. An abduction brace should be worn
+during this period. At 6 weeks, weight-bearing and
+active lateral rotation and abduction are progressively
+resumed.49
+Kocaoglu et al.46 and Saltzman et al.47 standardized a
+3-phase protocol. Phase 1 (0-6 weeks) avoided weight-
+bearing and promoted a gentle passive range of motion
+and full-time bracing to limit abduction. For Phase 2 (6-
+12 weeks), the patients progressed to weight-bearing,
+the brace was discontinued, and hip-strengthening ex-
+ercise was initiated. For Phase 3 (>12 weeks), patients
+progressed to ambulation without assistance and return
+to general activity.
+Discussion
+GTPS is a very common clinical condition that may
+affect up to 25% of the general population and is far
+more prevalent in women.2 This condition may range
+from tendinitis or bursitis to a tear of the gluteus medius
+and/or minimus tendons.1,3 Interest in the diagnosis
+and management of gluteus medius and minimus tears
+has increased recently. Management of these tears has
+been described as both conservative and operative, with
+the clearest indication for surgical treatment being loss
+of abductor power and failure of conservative therapy.5
+Either way, rehabilitation is a very important aspect of
+the comprehensive management of gluteus medius and
+minimus tears. Postural hygiene is an important part of
+rehabilitation management of hip abductor tears; one
+must minimize positions or activities that involve sus-
+tained or repetitive compression of the hip abductor
+tendons in combination with high tensile loads. It is
+recommended to avoid hip adduction positions, stand-
+ing cross-legged, and sitting with the knees crossed or
+together.8,9,15 Abductor hip exercises may not produce
+early improvement of symptoms but have shown to
+improve pain and strength at 4 to 12 months after
+establishing the treatment protocol, this results in the
+necessity of adequate and close supervision of the pa-
+tients who undergo physical therapy for hip abductor
+tears.25 The same may be true for exercise protocols
+after gluteus medius and minimus surgical repair.45-47
+In the case of postoperative rehabilitation manage-
+ment, the severity of the lesion on the abductor tendons
+seems not to be related with the clinical outcome but
+does determine the strength of the mechanical ﬁxation
+required to ﬁx the tears. Larger and more complex tears
+require more solid and stronger ﬁxation.43
+Limitations
+There
+is
+limited
+information
+in
+the
+literature
+regarding rehabilitation management of gluteus medius
+and minimus tears. Most of the available information
+comes from Level III and IV studies reporting on results
+of case series. This is not a systematic review of the
+literature but only an analysis of available information
+and an expert opinion.
+Conclusions
+Gluteus medius and minimus tears are frequent and
+may be not diagnosed timely. Treatment of these of
+lesions is based on the knowledge of the patho-
+mechanics involved and the extent of the injury to the
+tendon and muscle tissue. Conservative treatment is
+based on avoiding postures that may produce tension or
+compression over the hip abductor tendons while
+gradually implementing progressive tensile load paired
+with anti-inﬂammatory physical therapy. Injections
+with corticosteroids and PRP or shock-wave therapy
+may complement physical therapy but should not be
+considered a standalone form of treatment. In general,
+failure of conservative treatment and pain associated
+with abductor power deﬁcit are indications for surgical
+treatment. There seems to be no difference in the
+outcome between open or endoscopic management of
+hip abductor tendon tears and the rigidity of the ﬁxa-
+tion of the tears depend on the extent of the tear itself.
+Postoperative physical therapy is similar to that used for
+conservative management.
+References
+1. Kay J, Memon M, Linder D, Randelli F, Ayeni OR.
+Arthroscopic management of greater trochanteric pain
+syndrome and abductor tears has demonstrated promising
+results in terms of improvement in pain scores and
+e48
+V. M. ILIZALITURRI ET AL.
+
+=====PAGE 9
+functional outcomes: A scoping review. Knee Surg Sports
+Traumatol Arthrosc 2021;29:2401-2407.
+2. Poultsides L, Kelly BT. Hip arthroscopyddisorders of the
+trochanteric
+spacedbursitis
+and
+abductor
+tears.
+In:
+Clohisy JC, Beaulé PE, Della Valle CJ, Callaghan JJ,
+Rosenberg AG, Rubash HE, eds. The adult hip, hip preser-
+vation
+surgery.
+Philadelphia:
+Wolters
+Kluwer,
+2015;326-341.
+3. Segal NA, Felson DT, Torner JC, et al. Greater trochanteric
+pain syndrome: Epidemiology and associated factors. Arch
+Phys Med Rehabil 2007;88:988-992.
+4. James MA. Use of the medical research council muscle
+strength grading system in the upper extremity. J Hand
+Surg Am 2007;4:154-156.
+5. Chandrasekaran S, Vemula SP, Gui C, Suarez-Ahedo C,
+Lodhia P, Bomb BG. Clinical features that predict the need
+for operative intervention in gluteus medius tears. Orthop
+J Sports Med 2015;3:1-5.
+6. Long SS, Surrey DE, Nazarian LN. Sonography of greater
+trochanteric pain syndrome and the rarity of primary
+bursitis. AJR Am J Roentgenol 2013;201:1083-1086.
+7. Magnusson SP, Langberg H, Kjaer M. The pathogenesis of
+tendinopathy: Balancing the response to loading. Nat Rev
+Rheumatol 2010;6:262-268.
+8. Cook JL, Purdam CR. The challenge of managing ten-
+dinopathy in competing athletes. Br J Sports Med 2014;48:
+506-509.
+9. Cook JL, Purdam C. Is compressive load a factor in the
+development of tendinopathy? Br J Sports Med 2012;46:
+163-168.
+10. Almekinders LC, Weinhold PS, Maffulli N. Compression
+etiology
+in
+tendinopathy.
+Clin
+Sports
+Med
+2003;22:
+703-710.
+11. Thornton GM, Shao X, Chung M, et al. Changes in me-
+chanical loading lead to tendon-speciﬁc alterations in
+MMP and tIMP expression: Inﬂuence of stress deprivation
+and intermittent cyclic hydrostatic compression on rat
+supraspinatus and Achilles tendons. Br J Sports Med
+2010;44:698-703.
+12. Vogel KG, Ordog A, Pogany G, Oláh J. Proteoglycans in
+the compressed region of human tibialis posterior tendon
+and in ligaments. J Orthop Res 1993;11:68-77.
+13. Grimaldi A, Mellor R, Hodges P, Bennell K, Wajswelner H,
+Vicenzino B. Gluteal tendinopathy: A review of mecha-
+nisms, assessment and management. Sports Med 2015;45:
+1107-1119.
+14. Birnbaum K, Siebert CH, Pandorf T, Schopphoff E,
+Prescher A, Niethard FU. Anatomical and biomechanical
+investigations of the iliotibial tract. Surg Radiol Anat
+2004;26:433-446.
+15. Grimaldi A, Fearon A. Gluteal tendinopathy: Integrating
+pathomechanics and clinical features in its management.
+J Orthop Sports Phys Ther 2015;45:910-922.
+16. Stecco A, Gilliar W, Hill R, Fullerton B, Stecco C. The
+anatomical
+and
+functional
+relation
+between
+gluteus
+maximus and fascia lata. J Bodyw Mov Ther 2013;17:
+512-517.
+17. Kummer B. Is the Pauwels’ theory of hip biomechanics
+still valid? A critical analysis, based on modern methods.
+Ann Anat 1993;175:203-210.
+18. Sutter R, Kalberer F, Binkert CA, Graf N, Pﬁrrmann CWA,
+Gutzeit A. Abductor tendon tears are associated with
+hypertrophy of the tensor fasciae latae muscle. Skel Radiol
+2013;42:627-633.
+19. Pﬁrrmann CW, Notzli HP, Dora C, Hodler J, Zanetti M.
+Abductor tendons and muscles assessed at MR imaging
+after total hip arthroplasty in asymptomatic and symp-
+tomatic patients. Radiology 2005;235:969-976.
+20. Woyski D, Olinger A, Wright B. Smaller insertion area
+and inefﬁcient mechanics of the gluteus medius in fe-
+males. Surg Radiol Anat 2013;35:713-719.
+21. Kumagai M, Shiba N, Higuchi F, Nishimura H, Inoue A.
+Functional evaluation of hip abductor muscles with use of
+magnetic resonance imaging. J Orthop Res 1997;15:
+888-893.
+22. Barratt PA, Brookes N, Newson A. Conservative treat-
+ments for greater trochanteric pain syndrome: A system-
+atic review. Br J Sports Med 2017;51:97-104.
+23. Kenanidis
+E,
+Kyriakopoulos
+G,
+Kaila
+R,
+Christoﬁlopoulos P. Lesions of the abductors in the hip.
+EFORT Open Rev 2020;5:464-476.
+24. Lustenberger DP, Ng VY, Best TM, Ellis TJ. Efﬁcacy of
+treatment of trochanteric bursitis: A systematic review.
+Clin J Sport Med 2011;21:447-453.
+25. Rompe JD, Segal NA, Cacchio A, Furia JP, Morral A,
+Maffulli N. Home training, local corticosteroid injec-
+tion,
+or
+radial
+shock
+wave
+therapy
+for
+greater
+trochanter pain syndrome. Am J Sports Med 2009;37:
+1981-1990.
+26. Labrosse JM, Cardinal É, Leduc BE, et al. Effectiveness of
+ultrasound-guided corticosteroid injection for the treat-
+ment of gluteus medius tendinopathy. AJR Am J Roent-
+genol 2010;194:202-206.
+27. Stephens MB, Beutler AI, O’Connor FG. Musculoskeletal
+injections: A review of the evidence. Am Fam Physician
+2008;78:971-976.
+28. Brinks A, van Rijn RM, Willemsen SP, et al. Corticosteroid
+injections for greater trochanteric pain syndrome: A ran-
+domized controlled trial in primary care. Ann Fam Med
+2011;9:226-234.
+29. Mautner K, Colberg RE, Malanga G, et al. Outcomes after
+ultrasound-guided
+platelet-rich
+plasma
+injections
+for
+chronic tendinopathy: A multicenter, retrospective re-
+view. Phys Med Rehabil 2013;5:169-175.
+30. Lee JJ, Harrison Jr, Boachie-adjei K, Vargas E, Moley PJ.
+Platelet-rich plasma injections with needle tenotomy for
+gluteus medius tendinopathy: A registry study with
+prospective
+follow-up. Orthop J
+Sports Med
+2016;4:
+232-239.
+31. Ribeiro
+AG,
+Ricioli
+W
+Jr,
+Silva AR,
+Polesello
+GC,
+Guimarães RP. PRP in the treatment of trochanteric syn-
+drome: A pilot study. Acta Ortop Bras 2016;24:208-212.
+32. Fitzpatrick J, Bulsara MK, O’Donnell J, McCrory Pr,
+Zheng MH. The effectiveness of platelet-rich plasma
+GLUTEUS MEDIUS AND MINIMUS REHAB
+e49
+
+=====PAGE 10
+injections in gluteal tendinopathy: A randomized, double-
+blind controlled trial comparing a single platelet-rich
+plasma injection with a single corticosteroid injection.
+Am J Sports Med 2018;46:933-939.
+33. van der Worp H, Zwerver J, Hamstra M, van den akker-
+scheek I, Diercks RL. No difference in effectiveness be-
+tween focused and radial shockwave therapy for treat-
+ing patellar tendinopathy: A randomized controlled
+trial.
+Knee
+Surg
+Sports
+Traumatol
+Arthrosc
+2014;22:
+2026-2032.
+34. Furia JP, Rompe JD, Maffulli N. Low-energy extracorpo-
+real shock wave therapy as a treatment for greater
+trochanteric pain syndrome. Am J Sports Med 2009;7:
+1806-1813.
+35. Naugle KM, Fillingim RB, Riley JL 3rd. A meta-analytic
+review of the hypoalgesic effects of exercise. J Pain
+2012;13:1139-1150.
+36. Kosek E, Lundberg L. Segmental and plurisegmental
+modulation of pressure pain thresholds during static
+muscle contractions in healthy individuals. Eur J Pain
+2003;7:251-258.
+37. Hoeger Bement MK, Dicapo J, Rasiarmos R, Hunter SK.
+Dose response of isometric contractions on pain percep-
+tion in healthy adults. Med Sci Sports Exerc 2008;40:
+1880-1889.
+38. Moore D, Semciw AI, Pizzari T. A systematic review and
+meta-analysis of common therapeutic exercises that
+generate highest muscle activity in the gluteus medius
+and gluteus minimus segments. Int J Sports Phys Ther
+2020;15:856-881.
+39. Kongsgaard M, Qvortrup K, Larsen J, et al. Fibril
+morphology and tendon mechanical properties in patellar
+tendinopathy: Effects of heavy slow resistance training.
+Am J Sports Med 2010;38:749-756.
+40. Tortolani
+PJ,
+Carbone
+JJ,
+Quartararo
+LG.
+Greater
+trochanteric pain syndrome in patients referred to or-
+thopedic spine specialists. Spine J 2002;2:251-254.
+41. Howell GE, Biggs RE, Bourne RB. Prevalence of abductor
+mechanism tears of the hips in patients with osteoar-
+thritis. J Arthroplasty 2001;16:121-123.
+42. Mellor R, Bennell K, Grimaldi A, et al. Education plus
+exercise versus corticosteroid injection use versus a wait
+and see approach on global outcome and pain from
+gluteal tendinopathy: Prospective, single blinded, rando-
+mised clinical trial. BMJ 2018;361:k1662.
+43. Davies JF, Davies DM. Surgical technique for the repair of
+tears to the gluteus medius and minimus tendons of the
+hip. J Bone Joint Surg Am 2014;11:e11.
+44. Stanton MC, Maloney MD, DeHaven KE, Giordano BD.
+Acute traumatic tear of gluteus medius and minimus
+tendons in a patient without antecedant peritrochanteric
+hip pain. Geriatr Orthop Surg Rehabil 2012;3:84.
+45. Thaunat M, Noël E, Nové-Josserand L, Murphy CG,
+Sbiyaa M, Sonnery-Cottet B. Endoscopic management of
+gluteus medius tendon tears. Sports Med Arthrosc 2016;24:
+11-18.
+46. Kocaoglu B, Paksoy AE, Cerciello S, Ollivier M, Seil R,
+Safran M. Arthroscopic repair of the hip abductor mus-
+culotendinous unit: The effect of microfracture on clinical
+outcomes. Am J Sports Med 2021;49:1570-1577.
+47. Saltzman BM, Makhni EC, Stephens JP, Nho SJ. The ef-
+fect of platelet-rich ﬁbrin matrix at the time of gluteus
+medius
+repair:
+A
+retrospective
+comparative
+study.
+Arthroscopy 2018;34:832-841.
+e50
+V. M. ILIZALITURRI ET AL.
