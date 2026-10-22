@@ -1,0 +1,1149 @@
+
+=====PAGE 1
+2021, Vol. 26(4) 123­–133
+Original Article
+Clinical evaluation of a wrist
+sensorimotor rehabilitation program for
+triangular fibrocartilage complex injuries
+Zhiqing Chen
+Abstract
+Introduction: Triangular fibrocartilage complex (TFCC) injuries are associated with distal radioulnar joint (DRUJ)
+instability and impaired wrist proprioception. Sensorimotor training of extensor carpi ulnaris (ECU) and pronator
+quadratus (PQ) can enhance DRUJ stability. With limited evidence on effectiveness of TFCC sensorimotor rehabilita-
+tion, this study aimed to evaluate the effects and feasibility of a novel wrist sensorimotor rehabilitation program (WSRP)
+for TFCC injuries.
+Methods: Patients diagnosed with TFCC injuries were recruited from May 2018 to January 2020 at an outpatient hand
+clinic in Singapore General Hospital. There are four stages in WSRP: (1) pain control, (2) muscle re-education and joint
+awareness, (3) neuromuscular rehabilitation, and (4) movement normalization and function. WSRP also incorporated
+dart throwing motion and proprioceptive neuromuscular facilitation. Outcome measures included grip strength mea-
+sured with grip dynamometer, numerical pain rating scale, joint position sense (JPS) measurement, weight bearing
+measured with the ‘push-off’ test, and wrist function reported on the Patient Rated Wrist Hand Evaluation.
+Results: Ten patients completed the WSRP. Mean changes were compared with minimal clinically important differences
+(MCID) for outcomes. All patients achieved MCID on pain, 70% of patients achieved MCID on grip strength, weight
+bearing and wrist function. Paired t-tests and Cohen’s D for outcome measures were calculated. There were large effect
+sizes of 2.47, 1.35, and 2.81 for function, grip strength and pain respectively, and moderate effect sizes of 0.72 and 0.39
+for axial loading and JPS respectively.
+Discussion: WSRP presents a potential treatment approach in TFCC rehabilitation. There is a need for future pro-
+spective clinical trials with control groups.
+Keywords
+Sensorimotor rehabilitation, triangular fibrocartilage complex, wrist, proprioception
+Date received: 12 October 2020; accepted: 30 June 2021
+Introduction
+The triangular fibrocartilage complex (TFCC) com-
+prises the dorsal and palmar radioulnar ligament, cen-
+tral
+articular
+disc,
+the
+ulnocarpal
+ligaments,
+the
+extensor carpi ulnaris tendon subsheath, and the
+meniscal homolog.1 TFCC stabilizes the ulnar side of
+radiocarpal and the distal radioulnar joint (DRUJ).2,3
+As DRUJ is a load-bearing joint, TFCC also has an
+important role to cushion compressive loads transmit-
+ted from the ulnar carpus, and assist with load trans-
+mission between the carpus and ulna.4,5 Studies have
+reported that injury to the TFCC results in at least
+20% reduction in the ability to bear load.3 The
+TFCC is also found to be richly innervated by nerves
+which transmit reflexes received from mechanorecep-
+tors present at the wrist joint.6–9 Injury to TFCC has
+been associated with decreased wrist proprioception.10
+Patients with TFCC injury may experience reduced
+Occupational Therapy Department, Singapore General Hospital,
+Singapore, Singapore
+Corresponding author:
+Zhiqing Chen, Department of Occupational Therapy, Singapore General
+Hospital, Outram Community Hospital/Singhealth Tower, 10 Hospital
+Boulevard, Singapore 168582, Singapore.
+Email: chen.zhiqing@sgh.com.sg
+Hand Therapy
+! The Author(s) 2021
+Article reuse guidelines:
+sagepub.com/journals-permissions
+DOI: 10.1177/17589983211033313
+journals.sagepub.com/home/hth
+
+=====PAGE 2
+124	
+Hand Therapy 26(4)
+wrist sensorimotor control due to decreased wrist pro-
+prioception, in addition to DRUJ instability which
+causes ulnar sided wrist pain, decreased grip strength
+and reduced ability to weight bear.2,10,11 These lead to
+problems with wrist function in daily activities.
+Kinesthesia, joint position sense (JPS), and neuro-
+muscular control make up the human sensorimotor
+system
+for
+proprioception.8
+Kinesthesia
+and
+JPS
+bring conscious awareness of joint positions with
+inputs from mechanoreceptors present in the wrist
+joint.9 Neuromuscular control allows for subconscious
+control of the joint with reflex muscle responses at
+spinal cord and subsequent muscle regulation at the
+cerebrum.8 A study on TFCC injuries recommended
+neuromuscular training of DRUJ stabilizers extensor
+carpi ulnaris (ECU) and pronator quadratus (PQ).12
+Researchers have found that ECU and PQ constrained
+volar and dorsal displacement of the DRUJ during
+loading.1 Contraction of PQ coapts the distal ulna
+into the sigmoid notch of the distal radius and shifts
+the ulna proximally to prevent the head of ulna from
+impacting against the carpal bone during loading
+which could otherwise cause pain, while ECU resists
+abnormal displacement of ulnar head.13,14 With ade-
+quate sensorimotor control of ECU and PQ, DRUJ
+can be stabilized to allow pain-free participation in
+daily activities.1,3,13,15
+At other joints such as the ankle or shoulder, senso-
+rimotor intervention is an established component in
+rehabilitation
+programs
+for
+joint
+stability.16,17
+Sensorimotor rehabilitation for wrist ligament injuries
+has only garnered interest in recent years. In the litera-
+ture, there are descriptions of sensorimotor rehabilita-
+tion techniques involving neuromuscular rehabilitation
+of specific joint-stabilizing muscles to re-establish wrist
+stability.12,18 However, there is a dearth of evidence on
+the efficacy of sensorimotor rehabilitation programs. In
+recent years, a service evaluation on the Birmingham
+Wrist Instability Programme targeting scapholunate
+ligament injury found clinically important changes in
+pain, grip strength and function.19 Similarly, a pilot
+study investigating the distal radioulnar stability train-
+ing (DRUST) program for TFCC injuries showed
+promising effects in reducing pain and increasing func-
+tions.20 In both studies, sensorimotor rehabilitation
+occurred in stages with a gradual progression of train-
+ing difficulty.19,20
+Wrist sensorimotor rehabilitation program (WSRP)
+This study describes a novel wrist sensorimotor reha-
+bilitation program (WSRP) for patients with TFCC
+injury. WSRP is a pain-directed program with clear
+criteria for gradual progression to prevent injury.
+WSRP was developed based on sensorimotor control
+principles described in the literature. Researchers
+described two main phases in sensorimotor rehabilita-
+tion for wrist ligament injuries.8,12 The early phase
+focuses on pain control with protected exercises,
+while the late phase works on balance and reactive
+exercises
+when
+adequate
+tissue
+healing
+had
+occurred.8,12
+WSRP
+focuses
+on
+guided
+transition
+from early phase of sensorimotor rehabilitation with
+controlled exercises at the wrist to late phase of senso-
+rimotor rehabilitation with exercises targeting the
+entire upper extremity. Dosage of exercises in WSRP
+is in line with recommendations described in the liter-
+ature for initial training of muscular hypertrophy and
+endurance after an injury.21 There are four stages in
+WSRP: (1) pain control, (2) muscle re-education and
+joint awareness, (3) neuromuscular rehabilitation, and
+(4) movement normalization and function (Table 1).
+The
+transitions
+progressively
+prepare
+patients
+to
+return to their premorbid level of activities with their
+injured hand. Rehabilitation techniques at the early
+stages involve isometric activation of PQ and ECU,
+and dart throwing motion (DTM) mobilization and
+strengthening exercises. To isolate PQ, patients are
+instructed to pronate the forearm with their contralat-
+eral hand positioned at the distal radius to resist pro-
+nation (Figure 1(a)). For ECU isometric contraction,
+patients are instructed to ulnarly extend the wrist
+against the contralateral fingers positioned on the
+dorsum of 4th and 5th metacarpal shafts which provide
+a counter force to the ulnar wrist movement (Figure 1
+(b)). Neuromuscular rehabilitation of DRUJ stabilizers
+PQ and ECU and reactive muscle activations exercises
+enhance DRUJ stability by re-establishing propriocep-
+tive reflexes at the joint to react to destabilizing forces
+in daily activities.2 In WSRP, DTM exercises are intro-
+duced
+early
+to
+help
+restore
+wrist
+movements.
+Biomechanical studies have found that the mechanical
+axis of wrist and the orientation of muscle insertions is
+oriented along the DTM plane.22–24 This finding sug-
+gests that wrist motion at the DTM plane can be per-
+formed with the least effort. Moreover, with the wrist
+moving predominantly in the oblique plane of the
+DTM
+during
+daily
+activities,25,26
+DTM
+exercise
+begins to prepare the wrist for function. At the later
+stages in WSRP, rehabilitation techniques involve pro-
+prioceptive neuromuscular facilitation (PNF) and spe-
+cific movement training based on patients’ needs. The
+use of PNF techniques trains multi-joint coordination
+of the upper extremity in functional movements pat-
+terns. The PNF diagonal 2 flexion-extension pattern
+of the upper extremity also integrates isolated DTM
+exercise at the wrist into the kinetic chain of the
+upper extremity.27 In the clinic, the use of the
+Baltimore
+Therapeutic
+Equipment
+(BTE)
+further
+trains patient-identified movement patterns in their
+
+=====PAGE 3
+Chen	
+125
+Table 1. Rehabilitation techniques in Wrist Sensorimotor Rehabilitation Program (WSRP)
+Stage of
+intervention Rehabilitation goals
+Rehabilitation techniques
+Exercise examples
+Frequency
+Criteria for progression
+Stage 1
+Pain control
+DTM AROM
+Interval splinting
+20 reps x 3-5 sets daily
+No pain with full AROM
+NPRS < 2 with isometric
+Stage 2
+Muscle re-education, joint
+awareness
+Continue DTM AROM
+Isometric ECU & PQ
+Self-applied, forearm in neutral
+(Figure 1)
+20 reps x 3-5 sets daily
+30 s hold x 5 sets daily
+NPRS <2 with isotonic
+Able to complete 10 reps
+x 2 sets of exercise
+Able to maintain control
+through range
+Isotonic DTM
+Night splinting
+With 0.5kg weighted ball
+(Figure 2)
+10-20 reps x 3 sets 3-4x/wk
+Stage 3
+Neuromuscular rehabilitation
+Continue isometric ECU & PQ,
+progress to isotonic
+10-20 reps x 5 sets 3-4x/wk
+2-3 mins x 3 sets 3-4x/wk
+10-20 reps x 3 sets 3-4x/wk
+10-20 reps x 3 sets 3-4x/wk
+NPRS <2 with weight
+bearing (wall)
+Good multi-joint
+coordination
+Reactive muscle activations
+Weighted ball flip
+Flexbar displacement (Figure 3)
+Graded weight bearing
+Loading on gym ball against wall,
+þ/- perturbations
+Coordination training
+Off splint
+PNF with free weights
+Stage 4
+Movement normalization &
+functions
+Stop isometric & isotonic
+exercises
+Continue reactive muscle
+activations
+Progress weight bearing
+Resistive coordination training
+Weighted slosh tube
+Power ball
+Wall push up
+Ground push up with push-up
+bar
+PNF with theraband (Figure 4)
+BTE simulations in clinic
+2-3 mins x 3 sets 3-4x/wk
+10-20 reps x 3 sets 3-4x/wk
+10-20 reps x 3 sets 3-4x/wk
+Return to pre-morbid
+level of upper extremity
+functions
+AROM¼ active range of motion; BTE¼ Baltimore Therapeutic Equipment; DTM¼ dart throwing motion; ECU¼ extensor carpi ulnaris; PNF¼ proprioceptive neuromuscular facilitation; PQ¼ pronator
+quadratus; NPRS ¼ numerical pain rating scale; wk: week
+
+=====PAGE 4
+126	
+Hand Therapy 26(4)
+activities for movement efficiency.28 Researchers have
+recommended movement-specific strengthening to con-
+dition the extremity for efficiency in daily life.29
+Purpose of study
+The primary objective was to evaluate the effects of a
+novel WSRP in reducing pain and improving wrist
+function, weight bearing, grip strength and JPS in a
+prospective study on patients with TFCC injuries. We
+adapted and refined the TFCC wrist sensorimotor reha-
+bilitation program first described by Chen in a retro-
+spective case report.30 The secondary objective was to
+test the feasibility of implementing WSRP. We hypoth-
+esized that at least 50% of patients who participated in
+WSRP would achieve minimal clinically important dif-
+ference (MCIDs) in all outcome measures used.
+Methods
+Study design and participants
+A single group pre-post experimental design was used.
+Patients were recruited at an outpatient clinic located in
+Singapore General Hospital between May 2018 to
+January 2020. Patients were diagnosed with TFCC
+injury after clinical examination and/or magnetic reso-
+nance imaging by their hand surgeons in clinic and
+were referred to outpatient hand therapy clinic for
+rehabilitation without operative intervention. Clinical
+Figure 1. Isometric PQ and ECU, with arrows illustrating direction of forces. (a) Isometric PQ; (b) Isometric ECU.
+Figure 2. Isotonic DTM. (a) Start position; (b) end position.
+
+=====PAGE 5
+Chen	
+127
+examination comprised testing tenderness at the fovea
+and assessing the stability of the DRUJ. Tenderness at
+the fovea denotes a positive ulnar fovea sign.31 The
+positive ulnar fovea sign was reported to have a 95%
+sensitivity and 86% specificity in clinical detection of
+fovea disruptions or ulnotriquetral ligament tears.31
+Inclusion criteria included patients aged between 21–
+65 years old who had sustained a TFCC injury within
+the last one year. Exclusion criteria were TFCC injury
+with concomitant wrist fractures and/or other wrist lig-
+ament injuries. Written informed consent was obtained
+from each patient prior commencement of intervention,
+and the rights of patients were protected. Ethics
+approval was obtained from Singhealth Institutional
+Review Board (reference number: 2017/3149).
+Intervention
+The
+pain-directed
+treatment
+approach
+in
+WSRP
+enabled patients to take control of their rehabilitation
+process with prescribed home exercises. Exercise pro-
+gression was guided by the clinicians’ clinical reason-
+ing, the patients’ symptom response to prescribed
+exercises, and the patients meeting defined criteria
+established at each stage. Each session began with a
+careful reevaluation of the patient’s wrist. Patients
+were asked to demonstrate their home exercises to
+Figure 3. Reactive muscle activations-flexbar displacement.
+Figure 4. Resistive coordination training- PNF with theraband. (a) start position; (b) end position.
+
+=====PAGE 6
+128	
+Hand Therapy 26(4)
+assess understanding of the exercises. If patients did
+not perform the home exercises accurately, their exer-
+cises were not progressed at that session. During each
+session, patients performed all exercises with direct
+supervision
+to
+ensure
+competence
+to
+perform
+at
+home. During the exercise, wrist pain was monitored
+closely and was not allowed to exceed 2 points on the
+Numerical Pain Rating Scale (NPRS) to ensure rela-
+tively pain-free training and prevent exacerbation of
+symptoms with training.21 Quality of movement was
+emphasized, and exercises only advanced if patients
+were able to demonstrate smooth coordinated move-
+ments without compensations proximally.
+The length of time between sessions varied and was
+decided between the therapist and the patient. The total
+duration of WSRP varied for each patient dependent
+on the patient’s symptoms and goals. For patients with
+DRUJ instability and who had to be immobilized in a
+below elbow Muenster orthosis for 4–6 weeks as rec-
+ommended by their hand surgeons, WSRP only com-
+menced after the period of full-time splinting.
+Outcome measures
+Pain during motion. The wrist was examined in a system-
+atic sequence: active range of motion, passive overpres-
+sure, and isometric resisted range of motion in cardinal
+planes of wrist and forearm movements. This system-
+atic sequence of examination has been suggested by
+Porretto-Loehrke et al. for a comprehensive evaluation
+of the wrist joint.32 Wrist pain during these maneuvers
+was measured with NPRS on a continuum of a 11-
+point (0–10) scale, with 0 being no pain and 10 being
+most pain. In the upper extremity the MCID for NPRS
+has been established as 2 points.33
+Grip strength. We measured grip strength using a
+JAMAR dynamometer (Sammons Preston Rolyan,
+Chicago, IL, USA) according to published standards
+with the handle of the dynamometer set on the second
+position.34 To obtain the highest test-retest reliability
+suggested in the literature, the average of 3 attempts of
+maximal grip strength measured on each hand was
+obtained.34 The MCID for grip strength in patients
+with wrist injuries was reported to be 6.5 kg.35
+Proprioception. Joint position sense (JPS) measures a
+joint’s ability to reproduce a specific joint angle.12
+Karagiannopoulos et al. has described the procedures
+to measure JPS in his study.4 In this study, we adapted
+his technique. The patient positioned their elbow on a
+table with the forearm in neutral and vision occluded.
+The therapist passively moved the affected wrist to
+specified angles of 20 degrees and 30 degrees of wrist
+extension and then placed it back in neutral. The
+patients were asked to actively reproduce the exact
+joint angles on the same wrist respectively. Each joint
+angle was measured once using a wrist goniometer
+(Smith & Nephew srl, Agrate Brianza, MI, Italy), and
+the absolute difference between the positioned angle
+and reproduced angle was determined. The average of
+two readings was obtained. In JPS assessment at the
+wrist, an improvement of at least 7 degrees is consid-
+ered clinically important.4
+Weight-bearing. The ability to weight bear through the
+wrist was measured using a JAMAR dynamometer
+according to the setup and measurement described in
+the Push-off test developed by Vincent et al.5 The
+handle of the dynamometer was set on the second posi-
+tion and reversed with the convex side facing upwards.
+The dynamometer was stabilized on a stable surface,
+and the patient pushed down onto the dynamometer
+handle with the test arm positioned in about 20 degrees
+shoulder extension and elbow flexion respectively, and
+the wrist and forearm in comfortable positions as
+determined by the patient. An average of three readings
+was obtained. Minimal detectable change (MDC) for
+the Push-off test was established to be 4.4 kg.36
+Wrist function. The functional capability of the wrist in
+performance of daily activities was assessed with the
+Patient Rated Wrist Hand Evaluation (PRWHE).
+The 15-item PRWHE questionnaire has demonstrated
+good reliability, validity, and internal consistency, and
+is able to reflect limitations in wrist functions.37 The
+PRWHE has an established MCID value of 14 points
+in the wrist population.38
+Data collection
+Demographic data such as age, sex, time since injury
+were collected from medical records and/or interview
+with the patients during their first visit. Outcome meas-
+ures were recorded by the treating therapist at baseline
+and on discharge. Duration between initial assessment
+and discharge was recorded to track total number of
+days to complete WSRP.
+Data analysis
+All analyses were performed using Microsoft Excel
+2002 Analysis ToolPak. Patients’ demographics were
+summarized with mean and standard deviation (SD)
+or
+numbers
+and
+percentage
+where
+appropriate.
+Median was used to calculate total duration to com-
+plete WSRP as one patient’s participation in WSRP
+was affected by COVID-19 lockdown, resulting in a
+large outlier data. Absolute change in score for each
+patient in each outcome measure was compared with
+
+=====PAGE 7
+Chen	
+129
+outcome MCID or MDC. The percentage of patients
+who achieved each outcome MCIDs was calculated.
+We also performed subgroup analysis for patients
+with 4–6 weeks of splinting and patients with no splint-
+ing. The percentage of patients who achieved outcome
+MCIDs in each group was calculated. In addition,
+paired t-tests and Cohen’s D were calculated for each
+outcome measure. In this study, an effect size greater
+than 0.80 indicates a large clinical effect, 0.50 indicates
+a moderate clinical effect, and 0.20 indicates a weak
+effect.39 Where a P value was calculated, the level of
+significance was set at P .05.
+Results
+A total of 13 patients were recruited, and 10 patients
+completed the WSRP. Two patients were lost to
+follow-up and one patient opted for operative manage-
+ment following discussion with the hand surgeon. Of
+the 10 patients who completed WSRP, three patients
+had to complete 4–6 weeks of full time splinting prior
+to commencement of WSRP. The mean age of patients
+was 33.5 years old (SD 9.5), 60% of the patients were
+female, while 40% were male. The mean time since
+injury was 5.3 months (SD 3.4). The median duration
+to complete WSRP was 109 days (IQR 103). There
+were no reported adverse events during participation
+in WSRP.
+Outcomes
+Seventy percent of patients demonstrated
+clinical
+improvement greater than the MCID in PRWHE,
+grip strength and weight bearing. For pain, 100%
+patients had improvement greater than the MCID
+(Table 2). Our statistical analysis yielded large effect
+sizes of 2.47, 1.35, and 2.81 for function, grip strength
+and pain respectively, and moderate effect sizes of 0.72
+and 0.39 for weight bearing and JPS respectively
+(Table 2). The percentage of patients achieving out-
+come MCIDs in patients who had 4–6 weeks of splint-
+ing and those who did not undergo splinting are
+presented in Table 3.
+Discussion
+This study demonstrated the positive effects of WSRP
+on pain, grip strength, ability to weight bear, and wrist
+function. In this study, 100% of patients achieved the
+MCID for pain. There was a large effect size of 2.8.
+Arguably, WSRP’s true effect on pain cannot be deter-
+mined in this study without a comparative group.
+However, Bonhof-Jansen et al. suggested in their
+study that natural healing was unlikely to reduce pain
+symptoms in patients who sustained the injury more
+than 3 months ago.20 In their study, 13 patients who
+sustained the injury more than 3 months ago made clin-
+ical
+improvements
+in
+pain
+after
+the
+DRUST
+Table 2. Pre and post treatment mean outcomes.
+Outcome
+Pre treatment
+mean (SD)
+Post treatment
+mean (SD)
+Absolute mean
+change
+Cohen’s
+D
+P value
+Published
+MCID/MDC
+% pts
+achieved MCID
+PRWHE, points
+35.70 (14.07)
+10.45 (6.34)
+25.25
+2.47
+<0.001
+1438
+70
+Grip strength, kg
+17.80 (8.01)
+27.33 (6.15)
+9.53
+1.35
+<0.001
+6.535
+70
+Pain, points
+2.50 (1.78)
+0.00 (0)
+2.50
+2.81
+<0.01
+233
+100
+Weight-bearing, kg
+15.23 (9.45)
+22.10 (9.54)
+6.87
+0.72
+<0.01
+4.436
+70
+JPS, degrees
+6.20 (2.74)
+5.20 (2.44)
+1.00
+0.39
+0.45
+74
+10
+%: percentage; JPS: joint position sense; MCID: minimal clinically important difference; MDC: minimal detectable change; PRWHE: Patient Rated Wrist
+Hand Evaluation; pts: patients.
+Table 3. Percentage of patients achieving outcome MCIDs in patients with splinting and patients without splinting.
+Patients with splinting
+Patients without splinting
+Outcome
+Published
+MCID/MDC
+Mean
+change
+% pts achieved
+MCID
+Mean
+change
+% pts achieved
+MCID
+PRWHE, points
+1438
+33.83
+100
+21.57
+57.14
+Grip strength, kg
+6.535
+9.33
+100
+9.62
+57.14
+Pain, points
+233
+4.67
+100
+2.14
+100
+Weight bearing, kg
+4.436
+6.33
+66.67
+7.10
+71.43
+JPS, degrees
+74
+4.00
+33.33
+0.29
+14.29
+%: percentage; JPS: joint position sense; pts: patients; MCID: minimal clinically important difference; MDC: minimal detectable change; PRWHE: Patient
+Rated Wrist Hand Evaluation.
+
+=====PAGE 8
+130	
+Hand Therapy 26(4)
+program.20 In this study, the majority of patients sus-
+tained the injury more than 3 months ago, with a mean
+of 5.3 months.
+Additionally, all patients in this study did not report
+any aggravation of pain during their participation in
+WSRP. The WSRP pain-directed approach with wrist
+pain not exceeding two points on NPRS during exer-
+cise could have ensured that patients were able to cope
+with the prescribed exercise intensity without over-
+exerting. Careful evaluation of patient’s accuracy in
+performing home exercises at every session ensured
+that specific DRUJ-stabilizing muscles PQ and ECU
+were trained in a sequential manner to prevent injury.
+The defined criteria at each stage for exercise progres-
+sion could also have prevented training at a level too
+advanced for patients that might have resulted in mal-
+adaptive movement patterns due to inadequate senso-
+rimotor
+control
+which
+could
+lead
+to
+pain
+exacerbation.40
+Researchers have suggested that pain has an inverse
+relationship with grip strength.41 With improvement in
+pain, grip strength should improve. In this study, 70%
+of patients achieved clinical improvement in grip
+strength, and there was a large effect size of 1.35.
+Researchers have found that isolated training at the
+joint can strengthen the weaker muscles but training
+of the entire extremity is necessary to build up muscu-
+lar performance in daily activities.42 This concurs with
+the WSRP which emphasizes the transition from iso-
+lated wrist exercises to training of the entire upper
+extremity.
+With the DRUJ being a load bearing mechanism,
+the patient’s ability to weight bear is pertinent for func-
+tion. In this study, 70% of patients achieved clinical
+improvement in weight bearing ability, with a moderate
+effect size of 0.72. Researchers have hypothesized that
+during weight bearing across the wrist, proper activa-
+tion of PQ and ECU may absorb the load at the DRUJ
+to create a force equilibrium at the joint for stability
+to weight bear.3,15 Neuromuscular rehabilitation of
+DRUJ stabilizers PQ and ECU could possibly have
+improved the wrist’s ability to bear weight.
+We measured JPS in one axis of wrist flexion-
+extension angle. Park and colleagues demonstrated in
+their study that only proprioception of forearm rota-
+tion was affected in TFCC injury.10 They found that
+there was no significant difference in JPS of wrist
+flexion-extension and radioulnar deviation between
+wrists with TFCC injury and normal wrists. This
+could explain our non-significant results in JPS with
+only 10% patients achieving MCID.
+For JPS outcome, we used the MCID established for
+the wrist fracture population.4 This is the only MCID
+established for JPS to date. Using MCID derived from
+the
+wrist
+fracture
+populations
+may
+not
+be
+an
+appropriate criterion for patients with TFCC injury
+given the difference in nature of the injury. Pain has
+been reported to be a significant contributor to JPS
+deficits.4 One could presume the type and amount of
+pain experienced for patients who sustained a wrist
+fracture compared to a ligament injury would differ.
+The baseline for JPS deficit and the degree of deficit
+change with intervention would correspondingly differ
+for these two groups of patients. Clinicians should be
+mindful when comparing outcome MCID developed
+for a different population group in their practice.
+In this study, we had expected patients to demon-
+strate significant improvement in wrist function mea-
+sured with the PRWHE. The goal of the WSRP is to
+enable patients to return to performance of meaningful
+activities with their injured wrist. In the WSRP, there
+was a guided transition from isolated exercises at the
+wrist in early stages to exercises involving the entire
+upper extremity at later stages. The transition integrat-
+ed the upper extremity into a kinetic chain where the
+extremity functions as a dynamic unit rather than as
+isolated segments. Individualized movement training
+specific to the patient’s activities further trained the
+extremity for movement efficiency. The progression
+of exercises in the WSRP was similar to the DRUST
+program that comprised three stages.20 In the DRUST
+program, the preparatory and strengthening phases
+focused on wrist movements while the last functional
+training phase emphasized the kinetic chain of the
+upper extremity.20 The effects of the DRUST program
+were demonstrated with patients achieving clinical
+improvement in functions measured with PRWHE.20
+In this study, 70% of our patients demonstrated clini-
+cal improvement in PRWHE. There was also a large
+effect size of 2.47.
+Researchers have advocated for rehabilitation that
+focused on movement patterns as they hypothesized
+that muscles in the upper extremity need to function
+synergistically, integrated in the kinetic chain of the
+extremity for performance of daily activities.43 There
+are also studies that suggested that for patients with
+hand injuries, intervention focused on purposeful activ-
+ities was superior to exercises which focused on ROM
+and strengthening in outcomes such as pain, ROM,
+functions and satisfaction.44 Improvements in various
+aspects of body systems such as pain, grip strength,
+weight-bearing capability, and JPS could also have
+contributed to improvement in overall wrist function.
+Pain, strength and JPS have been shown to be signifi-
+cantly correlated with function.4,41
+In our study, patients who were splinted for 4–
+6 weeks appeared to show greater clinical improvement
+in outcomes. These patients sustained a TFCC injury
+with associated DRUJ instability. The literature has
+recommended
+immobilizing
+patients
+with
+DRUJ
+
+=====PAGE 9
+Chen	
+131
+instability for 4–6 weeks in a stable position to reduce
+symptoms and allow healing prior commencing reha-
+bilitation.2 However, it is beyond the scope of this
+study to investigate the effects of splinting on recovery
+and patients’ subsequent improvements in the outcome
+measures.
+Feasibility of WSRP
+WSRP has 4 stages with clear objective criteria for pro-
+gression at each stage to assist therapists with clinical
+judgment. The physical examination and assessment of
+the wrist performed in the WSRP are fundamental
+skills which all hand therapists of various levels
+should be competent in. As WSRP is a pain-guided
+program, patients also played an active role in deter-
+mining the level and intensity of the exercises by report-
+ing if pain on NPRS exceed 2 points during exercise.
+Patient pain reporting would further confirm thera-
+pists’ clinical judgment.
+The flexibility in WSRP allowed for training specif-
+icity, which had been advocated to improve strength
+and functional performance of an individual.21 As
+such, the total duration of WSRP varied for each
+patient depending on patients’ symptoms and goals.
+In this study, patients took a median of 109 days to
+complete WSRP. Other wrist ligament rehabilitation
+programs described in the literature also lasted between
+three to six months.19,20,45 This duration concurs with
+the ligament healing timeline reported in the literature.
+Ligament healing has been reported to require at least
+60 days, up to 360 days for remodeling and maturation
+of the ligament to occur.46
+In the WSRP, the frequency of follow up varied for
+each patient and was agreed upon between the thera-
+pist and the patient. As all patients were working adults
+who still attended work despite their wrist injury, the
+flexibility of the program allowed patients to plan their
+commitments and pace their rehabilitation progress.
+This flexibility also placed emphasis on the patient’s
+responsibility to follow through the prescribed home
+exercises. In this study, the treating therapists noted
+down the home exercises or took photos of patients
+performing the exercises which served as visual cues
+for home exercises. With hindsight, an exercise journal
+with exercise pictures and exercise regimes could be
+provided for clarity.
+In designing home exercises, there was careful con-
+sideration to ensure that patients could perform the
+exercises with commercial readily available exercise
+equipment such as dumbbells, a weighted ball, and
+theraband,
+to
+increase
+exercise
+adherence.
+The
+Baltimore Therapeutic Equipment, while only available
+in clinic, could simulate patient-identified activities to
+further
+train
+movement
+efficiency
+in
+specified
+activities.28
+In this study, exercise compliance was not measured
+formally. As all patients had work commitments,
+patients reported difficulty complying to the daily exer-
+cise regime. Patients reported performing the home
+exercises at least three times a week. The positive
+result in grip strength suggests that the exercise
+dosage was adequate to improve strength. Reiman
+and Lorenz also recommended strengthening frequency
+of 3–4 days a week in rehabilitation program so that
+there are at least 24 hours between sessions for muscles
+to rest.21 The rest ensured that there was optimal recov-
+ery between each training sessions to minimize risk of
+overtraining and subsequent injury.47
+Limitations
+There are limitations to this study. First, our patients
+did not undergo wrist arthroscopy to diagnose their
+TFCC injuries. Wrist arthroscopy is considered the
+gold standard in diagnosing TFCC injuries.48 In our
+study, the specific type of TFCC injury could not be
+accurately determined and we were unable to analyze
+our patients’ recovery based on the type of their TFCC
+injury. Next, the absence of a comparative group did
+not allow evaluation of WSRP true treatment effects
+compared
+to
+routine
+strengthening
+in
+therapy.
+Improvement of symptoms with rest and routine
+strengthening
+cannot
+be
+dismissed.
+However,
+the
+promising results from this study support further
+research with a typical treatment control group.
+Another limitation of this study was the flexible treat-
+ment duration which could affect conduct of future
+randomized controlled trials (RCTs). As most of our
+patients completed WSRP within 3 months, we suggest
+standardizing the treatment duration to 3 months in
+future RCTs. This concurs with Bonhof-Jansen et
+al.20 who found in their TFCC study that their patients
+attained
+maximum
+effect
+of
+rehabilitation
+within
+3 months. Next, results of this study cannot be gener-
+alized due to nature of the study and the small sample
+size. Lastly, there was no reliable method to assess JPS
+in a clinical setting. Studies have reported poor test-
+retest reliability of measurement of joint position
+sense with goniometry.49 It is imperative that clinicians
+interpret the results from this study with caution and
+use astute clinical reasoning and judgment when apply-
+ing WSRP concepts on patients. For patients with spe-
+cific physical needs such as in athletes or heavy manual
+workers, they may require further sports rehabilitation
+or work hardening after completing the WSRP.
+
+=====PAGE 10
+132	
+Hand Therapy 26(4)
+Conclusion
+A WSRP was developed from careful synthesis of con-
+cepts described in the literature, and the author’s clin-
+ical experience. The use of DTM and PNF in WSRP
+are novel approaches in TFCC wrist sensorimotor
+rehabilitation. This study provides a potential treat-
+ment approach in rehabilitation of TFCC injuries.
+Promising clinical improvements in wrist function,
+grip strength, pain, and weight bearing achieved by
+the patients in this study suggest the feasibility of
+WSRP. There is a need for larger prospective clinical
+trials with a control group to investigate the true treat-
+ment effects of proposed WSRP. Findings from this
+study could contribute to the evidence base of TFCC
+wrist sensorimotor rehabilitation.
+Acknowledgements
+The author is thankful for the support and assistance from
+Mr.
+Yap
+BW.,
+occupational
+therapist,
+Department
+of
+Occupational Therapy in Singapore General Hospital, in
+the data collection of this research. The author is also grateful
+for the insightful comments by Dr. Baker NA., Associate
+professor and Chair, Department of Occupational Therapy,
+Tufts University, on earlier versions of the manuscript which
+greatly improved the manuscript.
+Declaration of Conflicting Interests
+The author(s) declared no potential conflicts of interest with
+respect to the research, authorship, and/or publication of this
+article.
+Funding
+The author(s) received no financial support for the research,
+authorship, and/or publication of this article.
+Ethical approval
+Ethical approval for this study was obtained from Singhealth
+Institutional Review Board (reference number: 2017/3149).
+Informed consent
+Written informed consent was obtained from all subjects
+before the study.
+Guarantor
+ZC.
+Contributorship
+Not applicable.
+ORCID iD
+Zhiqing Chen
+https://orcid.org/0000-0002-4681-2325
+References
+1. Huang JI and Hanel DP. Anatomy and biomechanics of
+the distal radioulnar joint. Hand Clin 2012; 28: 157–163.
+2. Mesplie G, Grelet V, Leger O, et al. Rehabilitation of
+distal radioulnar joint instability. Hand Surg Rehabil.
+Epub Ahead of 2017; 36: 314–321.
+3. Shaaban H, Giakas G, Bolton M, et al. The distal radio-
+ulnar joint as a load-bearing mechanism – a biomechan-
+ical study. J Hand Surg Am 2004; 29: 85–95.
+4. Karagiannopoulos C, Sitler M, Michlovitz S, et al.
+Responsiveness of the active wrist joint position sense
+test after distal radius fracture intervention. J Hand
+Ther 2016; 29: 474–482.
+5. Vincent JI, Macdermid JC, Michlovitz SL, et al. The
+push-off test: development of a simple, reliable test of
+upper extremity weight-bearing capability. J Hand Ther
+2014; 27: 185–191.
+6. Altman E. The ulnar side of the wrist: clinically relevant
+anatomy and biomechanics. J Hand Ther 2016; 29:
+111–122.
+7. Vezeridis PS, Yoshioka H, Han R, et al. Ulnar-sided
+wrist pain. Part I: anatomy and physical examination.
+Skeletal Radiol 2010; 39: 733–745.
+8. Hagert E. Proprioception of the wrist joint: a review of
+current concepts and possible implications on the reha-
+bilitation of the wrist. J Hand Ther 2010; 23: 2–17.
+9. Hagert E, Lluch A and Rein S. The role of propriocep-
+tion and neuromuscular stability in carpal instabilities.
+J Hand Surg Eur Vol 2016; 41: 94–101.
+10. Park JH, Kim D, Park H, et al. The effect of triangular
+fibrocartilage complex tear on wrist proprioception.
+J Hand Surg Am 2018; 43: 866.e1–866.e8.
+11. Estrella EP, Hung L-K, Ho P-C, et al. Arthroscopic
+repair
+of
+triangular
+fibrocartilage
+complex
+tears.
+Arthrosc J Arthrosc Relat Surg 2007; 23: 729–737.e1.
+12. Karagiannopoulos C and Michlovitz S. Rehabilitation
+strategies for wrist sensorimotor control impairment:
+from theory to practice. J Hand Ther 2016; 29: 154–165.
+13. Hagert E and Hagert CG. Understanding stability of the
+distal radioulnar joint through an understanding of its
+anatomy. Hand Clin 2010; 26: 459–466.
+14. Sakamoto K, Nasu H, Nimura A, et al. An anatomic
+study of the structure and innervation of the pronator
+quadratus muscle. Anat Sci Int 2015; 90: 82–88.
+15. Moriya T, Aoki M, Iba K, et al. Effect of triangular
+ligament tears on distal radioulnar joint instability and
+evaluation of three clinical tests: a biomechanical study.
+J Hand Surg Eur Vol 2009; 34: 219–223.
+16. Postle K, Pak D and Smith TO. Effectiveness of propri-
+oceptive exercises for ankle ligament injury in adults: a
+systematic literature and meta-analysis. Man Ther 2012;
+17: 285–291.
+17. Fyhr C, Gustavsson L, Wassinger C, et al. The effects of
+shoulder injury on kinaesthesia: a systematic review and
+meta-analysis. Man Ther 2015; 20: 28–37.
+
+=====PAGE 11
+Chen	
+133
+18. Valdes K, Naughton N and Algar L. Sensorimotor inter-
+ventions and assessments for the hand and wrist: a scop-
+ing review. J Hand Ther 2014; 27: 272–286.
+19. Holmes MK, Taylor S, Miller C, et al. Early outcomes of
+‘the Birmingham Wrist Instability Programme’: a prag-
+matic intervention for stage one scapholunate instability.
+Hand Ther 2017; 22: 90–100.
+20. Bonhof-Jansen EDJ, Kroon GJ, Brink SM, et al.
+Rehabilitation with a stabilizing exercise program in tri-
+angular fibrocartilage complex lesions with distal radio-
+ulnar joint instability: a pilot intervention study. Hand
+Ther 2019; 24: 116–122.
+21. Reiman MP and Lorenz DS. Integration of strength and
+conditioning principles into a rehabilitation program. Int
+J Sports Phys Ther 2011; 6: 241–253.
+22. Crisco JJ, Heard WMR, Rich RR, et al. The mechanical
+axes of the wrist are oriented obliquely to the anatomical
+axes. J Bone Jt Surg – Ser A 2011; 93: 169–177.
+23. Moritomo H, Apergis EP, Herzberg G, et al. 2007 IFSSH
+committee report of wrist biomechanics committee: bio-
+mechanics of the so-called dart-throwing motion of the
+wrist. J Hand Surg Am 2007; 32: 1447–1453.
+24. Rainbow MJ, Wolff AL, Crisco JJ, et al. Functional
+kinematics of the wrist. J Hand Surg Eur Vol 2016; 41:
+7–21.
+25. Brigstocke G, Hearnden A, Holt CA, et al. The function-
+al range of movement of the human wrist. J Hand Surg
+Eur Vol 2013; 38: 554–556.
+26. Brigstocke GHO, Hearnden A, Holt C, et al. In-vivo con-
+firmation of the use of the dart thrower’s motion during
+activities of daily living. J Hand Surg Eur Vol 2014; 39:
+373–378.
+27. Mcmullen AJ. A kinetic chain approach for shoulder
+rehabilitation kinetic link model. J Athl Train 2000; 35:
+329–337.
+28. Lu J, Bai Z, Shi X, et al. Effects of Baltimore therapeutic
+equipment on traumatic upper extremity injury from
+work. Chin J Rehab Theor Pract 2018; 24: 107–111.
+29. Riggin CN, Morris TR and Soslowsky LJ. Tendinopathy
+II: etiology, pathology, and healing of tendon injury and
+disease. Amsterdam: Elsevier Inc., 2015.
+30. Chen Z. A novel staged wrist sensorimotor rehabilitation
+program for a patient with triangular fibrocartilage com-
+plex injury: a case report. J Hand Ther 2019; 32: 525–534.
+31. Tay SC, Tomita K and Berger RA. The ‘ulnar fovea sign’
+for defining ulnar wrist pain: an analysis of sensitivity
+and specificity. J Hand Surg Am 2007; 32: 438–444.
+32. Porretto-Loehrke A, Schuh C and Szekeres M. Clinical
+manual assessment of the wrist. J Hand Ther 2016; 29:
+123–135.
+33. Salaffi F, Stancati A, Silvestri CA, et al. Minimal clini-
+cally important changes in chronic musculoskeletal pain
+intensity measured on a numerical rating scale. Eur J
+Pain 2004; 8: 283–291.
+34. Mathiowetz V, Weber K, Volland G, et al. Reliability
+and validity of grip and pinch strength evaluations. J
+Hand Surg Am 1984; 9: 222–226.
+35. Kim JK, Park MG and Shin SJ. What is the minimum
+clinically important difference in grip strength? Clin
+Orthop Relat Res 2014; 472: 2536–2541.
+36. Mehta SP, George HR, Goering CA, et al. Reliability,
+validity, and minimal detectable change of the push-off
+test scores in assessing upper extremity weight-bearing
+ability. J Hand Ther 2019; 32: 103–109.
+37. Mehta SP, Macdermid JC, Richardson J, et al. A system-
+atic review of the measurement properties of the patient-
+rated wrist evaluation. J Orthop Sports Phys Ther 2015;
+45: 289–298.
+38. Sorensen AA, Howard D, Tan WH, et al. Minimal clin-
+ically important differences of 3 patient-rated outcomes
+instruments. J Hand Surg Am 2013; 38: 641–649.
+39. Cohen J. Statistical power analysis for the behavioral sci-
+ences. 2nd ed. Hillsdale, NJ: Lawrence Erlbaum, 1988.
+40. L€otters
+FJB,
+Schreuders
+TAR
+and
+Videler
+AJ.
+SensoriMOtorControl of the wrist: a sensorimotor con-
+trol–based exercise program for patients with chronic
+wrist pain. J Hand Ther 2020; 33: 607–615.
+41. Karagiannopoulos C, Sitler M, Michlovitz S, et al. A
+descriptive study on wrist and hand sensori-motor
+impairment and function following distal radius fracture
+intervention. J Hand Ther 2013; 26: 204–215.
+42. Giannakopoulos K, Beneka A, Malliou P, et al. Isolated
+vs. complex exercise in strengthening the rotator cuff
+muscle group. J Strength Cond Res 2004; 18: 144–148.
+43. McMullen J and Uhl TL. A kinetic chain approach for
+shoulder rehabilitation. Association, Inc, www.journalo
+fathletictraining.org (2000, accessed 22 September 2020).
+44. Che Daud AZ, Yau MK, Barnett F, et al. Integration of
+occupation based intervention in hand injury rehabilita-
+tion: a randomized controlled trial. J Hand Ther 2016; 29:
+30–40.
+45. Hincapie
+OL,
+Elkins
+JS
+and
+Vasquez-Welsh
+L.
+Proprioception retraining for a patient with chronic
+wrist pain secondary to ligament injury with no structural
+instability. J Hand Ther 2016; 29: 183–190.
+46. Manske RC and DeWitt J. Ligament healing (Chapter 9).
+In: Falk K and Fennell M (eds) Fundamental orthopedic
+management for the physical therapist assistant-E-book. St
+Louis, Missouri: Elsevier; 2015, pp.155–163.
+47. Kraemer WJ, Adams K, Cafarelli E, et al. Progression
+models in resistance training for healthy adults. Med Sci
+Sports Exerc 2002; 34: 364–380.
+48. Andersson JK, Andernord D, Karlsson J, et al. Efficacy
+of magnetic resonance imaging and clinical tests in diag-
+nostics of wrist ligament injuries: a systematic review.
+Arthroscopy 2015; 31: 2014–2020.e2.
+49. Pilbeam C and Hood-Moore V. Test–retest reliability of
+wrist joint position sense in healthy adults in a clinical
+setting. Hand Ther 2018; 23: 100–109.
