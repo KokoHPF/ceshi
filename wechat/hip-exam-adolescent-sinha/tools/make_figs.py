@@ -19,7 +19,7 @@ PUNC = '，。；、：）”'
 
 
 def save(im, n):
-    im.convert('RGB').save(f'{OUT}/img{n:02d}.jpg', quality=90)
+    im.convert('RGB').save(f'{OUT}/img{n:02d}.jpg', quality=88, optimize=True, progressive=False)
 
 
 def titled(im, t, W=1200):
