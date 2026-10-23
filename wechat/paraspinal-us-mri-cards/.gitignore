@@ -1,0 +1,4 @@
+src/x*.jpg
+src/zh/
+src/ocr/*.tiles
+__pycache__/
