@@ -282,7 +282,7 @@ A.append(table(["指标", "时间", "常规组", "多模式组", "组间差（95
 A.append(small("均值 ± 标准差；2 × 2 混合设计多元方差分析。组内变化括号内为变化百分比。"))
 
 A.append('<hr style="border:none;border-top:1px dashed #ccc;margin:32px 0 20px;">')
-A.append(p(b("欢迎关注悦美力公众号，获取更多物理治疗的专业知识！"), "text-align:center;"))
+A.append(p(b("欢迎关注骨科康复小黄公众号，获取更多物理治疗的专业知识！"), "text-align:center;"))
 A.append(p("📄<em>参考文献：</em>", "font-size:13px;margin-bottom:6px;"))
 A.append(small(
     "<em>Ibraheem MR, Abd El-Moneim MA, Ibrahim MM. The effect of multimodal rehabilitation program on pain, functional outcomes, and plantar fascia thickness in patients with plantar fasciitis: a randomized controlled trial. BMC Musculoskelet Disord. 2026;27:168. doi:10.1186/s12891-026-09562-x</em><br>"
@@ -306,7 +306,7 @@ BODY = "".join(A)
 </style>
 <div class="paper">
 <h1>""" + TITLE + """</h1>
-<div class="by">原创 · 悦美力</div>
+<div class="by">原创 · 骨科康复小黄</div>
 """ + BODY + "\n</div>\n",
     encoding="utf-8",
 )

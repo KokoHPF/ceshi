@@ -21,7 +21,7 @@ API = "https://api.weixin.qq.com/cgi-bin"
 
 TITLE = "「核心」专练深层肌，真的比整体练更好吗？15 项随机对照试验的答案"
 SHORT_TITLE = "「核心」核心稳定训练处方（下）"
-AUTHOR = "悦美力"
+AUTHOR = "骨科康复小黄"
 DIGEST = "Sports Health 2013 系统综述精读：运动控制训练和一般性训练都能减轻慢性腰痛，直接对比时大多没差别，2 项研究一般性训练更好。附 Norris & Matthews 三阶段方案与进阶条件。"
 
 

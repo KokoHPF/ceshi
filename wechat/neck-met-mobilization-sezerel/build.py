@@ -265,7 +265,7 @@ A.append(table(["方向", "时间", "理疗", "理疗 + 肌肉能量", "理疗 +
 A.append(small("ᵃ、ᵇ：字母不同表示组间有显著差异。"))
 
 A.append('<hr style="border:none;border-top:1px dashed #ccc;margin:32px 0 20px;">')
-A.append(p(b("欢迎关注悦美力公众号，获取更多物理治疗的专业知识！"), "text-align:center;"))
+A.append(p(b("欢迎关注骨科康复小黄公众号，获取更多物理治疗的专业知识！"), "text-align:center;"))
 A.append(p("📄<em>参考文献：</em>", "font-size:13px;margin-bottom:6px;"))
 A.append(small(
     "<em>Sezerel B, Yüksel İ. Efficacy comparison of osteopathic muscle energy techniques and cervical mobilization on pain, disability, and proprioception in cervical spondylosis patients. Med Sci Monit. 2024;30:e945149. doi:10.12659/MSM.945149</em><br>"
@@ -289,7 +289,7 @@ BODY = "".join(A)
 </style>
 <div class="paper">
 <h1>""" + TITLE + """</h1>
-<div class="by">原创 · 悦美力</div>
+<div class="by">原创 · 骨科康复小黄</div>
 """ + BODY + "\n</div>\n",
     encoding="utf-8",
 )

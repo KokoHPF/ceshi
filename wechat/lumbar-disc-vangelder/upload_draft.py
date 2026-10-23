@@ -21,7 +21,7 @@ API = "https://api.weixin.qq.com/cgi-bin"
 
 TITLE = "「腰椎间盘」运动员腰椎间盘突出症分期康复方案：从麦肯基力学伸展到动力链功能进阶"
 SHORT_TITLE = "「腰椎间盘」运动员腰椎间盘突出症分期康复方案"
-AUTHOR = "悦美力"
+AUTHOR = "骨科康复小黄"
 DIGEST = "IJSPT 2013 临床评论精读：按椎间盘愈合时钟排布的四阶段康复——麦肯基伸展、抗旋转、动态旋转与回归运动，附各阶段练习库。"
 
 
@@ -49,7 +49,7 @@ def prepare_content():
     html = re.sub(r"<!-- 使用说明：发布前删除本框 -->\s*<section[^>]*>.*?</section>\s*", "", html, count=1, flags=re.S)
     html = re.sub(r"<h1[^>]*>.*?</h1>\s*", "", html, count=1, flags=re.S)
     html = re.sub(r'<p style="font-size:13px; color:rgb\(136,136,136\); margin:0 0 24px; font-style:italic;">原创.*?</p>\s*', "", html, count=1, flags=re.S)
-    html = html.replace("欢迎关注公众号，", "欢迎关注悦美力公众号，")
+    html = html.replace("欢迎关注公众号，", "欢迎关注骨科康复小黄公众号，")
     # 标签之间的换行在公众号编辑器里可能变成空段落，统一去掉
     html = re.sub(r">\s*\n\s*<", "><", html)
     assert "使用说明" not in html and "<h1" not in html

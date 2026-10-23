@@ -21,7 +21,7 @@ API = "https://api.weixin.qq.com/cgi-bin"
 
 TITLE = "「膝关节」ACL 重建术后为什么总是站不稳？姿势控制障碍的机制与康复"
 SHORT_TITLE = "ACL 重建术后姿势控制障碍"
-AUTHOR = "悦美力"
+AUTHOR = "骨科康复小黄"
 DIGEST = "中华创伤杂志 2026 综述：外周感觉、中枢调控、神经肌肉、心理认知四类机制，对应本体感觉、运动学习、神经肌肉三类训练。"
 
 

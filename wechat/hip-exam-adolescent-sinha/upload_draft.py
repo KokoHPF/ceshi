@@ -22,7 +22,7 @@ API = "https://api.weixin.qq.com/cgi-bin"
 
 TITLE = "「髋关节」青少年和年轻人髋痛怎么查？从问诊到 FADIR、PART 的完整查体流程"
 SHORT_TITLE = "青少年及青年髋痛临床评估"
-AUTHOR = "悦美力"
+AUTHOR = "骨科康复小黄"
 DIGEST = "小儿骨科综述：按问诊、视诊步态、触诊、活动度、肌力到特殊检查，分清撞击、不稳、SCFE 和弹响髋，附 10 张查体照片和各试验敏感度、特异度。"
 
 

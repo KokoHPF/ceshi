@@ -285,7 +285,7 @@ A.append(table(["臀中肌动作", "%MVIC", "臀大肌动作", "%MVIC"], [
 A.append(small("* 按原文照录。Distefano 等原始数据中，侧向单腿跳为 30、蚌式（屈髋 60°）为 39，两者在本表中对调。"))
 
 A.append('<hr style="border:none;border-top:1px dashed #ccc;margin:32px 0 20px;">')
-A.append(p(b("欢迎关注悦美力公众号，获取更多物理治疗的专业知识！"), "text-align:center;"))
+A.append(p(b("欢迎关注骨科康复小黄公众号，获取更多物理治疗的专业知识！"), "text-align:center;"))
 A.append(p("📄<em>参考文献：</em>", "font-size:13px;margin-bottom:6px;"))
 A.append(small(
     "<em>Manske RC, Prohaska D. Rehabilitation following medial patellofemoral ligament reconstruction for patellar instability. Int J Sports Phys Ther. 2017;12(3):494-511.</em><br>"
@@ -309,7 +309,7 @@ BODY = "".join(A)
 </style>
 <div class="paper">
 <h1>""" + TITLE + """</h1>
-<div class="by">原创 · 悦美力</div>
+<div class="by">原创 · 骨科康复小黄</div>
 """ + BODY + "\n</div>\n",
     encoding="utf-8",
 )

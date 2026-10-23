@@ -21,7 +21,7 @@ API = "https://api.weixin.qq.com/cgi-bin"
 
 TITLE = "「肩袖」肩袖肌腱病要不要上大重量？12 周 RCT：大负荷没赢，6 个动作照着练"
 SHORT_TITLE = "「肩袖」肩袖肌腱病：大负荷 vs 小负荷训练 12 周"
-AUTHOR = "悦美力"
+AUTHOR = "骨科康复小黄"
 DIGEST = "OJSM 2017 丹麦 RoCTEx 随机对照试验精读：100 例肩袖肌腱病，同一套 6 个动作，只在 2 个肩袖动作上比较 15RM→6RM 渐进大负荷与 20～25RM 小负荷，12 周 DASH 无差异；完整居家方案、疼痛规则与激素交互作用。"
 
 

@@ -296,7 +296,7 @@ A.append(table(["患者", "初诊", "结束治疗", "结束后 2 周", "结束�
 A.append(small("结束后 2 周、4 周的活动度原文均记为“与健侧相同”。原文表 4 另有一列文字说明各时间点是否达到最小临床重要差值或最小可检测变化，此处从略。"))
 
 A.append('<hr style="border:none;border-top:1px dashed #ccc;margin:32px 0 20px;">')
-A.append(p(b("欢迎关注悦美力公众号，获取更多物理治疗的专业知识！"), "text-align:center;"))
+A.append(p(b("欢迎关注骨科康复小黄公众号，获取更多物理治疗的专业知识！"), "text-align:center;"))
 A.append(p("📄<em>参考文献：</em>", "font-size:13px;margin-bottom:6px;"))
 A.append(small(
     "<em>Hudson R, Baker RT, May J, Reordan D, Nasypany A. Novel treatment of lateral ankle sprains using the Mulligan concept: an exploratory case series analysis. J Man Manip Ther. 2017;25(5):251-259. doi:10.1080/10669817.2017.1332557</em><br>"
@@ -320,7 +320,7 @@ BODY = "".join(A)
 </style>
 <div class="paper">
 <h1>""" + TITLE + """</h1>
-<div class="by">原创 · 悦美力</div>
+<div class="by">原创 · 骨科康复小黄</div>
 """ + BODY + "\n</div>\n",
     encoding="utf-8",
 )

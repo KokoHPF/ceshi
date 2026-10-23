@@ -242,7 +242,7 @@ A.append(table(["英文", "中文", "说明"], [
 ]))
 
 A.append('<hr style="border:none;border-top:1px dashed #ccc;margin:32px 0 20px;">')
-A.append(p(b("欢迎关注悦美力公众号，获取更多物理治疗的专业知识！"), "text-align:center;"))
+A.append(p(b("欢迎关注骨科康复小黄公众号，获取更多物理治疗的专业知识！"), "text-align:center;"))
 A.append(p("📄<em>参考文献：</em>", "font-size:13px;margin-bottom:6px;"))
 A.append(small(
     "<em>Awaad S, Sherifi O, Al Katheri S, Fallatah S, Alfuraydi A, Hamzah H. Culturally tailored rehabilitation approach \"after zone III flexor tendon tenolysis in the index and middle fingers: a case report. J Hand Surg Glob Online. 2026;8(3):100977. doi:10.1016/j.jhsg.2026.100977</em><br>"
@@ -266,7 +266,7 @@ BODY = "".join(A)
 </style>
 <div class="paper">
 <h1>""" + TITLE + """</h1>
-<div class="by">原创 · 悦美力</div>
+<div class="by">原创 · 骨科康复小黄</div>
 """ + BODY + "\n</div>\n",
     encoding="utf-8",
 )

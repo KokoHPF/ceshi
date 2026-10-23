@@ -21,7 +21,7 @@ API = "https://api.weixin.qq.com/cgi-bin"
 
 TITLE = "「网球肘」从肩胛到手腕：一套分期进阶的肱骨外上髁肌腱病综合康复方案"
 SHORT_TITLE = "「网球肘」从肩胛到手腕：肱骨外上髁肌腱病综合康复方案"
-AUTHOR = "悦美力"
+AUTHOR = "骨科康复小黄"
 DIGEST = "IJSPT 2019 临床评论精读：热身、肩胛与腕肘三阶段强化、MWM 松动、教育与辅助手段，附完整进阶标准和剂量。"
 
 

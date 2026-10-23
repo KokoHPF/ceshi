@@ -300,7 +300,7 @@ A.append(table(["条目", "最高分标准（0～2 分或 0～1 分）", "来源
 A.append(small("注：满分 40 分，左右分别评分；条目来自 G.A.I.T.、SCI-FAI、Tinetti 等量表，部分由作者改编。"))
 
 A.append('<hr style="border:none;border-top:1px dashed #ccc;margin:32px 0 20px;">')
-A.append(p(b("欢迎关注悦美力公众号，获取更多物理治疗的专业知识！"), "text-align:center;"))
+A.append(p(b("欢迎关注骨科康复小黄公众号，获取更多物理治疗的专业知识！"), "text-align:center;"))
 A.append(p("📄<em>参考文献：</em>", "font-size:13px;margin-bottom:6px;"))
 A.append(small(
     "<em>Lorach H, Galvez A, Spagnolo V, Martel F, Karakas S, Intering N, et al. Walking naturally after spinal cord injury using a brain–spine interface. Nature. 2023;618(7963):126-133. doi:10.1038/s41586-023-06094-5</em><br>"
@@ -324,7 +324,7 @@ BODY = "".join(A)
 </style>
 <div class="paper">
 <h1>""" + TITLE + """</h1>
-<div class="by">原创 · 悦美力</div>
+<div class="by">原创 · 骨科康复小黄</div>
 """ + BODY + "\n</div>\n",
     encoding="utf-8",
 )

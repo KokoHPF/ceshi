@@ -341,7 +341,7 @@ A.append(p(
     f"★ {red('核心理念')}：症状是信号——漏尿、下坠感、疼痛都说明还没准备好；盆底要会收也要会放，不是一味多做凯格尔"
 ))
 A.append('<hr style="border:none;border-top:1px dashed #ccc;margin:32px 0 20px;">')
-A.append(p(b("欢迎关注悦美力公众号，获取更多物理治疗的专业知识！"), "text-align:center;"))
+A.append(p(b("欢迎关注骨科康复小黄公众号，获取更多物理治疗的专业知识！"), "text-align:center;"))
 A.append(p("📄<em>参考文献：</em>", "font-size:13px;margin-bottom:6px;"))
 A.append(small(
     "<em>Selman R, Early K, Battles B, Seidenburg M, Wendel E, Westerlund S. Maximizing Recovery in the Postpartum Period: A Timeline for Rehabilitation from Pregnancy through Return to Sport. "
@@ -366,7 +366,7 @@ BODY = "".join(A)
 </style>
 <div class="paper">
 <h1>""" + TITLE + """</h1>
-<div class="by">原创 · 悦美力</div>
+<div class="by">原创 · 骨科康复小黄</div>
 """ + BODY + "\n</div>\n",
     encoding="utf-8",
 )

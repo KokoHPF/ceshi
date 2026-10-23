@@ -248,7 +248,7 @@ A.append(table(["阶段", "训练频率", "进入下一阶段 / 回场的条件"
 A.append(small("原文附录注：组数、次数应个体化；三阶段一般约需 2～6 周，但应按标准逐个患者进阶。表 1～表 3 的内容见正文中的整理卡片"))
 
 A.append('<hr style="border:none;border-top:1px dashed #ccc;margin:32px 0 20px;">')
-A.append(p(b("欢迎关注悦美力公众号，获取更多物理治疗的专业知识！"), "text-align:center;"))
+A.append(p(b("欢迎关注骨科康复小黄公众号，获取更多物理治疗的专业知识！"), "text-align:center;"))
 A.append(p("📄<em>参考文献：</em>", "font-size:13px;margin-bottom:6px;"))
 A.append(small(
     "<em>Heiderscheit BC, Sherry MA, Silder A, Chumanov ES, Thelen DG. Hamstring Strain Injuries: Recommendations for Diagnosis, Rehabilitation, and Injury Prevention. J Orthop Sports Phys Ther. 2010;40(2):67-81. doi:10.2519/jospt.2010.3047（PubMed Central 作者稿 PMC2867336）</em><br>"
@@ -272,7 +272,7 @@ BODY = "".join(A)
 </style>
 <div class="paper">
 <h1>""" + TITLE + """</h1>
-<div class="by">原创 · 悦美力</div>
+<div class="by">原创 · 骨科康复小黄</div>
 """ + BODY + "\n</div>\n",
     encoding="utf-8",
 )

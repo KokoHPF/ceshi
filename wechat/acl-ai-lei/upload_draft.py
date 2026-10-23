@@ -21,7 +21,7 @@ API = "https://api.weixin.qq.com/cgi-bin"
 
 TITLE = "「膝关节」AI 能看懂 ACL 损伤吗？从 MRI 诊断、术中导航到远程康复"
 SHORT_TITLE = "人工智能在 ACL 损伤诊治中的应用"
-AUTHOR = "悦美力"
+AUTHOR = "骨科康复小黄"
 DIGEST = "中华医学杂志 2026 综述：AI 读 MRI 接近放射科医师，导航让骨隧道更准但临床结局无差异，AI 支具远程康复初见成效。"
 
 

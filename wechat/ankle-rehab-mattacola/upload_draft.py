@@ -21,7 +21,7 @@ API = "https://api.weixin.qq.com/cgi-bin"
 
 TITLE = "「踝关节」崴脚后怎么练？从急性扭伤到慢性不稳的三阶段康复"
 SHORT_TITLE = "「踝关节」崴脚后的三阶段康复"
-AUTHOR = "悦美力"
+AUTHOR = "骨科康复小黄"
 DIGEST = "J Athl Train 2002 综述：Ⅰ、Ⅱ度崴脚别长期固定，受伤当天开始练；早期活动度和力量（徒手阻力、DAPRE），中期本体感觉与平衡，后期走跑交替回到运动。附原文表格与 15 项研究汇总。"
 
 

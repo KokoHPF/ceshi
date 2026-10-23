@@ -21,7 +21,7 @@ API = "https://api.weixin.qq.com/cgi-bin"
 
 TITLE = "「肩」外旋坐着练、躺着练、趴着练，差在哪？6 种姿势肌电对比"
 SHORT_TITLE = "「肩」外旋训练的体位与外展角度"
-AUTHOR = "悦美力"
+AUTHOR = "骨科康复小黄"
 DIGEST = "Healthcare 2023 精读：坐位外展 45° 外旋下斜方/上斜方比值最高、三角肌最安静；俯卧尤其 90° 上斜方肌最活跃、前锯肌最低。附按目标选姿势的建议。"
 
 

@@ -21,7 +21,7 @@ API = "https://api.weixin.qq.com/cgi-bin"
 
 TITLE = "「肘关节」投掷运动员肘内侧痛：UCL 扭伤还是屈肌-旋前肌拉伤？"
 SHORT_TITLE = "「肘关节」UCL 扭伤与屈肌-旋前肌拉伤的鉴别"
-AUTHOR = "悦美力"
+AUTHOR = "骨科康复小黄"
 DIGEST = "IJSPT 2026 临床观点精读：投掷运动员肘内侧痛，如何用问诊、特殊检查、触诊和影像区分尺侧副韧带扭伤与屈肌-旋前肌拉伤。"
 
 

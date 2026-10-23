@@ -21,7 +21,7 @@ API = "https://api.weixin.qq.com/cgi-bin"
 
 TITLE = "「髌股痛」髋膝训练之外再加手法，值不值？一套 4 周方案（附 14 个动作图解）"
 SHORT_TITLE = "「髌股痛」髋膝训练 + 手法 4 周方案"
-AUTHOR = "悦美力"
+AUTHOR = "骨科康复小黄"
 DIGEST = "Scientific Reports 2025 随机对照试验精读：4 牵伸 + 4 闭链 + 3 开链，每周 3 次 × 4 周，疼痛减半；再加髌骨内推、髂胫束松解、外侧支持带摩擦没有额外好处。附全部动作照片与剂量。"
 
 

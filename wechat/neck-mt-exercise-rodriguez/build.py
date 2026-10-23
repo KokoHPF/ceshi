@@ -276,7 +276,7 @@ A.append(table(["指标", "治疗前", "4 周", "3 个月", "6 个月"], [
 A.append(small("每格前一个数为手法 + 运动组，后一个数为运动组。左侧压痛阈和标准差见原文表 3。"))
 
 A.append('<hr style="border:none;border-top:1px dashed #ccc;margin:32px 0 20px;">')
-A.append(p(b("欢迎关注悦美力公众号，获取更多物理治疗的专业知识！"), "text-align:center;"))
+A.append(p(b("欢迎关注骨科康复小黄公众号，获取更多物理治疗的专业知识！"), "text-align:center;"))
 A.append(p("📄<em>参考文献：</em>", "font-size:13px;margin-bottom:6px;"))
 A.append(small(
     "<em>Rodríguez-Sanz J, Malo-Urriés M, Lucha-López MO, López-de-Celis C, Pérez-Bellmunt A, Corral-de-Toro J, Hidalgo-García C. Comparison of an exercise program with and without manual therapy for patients with chronic neck pain and upper cervical rotation restriction. Randomized controlled trial. PeerJ. 2021;9:e12546. doi:10.7717/peerj.12546</em><br>"
@@ -300,7 +300,7 @@ BODY = "".join(A)
 </style>
 <div class="paper">
 <h1>""" + TITLE + """</h1>
-<div class="by">原创 · 悦美力</div>
+<div class="by">原创 · 骨科康复小黄</div>
 """ + BODY + "\n</div>\n",
     encoding="utf-8",
 )

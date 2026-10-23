@@ -244,7 +244,7 @@ A.append(table(["可接受度", "第 9 周", "第 13 周"], [
 A.append(small("注：原文表 1 已在正文中以中文时间表呈现。"))
 
 A.append('<hr style="border:none;border-top:1px dashed #ccc;margin:32px 0 20px;">')
-A.append(p(b("欢迎关注悦美力公众号，获取更多物理治疗的专业知识！"), "text-align:center;"))
+A.append(p(b("欢迎关注骨科康复小黄公众号，获取更多物理治疗的专业知识！"), "text-align:center;"))
 A.append(p("📄<em>参考文献：</em>", "font-size:13px;margin-bottom:6px;"))
 A.append(small(
     "<em>Christensen M, Silbernagel KG, Zellers JA, Kjær IL, Rathleff MS. Feasibility of an early progressive resistance exercise program for acute Achilles tendon rupture. Pilot Feasibility Stud. 2024;10:66. doi:10.1186/s40814-024-01494-4</em><br>"
@@ -268,7 +268,7 @@ BODY = "".join(A)
 </style>
 <div class="paper">
 <h1>""" + TITLE + """</h1>
-<div class="by">原创 · 悦美力</div>
+<div class="by">原创 · 骨科康复小黄</div>
 """ + BODY + "\n</div>\n",
     encoding="utf-8",
 )

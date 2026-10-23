@@ -21,7 +21,7 @@ API = "https://api.weixin.qq.com/cgi-bin"
 
 TITLE = "「核心」核心稳定怎么练？先评估再选路线：腹部回缩 vs McGill 三大动作"
 SHORT_TITLE = "「核心」核心稳定训练处方（上）"
-AUTHOR = "悦美力"
+AUTHOR = "骨科康复小黄"
 DIGEST = "Sports Health 2013 综述精读：局部肌路线（腹部回缩 + 压力生物反馈 + 三阶段进阶）和 McGill 整体路线（3 项耐力测试比值 + 三大动作），外加俯卧桥/仰卧桥门诊测试。附测试做法与标准。"
 
 

@@ -21,7 +21,7 @@ API = "https://api.weixin.qq.com/cgi-bin"
 
 TITLE = "「ACL 重建」一天两次血流限制训练，16 周大腿围度反超健侧：诊所 + 居家 BFR 方案详解"
 SHORT_TITLE = "ACL重建术后居家BFR"
-AUTHOR = "悦美力"
+AUTHOR = "骨科康复小黄"
 DIGEST = "15 岁足球运动员骨-髌腱-骨 ACL 重建术后，诊所 BFR + 居家 pBFR 每天 2 次，16 周大腿围度和瘦体重超过健侧，但股四头肌 LSI 仅 66%。剂量、安全检查和原文疑点一次看清。"
 
 

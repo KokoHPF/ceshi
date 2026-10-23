@@ -22,7 +22,7 @@ API = "https://api.weixin.qq.com/cgi-bin"
 
 TITLE = "「髌腱病」不必练到疼：渐进性肌腱负荷训练 vs 离心训练的随机试验"
 SHORT_TITLE = "髌腱病渐进负荷训练"
-AUTHOR = "悦美力"
+AUTHOR = "骨科康复小黄"
 DIGEST = "76 名髌腱病运动员练 24 周：在可接受疼痛内逐级加载比痛性离心训练 VISA-P 多 9 分，但未达临床重要差异，失访也不均衡。"
 
 

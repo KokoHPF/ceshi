@@ -21,7 +21,7 @@ API = "https://api.weixin.qq.com/cgi-bin"
 
 TITLE = "「膝关节」急性 ACL 损伤，哪个查体最靠谱？4 项检查的荟萃分析"
 SHORT_TITLE = "「膝关节」急性 ACL 损伤查体的诊断准确性"
-AUTHOR = "悦美力"
+AUTHOR = "骨科康复小黄"
 DIGEST = "IJSPT 2022 系统综述与荟萃分析精读：伤后 6 周内拉赫曼、前抽屉、轴移、杠杆征试验的敏感度、特异度、似然比和 AUC，轴移最适合确诊、杠杆征相对最适合排除，森林图与 SROC 曲线中文重绘。"
 
 

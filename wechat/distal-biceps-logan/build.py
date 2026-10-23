@@ -369,7 +369,7 @@ A.append(p(
 ))
 A.append(p(f"📡{b('时间表是参考，标准才是门槛。疼痛和肿胀，是最诚实的进度条。')}"))
 A.append('<hr style="border:none;border-top:1px dashed #ccc;margin:32px 0 20px;">')
-A.append(p(b("欢迎关注悦美力公众号，获取更多物理治疗的专业知识！"), "text-align:center;"))
+A.append(p(b("欢迎关注骨科康复小黄公众号，获取更多物理治疗的专业知识！"), "text-align:center;"))
 A.append(p("📄<em>参考文献：</em>", "font-size:13px;margin-bottom:6px;"))
 A.append(small(
     "<em>Logan CA, Shahien A, Haber D, Foster Z, Farrington A, Provencher MT. Rehabilitation Following Distal Biceps Repair. "
@@ -393,7 +393,7 @@ BODY = "".join(A)
 </style>
 <div class="paper">
 <h1>「肘关节」肱二头肌远端肌腱修复术后康复：16 周分期方案</h1>
-<div class="by">原创 · 悦美力</div>
+<div class="by">原创 · 骨科康复小黄</div>
 """ + BODY + "\n</div>\n",
     encoding="utf-8",
 )

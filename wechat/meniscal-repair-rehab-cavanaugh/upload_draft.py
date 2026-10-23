@@ -22,7 +22,7 @@ API = "https://api.weixin.qq.com/cgi-bin"
 
 TITLE = "「半月板修复」术后 0～22 周怎么练：负重、屈膝限制和回场标准"
 SHORT_TITLE = "半月板修复术后康复"
-AUTHOR = "悦美力"
+AUTHOR = "骨科康复小黄"
 DIGEST = "能修就不切：撕裂类型决定能不能负重，早期避开深屈膝和旋转，按标准分三阶段回到运动。"
 
 

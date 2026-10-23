@@ -332,7 +332,7 @@ A.append(p(
     f"{red('⑥ 定位')}：贴扎是临时辅助，核心仍是运动治疗"
 ))
 A.append('<hr style="border:none;border-top:1px dashed #ccc;margin:32px 0 20px;">')
-A.append(p(b("欢迎关注悦美力公众号，获取更多物理治疗的专业知识！"), "text-align:center;"))
+A.append(p(b("欢迎关注骨科康复小黄公众号，获取更多物理治疗的专业知识！"), "text-align:center;"))
 A.append(p("📄<em>参考文献：</em>", "font-size:13px;margin-bottom:6px;"))
 A.append(small(
     "<em>Shimizu S, Kawabata M, Tazawa R, Okuyama T, Watanabe H, Takahira N. Figure-of-Eight Taping Combined with "
@@ -359,7 +359,7 @@ BODY = "".join(A)
 </style>
 <div class="paper">
 <h1>""" + TITLE + """</h1>
-<div class="by">原创 · 悦美力</div>
+<div class="by">原创 · 骨科康复小黄</div>
 """ + BODY.replace(
         '（已加速播放）</p>', '（已加速播放）</p><p style="font-size:12px;color:#576b95;text-align:center;margin:0 0 6px;">▼ 预览专用：原视频（草稿中为上方动图；视频已传入素材库，可在编辑器插入）</p><video controls playsinline src="videos/VID.mp4"></video>'
     ).replace('src="videos/VID.mp4"', 'src="videos/video1.mp4" poster="videos/poster1.jpg"', 1).replace('src="videos/VID.mp4"', 'src="videos/video2.mp4" poster="videos/poster2.jpg"', 1) + "\n</div>\n",

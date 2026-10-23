@@ -529,7 +529,7 @@ A.append(ul([
 ]))
 A.append(p(f"📡{b('人体是一条动力链。远端反复出问题时，不妨往近端看一看。')}"))
 A.append('<hr style="border:none;border-top:1px dashed #ccc;margin:32px 0 20px;">')
-A.append(p(b("欢迎关注悦美力公众号，获取更多物理治疗的专业知识！"), "text-align:center;"))
+A.append(p(b("欢迎关注骨科康复小黄公众号，获取更多物理治疗的专业知识！"), "text-align:center;"))
 A.append(p("📄<em>参考文献：</em>", "font-size:13px;margin-bottom:6px;"))
 A.append(small(
     "<em>Day JM, Lucado AM, Uhl TL. A Comprehensive Rehabilitation Program for Treating Lateral Elbow Tendinopathy. "
@@ -573,7 +573,7 @@ PAGE = f"""<!doctype html>
 </div>
 <div class="phone">
 <h1>「网球肘」从肩胛到手腕：一套分期进阶的肱骨外上髁肌腱病综合康复方案</h1>
-<div class="by">原创 · 悦美力</div>
+<div class="by">原创 · 骨科康复小黄</div>
 <section id="article">
 {ARTICLE}
 </section>
@@ -636,7 +636,7 @@ PREVIEW = f"""<title>网球肘康复方案推文</title>
 </div>
 <div class="phone">
 <h1>「网球肘」从肩胛到手腕：一套分期进阶的肱骨外上髁肌腱病综合康复方案</h1>
-<div class="by">原创 · 悦美力</div>
+<div class="by">原创 · 骨科康复小黄</div>
 <section id="article">
 {PREVIEW_ARTICLE}
 </section>

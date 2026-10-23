@@ -21,7 +21,7 @@ API = "https://api.weixin.qq.com/cgi-bin"
 
 TITLE = "「肩关节」肩伤后什么时候能重返赛场？一套可量化的标准"
 SHORT_TITLE = "「肩关节」肩伤后重返运动的标准"
-AUTHOR = "悦美力"
+AUTHOR = "骨科康复小黄"
 DIGEST = "IJSPT 2020 临床评论精读：3P 重返运动程序，过头运动员与宏观创伤的功能测试，开始训练与重返比赛的量化标准，附间歇投掷程序、WOSI 与 KJOC 量表中文版。"
 
 

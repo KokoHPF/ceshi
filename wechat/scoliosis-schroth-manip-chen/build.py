@@ -279,7 +279,7 @@ A.append(table(["组别", "n", "显效", "有效", "无效", "总有效"], [
 A.append(small("总有效率比较：χ² = 4.000，P = 0.046。"))
 
 A.append('<hr style="border:none;border-top:1px dashed #ccc;margin:32px 0 20px;">')
-A.append(p(b("欢迎关注悦美力公众号，获取更多物理治疗的专业知识！"), "text-align:center;"))
+A.append(p(b("欢迎关注骨科康复小黄公众号，获取更多物理治疗的专业知识！"), "text-align:center;"))
 A.append(p("📄<em>参考文献：</em>", "font-size:13px;margin-bottom:6px;"))
 A.append(small(
     "<em>Chen H, Zhang C. The effect of Schroth Therapy combined with spinal manipulation for the treatment of adolescent idiopathic scoliosis. Pak J Med Sci. 2025;41(2):409-414. doi:10.12669/pjms.41.2.11355</em><br>"
@@ -303,7 +303,7 @@ BODY = "".join(A)
 </style>
 <div class="paper">
 <h1>""" + TITLE + """</h1>
-<div class="by">原创 · 悦美力</div>
+<div class="by">原创 · 骨科康复小黄</div>
 """ + BODY + "\n</div>\n",
     encoding="utf-8",
 )

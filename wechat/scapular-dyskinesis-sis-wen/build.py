@@ -305,7 +305,7 @@ A.append(table(["时间", "分型", "SDBET 组（n = 16）", "MPT 组（n = 16�
 A.append(small("注：原文表 1～4 为干预方案，已在正文中以中文卡片呈现。"))
 
 A.append('<hr style="border:none;border-top:1px dashed #ccc;margin:32px 0 20px;">')
-A.append(p(b("欢迎关注悦美力公众号，获取更多物理治疗的专业知识！"), "text-align:center;"))
+A.append(p(b("欢迎关注骨科康复小黄公众号，获取更多物理治疗的专业知识！"), "text-align:center;"))
 A.append(p("📄<em>参考文献：</em>", "font-size:13px;margin-bottom:6px;"))
 A.append(small(
     "<em>Wen M, Hu X, Bao G. Scapular dyskinesis-based exercise therapy versus multimodal physical therapy for subacromial impingement syndrome in young overhead athletes with scapular dyskinesis: a randomized controlled trial. BMC Sports Sci Med Rehabil. 2025;17:204. doi:10.1186/s13102-025-01254-8</em><br>"
@@ -329,7 +329,7 @@ BODY = "".join(A)
 </style>
 <div class="paper">
 <h1>""" + TITLE + """</h1>
-<div class="by">原创 · 悦美力</div>
+<div class="by">原创 · 骨科康复小黄</div>
 """ + BODY + "\n</div>\n",
     encoding="utf-8",
 )

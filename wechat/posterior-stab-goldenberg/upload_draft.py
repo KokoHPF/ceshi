@@ -21,7 +21,7 @@ API = "https://api.weixin.qq.com/cgi-bin"
 
 TITLE = "「肩关节」后方稳定术后怎么练？五阶段标准化康复方案"
 SHORT_TITLE = "「肩关节」后方稳定术后康复"
-AUTHOR = "悦美力"
+AUTHOR = "骨科康复小黄"
 DIGEST = "IJSPT 2021 临床评论精读：肩关节后方不稳与后方盂唇修复，术后五阶段康复的时间节点、动作选择与每阶段进阶标准，附 5 张标准表中文版。"
 
 

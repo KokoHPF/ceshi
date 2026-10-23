@@ -264,7 +264,7 @@ A.append(table(["指标", "坐位", "仰卧", "俯卧", "45°", "90°", "体位 
 ]))
 
 A.append('<hr style="border:none;border-top:1px dashed #ccc;margin:32px 0 20px;">')
-A.append(p(b("欢迎关注悦美力公众号，获取更多物理治疗的专业知识！"), "text-align:center;"))
+A.append(p(b("欢迎关注骨科康复小黄公众号，获取更多物理治疗的专业知识！"), "text-align:center;"))
 A.append(p("📄<em>参考文献：</em>", "font-size:13px;margin-bottom:6px;"))
 A.append(small(
     "<em>Sung J-H, Jung W, Wang J, Kim J-H. The Effects of Body Positions and Abduction Angles on Shoulder Muscle Activity Patterns during External Rotation Exercises. Healthcare. 2023;11(14):1977. doi:10.3390/healthcare11141977</em><br>"
@@ -288,7 +288,7 @@ BODY = "".join(A)
 </style>
 <div class="paper">
 <h1>""" + TITLE + """</h1>
-<div class="by">原创 · 悦美力</div>
+<div class="by">原创 · 骨科康复小黄</div>
 """ + BODY + "\n</div>\n",
     encoding="utf-8",
 )

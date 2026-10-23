@@ -21,7 +21,7 @@ API = "https://api.weixin.qq.com/cgi-bin"
 
 TITLE = "「膝关节」ACL、PCL、髌股痛怎么选动作？Escamilla 的五个概念"
 SHORT_TITLE = "「膝关节」交叉韧带与髌股康复选动作五个概念"
-AUTHOR = "悦美力"
+AUTHOR = "骨科康复小黄"
 DIGEST = "IJSPT 2023 临床观点精读：负重 vs 非负重、技术细节、动作之间、膝角度、膝过脚尖五个概念，ACL、PCL、髌股关节负荷数据全对比，附弓步进阶顺序和按病人选动作清单。"
 
 

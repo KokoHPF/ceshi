@@ -295,7 +295,7 @@ A.append(table(["动作", "评分", "原文描述"], [
 A.append(small("Borg 6～20 分：6 毫不费力；7 非常非常轻松；9 很轻松；11 比较轻松；13 有点吃力；15 吃力；17 很吃力；19 非常非常吃力；20 最大用力。"))
 
 A.append('<hr style="border:none;border-top:1px dashed #ccc;margin:32px 0 20px;">')
-A.append(p(b("欢迎关注悦美力公众号，获取更多物理治疗的专业知识！"), "text-align:center;"))
+A.append(p(b("欢迎关注骨科康复小黄公众号，获取更多物理治疗的专业知识！"), "text-align:center;"))
 A.append(p("📄<em>参考文献：</em>", "font-size:13px;margin-bottom:6px;"))
 A.append(small(
     "<em>Escamilla RF, Lewis C, Pecson A, Imamura R, Andrews JR. Muscle Activation Among Supine, Prone, and Side Position Exercises With and Without a Swiss Ball. Sports Health. 2016;8(4):372-379. doi:10.1177/1941738116653931</em><br>"
@@ -320,7 +320,7 @@ BODY = "".join(A)
 </style>
 <div class="paper">
 <h1>""" + TITLE + """</h1>
-<div class="by">原创 · 悦美力</div>
+<div class="by">原创 · 骨科康复小黄</div>
 """ + BODY + "\n</div>\n",
     encoding="utf-8",
 )

@@ -246,7 +246,7 @@ A.append(table(["治疗", "时间", "组", "n", "均值", "标准差", "P"], [
 A.append(small("表题原文为“A 组……视觉模拟评分前后数据分析”，后 6 行为活动度，原表未注明是前屈还是侧屈。红字：数值超出生理范围。"))
 
 A.append('<hr style="border:none;border-top:1px dashed #ccc;margin:32px 0 20px;">')
-A.append(p(b("欢迎关注悦美力公众号，获取更多物理治疗的专业知识！"), "text-align:center;"))
+A.append(p(b("欢迎关注骨科康复小黄公众号，获取更多物理治疗的专业知识！"), "text-align:center;"))
 A.append(p("📄<em>参考文献：</em>", "font-size:13px;margin-bottom:6px;"))
 A.append(small(
     "<em>Jahan A. Effectiveness of instrument-assisted soft-tissue mobilization versus dry cupping on pain and cervical range of motion in treatment of neck pain. Indian J Community Med. 2025;50:506-11. doi:10.4103/ijcm.ijcm_834_23</em><br>"
@@ -270,7 +270,7 @@ BODY = "".join(A)
 </style>
 <div class="paper">
 <h1>""" + TITLE + """</h1>
-<div class="by">原创 · 悦美力</div>
+<div class="by">原创 · 骨科康复小黄</div>
 """ + BODY + "\n</div>\n",
     encoding="utf-8",
 )

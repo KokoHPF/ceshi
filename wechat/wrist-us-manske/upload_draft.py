@@ -21,7 +21,7 @@ API = "https://api.weixin.qq.com/cgi-bin"
 
 TITLE = "「手腕」肌骨超声看桡腕关节：三个切面，看清手腕背侧"
 SHORT_TITLE = "「手腕」肌骨超声评估桡腕关节"
-AUTHOR = "悦美力"
+AUTHOR = "骨科康复小黄"
 DIGEST = "IJSPT 2026 肌骨超声专栏精读：桡腕关节的探头摆放、三个背侧长轴切面、正常声像，以及积液、滑膜炎、腱鞘囊肿和骨关节炎的超声表现。"
 
 

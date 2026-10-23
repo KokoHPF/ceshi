@@ -298,7 +298,7 @@ A.append(p(
     f"★ {red('注意')}：小样本、只看 15 分钟即时效应、无空白对照，长期效果和预防再扭伤作用未知"
 ))
 A.append('<hr style="border:none;border-top:1px dashed #ccc;margin:32px 0 20px;">')
-A.append(p(b("欢迎关注悦美力公众号，获取更多物理治疗的专业知识！"), "text-align:center;"))
+A.append(p(b("欢迎关注骨科康复小黄公众号，获取更多物理治疗的专业知识！"), "text-align:center;"))
 A.append(p("📄<em>参考文献：</em>", "font-size:13px;margin-bottom:6px;"))
 A.append(small(
     "<em>Chang YC, Chen PT, Hsu WJ, Chang HY. Effects of Dynamic Taping on Dynamic Balance and Proprioception in Recreational Athletes with Chronic Ankle Instability. "
@@ -323,7 +323,7 @@ BODY = "".join(A)
 </style>
 <div class="paper">
 <h1>""" + TITLE + """</h1>
-<div class="by">原创 · 悦美力</div>
+<div class="by">原创 · 骨科康复小黄</div>
 """ + BODY + "\n</div>\n",
     encoding="utf-8",
 )

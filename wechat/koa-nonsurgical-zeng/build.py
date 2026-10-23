@@ -260,7 +260,7 @@ A.append(p(
     f"★ {red('注意')}：注射的安慰剂效应很强；目前还没有能逆转病程的药物"
 ))
 A.append('<hr style="border:none;border-top:1px dashed #ccc;margin:32px 0 20px;">')
-A.append(p(b("欢迎关注悦美力公众号，获取更多物理治疗的专业知识！"), "text-align:center;"))
+A.append(p(b("欢迎关注骨科康复小黄公众号，获取更多物理治疗的专业知识！"), "text-align:center;"))
 A.append(p("📄<em>参考文献：</em>", "font-size:13px;margin-bottom:6px;"))
 A.append(small(
     "<em>曾文欣, 万丽. 膝骨关节炎非手术治疗进展[J]. 中华疼痛学杂志, 2026, 22(1): 134-141. DOI: 10.3760/cma.j.cn101658-20250902-00151.</em><br>"
@@ -284,7 +284,7 @@ BODY = "".join(A)
 </style>
 <div class="paper">
 <h1>""" + TITLE + """</h1>
-<div class="by">原创 · 悦美力</div>
+<div class="by">原创 · 骨科康复小黄</div>
 """ + BODY + "\n</div>\n",
     encoding="utf-8",
 )

@@ -287,7 +287,7 @@ A.append(table(["动作", "A 组 前", "A 组 后", "B 组 前", "B 组 后", "�
 A.append(small("组内比较 P 均 <0.001。"))
 
 A.append('<hr style="border:none;border-top:1px dashed #ccc;margin:32px 0 20px;">')
-A.append(p(b("欢迎关注悦美力公众号，获取更多物理治疗的专业知识！"), "text-align:center;"))
+A.append(p(b("欢迎关注骨科康复小黄公众号，获取更多物理治疗的专业知识！"), "text-align:center;"))
 A.append(p("📄<em>参考文献：</em>", "font-size:13px;margin-bottom:6px;"))
 A.append(small(
     "<em>Uttamchandani SR, Phansopkar P. Efficacy of PowerBall Versus Mulligan Mobilization With Movement on Pain and Function in Patients With Lateral Epicondylitis: A Randomized Clinical Trial. Cureus. 2024;16(3):e56444. doi:10.7759/cureus.56444</em><br>"
@@ -311,7 +311,7 @@ BODY = "".join(A)
 </style>
 <div class="paper">
 <h1>""" + TITLE + """</h1>
-<div class="by">原创 · 悦美力</div>
+<div class="by">原创 · 骨科康复小黄</div>
 """ + BODY + "\n</div>\n",
     encoding="utf-8",
 )

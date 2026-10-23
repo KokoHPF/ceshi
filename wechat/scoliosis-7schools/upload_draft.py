@@ -21,7 +21,7 @@ API = "https://api.weixin.qq.com/cgi-bin"
 
 TITLE = "「脊柱侧弯」Schroth、SEAS、侧移法……七大运动学派一次看懂（附 97 张图）"
 SHORT_TITLE = "「脊柱侧弯」七大特定运动学派"
-AUTHOR = "悦美力"
+AUTHOR = "骨科康复小黄"
 DIGEST = "Scoliosis Spinal Disord 2016 综述精读：Lyon、Schroth、SEAS、BSPTS、Dobomed、侧移法、FITS 各自的分型、矫正原则、代表练习和配套支具，原文 97 张图全部中文标注。"
 
 

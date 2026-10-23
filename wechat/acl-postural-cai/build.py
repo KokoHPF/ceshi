@@ -267,7 +267,7 @@ A.append(p(
     f"★ {red('注意')}：关注运动恐惧和视觉依赖；神经肌肉训练后 1 年仍可能残留障碍，重返运动前要复评"
 ))
 A.append('<hr style="border:none;border-top:1px dashed #ccc;margin:32px 0 20px;">')
-A.append(p(b("欢迎关注悦美力公众号，获取更多物理治疗的专业知识！"), "text-align:center;"))
+A.append(p(b("欢迎关注骨科康复小黄公众号，获取更多物理治疗的专业知识！"), "text-align:center;"))
 A.append(p("📄<em>参考文献：</em>", "font-size:13px;margin-bottom:6px;"))
 A.append(small(
     "<em>蔡晓熙, 冯建豪, 徐卫东. 前交叉韧带重建术后姿势控制障碍发生机制及康复治疗方法研究进展[J]. 中华创伤杂志, 2026, 42(3): 329-336. DOI: 10.3760/cma.j.cn501098-20250807-00434.</em><br>"
@@ -291,7 +291,7 @@ BODY = "".join(A)
 </style>
 <div class="paper">
 <h1>""" + TITLE + """</h1>
-<div class="by">原创 · 悦美力</div>
+<div class="by">原创 · 骨科康复小黄</div>
 """ + BODY + "\n</div>\n",
     encoding="utf-8",
 )

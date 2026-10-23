@@ -21,7 +21,7 @@ API = "https://api.weixin.qq.com/cgi-bin"
 
 TITLE = "「跟腱病」不用完全停练：疼痛监测 + 四期提踵 + 回场排程"
 SHORT_TITLE = "「跟腱病」保守治疗全流程"
-AUTHOR = "悦美力"
+AUTHOR = "骨科康复小黄"
 DIGEST = "J Athl Train 2020 述评：疼痛监测模型（训练中、后、次晨都≤5分）管负荷，四期提踵从平地到负重，回场按轻中重排活动、重活后歇 3 天。附四维度评估与原文表格。"
 
 

@@ -250,7 +250,7 @@ A.append(table(["分期", "目标", "可选练习", "剂量/负荷", "达标目�
 A.append(small("注：各练习每次保持 3～5 秒。剂量和负荷可从募集、耐力剂量逐步进阶到患者功能所需的剂量和负荷；如功能需要，可进阶到蓝色、黑色弹力带或更重的哑铃。缩写：TB 为 TheraBand 弹力带，SR 带为肩胛抗阻带。"))
 
 A.append('<hr style="border:none;border-top:1px dashed #ccc;margin:32px 0 20px;">')
-A.append(p(b("欢迎关注悦美力公众号，获取更多物理治疗的专业知识！下篇：第 3～6 期和剂量进阶规则。"), "text-align:center;"))
+A.append(p(b("欢迎关注骨科康复小黄公众号，获取更多物理治疗的专业知识！下篇：第 3～6 期和剂量进阶规则。"), "text-align:center;"))
 A.append(p("📄<em>参考文献：</em>", "font-size:13px;margin-bottom:6px;"))
 A.append(small(
     "<em>Watson L, Warby S, Balster S, Lenssen R, Pizzari T. The treatment of multidirectional instability of the shoulder with a rehabilitation program: Part 1. Shoulder Elbow. 2016;8(4):271-278. doi:10.1177/1758573216652086</em><br>"
@@ -276,7 +276,7 @@ BODY = "".join(A)
 </style>
 <div class="paper">
 <h1>""" + TITLE + """</h1>
-<div class="by">原创 · 悦美力</div>
+<div class="by">原创 · 骨科康复小黄</div>
 """ + BODY + "\n</div>\n",
     encoding="utf-8",
 )

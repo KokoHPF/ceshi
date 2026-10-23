@@ -291,7 +291,7 @@ A.append(table(["臀中肌", "臀大肌"], [
 ], first_bold=False))
 
 A.append('<hr style="border:none;border-top:1px dashed #ccc;margin:32px 0 20px;">')
-A.append(p(b("欢迎关注悦美力公众号，获取更多物理治疗的专业知识！"), "text-align:center;"))
+A.append(p(b("欢迎关注骨科康复小黄公众号，获取更多物理治疗的专业知识！"), "text-align:center;"))
 A.append(p("📄<em>参考文献：</em>", "font-size:13px;margin-bottom:6px;"))
 A.append(small(
     "<em>Voight ML, Robinson K, Gill L, Griffin K. Postoperative rehabilitation guidelines for hip arthroscopy in an active population. Sports Health. 2010;2(3):222-230. doi:10.1177/1941738110366383</em><br>"
@@ -315,7 +315,7 @@ BODY = "".join(A)
 </style>
 <div class="paper">
 <h1>""" + TITLE + """</h1>
-<div class="by">原创 · 悦美力</div>
+<div class="by">原创 · 骨科康复小黄</div>
 """ + BODY + "\n</div>\n",
     encoding="utf-8",
 )

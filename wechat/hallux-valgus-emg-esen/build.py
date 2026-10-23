@@ -271,7 +271,7 @@ A.append(table(["比较", "拇展肌 P / r", "腓骨长肌 P / r", "拇长屈肌
 A.append(small("注：原文表 2～表 5 按肌肉分 4 张表，编者合并为一张，数值照录（包括正文“原文里对不上的地方”提到的矛盾处）；原文 P < 0.05 加粗并加星号，此处省略。效应量 |r| ≥ 0.10 为小、≥ 0.30 为中、≥ 0.50 为大。"))
 
 A.append('<hr style="border:none;border-top:1px dashed #ccc;margin:32px 0 20px;">')
-A.append(p(b("欢迎关注悦美力公众号，获取更多物理治疗的专业知识！"), "text-align:center;"))
+A.append(p(b("欢迎关注骨科康复小黄公众号，获取更多物理治疗的专业知识！"), "text-align:center;"))
 A.append(p("📄<em>参考文献：</em>", "font-size:13px;margin-bottom:6px;"))
 A.append(small(
     "<em>[1] Esen DH, Taş S, Salkın Y, Alcan V. Electromyographic activation of extrinsic and intrinsic foot muscles during nine different foot exercises in women with hallux valgus: a cross-sectional comparative study. BMC Musculoskelet Disord. 2026;27:591. doi:10.1186/s12891-026-09949-w<br>"
@@ -297,7 +297,7 @@ BODY = "".join(A)
 </style>
 <div class="paper">
 <h1>""" + TITLE + """</h1>
-<div class="by">原创 · 悦美力</div>
+<div class="by">原创 · 骨科康复小黄</div>
 """ + BODY + "\n</div>\n",
     encoding="utf-8",
 )

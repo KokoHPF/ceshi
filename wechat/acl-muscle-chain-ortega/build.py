@@ -511,7 +511,7 @@ A.append(table(TH, [
 A.append(small("表 4、表 5 中透热参数、反应力量指数（RSI）等细项从略；原文 RSI 单位写作“ms”，疑为笔误。"))
 
 A.append('<hr style="border:none;border-top:1px dashed #ccc;margin:32px 0 20px;">')
-A.append(p(b("欢迎关注悦美力公众号，获取更多物理治疗的专业知识！"), "text-align:center;"))
+A.append(p(b("欢迎关注骨科康复小黄公众号，获取更多物理治疗的专业知识！"), "text-align:center;"))
 A.append(p("📄<em>参考文献：</em>", "font-size:13px;margin-bottom:6px;"))
 A.append(small(
     "<em>Ortega-Prados P, González-Sánchez M, Galán-Mercant A. Innovative Rehabilitation of an Anterior Cruciate Ligament Tear in a Football Player: Muscle Chain Approach—A Case Study. J Clin Med. 2025;14(14):4983. doi:10.3390/jcm14144983</em><br>"
@@ -535,7 +535,7 @@ BODY = "".join(A)
 </style>
 <div class="paper">
 <h1>""" + TITLE + """</h1>
-<div class="by">原创 · 悦美力</div>
+<div class="by">原创 · 骨科康复小黄</div>
 """ + BODY + "\n</div>\n",
     encoding="utf-8",
 )

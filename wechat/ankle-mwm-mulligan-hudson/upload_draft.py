@@ -21,7 +21,7 @@ API = "https://api.weixin.qq.com/cgi-bin"
 
 TITLE = "「踝关节」急性崴脚 72 小时内能上手法吗？Mulligan 动态关节松动术治疗外侧踝扭伤的病例系列"
 SHORT_TITLE = "「踝关节」Mulligan 动态松动术治疗急性外侧踝扭伤"
-AUTHOR = "悦美力"
+AUTHOR = "骨科康复小黄"
 DIGEST = "J Man Manip Ther 2017 病例系列精读：5 名急性 II 度外侧踝扭伤的高中运动员接受 Mulligan 外踝动态关节松动术，平均 4.4 次、9.2 天达到结束治疗标准，附能信几分和原文对不上的地方。"
 
 

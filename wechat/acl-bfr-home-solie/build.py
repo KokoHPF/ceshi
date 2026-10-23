@@ -312,7 +312,7 @@ A.append(table(["指标", "第 0 周", "第 4 周", "第 6 周", "第 9 周", "�
 A.append(small("注：数据在每周开始时采集；大腿围度在髌骨上极上方 15 cm 测量；小腿围度取小腿近端一半的最大值；瘦体重用 InBody 770 多频生物电阻抗测量。"))
 
 A.append('<hr style="border:none;border-top:1px dashed #ccc;margin:32px 0 20px;">')
-A.append(p(b("欢迎关注悦美力公众号，获取更多物理治疗的专业知识！"), "text-align:center;"))
+A.append(p(b("欢迎关注骨科康复小黄公众号，获取更多物理治疗的专业知识！"), "text-align:center;"))
 A.append(p("📄<em>参考文献：</em>", "font-size:13px;margin-bottom:6px;"))
 A.append(small(
     "<em>Solie BS, Eggleston GG, Schwery NA, Doney CP, Kiely MT, Larson CM. Clinic and home-based exercise with blood flow restriction resolves thigh muscle atrophy after anterior cruciate ligament reconstruction with the bone-patellar tendon-bone autograft: a case report. Healthcare. 2023;11(13):1885. doi:10.3390/healthcare11131885</em><br>"
@@ -336,7 +336,7 @@ BODY = "".join(A)
 </style>
 <div class="paper">
 <h1>""" + TITLE + """</h1>
-<div class="by">原创 · 悦美力</div>
+<div class="by">原创 · 骨科康复小黄</div>
 """ + BODY + "\n</div>\n",
     encoding="utf-8",
 )

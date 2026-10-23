@@ -21,7 +21,7 @@ API = "https://api.weixin.qq.com/cgi-bin"
 
 TITLE = "「足踝」Haglund 畸形术后，运动员怎么练？五阶段康复与进阶标准"
 SHORT_TITLE = "「足踝」Haglund 畸形与止点性跟腱病术后康复"
-AUTHOR = "悦美力"
+AUTHOR = "骨科康复小黄"
 DIGEST = "IJSPT 2026 临床评论精读：Haglund 综合征的病理、保守治疗与手术，术后早期负重的五阶段康复（保护、耐力、力量、爆发力、重返运动）及详细进阶标准，表格全部译为中文。"
 
 

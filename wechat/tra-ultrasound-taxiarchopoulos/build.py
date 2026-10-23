@@ -312,7 +312,7 @@ A.append(p(
 ))
 
 A.append('<hr style="border:none;border-top:1px dashed #ccc;margin:32px 0 20px;">')
-A.append(p(b("欢迎关注悦美力公众号，获取更多物理治疗的专业知识！"), "text-align:center;"))
+A.append(p(b("欢迎关注骨科康复小黄公众号，获取更多物理治疗的专业知识！"), "text-align:center;"))
 A.append(p("📄<em>参考文献：</em>", "font-size:13px;margin-bottom:6px;"))
 A.append(small(
     "<em>Taxiarchopoulos N, Drakonaki E, Gianniotis M, Matzaroglou C, Tsepis E, Billis E. Investigation of Real-Time Diagnostic Ultrasound as a Means of Biofeedback Training in Transversus Abdominus Re-Education of Patients with Non-Specific Low Back Pain: A Prospective Randomized Controlled Pilot Study. Healthcare. 2023;11(10):1396. doi:10.3390/healthcare11101396</em><br>"
@@ -336,7 +336,7 @@ BODY = "".join(A)
 </style>
 <div class="paper">
 <h1>""" + TITLE + """</h1>
-<div class="by">原创 · 悦美力</div>
+<div class="by">原创 · 骨科康复小黄</div>
 """ + BODY + "\n</div>\n",
     encoding="utf-8",
 )

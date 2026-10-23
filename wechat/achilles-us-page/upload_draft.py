@@ -21,7 +21,7 @@ API = "https://api.weixin.qq.com/cgi-bin"
 
 TITLE = "「足踝」跟腱怎么用超声看？3 个切面与 6 种常见病变"
 SHORT_TITLE = "「足踝」肌骨超声评估跟腱"
-AUTHOR = "悦美力"
+AUTHOR = "骨科康复小黄"
 DIGEST = "IJSPT 2025 肌骨超声小贴士精读：跟腱止点长轴、中段长轴、止点短轴的探头放置和正常声像图，肌腱病、Haglund 畸形、止点病变、撕裂（Kuwada 分级）和腱周炎的超声表现，标注图中文化。"
 
 

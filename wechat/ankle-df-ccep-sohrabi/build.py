@@ -316,7 +316,7 @@ A.append(table(["指标", "训练组基线标准差", "训练组变化", "测量
 A.append(small("MCID 用分布法（可靠变化指数）计算，并非基于患者主观感受。"))
 
 A.append('<hr style="border:none;border-top:1px dashed #ccc;margin:32px 0 20px;">')
-A.append(p(b("欢迎关注悦美力公众号，获取更多物理治疗的专业知识！"), "text-align:center;"))
+A.append(p(b("欢迎关注骨科康复小黄公众号，获取更多物理治疗的专业知识！"), "text-align:center;"))
 A.append(p("📄<em>参考文献：</em>", "font-size:13px;margin-bottom:6px;"))
 A.append(small(
     "<em>Sohrabi T, Saki F, Ramezani F, Tahayori B. Comprehensive corrective exercise program improves ankle function in female athletes with limited weight-bearing ankle dorsiflexion: A randomized controlled trial. PLoS ONE. 2024;19(10):e0312152. doi:10.1371/journal.pone.0312152</em><br>"
@@ -340,7 +340,7 @@ BODY = "".join(A)
 </style>
 <div class="paper">
 <h1>""" + TITLE + """</h1>
-<div class="by">原创 · 悦美力</div>
+<div class="by">原创 · 骨科康复小黄</div>
 """ + BODY + "\n</div>\n",
     encoding="utf-8",
 )

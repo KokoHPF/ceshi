@@ -260,7 +260,7 @@ A.append(table(["动作", "%MVIC", "ICC"], [
 A.append(small("注：* 动作 1、2 之间无显著差异，但都显著高于动作 3～10；† 动作 3～7 之间无显著差异，但都显著高于动作 8～10（P < 0.05）。ICC，组内相关系数；%MVIC，最大自主等长收缩百分比。各表按该肌肉激活从高到低排序，序号与原文图号不同。"))
 
 A.append('<hr style="border:none;border-top:1px dashed #ccc;margin:32px 0 20px;">')
-A.append(p(b("欢迎关注悦美力公众号，获取更多物理治疗的专业知识！"), "text-align:center;"))
+A.append(p(b("欢迎关注骨科康复小黄公众号，获取更多物理治疗的专业知识！"), "text-align:center;"))
 A.append(p("📄<em>参考文献：</em>", "font-size:13px;margin-bottom:6px;"))
 A.append(small(
     "<em>Ekstrom RA, Donatelli RA, Soderberg GL. Surface electromyographic analysis of exercises for the trapezius and serratus anterior muscles. J Orthop Sports Phys Ther. 2003;33(5):247-258. doi:10.2519/jospt.2003.33.5.247</em><br>"
@@ -284,7 +284,7 @@ BODY = "".join(A)
 </style>
 <div class="paper">
 <h1>""" + TITLE + """</h1>
-<div class="by">原创 · 悦美力</div>
+<div class="by">原创 · 骨科康复小黄</div>
 """ + BODY + "\n</div>\n",
     encoding="utf-8",
 )

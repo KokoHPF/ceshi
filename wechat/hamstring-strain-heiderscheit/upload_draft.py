@@ -22,7 +22,7 @@ API = "https://api.weixin.qq.com/cgi-bin"
 
 TITLE = "「腘绳肌拉伤」怎么查、怎么分三阶段练、什么时候能回场"
 SHORT_TITLE = "腘绳肌拉伤康复"
-AUTHOR = "悦美力"
+AUTHOR = "骨科康复小黄"
 DIGEST = "约三分之一会复发：按受伤机制判断预后，三阶段康复以躯干骨盆控制和离心力量为主，按标准进阶和回场。"
 
 

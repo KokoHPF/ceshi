@@ -21,7 +21,7 @@ API = "https://api.weixin.qq.com/cgi-bin"
 
 TITLE = "「儿童康复」脑瘫到底是什么？Nature 综述：从病因、肌肉改变到全生命周期管理"
 SHORT_TITLE = "脑性瘫痪"
-AUTHOR = "悦美力"
+AUTHOR = "骨科康复小黄"
 DIGEST = "Nature Reviews Disease Primers 脑瘫综述中文解读：GMFCS 分级、早产悖论、肌节和卫星细胞改变、痉挛与肌张力障碍、无力为先的康复和髋关节监测。"
 
 
