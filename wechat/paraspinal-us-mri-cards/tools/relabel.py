@@ -13,9 +13,9 @@ FONT = sys.argv[1] if len(sys.argv) > 1 else None
 
 def boxes_for(x):
     rows = [list(r) for r in json.load(open(f'src/ocr/{x}.json'))]
-    for i, t in fixes.TEXT.get(x, {}).items(): rows[i][4] = t
-    rows = [r for i, r in enumerate(rows) if i not in fixes.SKIP.get(x, ())]
-    rows += [list(r) + [1.0] for r in fixes.EXTRA.get(x, [])]
+    for i, t in fixes.TEXT.get(int(x), {}).items(): rows[i][4] = t
+    rows = [r for i, r in enumerate(rows) if i not in fixes.SKIP.get(int(x), ())]
+    rows += [list(r) + [1.0] for r in fixes.EXTRA.get(int(x), [])]
     # 合并上下行
     used = set(); out = []
     rows.sort(key=lambda r: (r[1], r[0]))
@@ -29,11 +29,12 @@ def boxes_for(x):
                 gap = b[1] - cur[3]; ov = min(cur[2], b[2]) - max(cur[0], b[0])
                 if -0.3 * ha < gap < 0.9 * ha and ov > 0.2 * min(cur[2] - cur[0], b[2] - b[0]):
                     t = cur[4] + ' ' + b[4]
-                    if lookup(t) and not lookup(cur[4]) or (lookup(t) and lookup(b[4]) is None):
+                    tail_m = b[4].replace('.', '').strip() == 'm'  # 单独一行的“m.”并入上一行
+                    if tail_m or lookup(t) and not lookup(cur[4]) or (lookup(t) and lookup(b[4]) is None):
                         cur = [min(cur[0], b[0]), cur[1], max(cur[2], b[2]), b[3], t, 1.0, ha]; used.add(j); break
-        if len(cur) < 7: cur.append(cur[3] - cur[1])
+        if len(cur) < 7: cur.append(min(cur[3] - cur[1], cur[2] - cur[0]) if (cur[3] - cur[1]) > 1.6 * (cur[2] - cur[0]) else cur[3] - cur[1])
         out.append(cur)
-    return [r for r in out if lookup(r[4])]
+    return [r for r in out if lookup(r[4]) or r[4] in fixes.ZH.get(int(x), {})]
 
 
 def erase(img, box, lh):
@@ -53,20 +54,26 @@ def erase(img, box, lh):
 def relabel(x, scale=1.15):
     img = np.asarray(Image.open(f'src/x{x}.jpg').convert('RGB')).copy()
     bs = boxes_for(x)
-    if not bs: return Image.fromarray(img)
     for b in bs: img = erase(img, b[:4], b[6])
+    for b in fixes.ERASE.get(int(x), []): img = erase(img, b, (b[3] - b[1]) * .8)
     im = Image.fromarray(img); d = ImageDraw.Draw(im); W, H = im.size
     lhs = sorted(b[6] for b in bs); base = lhs[len(lhs) // 2]
     for b in bs:
-        zh = lookup(b[4]); fs = int(base * scale * fixes.SIZE.get(x, 1.0))
+        zh = fixes.ZH.get(int(x), {}).get(b[4]) or lookup(b[4]); fs = int(base * scale * fixes.SIZE.get(int(x), 1.0))
         f = ImageFont.truetype(FONT, fs); tw = d.textlength(zh, font=f)
         cx, cy = (b[0] + b[2]) / 2, (b[1] + b[3]) / 2
-        al = fixes.ALIGN.get(x, {}).get(b[4])
+        cx, cy = fixes.POS.get(int(x), {}).get(b[4], (cx, cy))
+        al = fixes.ALIGN.get(int(x), {}).get(b[4])
         X = b[0] if al == 'l' else (b[2] - tw if al == 'r' else cx - tw / 2)
         X = max(4, min(W - tw - 4, X)); Y = cy - fs * .62
         # 文字颜色按原底色：亮底用深字
         bgl = np.asarray(im.convert('L').crop((int(b[0]), int(b[1]), int(b[2]), int(b[3])))).mean()
         fill, st = ((255, 255, 255), (0, 0, 0)) if bgl < 170 else ((20, 20, 20), (255, 255, 255))
+        if (b[3] - b[1]) > 1.6 * (b[2] - b[0]) and len(zh) > 1:  # 竖排（旋转 90°）的标注
+            tmp = Image.new('RGBA', (int(tw) + 20, int(fs * 1.5)), (0, 0, 0, 0))
+            ImageDraw.Draw(tmp).text((10, fs * .1), zh, font=f, fill=fill, stroke_width=max(2, fs // 12), stroke_fill=st)
+            tmp = tmp.rotate(90, expand=True)
+            im.paste(tmp, (int(cx - tmp.width / 2), int(cy - tmp.height / 2)), tmp); continue
         d.text((X, Y), zh, font=f, fill=fill, stroke_width=max(2, fs // 12), stroke_fill=st)
     return im
 
