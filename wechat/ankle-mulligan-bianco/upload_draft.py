@@ -21,7 +21,7 @@ API = "https://api.weixin.qq.com/cgi-bin"
 
 TITLE = "「踝关节」踝扭伤 3 天回赛场？Mulligan 腓骨动态松动 6 例病例系列"
 SHORT_TITLE = "「踝关节」Mulligan 理念治疗外侧踝扭伤"
-AUTHOR = "悦美力"
+AUTHOR = "骨科康复小黄"
 DIGEST = "JCCA 2019 病例系列精读：6 名一度急性外侧踝扭伤，非负重位腓骨动态松动（标准版与改良版）怎么做、怎么选，平均 2.3 次、2.8 天出院；附全部表格中译与原文多处前后矛盾。"
 
 

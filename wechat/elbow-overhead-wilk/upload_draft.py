@@ -21,7 +21,7 @@ API = "https://api.weixin.qq.com/cgi-bin"
 
 TITLE = "「肘关节」投手的肘伤怎么康复？四阶段方案 + 常见伤病与术后时间线"
 SHORT_TITLE = "「肘关节」过顶运动员的肘关节康复"
-AUTHOR = "悦美力"
+AUTHOR = "骨科康复小黄"
 DIGEST = "Sports Health 2012 综述精读：Wilk、Andrews 团队的肘关节四阶段康复（伸肘牵伸、投掷十项、增强式、间歇投掷），五种常见伤病的非手术方案和四种术后时间线，以及原文前后矛盾之处。"
 
 

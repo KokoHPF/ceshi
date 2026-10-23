@@ -21,7 +21,7 @@ API = "https://api.weixin.qq.com/cgi-bin"
 
 TITLE = "「高尔夫」打高尔夫也会受伤！一根弹力带的三级预防训练方案"
 SHORT_TITLE = "「高尔夫」球员三级预防训练方案"
-AUTHOR = "悦美力"
+AUTHOR = "骨科康复小黄"
 DIGEST = "IJSPT 2023 临床评论精读：Wilk 团队为高尔夫球员设计的 Fore、Fore+、进阶 Fore+ 三级方案，活动度 + 力量 + 核心，自重加一根弹力带，每个动作 2×10，附三级动作清单与做法要点。"
 
 

@@ -21,7 +21,7 @@ API = "https://api.weixin.qq.com/cgi-bin"
 
 TITLE = "「肘」投手尺侧副韧带“混合”重建：手术怎么做，术后 14 个月怎么练回来"
 SHORT_TITLE = "「肘」UCL 混合重建与康复"
-AUTHOR = "悦美力"
+AUTHOR = "骨科康复小黄"
 DIGEST = "IJSPT 2025 临床观点精读：自体肌腱 + 内支架的 UCL 混合重建 21 步术中图解，术后支具角度、分期训练、增强式和按测速枪进阶的投掷计划，附原文对不上的地方。"
 
 

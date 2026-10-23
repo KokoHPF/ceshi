@@ -21,7 +21,7 @@ API = "https://api.weixin.qq.com/cgi-bin"
 
 TITLE = "「核心」向婴儿学稳定：动态神经肌肉稳定（DNS）与运动康复"
 SHORT_TITLE = "「核心」动态神经肌肉稳定（DNS）"
-AUTHOR = "悦美力"
+AUTHOR = "骨科康复小黄"
 DIGEST = "IJSPT 2013 临床评论精读：核心稳定不等于练腹肌，腹内压与整合脊柱稳定系统、膈肌双重功能、坐位膈肌测试，以及从仰卧 90/90 到深蹲的发育姿势训练。"
 
 

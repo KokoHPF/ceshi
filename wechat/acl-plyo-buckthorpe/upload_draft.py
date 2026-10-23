@@ -21,7 +21,7 @@ API = "https://api.weixin.qq.com/cgi-bin"
 
 TITLE = "「膝关节」ACL 重建术后怎么练跳？四阶段增强式训练方案"
 SHORT_TITLE = "「膝关节」ACL 术后四阶段增强式训练"
-AUTHOR = "悦美力"
+AUTHOR = "骨科康复小黄"
 DIGEST = "IJSPT 2021 临床评论精读：ACL 重建术后增强式训练的强度决定因素、开练前的力量/动作/负荷三问，以及与康复路径对齐的四阶段方案（进入标准、任务清单、触地次数），附表格中文版。"
 
 

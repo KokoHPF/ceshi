@@ -286,7 +286,7 @@ A.append(table(["评分项", "是（4 分）", "否（0 分）"], [
     ["屈膝角度 ≥60°", "", ""], ["屈髋角度 ≥60°", "", ""], ["会判断坠落区，技术和安全意识到位", "", ""], ["绳子保持在身体和岩壁之间", "", ""], ["松手时呼气，身体放松", "", ""], ["总分", "____ / 20", ""]]))
 
 A.append('<hr style="border:none;border-top:1px dashed #ccc;margin:32px 0 20px;">')
-A.append(p(b("欢迎关注悦美力公众号，获取更多物理治疗的专业知识！"), "text-align:center;"))
+A.append(p(b("欢迎关注骨科康复小黄公众号，获取更多物理治疗的专业知识！"), "text-align:center;"))
 A.append(p("📄<em>参考文献：</em>", "font-size:13px;margin-bottom:6px;"))
 A.append(small(
     "<em>Vagy J, Schöffl V, Ohde J, Petersen W, Lutter C. Anterior cruciate ligament rehabilitation and return to sport in rock climbing athletes: a practical concept paper. Front Sports Act Living. 2025;7:1580509. doi:10.3389/fspor.2025.1580509</em><br>"
@@ -310,7 +310,7 @@ BODY = "".join(A)
 </style>
 <div class="paper">
 <h1>""" + TITLE + """</h1>
-<div class="by">原创 · 悦美力</div>
+<div class="by">原创 · 骨科康复小黄</div>
 """ + BODY + "\n</div>\n",
     encoding="utf-8",
 )

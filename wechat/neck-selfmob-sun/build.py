@@ -268,7 +268,7 @@ A.append(table(["指标", "比较", "均值差（95% 置信区间）", "P", "d"]
 A.append(small("置信区间按原文照录（部分区间缺负号或与均值差不一致，见正文）。"))
 
 A.append('<hr style="border:none;border-top:1px dashed #ccc;margin:32px 0 20px;">')
-A.append(p(b("欢迎关注悦美力公众号，获取更多物理治疗的专业知识！"), "text-align:center;"))
+A.append(p(b("欢迎关注骨科康复小黄公众号，获取更多物理治疗的专业知识！"), "text-align:center;"))
 A.append(p("📄<em>参考文献：</em>", "font-size:13px;margin-bottom:6px;"))
 A.append(small(
     "<em>Sun X, Chai L, Huang Q, Zhou H, Liu H. Effects of exercise combined with cervicothoracic spine self-mobilization on chronic non-specific neck pain. Sci Rep. 2024;14:5298. doi:10.1038/s41598-024-55181-8</em><br>"
@@ -292,7 +292,7 @@ BODY = "".join(A)
 </style>
 <div class="paper">
 <h1>""" + TITLE + """</h1>
-<div class="by">原创 · 悦美力</div>
+<div class="by">原创 · 骨科康复小黄</div>
 """ + BODY + "\n</div>\n",
     encoding="utf-8",
 )

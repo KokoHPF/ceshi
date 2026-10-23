@@ -21,7 +21,7 @@ API = "https://api.weixin.qq.com/cgi-bin"
 
 TITLE = "「足踝」练足内在肌，短足、脚趾张开还是 PNF 三维动作？一项肌电研究"
 SHORT_TITLE = "「足踝」足内在肌肌电比较"
-AUTHOR = "悦美力"
+AUTHOR = "骨科康复小黄"
 DIGEST = "IJERPH 2020 肌电研究精读：短足、脚趾张开与 4 个 PNF 三维足踝动作中拇展肌、拇收肌、拇短屈肌、拇长伸肌的激活比较，附原文对不上的地方。"
 
 

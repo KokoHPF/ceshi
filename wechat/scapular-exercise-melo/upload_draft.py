@@ -21,7 +21,7 @@ API = "https://api.weixin.qq.com/cgi-bin"
 
 TITLE = "「肩关节」肩痛又有肩胛异常，8 周练什么？一套带照片的肩胛训练方案"
 SHORT_TITLE = "8 周肩胛训练方案"
-AUTHOR = "悦美力"
+AUTHOR = "骨科康复小黄"
 DIGEST = "两阶段 8 个弹力带动作 + 2 个生活任务 + 课后拉伸，每个动作都有起始和结束照片；单组研究，效果仅供参考。"
 
 

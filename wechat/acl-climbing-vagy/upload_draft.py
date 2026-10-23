@@ -21,7 +21,7 @@ API = "https://api.weixin.qq.com/cgi-bin"
 
 TITLE = "「ACL」攀岩者 ACL 重建后怎么回岩壁？六期康复 + 两个坠落测试"
 SHORT_TITLE = "「ACL」攀岩者术后六期康复"
-AUTHOR = "悦美力"
+AUTHOR = "骨科康复小黄"
 DIGEST = "2025 概念论文：抱石 ACL 伤九成来自坠落。六期方案从练手指、勾脚、高抬脚、落膝，到学会怎么掉；回抱石前做坠落悬挂测试，回先锋前做先锋坠落测试。附原文表格。"
 
 

@@ -21,7 +21,7 @@ API = "https://api.weixin.qq.com/cgi-bin"
 
 TITLE = "「运动处方」上班族每周练 1 小时，该练什么？丹麦 IPET 方案详解"
 SHORT_TITLE = "上班族的运动处方：IPET"
-AUTHOR = "悦美力"
+AUTHOR = "骨科康复小黄"
 DIGEST = "按工作类型和身体短板分配训练：评估切点、30 分钟分配表、16 周力量进阶和整套弹力带动作目录，顺便说说它的证据短板。"
 
 

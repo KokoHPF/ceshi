@@ -21,7 +21,7 @@ API = "https://api.weixin.qq.com/cgi-bin"
 
 TITLE = "「足踝」足底筋膜炎怎么练？一位护士的综合康复方案拆解"
 SHORT_TITLE = "「足踝」足底筋膜炎病例"
-AUTHOR = "悦美力"
+AUTHOR = "骨科康复小黄"
 DIGEST = "Cureus 2024 病例报告精读：超声、贴扎、鞋垫、牵伸、离心提踵、内在肌和平衡训练的组合方案，治疗前后变化，附原文对不上的地方。"
 
 

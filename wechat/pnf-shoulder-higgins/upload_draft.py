@@ -21,7 +21,7 @@ API = "https://api.weixin.qq.com/cgi-bin"
 
 TITLE = "「肩关节」PNF 不只是画对角线：上肢与肩胛 PNF 康复全解"
 SHORT_TITLE = "「肩关节」上肢与肩胛 PNF 康复全解"
-AUTHOR = "悦美力"
+AUTHOR = "骨科康复小黄"
 DIGEST = "IJSPT 2025 临床评论精读：PNF 的术语、11 条原则、5 种技术，上肢 D1/D2 与肩胛对角线模式，证据分级与训练参数，附 9 个示范视频截图。"
 
 

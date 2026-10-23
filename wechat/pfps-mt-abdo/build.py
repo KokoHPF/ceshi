@@ -268,7 +268,7 @@ A.append(tcap("原文表 6　30 秒下台阶测试（次，中位数 ± 四分�
 A.append(table(["", "对照组", "手法组"], [["治疗前", "12 ± 5", "13 ± 4"], ["治疗后", "15 ± 5", "16 ± 4"], ["改善", "3 次（25%）", "3 次（23.08%）"]]))
 
 A.append('<hr style="border:none;border-top:1px dashed #ccc;margin:32px 0 20px;">')
-A.append(p(b("欢迎关注悦美力公众号，获取更多物理治疗的专业知识！"), "text-align:center;"))
+A.append(p(b("欢迎关注骨科康复小黄公众号，获取更多物理治疗的专业知识！"), "text-align:center;"))
 A.append(p("📄<em>参考文献：</em>", "font-size:13px;margin-bottom:6px;"))
 A.append(small(
     "<em>Abdo N, Youssef EF, Ibrahim MM. Efficacy of adding manual therapy to hip and knee exercises in patients with patellofemoral pain syndrome: a double-blinded randomized controlled clinical trial. Sci Rep. 2025;15:32655. doi:10.1038/s41598-025-17453-9</em><br>"
@@ -292,7 +292,7 @@ BODY = "".join(A)
 </style>
 <div class="paper">
 <h1>""" + TITLE + """</h1>
-<div class="by">原创 · 悦美力</div>
+<div class="by">原创 · 骨科康复小黄</div>
 """ + BODY + "\n</div>\n",
     encoding="utf-8",
 )

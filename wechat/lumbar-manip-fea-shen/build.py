@@ -298,7 +298,7 @@ for name, vals in T7:
 A.append(table(["指标", "侧卧位 肩髋协调", "侧卧位 髋主导", "坐位 肩腰协调", "坐位 肩主导", "坐位 轻柔加载"], rows))
 
 A.append('<hr style="border:none;border-top:1px dashed #ccc;margin:32px 0 20px;">')
-A.append(p(b("欢迎关注悦美力公众号，获取更多物理治疗的专业知识！"), "text-align:center;"))
+A.append(p(b("欢迎关注骨科康复小黄公众号，获取更多物理治疗的专业知识！"), "text-align:center;"))
 A.append(p("📄<em>参考文献：</em>", "font-size:13px;margin-bottom:6px;"))
 A.append(small(
     "<em>Shen J, Gao X, Zheng H, Zhang X, Li Z, Fan Y, Zhang W, Wang P. Biomechanical comparison of lumbar rotational manipulations in two different positions using force measurement and finite element analysis. Chiropr Man Therap. 2026;34:56. doi:10.1186/s12998-026-00683-7</em><br>"
@@ -322,7 +322,7 @@ BODY = "".join(A)
 </style>
 <div class="paper">
 <h1>""" + TITLE + """</h1>
-<div class="by">原创 · 悦美力</div>
+<div class="by">原创 · 骨科康复小黄</div>
 """ + BODY + "\n</div>\n",
     encoding="utf-8",
 )

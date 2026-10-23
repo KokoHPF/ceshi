@@ -244,7 +244,7 @@ A.append(table(["", "冲刺", "仰卧踢腿", "站立踢腿", "北欧挺", "北�
 A.append(small("* 原文用箭头标出与冲刺差异有统计学意义（p < 0.05），此处改用星号。角度越大表示关节越伸直。"))
 
 A.append('<hr style="border:none;border-top:1px dashed #ccc;margin:32px 0 20px;">')
-A.append(p(b("欢迎关注悦美力公众号，获取更多物理治疗的专业知识！"), "text-align:center;"))
+A.append(p(b("欢迎关注骨科康复小黄公众号，获取更多物理治疗的专业知识！"), "text-align:center;"))
 A.append(p("📄<em>参考文献：</em>", "font-size:13px;margin-bottom:6px;"))
 A.append(small(
     "<em>van den Tillaar R, Solheim JAB, Bencke J. Comparison of hamstring muscle activation during high-speed running and various hamstring strengthening exercises. Int J Sports Phys Ther. 2017;12(5):718-727. doi:10.16603/ijspt20170718</em><br>"
@@ -268,7 +268,7 @@ BODY = "".join(A)
 </style>
 <div class="paper">
 <h1>""" + TITLE + """</h1>
-<div class="by">原创 · 悦美力</div>
+<div class="by">原创 · 骨科康复小黄</div>
 """ + BODY + "\n</div>\n",
     encoding="utf-8",
 )

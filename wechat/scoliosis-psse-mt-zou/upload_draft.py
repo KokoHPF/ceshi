@@ -21,7 +21,7 @@ API = "https://api.weixin.qq.com/cgi-bin"
 
 TITLE = "「脊柱侧弯」侧弯特定运动加手法，4 周能改善什么？一项 AIS 对照研究精读"
 SHORT_TITLE = "「脊柱侧弯」PSSE 联合手法"
-AUTHOR = "悦美力"
+AUTHOR = "骨科康复小黄"
 DIGEST = "BMC 2024 研究精读：PSSE（Schroth/SEAS）+ 按摩和 HVLA 手法 vs 居家 PSSE，4 周后 Cobb 角、活动度、FMS、SRS-22 变化，8 张表全译，附 12 处原文对不上的地方。"
 
 

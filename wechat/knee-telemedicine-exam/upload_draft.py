@@ -21,7 +21,7 @@ API = "https://api.weixin.qq.com/cgi-bin"
 
 TITLE = "「膝」隔着屏幕怎么查膝关节？一套远程查体流程，附 47 个问诊要点"
 SHORT_TITLE = "「膝」膝关节远程查体"
-AUTHOR = "悦美力"
+AUTHOR = "骨科康复小黄"
 DIGEST = "Cureus 2023 精读：视诊、自我触诊、活动度、用动作代替肌力、7 个改良特殊检查和分诊红旗，附两张表格翻译和原文对不上的地方。"
 
 

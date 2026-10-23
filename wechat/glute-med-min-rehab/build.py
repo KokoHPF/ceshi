@@ -303,7 +303,7 @@ A.append(pic(9, "原文表 1（上）：侧卧、下蹲类练习的臀中肌激�
 A.append(pic(10, "原文表 1（下）：台阶、弓步、站立、仰卧类练习的臀中肌激活"))
 
 A.append('<hr style="border:none;border-top:1px dashed #ccc;margin:32px 0 20px;">')
-A.append(p(b("欢迎关注悦美力公众号，获取更多物理治疗的专业知识！"), "text-align:center;"))
+A.append(p(b("欢迎关注骨科康复小黄公众号，获取更多物理治疗的专业知识！"), "text-align:center;"))
 A.append(p("📄<em>参考文献：</em>", "font-size:13px;margin-bottom:6px;"))
 A.append(small(
     "<em>Ilizaliturri VM Jr, Zepeda Mora R, Rodríguez Vega LP. Rehabilitation After Gluteus Medius and Minimus Treatment. Arthrosc Sports Med Rehabil. 2022;4(1):e41-e50. doi:10.1016/j.asmr.2021.10.024</em><br>"
@@ -327,7 +327,7 @@ BODY = "".join(A)
 </style>
 <div class="paper">
 <h1>""" + TITLE + """</h1>
-<div class="by">原创 · 悦美力</div>
+<div class="by">原创 · 骨科康复小黄</div>
 """ + BODY + "\n</div>\n",
     encoding="utf-8",
 )

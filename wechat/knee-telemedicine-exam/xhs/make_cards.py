@@ -127,7 +127,7 @@ def base(n, total, title, sub=None, tc=NAVY):
     if sub: d.text((62, y), sub, font=F('M', 32), fill=GREY); y += 56
     # 页脚
     d.line([60, H - 78, W - 60, H - 78], fill=(222, 214, 202), width=2)
-    d.text((60, H - 62), '悦美力 · 物理治疗', font=F('M', 24), fill=GREY)
+    d.text((60, H - 62), '骨科康复小黄', font=F('M', 24), fill=GREY)
     s = 'Vomer 等 Cureus 2023;15(4):e37009'; d.text((W - 60 - d.textlength(s, font=F('R', 22)), H - 60), s, font=F('R', 22), fill=GREY)
     return c, d, y + 10
 
@@ -159,9 +159,9 @@ d.text((56, 320), '也能查膝盖', font=F('K', 148), fill=YEL)
 d.text((60, 520), '远程膝关节查体 · 6 步流程 · 7 个自测试验', font=F('B', 40), fill=WHITE)
 # 照片拼贴
 p1 = panel(124, 1); p2 = panel(152, 1); p3 = raw(139)
-photo(c, p1, (60, 700, 520, 1110), r=30, tag='深蹲看膝内扣', tagc=CORAL)
-photo(c, p2, (560, 700, 1020, 1110), r=30, fy=.6, tag='Thessaly 自测', tagc=TEAL)
-photo(c, p3, (60, 1140, 1020, 1300), r=30, fy=.12, tag='纸箱做后沉征', tagc=NAVY)
+photo(c, p1, (60, 690, 520, 1290), r=30, fx=.55, tag='深蹲看膝内扣', tagc=CORAL)
+photo(c, p2, (560, 690, 1020, 980), r=30, fy=.55, tag='Thessaly 自测', tagc=TEAL)
+photo(c, p3.crop((0, 0, 986, 560)), (560, 1000, 1020, 1290), r=30, fy=0, fx=.2, tag='纸箱做后沉征', tagc=NAVY)
 d = ImageDraw.Draw(c)
 d.rounded_rectangle([140, 1316, 940, 1396], 40, fill=YEL)
 s = '附 47 条问诊清单 + 红旗分诊'; d.text((540 - d.textlength(s, font=F('K', 42)) / 2, 1328), s, font=F('K', 42), fill=NAVY)
@@ -356,7 +356,7 @@ for name, its, col in RED:
         yy = rich(d, 128, yy, s, 860, 28, wt='M', lh=1.35) + 6
     y += hh + 22
 d.line([60, H - 78, W - 60, H - 78], fill=(110, 60, 60), width=2)
-d.text((60, H - 62), '悦美力 · 物理治疗', font=F('M', 24), fill=(220, 180, 175))
+d.text((60, H - 62), '骨科康复小黄', font=F('M', 24), fill=(220, 180, 175))
 cards.append(c)
 
 # ========== 11 理性看待 ==========

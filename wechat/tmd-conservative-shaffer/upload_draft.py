@@ -21,7 +21,7 @@ API = "https://api.weixin.qq.com/cgi-bin"
 
 TITLE = "「颞下颌关节」颞下颌关节紊乱怎么治？关节松动、软组织松解与两套经典练习"
 SHORT_TITLE = "「颞下颌关节」颞下颌关节紊乱的保守治疗"
-AUTHOR = "悦美力"
+AUTHOR = "骨科康复小黄"
 DIGEST = "JMMT 2014 综述精读：6 个关节松动手法、自我松动、四块咀嚼肌松解、Rocabado 666 与 Kraus 练习全部中译，宣教要点和理疗证据汇总，以及原文图注与引用的多处错误。"
 
 

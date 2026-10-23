@@ -297,7 +297,7 @@ A.append(table(["项目", "评估方法", "客观标准"], [
     ["功能测试", "跳跃测试；下肢 Y 平衡；T 跑；L 跑；测力台（跳跃、等长测试等）；反应性敏捷测试（T 跑、L 跑、跳跃）", "跳跃两侧差 &lt; 10% 和/或达到常模；T 跑 &lt; 11 秒；神经认知依赖度 &lt; 10%"]]))
 
 A.append('<hr style="border:none;border-top:1px dashed #ccc;margin:32px 0 20px;">')
-A.append(p(b("欢迎关注悦美力公众号，获取更多物理治疗的专业知识！"), "text-align:center;"))
+A.append(p(b("欢迎关注骨科康复小黄公众号，获取更多物理治疗的专业知识！"), "text-align:center;"))
 A.append(p("📄<em>参考文献：</em>", "font-size:13px;margin-bottom:6px;"))
 A.append(small(
     "<em>Thomas ZM, Lupowitz L, Ivey M, Wilk KE. Neurocognitive and Neuromuscular Rehabilitation Techniques after ACL injury - Part 2: Maximizing Performance in the Advanced Return to Sport Phase. Int J Sports Phys Ther. 2024;19(12):1629-1640. doi:10.26603/001c.126270</em><br>"
@@ -322,7 +322,7 @@ BODY = "".join(A)
 </style>
 <div class="paper">
 <h1>""" + TITLE + """</h1>
-<div class="by">原创 · 悦美力</div>
+<div class="by">原创 · 骨科康复小黄</div>
 """ + BODY + "\n</div>\n",
     encoding="utf-8",
 )

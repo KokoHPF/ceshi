@@ -21,7 +21,7 @@ API = "https://api.weixin.qq.com/cgi-bin"
 
 TITLE = "「腰痛」护士腰痛怎么练？8 周核心稳定训练，每周 4 个动作照着做"
 SHORT_TITLE = "护士腰痛 8 周核心训练"
-AUTHOR = "悦美力"
+AUTHOR = "骨科康复小黄"
 DIGEST = "随机对照试验：8 周后疼痛降约 39 分、RDQ 降 6 分。32 个地面和瑞士球动作按周排好，附照片；脱落率 44%，结果需打折看。"
 
 

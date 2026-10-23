@@ -362,7 +362,7 @@ A.append(p(
     f"{red('⑥ 证据')}：联合使用有积极效果，单独使用的证据尚不充分"
 ))
 A.append('<hr style="border:none;border-top:1px dashed #ccc;margin:32px 0 20px;">')
-A.append(p(b("欢迎关注悦美力公众号，获取更多物理治疗的专业知识！"), "text-align:center;"))
+A.append(p(b("欢迎关注骨科康复小黄公众号，获取更多物理治疗的专业知识！"), "text-align:center;"))
 A.append(p("📄<em>参考文献：</em>", "font-size:13px;margin-bottom:6px;"))
 A.append(small(
     "<em>Higgins M, Greer C. Proprioceptive Neuromuscular Facilitation for the Upper Extremity and Scapula: Review and "
@@ -388,7 +388,7 @@ BODY = "".join(A)
 </style>
 <div class="paper">
 <h1>""" + TITLE + """</h1>
-<div class="by">原创 · 悦美力</div>
+<div class="by">原创 · 骨科康复小黄</div>
 """ + BODY.replace('（牵张反射）</p>', '（牵张反射）</p><p style="font-size:12px;color:#576b95;text-align:center;margin:0 0 6px;">▼ 预览专用：原视频（含原声口令；草稿中为上方动图，视频已传入素材库）</p><video controls playsinline src="videos/video9.mp4" poster="videos/poster9.jpg" style="display:block;width:100%;margin:0 auto 16px;"></video>') + "\n</div>\n",
     encoding="utf-8",
 )

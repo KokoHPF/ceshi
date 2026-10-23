@@ -269,7 +269,7 @@ A.append(table(["阶段", "时间", "目标", "策略", "伸膝练习", "辅助�
 A.append(small("该方案是一名在术后 6 个月回归球队训练的职业运动员的典型做法，时间线取决于伤情（如合并软骨、内侧副韧带损伤）以及个人愈合和进展情况。阶段之间应按标准而不是按时间过渡。"))
 
 A.append('<hr style="border:none;border-top:1px dashed #ccc;margin:32px 0 20px;">')
-A.append(p(b("欢迎关注悦美力公众号，获取更多物理治疗的专业知识！"), "text-align:center;"))
+A.append(p(b("欢迎关注骨科康复小黄公众号，获取更多物理治疗的专业知识！"), "text-align:center;"))
 A.append(p("📄<em>参考文献：</em>", "font-size:13px;margin-bottom:6px;"))
 A.append(small(
     "<em>Buckthorpe M, La Rosa G, Della Villa F. Restoring knee extensor strength after anterior cruciate ligament reconstruction: a clinical commentary. Int J Sports Phys Ther. 2019;14(1):159-172. doi:10.26603/ijspt20190159</em><br>"
@@ -293,7 +293,7 @@ BODY = "".join(A)
 </style>
 <div class="paper">
 <h1>""" + TITLE + """</h1>
-<div class="by">原创 · 悦美力</div>
+<div class="by">原创 · 骨科康复小黄</div>
 """ + BODY + "\n</div>\n",
     encoding="utf-8",
 )

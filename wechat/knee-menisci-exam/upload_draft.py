@@ -21,7 +21,7 @@ API = "https://api.weixin.qq.com/cgi-bin"
 
 TITLE = "「膝」9 种半月板查体试验，哪个最靠谱？一篇综述讲清解剖与证据"
 SHORT_TITLE = "「膝」半月板解剖与查体"
-AUTHOR = "悦美力"
+AUTHOR = "骨科康复小黄"
 DIGEST = "加拿大脊骨神经医学会杂志 2009 综述精读：半月板解剖与血供分区，McMurray、关节线压痛、Thessaly 等 9 种查体的做法与准确性，附数据汇总和原文对不上的地方。"
 
 

@@ -294,7 +294,7 @@ A.append(table(["项目", "中等方案", "保守方案"], [
 A.append(small("原文表注：本方案只是康复进阶的指引，不能替代临床判断；每期按临床标准和时间进阶，务必掌握前一期再进入下一期，以保证修补组织正常愈合。第 1～4 周分别对应术后第 1～7、8～14、15～21、22～28 天。"))
 
 A.append('<hr style="border:none;border-top:1px dashed #ccc;margin:32px 0 20px;">')
-A.append(p(b("欢迎关注悦美力公众号，获取更多物理治疗的专业知识！"), "text-align:center;"))
+A.append(p(b("欢迎关注骨科康复小黄公众号，获取更多物理治疗的专业知识！"), "text-align:center;"))
 A.append(p("📄<em>参考文献：</em>", "font-size:13px;margin-bottom:6px;"))
 A.append(small(
     "<em>van der Meijden OA, Westgard P, Chandler Z, Gaskill TR, Kokmeyer D, Millett PJ. Rehabilitation after arthroscopic rotator cuff repair: current concepts review and evidence-based guidelines. Int J Sports Phys Ther. 2012;7(2):197-218.</em><br>"
@@ -318,7 +318,7 @@ BODY = "".join(A)
 </style>
 <div class="paper">
 <h1>""" + TITLE + """</h1>
-<div class="by">原创 · 悦美力</div>
+<div class="by">原创 · 骨科康复小黄</div>
 """ + BODY + "\n</div>\n",
     encoding="utf-8",
 )

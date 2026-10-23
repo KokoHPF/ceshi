@@ -275,7 +275,7 @@ A.append(table(["组别", "方向", "治疗前", "治疗后", "t", "P"], [
 A.append(small("* P < 0.05。"))
 
 A.append('<hr style="border:none;border-top:1px dashed #ccc;margin:32px 0 20px;">')
-A.append(p(b("欢迎关注悦美力公众号，获取更多物理治疗的专业知识！"), "text-align:center;"))
+A.append(p(b("欢迎关注骨科康复小黄公众号，获取更多物理治疗的专业知识！"), "text-align:center;"))
 A.append(p("📄<em>参考文献：</em>", "font-size:13px;margin-bottom:6px;"))
 A.append(small(
     "<em>Kim SY, Kim KS, Hwang YI. Effects of manual lymphatic drainage with mobilization and myofascial release on muscle activities during dynamic balance in adults with calf muscle shortening. Healthcare. 2024;12(10):1038. doi:10.3390/healthcare12101038</em><br>"
@@ -299,7 +299,7 @@ BODY = "".join(A)
 </style>
 <div class="paper">
 <h1>""" + TITLE + """</h1>
-<div class="by">原创 · 悦美力</div>
+<div class="by">原创 · 骨科康复小黄</div>
 """ + BODY + "\n</div>\n",
     encoding="utf-8",
 )

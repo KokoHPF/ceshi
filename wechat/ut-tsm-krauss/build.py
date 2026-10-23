@@ -254,7 +254,7 @@ A.append(table(["方向", "组内相关系数", "标准差", "测量标准误", 
 A.append(small("* P < 0.05。表中数字照原文录入，原文的错误见上文。"))
 
 A.append('<hr style="border:none;border-top:1px dashed #ccc;margin:32px 0 20px;">')
-A.append(p(b("欢迎关注悦美力公众号，获取更多物理治疗的专业知识！"), "text-align:center;"))
+A.append(p(b("欢迎关注骨科康复小黄公众号，获取更多物理治疗的专业知识！"), "text-align:center;"))
 A.append(p("📄<em>参考文献：</em>", "font-size:13px;margin-bottom:6px;"))
 A.append(small(
     "<em>Krauss J, Creighton D, Ely JD, Podlewska-Ely J. The immediate effects of upper thoracic translatoric spinal manipulation on cervical pain and range of motion: a randomized clinical trial. J Man Manip Ther. 2008;16(2):93-99.</em><br>"
@@ -278,7 +278,7 @@ BODY = "".join(A)
 </style>
 <div class="paper">
 <h1>""" + TITLE + """</h1>
-<div class="by">原创 · 悦美力</div>
+<div class="by">原创 · 骨科康复小黄</div>
 """ + BODY + "\n</div>\n",
     encoding="utf-8",
 )

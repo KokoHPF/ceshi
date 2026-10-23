@@ -428,7 +428,7 @@ A.append(table(HEAD, A2))
 A.append(small("均值（95% CI）。组间差校正了基线值、中心和是否注射激素。"))
 
 A.append('<hr style="border:none;border-top:1px dashed #ccc;margin:32px 0 20px;">')
-A.append(p(b("欢迎关注悦美力公众号，获取更多物理治疗的专业知识！"), "text-align:center;"))
+A.append(p(b("欢迎关注骨科康复小黄公众号，获取更多物理治疗的专业知识！"), "text-align:center;"))
 A.append(p("📄<em>参考文献：</em>", "font-size:13px;margin-bottom:6px;"))
 A.append(small(
     "<em>Ingwersen KG, Jensen SL, Sørensen L, Jørgensen HR, Christensen R, Søgaard K, Juul-Kristensen B. Three Months of Progressive High-Load Versus Traditional Low-Load Strength Training Among Patients With Rotator Cuff Tendinopathy: Primary Results From the Double-Blind Randomized Controlled RoCTEx Trial. Orthop J Sports Med. 2017;5(8):2325967117723292. doi:10.1177/2325967117723292</em><br>"
@@ -452,7 +452,7 @@ BODY = "".join(A)
 </style>
 <div class="paper">
 <h1>""" + TITLE + """</h1>
-<div class="by">原创 · 悦美力</div>
+<div class="by">原创 · 骨科康复小黄</div>
 """ + BODY + "\n</div>\n",
     encoding="utf-8",
 )

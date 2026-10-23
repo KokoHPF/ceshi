@@ -21,7 +21,7 @@ API = "https://api.weixin.qq.com/cgi-bin"
 
 TITLE = "「前庭」耳石症指南更新版精读：两种诊断试验、五种复位手法与 14 条建议"
 SHORT_TITLE = "「前庭」BPPV 指南更新版"
-AUTHOR = "悦美力"
+AUTHOR = "骨科康复小黄"
 DIGEST = "AAO-HNSF 2017 耳石症指南精读：Dix-Hallpike 与滚转试验、Epley/Semont/Lempert/Gufoni 复位步骤、14 条建议、16 张表全译，附原文对不上的地方。"
 
 

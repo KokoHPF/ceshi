@@ -21,7 +21,7 @@ API = "https://api.weixin.qq.com/cgi-bin"
 
 TITLE = "「肩关节」斜方肌上中下怎么分开练？肩痛患者为什么别急着耸肩"
 SHORT_TITLE = "「肩关节」斜方肌运动学"
-AUTHOR = "悦美力"
+AUTHOR = "骨科康复小黄"
 DIGEST = "Neumann 大师课第 2 部分精读：斜方肌上中下三部分的作用、徒手肌力测试、肩痛时的激活异常，以及按部位挑选的 10 个训练动作。"
 
 

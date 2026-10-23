@@ -21,7 +21,7 @@ API = "https://api.weixin.qq.com/cgi-bin"
 
 TITLE = "「肩」前锯肌怎么练才更“上劲”？出拳加转体迈步，BOSU 反而没用"
 SHORT_TITLE = "「肩」前锯肌动力链训练"
-AUTHOR = "悦美力"
+AUTHOR = "骨科康复小黄"
 DIGEST = "IJSPT 2020 肌电研究精读：前出拳加强加入躯干旋转和对侧腿迈步 / 摆腿，前锯肌激活明显升高；换到 BOSU 球上则没有变化。附表格全译和原文对不上的地方。"
 
 

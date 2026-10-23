@@ -252,7 +252,7 @@ emg(7, "背阔肌", [["FPP", "41.63", "28.03", "27.69～55.57", ""], ["CS", "43.
 A.append(small("FPP：前出拳加强；CS：闭链塞拉佩效应 FPP；OS：开链塞拉佩效应 FPP。* P ≤ 0.05。P 值为与 FPP 比较的结果。"))
 
 A.append('<hr style="border:none;border-top:1px dashed #ccc;margin:32px 0 20px;">')
-A.append(p(b("欢迎关注悦美力公众号，获取更多物理治疗的专业知识！"), "text-align:center;"))
+A.append(p(b("欢迎关注骨科康复小黄公众号，获取更多物理治疗的专业知识！"), "text-align:center;"))
 A.append(p("📄<em>参考文献：</em>", "font-size:13px;margin-bottom:6px;"))
 A.append(small(
     "<em>Kaur N, Bhanot K, Ferreira G. Effects of lower extremity and trunk kinetic chain recruitment on serratus anterior muscle activation during forward punch plus exercise on stable and unstable surfaces. Int J Sports Phys Ther. 2020;15(1):126-138. doi:10.26603/ijspt20200126</em><br>"
@@ -276,7 +276,7 @@ BODY = "".join(A)
 </style>
 <div class="paper">
 <h1>""" + TITLE + """</h1>
-<div class="by">原创 · 悦美力</div>
+<div class="by">原创 · 骨科康复小黄</div>
 """ + BODY + "\n</div>\n",
     encoding="utf-8",
 )

@@ -294,7 +294,7 @@ A.append(small("照原文录入。"))
 A.append(pic(5, "原文图 4　受试者流程（中文重绘，组别人数照原图）", "90%"))
 
 A.append('<hr style="border:none;border-top:1px dashed #ccc;margin:32px 0 20px;">')
-A.append(p(b("欢迎关注悦美力公众号，获取更多物理治疗的专业知识！"), "text-align:center;"))
+A.append(p(b("欢迎关注骨科康复小黄公众号，获取更多物理治疗的专业知识！"), "text-align:center;"))
 A.append(p("📄<em>参考文献：</em>", "font-size:13px;margin-bottom:6px;"))
 A.append(small(
     "<em>Oya-Casero A, Muñoz-Cruzado Barba M, Madera-García M, García-LLorent R, Andrade-Ortega JA, Cuesta-Vargas AI, Roldán-Jiménez C. Effect of Supervised over Self-Performed Eccentric Exercise on Lateral Elbow Tendinopathy: A Pilot Study. J Clin Med. 2022;11(24):7434. doi:10.3390/jcm11247434</em><br>"
@@ -318,7 +318,7 @@ BODY = "".join(A)
 </style>
 <div class="paper">
 <h1>""" + TITLE + """</h1>
-<div class="by">原创 · 悦美力</div>
+<div class="by">原创 · 骨科康复小黄</div>
 """ + BODY + "\n</div>\n",
     encoding="utf-8",
 )

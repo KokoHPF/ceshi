@@ -21,7 +21,7 @@ API = "https://api.weixin.qq.com/cgi-bin"
 
 TITLE = "「肩」肩关节不稳不开刀：从风险评估到 4 期康复和回归测试，一篇讲全"
 SHORT_TITLE = "「肩」肩关节不稳非手术治疗"
-AUTHOR = "悦美力"
+AUTHOR = "骨科康复小黄"
 DIGEST = "运动防护杂志 2024 临床概念精读：PRIS/NISIS 复发风险、手术决策、按方向的前方肩袖/后方肩袖/协同收缩 4 期方案、节拍器进阶和回归运动测试。"
 
 

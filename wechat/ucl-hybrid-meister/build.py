@@ -335,7 +335,7 @@ A.append(table(["阶段", "时间", "要点"], [
 A.append(tcap("原文表 2：康复概要（中文翻译）"))
 
 A.append('<hr style="border:none;border-top:1px dashed #ccc;margin:32px 0 20px;">')
-A.append(p(b("欢迎关注悦美力公众号，获取更多物理治疗的专业知识！"), "text-align:center;"))
+A.append(p(b("欢迎关注骨科康复小黄公众号，获取更多物理治疗的专业知识！"), "text-align:center;"))
 A.append(p("📄<em>参考文献：</em>", "font-size:13px;margin-bottom:6px;"))
 A.append(small(
     "<em>Meister KM, Evans D, Wilk KE, Arrigo CA. Ulnar Collateral Ligament Hybrid Reconstruction Surgery &amp; Rehabilitation in the Overhead Athlete. Int J Sports Phys Ther. 2025;20(2):293-305. doi:10.26603/001c.128512</em><br>"
@@ -359,7 +359,7 @@ BODY = "".join(A)
 </style>
 <div class="paper">
 <h1>""" + TITLE + """</h1>
-<div class="by">原创 · 悦美力</div>
+<div class="by">原创 · 骨科康复小黄</div>
 """ + BODY + "\n</div>\n",
     encoding="utf-8",
 )

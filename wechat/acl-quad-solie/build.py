@@ -318,7 +318,7 @@ A.append(p(
     f"★ {red('24 周以后')}：>100% 向心 1RM 的“上 2 下 1”离心、速度训练（速度降 10% 停组）、增强式和高速跑"
 ))
 A.append('<hr style="border:none;border-top:1px dashed #ccc;margin:32px 0 20px;">')
-A.append(p(b("欢迎关注悦美力公众号，获取更多物理治疗的专业知识！"), "text-align:center;"))
+A.append(p(b("欢迎关注骨科康复小黄公众号，获取更多物理治疗的专业知识！"), "text-align:center;"))
 A.append(p("📄<em>参考文献：</em>", "font-size:13px;margin-bottom:6px;"))
 A.append(small(
     "<em>Solie B, Carlson M, Doney C, Kiely M, LaPrade R. Oh, My Quad: A Clinical Commentary and Evidence-Based Framework for the Rehabilitation of "
@@ -343,7 +343,7 @@ BODY = "".join(A)
 </style>
 <div class="paper">
 <h1>""" + TITLE + """</h1>
-<div class="by">原创 · 悦美力</div>
+<div class="by">原创 · 骨科康复小黄</div>
 """ + BODY + "\n</div>\n",
     encoding="utf-8",
 )

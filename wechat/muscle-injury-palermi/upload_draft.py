@@ -21,7 +21,7 @@ API = "https://api.weixin.qq.com/cgi-bin"
 
 TITLE = "「肌肉损伤」下肢拉伤怎么练？等长、向心、离心三期康复和回归标准"
 SHORT_TITLE = "下肢肌肉拉伤三期康复"
-AUTHOR = "悦美力"
+AUTHOR = "骨科康复小黄"
 DIGEST = "腘绳肌、内收肌、股直肌、小腿三头肌拉伤：每期做什么、怎么进阶、何时回归，附 25 个康复动作照片。"
 
 

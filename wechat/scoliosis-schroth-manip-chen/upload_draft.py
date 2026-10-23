@@ -21,7 +21,7 @@ API = "https://api.weixin.qq.com/cgi-bin"
 
 TITLE = "「脊柱侧弯」Schroth 加上推拿整骨，效果更好吗？100 例青少年回顾"
 SHORT_TITLE = "「脊柱侧弯」Schroth 联合脊柱手法治疗青少年特发性脊柱侧凸"
-AUTHOR = "悦美力"
+AUTHOR = "骨科康复小黄"
 DIGEST = "Pak J Med Sci 2025 回顾性研究精读：10～13 岁轻度 AIS，Schroth 每周 3 次 × 6 个月，研究组另加点穴、理筋、整骨和旋转扳法；两组方案详解、结果重绘，以及原文统计和描述上的多处问题。"
 
 

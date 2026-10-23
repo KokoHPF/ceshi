@@ -21,7 +21,7 @@ API = "https://api.weixin.qq.com/cgi-bin"
 
 TITLE = "「膝关节」ACL 重建术后 PRP + Mulligan 动态松动：3 例病例报告的手法与证据点评"
 SHORT_TITLE = "ACL 术后 PRP + Mulligan 3 例"
-AUTHOR = "悦美力"
+AUTHOR = "骨科康复小黄"
 DIGEST = "中华医学会病例报告精读：膝关节 Mulligan 动态松动手法图解（胫骨滑动、旋转配合主动屈伸），以及 3 例样本统计与数据问题点评。"
 
 

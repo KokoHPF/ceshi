@@ -21,7 +21,7 @@ API = "https://api.weixin.qq.com/cgi-bin"
 
 TITLE = "「腕」TFCC 损伤不手术怎么练？四期腕关节感觉运动康复方案精读"
 SHORT_TITLE = "「腕」TFCC 感觉运动康复"
-AUTHOR = "悦美力"
+AUTHOR = "骨科康复小黄"
 DIGEST = "手部治疗 2021 研究精读：旋前方肌和尺侧腕伸肌激活、飞镖投掷动作、反应性训练、负重和 PNF 的四期方案，10 名患者的结果，附原文对不上的地方。"
 
 

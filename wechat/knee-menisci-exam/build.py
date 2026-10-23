@@ -312,7 +312,7 @@ A.append(table(["检查", "研究", "敏感度", "特异度", "准确度 / 其�
 A.append(small("ACL：前交叉韧带。数值均照录原文正文，原文中前后矛盾之处见上文“原文里对不上的地方”。"))
 
 A.append('<hr style="border:none;border-top:1px dashed #ccc;margin:32px 0 20px;">')
-A.append(p(b("欢迎关注悦美力公众号，获取更多物理治疗的专业知识！"), "text-align:center;"))
+A.append(p(b("欢迎关注骨科康复小黄公众号，获取更多物理治疗的专业知识！"), "text-align:center;"))
 A.append(p("📄<em>参考文献：</em>", "font-size:13px;margin-bottom:6px;"))
 A.append(small(
     "<em>Chivers MD, Howitt SD. Anatomy and physical examination of the knee menisci: a narrative review of the orthopedic literature. J Can Chiropr Assoc. 2009;53(4):319-333. PMID: 20037697</em><br>"
@@ -336,7 +336,7 @@ BODY = "".join(A)
 </style>
 <div class="paper">
 <h1>""" + TITLE + """</h1>
-<div class="by">原创 · 悦美力</div>
+<div class="by">原创 · 骨科康复小黄</div>
 """ + BODY + "\n</div>\n",
     encoding="utf-8",
 )

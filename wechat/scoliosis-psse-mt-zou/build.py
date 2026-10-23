@@ -325,7 +325,7 @@ A.append(table(["指标", "MCID", "变化值 干预组", "变化值 对照组", 
 A.append(tcap("原文表 8：表面形貌躯干形态指标变化率、变化值的 t 检验结果及 MCID（中文翻译）"))
 
 A.append('<hr style="border:none;border-top:1px dashed #ccc;margin:32px 0 20px;">')
-A.append(p(b("欢迎关注悦美力公众号，获取更多物理治疗的专业知识！"), "text-align:center;"))
+A.append(p(b("欢迎关注骨科康复小黄公众号，获取更多物理治疗的专业知识！"), "text-align:center;"))
 A.append(p("📄<em>参考文献：</em>", "font-size:13px;margin-bottom:6px;"))
 A.append(small(
     "<em>Zou W, Li Y, Zhang Z, Jia G, Huang H, Zhang G, Wang C, Lo WLA, Liu P. The efficacy of combined physiotherapeutic scoliosis-specific exercises and manual therapy in adolescent idiopathic scoliosis. BMC Musculoskelet Disord. 2024;25:874. doi:10.1186/s12891-024-07974-1</em><br>"
@@ -349,7 +349,7 @@ BODY = "".join(A)
 </style>
 <div class="paper">
 <h1>""" + TITLE + """</h1>
-<div class="by">原创 · 悦美力</div>
+<div class="by">原创 · 骨科康复小黄</div>
 """ + BODY + "\n</div>\n",
     encoding="utf-8",
 )

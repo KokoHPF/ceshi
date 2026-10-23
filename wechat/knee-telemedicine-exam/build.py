@@ -334,7 +334,7 @@ A.append(tcap("原文表 2：远程膝关节评估——问题 / 指令及其临
 A.append(small("*原文该处标注的图号与图内容不符，详见“原文里对不上的地方”。"))
 
 A.append('<hr style="border:none;border-top:1px dashed #ccc;margin:32px 0 20px;">')
-A.append(p(b("欢迎关注悦美力公众号，获取更多物理治疗的专业知识！"), "text-align:center;"))
+A.append(p(b("欢迎关注骨科康复小黄公众号，获取更多物理治疗的专业知识！"), "text-align:center;"))
 A.append(p("📄<em>参考文献：</em>", "font-size:13px;margin-bottom:6px;"))
 A.append(small(
     "<em>Vomer RP II, York E, Rayghan LS, Jethwa T, Montero DP, Nguyen CQ, Pujalte GGA. Telemedicine Examination of the Knee. Cureus. 2023;15(4):e37009. doi:10.7759/cureus.37009</em><br>"
@@ -358,7 +358,7 @@ BODY = "".join(A)
 </style>
 <div class="paper">
 <h1>""" + TITLE + """</h1>
-<div class="by">原创 · 悦美力</div>
+<div class="by">原创 · 骨科康复小黄</div>
 """ + BODY + "\n</div>\n",
     encoding="utf-8",
 )

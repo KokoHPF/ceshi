@@ -21,7 +21,7 @@ API = "https://api.weixin.qq.com/cgi-bin"
 
 TITLE = "「网球肘」腕力球 vs Mulligan 松动：两套 3 周方案，和一篇数据对不上的论文"
 SHORT_TITLE = "「网球肘」腕力球 vs Mulligan 动态松动"
-AUTHOR = "悦美力"
+AUTHOR = "骨科康复小黄"
 DIGEST = "Cureus 2024 随机对照试验精读：腕力球 3×30 秒→5×60 秒、Mulligan 外侧滑动+握拳 3×10→3×20，两套 3 周剂量可直接参考；但按原文自己的数据，两组效果相近，作者“腕力球更好”的结论站不住。"
 
 

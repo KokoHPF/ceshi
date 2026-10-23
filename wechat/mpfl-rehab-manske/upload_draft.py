@@ -21,7 +21,7 @@ API = "https://api.weixin.qq.com/cgi-bin"
 
 TITLE = "「髌骨脱位」MPFL 重建术后怎么练？四期康复方案 + 重返运动标准"
 SHORT_TITLE = "「髌骨脱位」MPFL 重建术后四期康复"
-AUTHOR = "悦美力"
+AUTHOR = "骨科康复小黄"
 DIGEST = "IJSPT 2017 临床述评：MPFL 重建术后不用支具、早期全负重，四期按标准进阶，髌骨活动度保持 2 个象限；重返运动看单腿下台阶测试和跳远标准。附动作图解。"
 
 

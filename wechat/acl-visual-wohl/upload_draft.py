@@ -21,7 +21,7 @@ API = "https://api.weixin.qq.com/cgi-bin"
 
 TITLE = "「膝关节」ACL 伤后为什么总“靠眼睛”？频闪眼镜视觉干扰训练"
 SHORT_TITLE = "「膝关节」ACL 康复中的视觉干扰训练"
-AUTHOR = "悦美力"
+AUTHOR = "骨科康复小黄"
 DIGEST = "IJSPT 2021 临床评论精读：ACL 损伤后控制下肢更依赖视觉和认知的行为学与神经影像证据，频闪眼镜视觉干扰训练，结合视觉外部焦点和内隐学习的六个训练举例与错误计分。"
 
 

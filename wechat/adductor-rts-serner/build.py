@@ -364,7 +364,7 @@ A.append(small("补充材料表 A1（各节点人群基本情况）与表 2 基�
 A.append(pic(11, "原文图 3　受试者流程（中文重绘）", "90%"))
 
 A.append('<hr style="border:none;border-top:1px dashed #ccc;margin:32px 0 20px;">')
-A.append(p(b("欢迎关注悦美力公众号，获取更多物理治疗的专业知识！"), "text-align:center;"))
+A.append(p(b("欢迎关注骨科康复小黄公众号，获取更多物理治疗的专业知识！"), "text-align:center;"))
 A.append(p("📄<em>参考文献：</em>", "font-size:13px;margin-bottom:6px;"))
 A.append(small(
     "<em>Serner A, Weir A, Tol JL, Thorborg K, Lanzinger S, Otten R, Hölmich P. Return to Sport After Criteria-Based Rehabilitation of Acute Adductor Injuries in Male Athletes: A Prospective Cohort Study. Orthop J Sports Med. 2020;8(1):2325967119897247. doi:10.1177/2325967119897247</em><br>"
@@ -389,7 +389,7 @@ BODY = "".join(A)
 </style>
 <div class="paper">
 <h1>""" + TITLE + """</h1>
-<div class="by">原创 · 悦美力</div>
+<div class="by">原创 · 骨科康复小黄</div>
 """ + BODY + "\n</div>\n",
     encoding="utf-8",
 )

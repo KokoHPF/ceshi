@@ -21,7 +21,7 @@ API = "https://api.weixin.qq.com/cgi-bin"
 
 TITLE = "「手」屈肌腱修复术后怎么练？Saint John 方案 + 10 个视频动图"
 SHORT_TITLE = "「手」屈肌腱 Saint John 方案"
-AUTHOR = "悦美力"
+AUTHOR = "骨科康复小黄"
 DIGEST = "屈肌腱 2 区修复术后 Saint John 方案：制动 3～5 天、最多半拳的真正主动屈曲、短支具腕手协同、6 周去支具，原文视频截成 10 个中文字幕动图。"
 
 

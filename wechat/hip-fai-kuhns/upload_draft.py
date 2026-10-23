@@ -21,7 +21,7 @@ API = "https://api.weixin.qq.com/cgi-bin"
 
 TITLE = "「髋关节」FAI 关节镜术后缝了关节囊，四阶段怎么练回赛场"
 SHORT_TITLE = "「髋关节」FAI 关节镜术后四阶段康复"
-AUTHOR = "悦美力"
+AUTHOR = "骨科康复小黄"
 DIGEST = "IJSPT 2017 临床评论精读：常规缝合关节囊的髋关节镜 FAI 术后，四阶段康复的活动限制、训练内容、进阶标准和常见陷阱，关节囊缝合后的 I～III 级关节松动，附 7 张表格中文版。"
 
 

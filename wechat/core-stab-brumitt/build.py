@@ -268,7 +268,7 @@ A.append(table(["测试", "做法"], [
 ], first_bold=True))
 
 A.append('<hr style="border:none;border-top:1px dashed #ccc;margin:32px 0 20px;">')
-A.append(p(b("欢迎关注悦美力公众号，获取更多物理治疗的专业知识！"), "text-align:center;"))
+A.append(p(b("欢迎关注骨科康复小黄公众号，获取更多物理治疗的专业知识！"), "text-align:center;"))
 A.append(p("📄<em>参考文献：</em>", "font-size:13px;margin-bottom:6px;"))
 A.append(small(
     "<em>Brumitt J, Matheson JW, Meira EP. Core Stabilization Exercise Prescription, Part I: Current Concepts in Assessment and Intervention. Sports Health. 2013;5(6):504-509. doi:10.1177/1941738113502451</em><br>"
@@ -293,7 +293,7 @@ BODY = "".join(A)
 </style>
 <div class="paper">
 <h1>""" + TITLE + """</h1>
-<div class="by">原创 · 悦美力</div>
+<div class="by">原创 · 骨科康复小黄</div>
 """ + BODY + "\n</div>\n",
     encoding="utf-8",
 )

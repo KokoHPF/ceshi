@@ -240,7 +240,7 @@ A.append(p(
     f"★ {red('注意')}：目前证据多为单中心、小样本研究，需要外部验证和长期随访"
 ))
 A.append('<hr style="border:none;border-top:1px dashed #ccc;margin:32px 0 20px;">')
-A.append(p(b("欢迎关注悦美力公众号，获取更多物理治疗的专业知识！"), "text-align:center;"))
+A.append(p(b("欢迎关注骨科康复小黄公众号，获取更多物理治疗的专业知识！"), "text-align:center;"))
 A.append(p("📄<em>参考文献：</em>", "font-size:13px;margin-bottom:6px;"))
 A.append(small(
     "<em>雷蕾, 陈德生, 勾禹, 等. 人工智能在前交叉韧带损伤诊治中应用的研究进展[J]. 中华医学杂志, 2026, 106(1): 92-96. DOI: 10.3760/cma.j.cn112137-20250725-01849.</em><br>"
@@ -264,7 +264,7 @@ BODY = "".join(A)
 </style>
 <div class="paper">
 <h1>""" + TITLE + """</h1>
-<div class="by">原创 · 悦美力</div>
+<div class="by">原创 · 骨科康复小黄</div>
 """ + BODY + "\n</div>\n",
     encoding="utf-8",
 )

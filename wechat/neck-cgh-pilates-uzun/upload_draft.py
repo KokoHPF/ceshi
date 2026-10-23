@@ -21,7 +21,7 @@ API = "https://api.weixin.qq.com/cgi-bin"
 
 TITLE = "「颈椎」颈源性头痛：颈椎松动 + 临床普拉提，12 个动作和 6 周疗效精读"
 SHORT_TITLE = "「颈椎」颈源性头痛松动加普拉提"
-AUTHOR = "悦美力"
+AUTHOR = "骨科康复小黄"
 DIGEST = "Medicina 2024 随机对照试验精读：Cyriax 颈椎松动 + APPI 临床普拉提治疗颈源性头痛，疼痛、肌肉僵硬度和头颈血流，附原文对不上的地方。"
 
 

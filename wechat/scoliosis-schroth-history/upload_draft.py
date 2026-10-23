@@ -21,7 +21,7 @@ API = "https://api.weixin.qq.com/cgi-bin"
 
 TITLE = "「脊柱侧弯」Schroth 方法一百年：呼吸、分型和支具是怎么连在一起的"
 SHORT_TITLE = "「脊柱侧弯」Schroth 方法与支具的历史"
-AUTHOR = "悦美力"
+AUTHOR = "骨科康复小黄"
 DIGEST = "Open Orthop J 2017 精读：从 1921 年的旋转成角呼吸、Lehnert-Schroth 三弯/四弯分型，到 Chêneau 与 Gensingen 支具；附 Schroth 核心要素、各学派与支具对比。"
 
 

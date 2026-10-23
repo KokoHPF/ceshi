@@ -21,7 +21,7 @@ API = "https://api.weixin.qq.com/cgi-bin"
 
 TITLE = "「神经康复」脊髓损伤还能修复吗？Nature Medicine 综述：生物学与技术进展"
 SHORT_TITLE = "「神经康复」脊髓修复：生物学与技术进展"
-AUTHOR = "悦美力"
+AUTHOR = "骨科康复小黄"
 DIGEST = "Nature Medicine 2019 综述精读：脊髓损伤后的环路重组与脊髓自主性、轴突再生三要素与细胞移植、硬膜外电刺激和脑-脊髓接口、神经调控结合康复，4 张机制图全部改为中文标注。"
 
 

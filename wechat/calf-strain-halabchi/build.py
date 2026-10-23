@@ -287,7 +287,7 @@ A.append(table(["分级", "肌肉损伤程度", "临床表现", "影像"], [
     ["重度", "&gt; 50%", "剧痛；明显可摸到缺损；不能冲刺（力量和活动度严重损失，&gt; 25°）", "磁共振：完全撕裂，可有或无回缩，广泛水肿出血；超声：肌肉和筋膜完全中断"]]))
 
 A.append('<hr style="border:none;border-top:1px dashed #ccc;margin:32px 0 20px;">')
-A.append(p(b("欢迎关注悦美力公众号，获取更多物理治疗的专业知识！"), "text-align:center;"))
+A.append(p(b("欢迎关注骨科康复小黄公众号，获取更多物理治疗的专业知识！"), "text-align:center;"))
 A.append(p("📄<em>参考文献：</em>", "font-size:13px;margin-bottom:6px;"))
 A.append(small(
     "<em>Halabchi F, Tavana MM, Seifi V, Mahmoudi Zarandi M. Medial gastrocnemius strain: clinical aspects and algorithmic approach. Med J Islam Repub Iran. 2024;38:55. doi:10.47176/mjiri.38.55</em><br>"
@@ -312,7 +312,7 @@ BODY = "".join(A)
 </style>
 <div class="paper">
 <h1>""" + TITLE + """</h1>
-<div class="by">原创 · 悦美力</div>
+<div class="by">原创 · 骨科康复小黄</div>
 """ + BODY + "\n</div>\n",
     encoding="utf-8",
 )

@@ -320,7 +320,7 @@ A.append(p(
     f"★ {red('注意')}：任何手法都不能替代系统的肌力、神经肌肉和重返运动训练"
 ))
 A.append('<hr style="border:none;border-top:1px dashed #ccc;margin:32px 0 20px;">')
-A.append(p(b("欢迎关注悦美力公众号，获取更多物理治疗的专业知识！"), "text-align:center;"))
+A.append(p(b("欢迎关注骨科康复小黄公众号，获取更多物理治疗的专业知识！"), "text-align:center;"))
 A.append(p("📄<em>参考文献：</em>", "font-size:13px;margin-bottom:6px;"))
 A.append(small(
     "<em>李明珠, 荆潮, 张余, 等. ACL 重建术后使用 PRP 注射结合 Mulligan 动态关节松动术 3 例[DB/OL]. 中国临床案例成果数据库, 2025. DOI: 10.3760/cma.j.cmcr20250526-02067.</em><br>"
@@ -344,7 +344,7 @@ BODY = "".join(A)
 </style>
 <div class="paper">
 <h1>""" + TITLE + """</h1>
-<div class="by">原创 · 悦美力</div>
+<div class="by">原创 · 骨科康复小黄</div>
 """ + BODY + "\n</div>\n",
     encoding="utf-8",
 )
