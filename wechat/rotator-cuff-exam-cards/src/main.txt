@@ -1,0 +1,530 @@
+=====PAGE 1
+INSTRUCTIONAL LECTURE
+Rotator cuff tear: physical examination and conservative
+treatment
+Eiji Itoi
+Received: 6 September 2012
+ The Japanese Orthopaedic Association 2012
+Abstract
+Rotator cuff tear is one of the most common
+shoulder diseases. It is interesting that some rotator cuff
+tears are symptomatic, whereas others are asymptomatic.
+Pain is the most common symptom of patients with a tear.
+Even in patients with an asymptomatic tear, it may become
+symptomatic with an increase in tear size. Physical
+examination is extremely important to evaluate the pres-
+ence, location, and extent of a tear. It also helps us to
+understand the mechanism of pain. Conservative treatment
+often works. Patients with well-preserved function of the
+supraspinatus and infraspinatus are the best candidates for
+conservative treatment. After a successful conservative
+treatment, the symptom once disappeared may come back
+again. This recurrence of symptoms is related to tear
+expansion. Those with high risk of tear expansion and
+those with less functional rotator cuff muscles are less
+likely to respond to conservative treatment. They may need
+a surgical treatment.
+Prevalence of rotator cuff tears
+Rotator cuff tear is a common disease. According to general
+population surveys, the prevalence of rotator cuff tear is
+25 % in those older than 50 years of age [1] and 20 % in
+those older than 20 years of age [2]. The interesting thing is
+that only 1/3 of the tears cause pain and 2/3 are without
+pain. Only 20 % of those who have shoulder pain come to
+the clinic, whereas the rest go to bone setters or chiro-
+practors, buy pain killers, or just leave it alone [3]. This
+means that only 1/15 of those with rotator cuff tears come to
+see us at the clinic. In other words, when we see one patient
+at our clinic with a symptomatic rotator cuff tear, there are 4
+more patients with a symptomatic tear and 10 more patients
+with an asymptomatic tear in the background.
+Symptoms of rotator cuff tears
+We evaluated the symptoms of patients with rotator cuff
+tears when they ﬁrst come to see us [4]. There were 157
+patients who visited us: 138 patients (87.9 %) came to us
+because of pain; 17 (10.8 %) came to us because of pain
+and muscle weakness less than manual muscle testing
+(MMT) grade 3 (fair); 2 patients (1.3 %) came to us
+because of muscle weakness less than MMT grade 3
+without pain. Almost 99 % of patients with rotator cuff
+tears come to the clinic because of pain. In other words,
+controlling pain is the key element of treatment. What
+causes pain in shoulders with rotator cuff tears? We often
+experience that an injection of local anesthetics into the
+subacromial bursa decreases shoulder pain and increases
+shoulder strength [5]. Koike et al. [6] reported that the
+uptake of radioisotopes on bone scintigraphy increased in
+shoulders with a symptomatic tear compared to the con-
+tralateral intact shoulders. Inﬂammation seems to be one of
+the major causes of pain in shoulders with a rotator cuff
+tear. In fact, oral medication of anti-inﬂammatory non-
+steroidal drugs (NSAIDs) or intra-articular injection of
+corticosteroid is known to be effective in reducing the pain.
+Although the conservative treatment does not promote the
+This review article was presented at the 85th Annual Meeting
+of Japanese Orthopaedic Association as Instructional Lecture, Kyoto,
+19 May 2012.
+E. Itoi (&)
+Department of Orthopaedic Surgery,
+Tohoku University School of Medicine, Seiryo-machi,
+Aoba-ku, Sendai 980-8574, Japan
+e-mail: itoi-eiji@med.tohoku.ac.jp
+123
+J Orthop Sci
+DOI 10.1007/s00776-012-0345-2
+=====PAGE 2
+healing of a tear, it is effective in most of the cases because
+the major symptom is pain, which is often controllable by
+the conservative treatment.
+Physical examination
+Physical examination starts with inspection. It is easy to
+detect muscle atrophy of the infraspinatus viewing from the
+back of the patient because the infraspinatus is located just
+under the skin, whereas the supraspinatus is covered by the
+trapezius (Fig. 1). Atrophy of the shoulder muscles is a
+common ﬁnding in patients with rotator cuff tears. The
+position of the scapula is also important. If the parascapular
+muscles do not function well, the scapula is protracted and
+located away from the spinous processes. Next, the scap-
+ular motion on the thorax is examined from the back of the
+patient. The scapula rotates upward and downward during
+arm elevation/depression. This smooth movement of the
+scapula on the thorax may have deteriorated because of
+subacromial impingement, and as a result, the medial
+boarder of the scapula may be prominent during arm
+depression in order to avoid the passing of the rotator cuff
+tendon underneath the acromion (Fig. 2). Palpation of the
+cuff tendon defect is a very useful examination. Codman
+[7] described this palpation technique in his textbook ‘‘The
+Shoulder.’’ The tip of the ﬁnger is placed just anterior to
+the acromion to palpate the defect of the cuff tendon
+(Fig. 3). A tendon defect may be felt just anterior to the
+acromion with the shoulder in extension, and it disappears
+under the acromion with the shoulder in ﬂexion. According
+to Wolf and Agrawal [8], the sensitivity and speciﬁcity of
+this palpating of the cuff tendon defect for the diagnosis of
+full-thickness rotator cuff tears were 96 and 97 %,
+respectively, which were equivalent to the sensitivity and
+speciﬁcity of magnetic resonance imaging (MRI) or
+ultrasonography.
+During active or passive arm elevation, patients may
+feel shoulder pain because of subacromial impingement. It
+is called ‘‘painful arc’’ if the pain appears during active arm
+elevation or depression. The pain appears between 90 and
+120 during arm elevation, and it appears between 90 and
+30 during arm depression. On the other hand, if the pain
+appears during passive arm motion, it is called a positive
+‘‘impingement sign.’’ Two types of impingement sign are
+well known: the Neer [9] (Fig. 4) and the Hawkins and
+Kennedy [10] (Fig. 5). Modiﬁcations of these signs are also
+possible (Figs. 6, 7).
+Fig. 1 Atrophy of the shoulder musculature. The right infraspinatus
+muscle is atrophic, and the infraspinous fossa is dented (arrow)
+Fig. 2 Winging of the scapula. The medial boarder of the right
+scapula (arrows) is prominent because of subacromial impingement
+Fig. 3 Palpation of a delle (defect) of the cuff tendon. A delle or
+defect of the tendon may be palpated just anterior to the anterior
+margin of the acromion
+E. Itoi
+123
+=====PAGE 3
+For the purpose of identifying which tendon is ruptured,
+various location-speciﬁc physical examinations have been
+reported. A tear of the supraspinatus tendon can be
+detected by the empty-can test (Fig. 8) [11] or full-can test
+(Fig. 9) [12]. The accuracy of the tests was the greatest
+when muscle weakness was interpreted as indicating a torn
+supraspinatus tendon in both the full-can test (75 % accu-
+rate) and the empty-can test (70 % accurate) [13].
+The major external rotators of the shoulder are the
+infraspinatus and teres minor. Measuring the isometric
+strength of external rotation with the arm at the side is
+commonly performed to detect a tear of the infraspinatus
+[14]. A patient cannot keep the arm in external rotation at
+the side when a tear involves the major portion of the
+infraspinatus tendon. As a result, the forearm drops to the
+neutral rotation position, and this is called the ‘‘dropping
+sign,’’ described by Neer [15] (Fig. 10). Hertel et al. [16]
+introduced an external rotation lag sign, which is similar to
+the ‘‘dropping sign.’’ If a tear is more extensive and
+involves the teres minor, the external rotation strength
+decreases with the arm in abduction, which leads to a
+positive hornblower’s sign (Fig. 11) [17]. Walch et al. [17]
+reported that the hornblower’s sign had a sensitivity of
+100 % and a speciﬁcity of 93 % for the presence of stage 3
+or stage 4 fatty degeneration of teres minor on the CT scan.
+On the other hand, the dropping sign had a 100 % sensi-
+tivity and speciﬁcity for the presence of stage 3 or stage 4
+fatty degeneration of the infraspinatus.
+Fig. 7 Modiﬁed Hawkins sign. Keeping the arm in abduction, apply
+internal rotation force, which causes pain
+Fig. 4 Neer impingement sign. While holding the scapula with one
+hand to avoid scapular rotation, apply elevation force to the arm that
+is in internal rotation. This procedure causes pain if there is a
+subacromial impingement
+Fig. 5 Hawkins impingement sign. With the arm in ﬂexion, apply
+internal rotation force, which causes pain if there is a subacromial
+impingement
+Fig. 6 Modiﬁed Neer sign. Applying elevation force with the arm in
+external rotation is a modiﬁcation of original Neer sign
+Examination of rotator cuff tear
+123
+=====PAGE 4
+With a tear of the subscapularis, the internal rotation
+strength theoretically decreases, but because of the other
+internal rotators such as the teres major, latissimus dorsi,
+and pectoralis major, it is difﬁcult to evaluate a decrease in
+the internal rotation strength with the arm in neutral rota-
+tion using the manual muscle test. The lift-off test to detect
+a subscapularis tear was introduced by Gerber and Krushell
+[18] (Fig. 12). Placing the hand behind the back at the
+lumbar level, the shoulder is almost in full internal rotation,
+and the only internal rotator that functions in this position
+is the subscapularis. The patient is instructed to raise the
+hand off the back, performing a further internal rotation of
+the shoulder. Inability to hold the hand off the back is
+indicative of subscapularis tearing. In cases with limited
+motion of internal rotation, the belly press test is recom-
+mended (Fig. 13) [19].
+Conservative treatment
+For the purpose of eliminating pain, we use oral NSAID
+medication, steroids or hyaluronic acid injections into the
+glenohumeral joint or subacromial bursa depending upon
+the site of the tear. Physical therapy such as heat, stretch-
+ing, passive and active range of motion exercises, and
+muscle strengthening exercises are prescribed. Evaluation
+of any abnormal movement of the scapulothoracic motion
+is also important. If there is any dyskinesis of the scapu-
+lothoracic motion (scapular protraction), it needs to be
+corrected by physical therapy.
+How effective is conservative treatment? The success
+rate of conservative treatment ranges from 33 % [20] to
+82 % [21] in the literature. In our ﬁrst study [21], we ret-
+rospectively reviewed 62 shoulders of 54 patients with full-
+thickness tears who were followed up without surgery. The
+follow-up period averaged 3.4 years. According to modi-
+ﬁed criteria of Wolfgang, 51 shoulders in 45 patients
+(82 %) were rated as satisfactory (excellent or good). The
+patients with satisfactory results and unsatisfactory results
+among those observed more than 5 years were compared.
+The only signiﬁcant differences in the initial ﬁndings
+between the two groups were the active abduction angle
+and the abduction strength: the patients with satisfactory
+results retained a good range of motion and strength,
+whereas those with unsatisfactory results had a limited
+range and muscle weakness on initial examination. Con-
+servative treatment affords satisfactory results when given
+to the patients with well-preserved motion and strength.
+The limitation of this study was that all surgical cases were
+excluded. In order to evaluate the efﬁcacy of conservative
+treatment, those who failed to respond to conservative
+treatment and eventually underwent surgical treatment
+should be included as failure cases of conservative treat-
+ment. In our next study [22], we prospectively treated 107
+shoulders of 105 consecutive patients with full-thickness
+tears of the rotator cuff. We performed conservative
+treatment for 6 months. If the shoulder symptoms disap-
+peared or became mild enough, the treatment was discon-
+tinued. If the shoulder symptoms remained but the patients
+did not want to undergo surgery, conservative treatment
+was continued. If the patients were not happy with their
+shoulder because of remaining symptoms after 6 months of
+conservative treatment, they underwent surgical treatment
+with informed consent. The average age of the patients was
+Fig. 8 Supraspinatus test (empty-can test). Apply downward force to
+the arm in 90 scaption and in internal rotation (thumb down). If there
+is a supraspinatus tear, the patient cannot resist this force because of
+muscle weakness
+Fig. 9 Supraspinatus test (full-can test). Apply downward force with
+the arm in 90 scaption and in external rotation (thumb up). If there is
+a supraspinatus tear, the patient cannot resist this force and the arm
+will be depressed
+E. Itoi
+123
+=====PAGE 5
+64 years (range 44–80 years). Three patients underwent
+surgical treatment. These three patients were evaluated as
+failure cases of conservative treatment. At the time of
+follow-up, one patient was dead as the result of a cause
+other than the shoulder and one patient was missing. In
+total, we followed 102 shoulders of 100 patients with an
+average follow-up period of 32 (12–48) months. At the
+time of follow-up, 50 % of them were totally pain free, and
+40 % had mild pain not requiring pain killers. Regarding
+activities of daily living, 75 % of the patients said they felt
+no limitations in daily activities. In total, 75/100 (75 %)
+had good or excellent results according to the Shoulder
+Rating Score of the Japanese Orthopaedic Association.
+Adding three surgical cases as failure cases, the success
+rate was 73 % (75/103).
+Kuhn et al. [23] reported a multicenter prospective cohort
+study. As of May 2010, 396 patients with full thickness
+rotator cuff tears have been enrolled. They began a physical
+therapy program with or without an intraarticular injection
+depending upon the severity of symptoms. They returned
+for evaluation at 6 and 12 weeks. At those visits, they could
+choose one of three outcomes: (1) cured (no follow-up
+scheduled), (2) improved (continued therapy with scheduled
+reassessment in 6 weeks), or (3) not better (arthroscopic
+cuff repair scheduled). Patients were contacted by telephone
+at 1 and 2 years. Overall, 10 % of the patients chose surgery
+after 6 weeks and another 10 % chose surgery within
+2 years. This made the success rate of conservative treat-
+ment 90 % at 6 weeks and 80 % at 2 years.
+Considering these studies, conservative treatment is
+thought to be effective in 73–80 % of cases with full-
+thickness tears of the rotator cuff. A systematic review has
+shown that exercise has statistically and clinically signiﬁ-
+cant effects on pain reduction and improving function, but
+not on the range of motion or strength [24].
+When we perform conservative treatment, we should
+pay attention to two things: (1) the responsiveness of
+patients to conservative treatment and (2) recurrence of
+symptoms. We know that conservative treatment is effec-
+tive in 73–80 % of patients. If we know who will respond
+well to conservative treatment and who will not before
+initiating the treatment, it would be beneﬁcial for both the
+doctors and patients because we would not have to waste
+non-responders’ time. Also, the present symptom might go
+away after conservative treatment, but could recur in the
+future. If the symptoms disappear after the initial treatment
+but come back repeatedly, the patient will not be happy. If
+we knew who had a good chance of recurrence, we could
+advise surgery for them.
+Responders and non-responders
+We performed a study to determine the physical and
+MRI ﬁndings characteristic of responders on the initial
+Fig. 10 Dropping sign or
+external rotation lag sign. The
+patient is asked to keep the arm
+in external rotation. On the
+intact side (a), the patient can
+keep the arm in external rotation
+position when the examiner lets
+the arm go. On the involved side
+(b), the patient cannot keep the
+arm in external rotation, and the
+arm comes back to the neutral
+rotation after the examiner lets
+the arm go
+Fig. 11 Hornblower’s sign. The patient is asked to bring the hands to
+the mouth. He can do it, but only with the elbow in a high position
+and the wrist in extension on the affected side (right arm). On the
+intact side (left arm), the patient can reach the mouth without bringing
+the elbow high
+Examination of rotator cuff tear
+123
+=====PAGE 6
+examination by comparing those who responded well and
+those who responded poorly to conservative treatment [25].
+This study included 123 shoulders of 118 patients with full-
+thickness rotator cuff tears diagnosed by MRI. All patients
+were treated conservatively for at least 3 months. Clinical
+symptoms improved in 65 shoulders of 62 patients with
+conservative
+treatment
+(responders),
+but
+remained
+unchanged or aggravated in 58 shoulders of 56 patients
+who eventually underwent surgical repair (non-respond-
+ers). The following parameters showed signiﬁcant differ-
+ences: (1) impingement sign (positive in 30.7 % in the
+responders and 79.3 % in the non-responders); (2) active
+external rotation angle on physical examination (52.2
+in the responders and 35.0 in the non-responders);
+(3) integrity of the intramuscular tendon of the supraspi-
+natus on MRI (58.4 % in the responders and 24.1 % in the
+non-responders showed an intact intramuscular tendon);
+(4) presence of supraspinatus muscle atrophy on MRI
+(occupancy ratio was 78.0 % in the responders and 69.8 %
+in the non-responders). The success rate of conservative
+treatment was 92 % in patients with all of these four factors
+and 5.2 % in those with none of these factors. These four
+factors seem to be useful in separating responders from
+non-responders before initiating treatment.
+Recurrence of symptoms
+Symptoms may come back again after the shoulder has
+become symptom free. Some asymptomatic tears become
+symptomatic. Yamaguchi et al. [26] followed up 58
+patients with asymptomatic tears using ultrasonography.
+After an average of 2.8 years, 51 % of them became
+symptomatic. They found that there was a strong associa-
+tion between symptom appearances and tear size expan-
+sion. Mall et al. [27] prospectively monitored 195 patients
+Fig. 12 Lift-off test. A patient
+can lift off the hand from the
+back at the lumbar level with
+the intact subscapularis (a). If it
+is torn, the patient cannot lift off
+the hand from the back (b)
+Fig. 13 Belly-press test. With
+the intact subscapularis, a
+patient can press the belly with
+the hand, wrist, and elbow
+straight (a). If the subscapularis
+is torn, the patient cannot keep
+the hand, wrist, and elbow
+straight to press the belly (b).
+Due to weakness, the patient
+ﬂexes the wrist and brings the
+elbow backward in order to
+press the belly
+E. Itoi
+123
+=====PAGE 7
+with asymptomatic tears for pain development. With pain
+development, the size of a full-thickness tear increased
+signiﬁcantly, with 18 % of the full-thickness tears showing
+an increase of more than 5 mm, and 40 % of the partial-
+thickness tears progressed to a full-thickness tear. They
+concluded that pain development in shoulders with an
+asymptomatic tear was associated with an increase in tear
+size. Safran et al. [28] evaluated 61 full-thickness tears
+equal to or larger than 5 mm in 51 patients using ultraso-
+nography. At an average follow-up period of 29 months,
+49 % of the tears increased in size. There was a signiﬁcant
+correlation between the existence of pain and increase in
+tear size. These reports tell us that the remnant or recurrent
+pain is related to an increase in tear size.
+What
+are
+the
+risk
+factors
+for
+tear
+propagation?
+According to Safran et al. [28], there were no correlations
+between the change in tear size and age of the patients, sex,
+existence of a prior trauma, initial size of the tear, and
+bilateral tears. On the other hand, Maman et al. [29]
+reported that factors that were associated with progression
+of a rotator cuff tear were an age of more than 60 years, a
+full-thickness tear, and fatty inﬁltration of the rotator cuff
+muscles. We evaluated the relationship between the tear
+size and the degree of labor in 195 patients with rotator cuff
+tears (unpublished data). The tear size was signiﬁcantly
+greater in heavy laborers (8.2 ± 1.7 cm2) than in medium
+(4.9 ± 1.1 cm2) or sedentary laborers (4.2 ± 1.5 cm2)
+(p = 0.0020). Vigorous use of the shoulder or traumatic
+event on the shoulder seems to be related to tear expansion.
+Smoking is known to be related to tear size: the greater the
+smoking index, the larger the tear [30, 31]. These factors
+need to be taken into consideration when performing
+conservative treatment. Further studies to clarify the risk
+factors of tear expansion need to be undertaken.
+Conﬂict of interest
+The authors declare that they have no conﬂict
+of interest.
+References
+1. Minagawa H, Itoi E, Abe H, Fukuta M, Yamamoto N, Seki N,
+Kikuchi K. Epidemiology of rotator cuff tears. J Jpn Orthop
+Assoc. 2006;80:S217 (in Japanese).
+2. Yamamoto A, Takagishi K, Osawa T, Yanagawa T, Nakajima D,
+Shitara H, Kobayashi T. Prevalence and risk factors of a rotator
+cuff tear in the general population. J Should Elbow Surg.
+2010;19:116–20.
+3. Kobayashi M, Itoi E, Minagawa H, Yamamoto N, Tuoheti Y,
+Saito H, Seki N, Aizawa T, Abe H. Prevalence of the shoulder
+pain in the middle-aged and the elderly and their choices for the
+treatment. Katakansetsu 2004;29:179 (in Japanese).
+4. Itoi E, Minagawa H, Yamamoto N, Seki N, Abe H. Are pain
+location and physical examinations useful in locating a tear site of
+the rotator cuff? Am J Sports Med. 2006;34:256–64.
+5. Itoi E, Minagawa H, Sato T, Sato K, Tabata S. Isokinetic strength
+after tears of the supraspinatus tendon. J Bone Joint Surg Br.
+1997;79:77–82.
+6. Koike Y, Sano H, Kinjyo T, Imamura I, Masahiro O, Goto M,
+Ooyama M, Kita A, Itoi E. Shoulder surface temperature and
+bone scintigraphy ﬁndings in patients with rotator cuff tears. Ups
+J Med Sci. 2011;116:142–7.
+7. Codman EA. Chapter V: Rupture of the supraspinatus tendon. In:
+The shoulder: rupture of the supraspinatus tendon and other
+lesions in and around the subacromial bursa. Boston: Thomas
+Todd Company; 1934. p. 123–77.
+8. Wolf EM, Agrawal V. Transdeltoid palpation (the rent test) in the
+diagnosis of rotator cuff tears. J Should Elbow Surg. 2001;10:
+470–3.
+9. Neer CS II. Anterior acromioplasty for the chronic impingement
+syndrome in the shoulder: a preliminary report. J Bone Joint Surg
+Am. 1972;54:41–50.
+10. Hawkins RJ, Kennedy JC. Impingement syndrome in athletes.
+Am J Sports Med. 1980;8:151–8.
+11. Jobe FW, Moynes DR. Delineation of diagnostic criteria and a
+rehabilitation program for rotator cuff injuries. Am J Sports Med.
+1982;10:336–9.
+12. Kelly BT, Kadrmas WR, Speer KP. The manual muscle exami-
+nation for rotator cuff strength: an electromyographic investiga-
+tion. Am J Sports Med. 1996;24:581–8.
+13. Itoi E, Kido T, Sano A, Urayama M, Sato K. Which is more
+useful, the ‘‘full can test’’ or the ‘‘empty can test,’’ in detecting
+the torn supraspinatus tendon? Am J Sports Med. 1999;27:65–8.
+14. Matsen FA III, Fehringer EV, Lippitt SB, Wirth MA, Rockwood
+CA Jr. Rotator cuff. In: Rockwood Jr CA, Matsen III FA, Wirth
+MA, Lippitt SB, editors. The shoulder. 4th ed. Philadelphia:
+Saunders/Elsevier; 2009. p. 771–889.
+15. Neer CS. Anatomy of shoulder reconstruction. In: Neer CS, ed.
+Shoulder reconstruction. Philadelphia: W. B. Saunders Company;
+1990. p. 1–39.
+16. Hertel R, Ballmer FT, Lombert SM, Gerber C. Lag signs in the
+diagnosis of rotator cuff rupture. J Should Elbow Surg. 1996;5:
+307–13.
+17. Walch G, Boulahia A, Calderone S, Robinson AH. The ‘drop-
+ping’ and ‘hornblower’s’ signs in evaluation of rotator-cuff tears.
+J Bone Joint Surg Br. 1998;80(4):624–8.
+18. Gerber C, Krushell RJ. Isolated rupture of the tendon of the
+subscapularis muscle. Clinical features in 16 cases. J Bone Joint
+Surg Br. 1991;73:389–94.
+19. Gerber C, Hersche O, Farron A. Isolated rupture of the sub-
+scapularis tendon. J Bone Joint Surg Am. 1996;78:1015–23.
+20. Wolfgang GL. Surgical repair of tears of the rotator cuff of the
+shoulder. Factors inﬂuencing the result. J Bone Joint Surg Am.
+1974;56:14–26.
+21. Itoi E, Tabata S. Conservative treatment of rotator cuff tears. Clin
+Orthop. 1992;275:165–73.
+22. Minagawa H, Itoi E, Saito I. Conservative treatment of rotator
+cuff tears. Rheumatology 2001;25:494–500 (in Japanese).
+23. Kuhn JE, Dunn WR, An AQ, Baumgarten KM, Bishop JY,
+Brophy RH, Carey JL, Holloway GB, Jones GL, Ma CB, Marx
+RG, McCarty EC, Poddar SK, Spencer Jr EE, Vidal AF, Wolf
+BR, Wright RW. Effectiveness of physical therapy in treating
+atraumatic full thickness rotator cuff tears. A multi-center pro-
+spective cohort study. In: 2011 Open meeting, American Shoul-
+der and Elbow Surgeons, San Diego, 19 Feb 2011.
+24. Kuhn JE. Exercise in the treatment of rotator cuff impingement: a
+systematic review and a synthesized evidence-based rehabilita-
+tion protocol. J Should Elbow Surg. 2009;18:138–60.
+25. Tanaka M, Itoi E, Sato K, Hamada J, Hitachi S, Tojo Y,
+Honda M, Tabata S. Factors related to successful outcome of
+Examination of rotator cuff tear
+123
+=====PAGE 8
+conservative treatment for rotator cuff tears. Ups J Med Sci.
+2010;115:193–200.
+26. Yamaguchi K, Tetro AM, Blam O, Evanoff BA, Teefey SA,
+Middleton WD. Natural history of asymptomatic rotator cuff
+tears: a longitudinal analysis of asymptomatic tears detected so-
+nographically. J Should Elbow Surg. 2001;10:199–203.
+27. Mall NA, Kim HM, Keener JD, Steger-May K, Teefey SA,
+Middleton WD, Stobbs G, Yamaguchi K. Symptomatic pro-
+gression of asymptomatic rotator cuff tears: a prospective study
+of clinical and sonographic variables. J Bone Joint Surg Am.
+2010;92:2623–33.
+28. Safran O, Schroeder J, Bloom R, Weil Y, Milgrom C. Natural
+history of nonoperatively treated symptomatic rotator cuff tears
+in patients 60 years old or younger. Am J Sports Med. 2011;39:
+710–4.
+29. Maman E, Harris C, White L, Tomlinson G, Shashank M,
+Boynton E. Outcome of nonoperative treatment of symptomatic
+rotator cuff tears monitored by magnetic resonance imaging.
+J Bone Joint Surg Am. 2009;91:1898–906.
+30. Itoi E, Minagawa H, Konno N, Kobayashi T, Sato T, Sato K,
+Nishi T. Smoking habits in patients with rotator cuff tears.
+Katakansetsu 1996;20:209–12 (in Japanese).
+31. Baumgarten KM, Gerlach D, Galatz LM, Teefey SA, Middleton
+WD, Ditsios K, Yamaguchi K. Cigarette smoking increases the
+risk for rotator cuff tears. Clin Orthop Relat Res. 2010;468:
+1534–41.
+E. Itoi
+123

@@ -74,17 +74,23 @@ def tokens(t):
 
 
 def layout(t, w, fs, wt='R'):
+    """逐字排版；连续的数字、字母和 % 等符号不拆行，避免“1 / 00%”这样断开；标点不落行首"""
     lines = [[]]; cur = 0
+    WORD = set('0123456789.%%~～-–/×:abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ°²')
     for txt, st in tokens(t):
         f = F('B' if st != 'n' else wt, fs)
-        for ch in txt:
-            if ch == '\n': lines.append([]); cur = 0; continue
-            cw = f.getlength(ch)
-            if cur + cw > w and lines[-1]:
-                # 避免标点落在行首
-                if ch in '，。、；：！？）」”' and lines[-1]: pass
-                else: lines.append([]); cur = 0
-            lines[-1].append((ch, st, cw)); cur += cw
+        i = 0
+        while i < len(txt):
+            ch = txt[i]
+            if ch == '\n': lines.append([]); cur = 0; i += 1; continue
+            j = i + 1
+            if ch in WORD:
+                while j < len(txt) and txt[j] in WORD: j += 1
+            seg = txt[i:j]; sw = sum(f.getlength(x) for x in seg)
+            if cur + sw > w and lines[-1] and not (len(seg) == 1 and seg in '，。、；：！？）」”'):
+                lines.append([]); cur = 0
+            for x in seg: cw = f.getlength(x); lines[-1].append((x, st, cw)); cur += cw
+            i = j
     return lines
 
 
