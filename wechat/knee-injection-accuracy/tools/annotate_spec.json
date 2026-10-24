@@ -1,0 +1,14 @@
+[
+ {"src": "work/x24.jpg", "out": "work/fig1.zh.jpg", "fs": 34,
+  "labels": [["髌骨（画线标出）", [250, 40], [540, 160], "teal"], ["进针点", [700, 300], [592, 205], "accent"],
+             ["屈膝 90°", [60, 620], null, "primary"]]},
+ {"src": "work/x35.jpg", "out": "work/fig2.zh.jpg", "fs": 34,
+  "labels": [["髌骨", [140, 470], [405, 515], "teal"], ["髌腱", [140, 640], [425, 640], "teal"],
+             ["进针点：髌骨上缘 × 外侧缘", [60, 300], [520, 393], "accent"], ["伸膝仰卧", [60, 860], null, "primary"]]},
+ {"src": "work/x36.jpg", "out": "work/fig3.zh.jpg", "fs": 34,
+  "labels": [["正位", [40, 860], null, "primary"], ["侧位", [560, 860], null, "primary"],
+             ["空气在关节外软组织", [150, 100], [145, 270], "accent"]]},
+ {"src": "work/x37.jpg", "out": "work/fig4.zh.jpg", "fs": 34,
+  "labels": [["正位", [40, 1100], null, "primary"], ["侧位", [560, 1100], null, "primary"],
+             ["空气在髌上囊内", [140, 60], [170, 210], "teal"]]}
+]
