@@ -292,7 +292,9 @@ def ocr_units(page, clip, dpi):
     for box, text, score in res or []:
         if float(score) < 0.6 or not translatable(text): continue
         xs = [p[0] for p in box]; ys = [p[1] for p in box]
-        units.append(dict(key=text.strip(), dir='h', px=[min(xs), min(ys), max(xs), max(ys)], align='c'))
+        # 竖排文字（如纵坐标标题）：框明显高于宽
+        vert = (max(ys) - min(ys)) > 1.8 * (max(xs) - min(xs)) and len(text.strip()) > 2
+        units.append(dict(key=text.strip(), dir='v' if vert else 'h', px=[min(xs), min(ys), max(xs), max(ys)], align='c'))
     return units
 
 
@@ -441,9 +443,19 @@ def render_raster(fig, strings, fontfile, out, dpi):
         mask = cv2.dilate(mask, np.ones((3, 3), np.uint8), iterations=2)
         if len(ring) and ring.std(0).max() < 12: img[mask > 0] = bg  # 纯色背景直接填色
         else: img = cv2.inpaint(img, mask, 3, cv2.INPAINT_TELEA)
-        jobs.append((zh, (x0, y0, x1, y1), tuple(int(v) for v in ink), u.get('align', 'c')))
+        jobs.append((zh, (x0, y0, x1, y1), tuple(int(v) for v in ink), u.get('align', 'c'), u.get('dir', 'h')))
     im = Image.fromarray(img); dr = ImageDraw.Draw(im)
-    for zh, (x0, y0, x1, y1), ink, al in jobs:
+    for zh, (x0, y0, x1, y1), ink, al, d in jobs:
+        if d == 'v':  # 竖排：按横排写在转置的框里，再逆时针转 90° 贴回
+            bw, bh = y1 - y0, x1 - x0; fs = int(bh * 0.85)
+            while fs > 6 and dr.textlength(zh, font=ImageFont.truetype(fontfile, fs)) > bw * 1.15: fs -= 1
+            f = ImageFont.truetype(fontfile, fs); tw = int(dr.textlength(zh, font=f)) + 4
+            if tw > bw * 1.15: warn.append(zh)
+            t = Image.new('RGBA', (tw, bh), (0, 0, 0, 0))
+            ImageDraw.Draw(t).text((tw / 2, bh / 2), zh, font=f, fill=ink + (255,), anchor='mm')
+            t = t.rotate(90, expand=True)
+            im.paste(t, (x0, int((y0 + y1 - t.height) / 2)), t)
+            continue
         h = y1 - y0; fs = int(h * 0.85)
         while fs > 6:
             f = ImageFont.truetype(fontfile, fs)
