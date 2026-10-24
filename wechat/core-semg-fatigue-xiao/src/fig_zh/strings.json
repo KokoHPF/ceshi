@@ -1,0 +1,20 @@
+{
+ "Time (seconds)": "时间（s）",
+ "MF of ES\nMF of RA\nOne-order fitting": "ES 中位频率\nRA 中位频率\n线性拟合",
+ "MF of EO\nOne-order fitting\nOne-order fitting": "EO 中位频率\n线性拟合\n线性拟合",
+ "MF of RF\nMF of AT\nOne-order fitting\nOne-order fitting": "RF 中位频率\nAT 中位频率\n线性拟合\n线性拟合",
+ "MF of BF\nMF of G\nOne-order fitting\nOne-order fitting": "BF 中位频率\nG 中位频率\n线性拟合\n线性拟合",
+ "MF of ES\nOne-order fitting\nMF of RA": "ES 中位频率\n线性拟合\nRA 中位频率",
+ "One-order fitting\nMF of RF\nOne-order fitting": "线性拟合\nRF 中位频率\n线性拟合",
+ "MF of LES\nMF of REO\nOne-order fitting\nMF of RES": "左ES 中位频率\n右EO 中位频率\n线性拟合\n右ES 中位频率",
+ "One-order fitting\nOne-order fitting\nMF of LEO\nOne-order fitting": "线性拟合\n线性拟合\n左EO 中位频率\n线性拟合",
+ "MF of LRA\nMF of RRF\nOne-order fitting\nMF of RRA": "左RA 中位频率\n右RF 中位频率\n线性拟合\n右RA 中位频率",
+ "One-order fitting\nOne-order fitting\nMF of LRF\nOne-order fitting": "线性拟合\n线性拟合\n左RF 中位频率\n线性拟合",
+ "MF of LBF\nMF of RAT\nOne-order fitting\nMF of RBF": "左BF 中位频率\n右AT 中位频率\n线性拟合\n右BF 中位频率",
+ "One-order fitting\nOne-order fitting\nMF of LAT\nOne-order fitting": "线性拟合\n线性拟合\n左AT 中位频率\n线性拟合",
+ "MF of LES\nMF of REO\nOne-order fitting\nOne-order fitting\nMF of RES": "左ES 中位频率\n右EO 中位频率\n线性拟合\n线性拟合\n右ES 中位频率",
+ "MF of LRA\nOne-order fitting\nMF of LEO\nOne-order fitting\nOne-order fitting": "左RA 中位频率\n线性拟合\n左EO 中位频率\n线性拟合\n线性拟合",
+ "MF of RRA\nMF of LBF\nOne-order fitting\nOne-order fitting\nMF of LRF": "右RA 中位频率\n左BF 中位频率\n线性拟合\n线性拟合\n左RF 中位频率",
+ "MF of RBF\nOne-order fitting\nMF of RRF\nOne-order fitting\nOne-order fitting": "右BF 中位频率\n线性拟合\n右RF 中位频率\n线性拟合\n线性拟合",
+ "Left side\nRight side": "左侧\n右侧"
+}
