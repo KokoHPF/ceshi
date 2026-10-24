@@ -1,0 +1,5 @@
+{
+  "abbr": {"LD": "背阔肌", "Rm": "小菱形肌", "RM": "大菱形肌", "SCM": "胸锁乳突肌", "SP": "棘突", "TP": "横突", "M": "多裂肌"},
+  "words": {"examiner": "检查者", "patient": "患者", "medial": "内侧", "lateral": "外侧", "cranial": "头侧", "caudal": "尾侧",
+            "anterior": "前侧", "posterior": "后侧", "uniform downward force": "均匀向下的力", "trapezius": "斜方肌"}
+}

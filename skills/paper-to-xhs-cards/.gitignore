@@ -1,0 +1,6 @@
+fonts/
+examples/*/work/
+examples/*/out/
+__pycache__/
+*.ocr.json
+*.check.jpg

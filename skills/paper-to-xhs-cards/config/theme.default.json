@@ -1,0 +1,34 @@
+{
+  "_说明": "默认主题。复制一份改成自己的（--theme my_theme.json），只写要改的字段即可，其余沿用默认值。",
+  "account": "骨科康复小黄",
+  "series_suffix": "文献精读",
+  "cover_tag": "康复人必收藏",
+  "size": [1080, 1440],
+  "max_cards": 18,
+  "colors": {
+    "bg": "#F7F2EB",
+    "primary": "#16324F",
+    "accent": "#EE6348",
+    "teal": "#188080",
+    "highlight": "#FFD45C",
+    "ink": "#282828",
+    "muted": "#787878",
+    "white": "#FFFFFF",
+    "light_accent": "#FDE8E1",
+    "light_teal": "#DEF0EE",
+    "light_highlight": "#FFF4D2",
+    "light_primary": "#E4EAF2",
+    "orange": "#C87800",
+    "purple": "#5A46AA",
+    "light_purple": "#F0F0F8",
+    "grey_box": "#ECECEC"
+  },
+  "fonts": {
+    "dir": "fonts",
+    "regular": "NotoSansSC-Regular.otf",
+    "medium": "NotoSansSC-Medium.otf",
+    "bold": "NotoSansSC-Bold.otf",
+    "black": "NotoSansSC-Black.otf",
+    "fallback": ["/usr/share/fonts/truetype/wqy/wqy-zenhei.ttc", "/System/Library/Fonts/PingFang.ttc", "C:/Windows/Fonts/msyh.ttc"]
+  }
+}
