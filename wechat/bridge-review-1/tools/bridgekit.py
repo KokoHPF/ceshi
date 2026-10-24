@@ -80,3 +80,12 @@ class Kit:
         ax.legend(handles=[Patch(color='#7FB86A', label='稳定支撑面'), Patch(color='#E8A200', label='一端在不稳定面（球、波速球、悬吊、振动台）')],
                   frameon=False, fontsize=13, loc='lower center', bbox_to_anchor=(.4, 1.0), ncol=2)
         fig.tight_layout(); fig.savefig(path, facecolor='white'); plt.close(fig)
+
+
+def tags_at(kit, name, tags, W=1200):
+    """tags: [(x 比例, y 比例, 文字, 颜色)]，在指定位置贴中文标签（适合网格多联图和示意图）"""
+    im = kit.op(name); im = im.resize((W, round(im.height * W / im.width)), Image.LANCZOS); d = ImageDraw.Draw(im)
+    for fx, fy, t, c in tags:
+        x0, y0 = round(fx * im.width), round(fy * im.height); tw = d.textlength(t, font=kit.FB)
+        d.rounded_rectangle([x0, y0, x0 + 28 + tw, y0 + 52], 10, fill=c); d.text((x0 + 14, y0 + 4), t, font=kit.FB, fill='white')
+    return im
