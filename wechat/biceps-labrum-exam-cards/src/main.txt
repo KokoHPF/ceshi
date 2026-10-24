@@ -1,0 +1,555 @@
+=====PAGE 1
+Technical Note
+A Comprehensive Review of the Physical
+Examination for the Biceps-Labrum Complex of the
+Shoulder
+Matthew R. Bryan, B.S., Alex E. White, M.D., Paul M. Inclan, M.D.,
+Stephen J. O’Brien, M.D., and Samuel A. Taylor, M.D.
+Abstract: Biceps-labrum complex (BLC) disease is a well-established pain generator in the shoulder. Despite its ubiquity,
+BLC disease continues to pose a diagnostic challenge for orthopaedic surgeons. The use of magnetic resonance imaging
+and glenohumeral arthroscopy in the diagnosis of BLC disease has proven to be inadequate when performed indepen-
+dently. As a result, physical examination remains a critical component in the evaluation of BLC disease. The purpose is to
+provide a comprehensive compendium of physical examination maneuvers in the evaluation of BLC disease.
+U
+nderstating of the biceps-labrum complex (BLC)
+has evolved in recent years, as the diagnosis of its
+related pathologies poses persistent challenges. These
+challenges include shared symptomatology between
+BLC disease and other shoulder abnormalities,1 limited
+diagnostic value of standard imaging techniques and
+arthroscopy, and uncertain threshold of when BLC
+pathology should be addressed with tenodesis or
+tenotomy.2 As surgeons move in the direction of
+treating the superior labrum and long head of the bi-
+ceps tendon (LHBT) as codependent entities instead of
+separate independent units, an all-inclusive compen-
+dium of physical examination maneuvers becomes
+paramount. The physical examination is of particular
+importance in BLC disease, as both magnetic resonance
+imaging and glenohumeral arthroscopy have been
+shown
+to
+incompletely
+evaluate
+the
+BLC
+as
+independent
+investigative
+tools.3,4
+Both
+traditional
+physical examination maneuvers (Speed’s test, Crank
+test, dynamic labral shear test, Yergason’s test, and full
+can
+test)
+and
+the
+3-Pack
+examination
+(active
+compression test [O’Brien sign], palpation of the
+bicipital tunnel, and resisted throwing test) have diag-
+nostic utility for BLC disease. The purpose of this review
+is to provide comprehensive descriptions of the various
+physical examination techniques and insight into their
+value in the evaluation of BLC disease.
+Surgical Technique
+Before any speciﬁc examination maneuvers, thor-
+ough inspection and assessment of the scapulothoracic
+and glenohumeral joints should be assessed, including
+cervical spine examination, palpation of bony land-
+marks, active and passive range of motion, and strength
+testing. Special attention should be paid to gleno-
+humeral internal rotation deﬁcit in overhead throwers,
+who commonly experience pathology of the BLC.5 In
+addition, anterior and posterior stability of the gleno-
+humeral joint should be evaluated with the patient
+supine through load and shift testing. If suspicious for
+scapular pathology, evaluation should be taken further
+with special attention for SICK (Scapular malposition,
+Inferior medial border prominence, Coracoid pain and
+malposition, and dysKinesis of scapular movement)
+scapula syndrome, which is characterized as scapular
+malposition, inferior medial border prominence, cora-
+coid pain and malposition, and dyskinetic scapular
+motion. After a general examination of the shoulder is
+From Harvard Medical School, Boston, Massachusetts, U.S.A. (M.R.B.);
+Department of Orthopaedic Surgery, Hospital for Special Surgery, New York,
+New York, U.S.A. (A.E.W., P.M.I., S.J.O., S.A.T.); and Department of Sports
+Medicine and Shoulder Surgery, Hospital for Special Surgery, New York, New
+York, U.S.A. (S.J.O., S.A.T.).
+Received April 16, 2024; accepted May 24, 2024.
+Address correspondence to Matthew R. Bryan, B.S., Harvard Medical
+School, 25 Shattuck St., Boston, MA 02120, U.S.A. E-mail: matthew_bryan@
+hms.harvard.edu
+ 2024 THE AUTHORS. Published by Elsevier Inc. on behalf of the
+Arthroscopy Association of North America. This is an open access article under
+the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/
+4.0/).
+2212-6287/24623
+https://doi.org/10.1016/j.eats.2024.103136
+Arthroscopy Techniques, Vol 13, No 12 (December), 2024: 103136
+e1
+=====PAGE 2
+completed, more speciﬁc examination maneuvers can
+be performed to evaluate for BLC disease (Video 1).
+Three-Pack Examination Maneuvers
+O’Brien Sign (Active Compression Test) With the Dines
+and Taylor Modiﬁcations
+The active compression test6 with the Dines modiﬁ-
+cation7 is performed with the patient standing square
+facing the examiner with both arms forward ﬂexed to
+90 with the elbows in full extension (Fig 1). Both arms
+are then fully internally rotated with the thumbs
+pointing inferiorly and then adducted toward the
+midline with the dorsum of both hands touching to
+create a 10 to 15 adduction angle for both shoulders.
+In this test, the examiner applies a uniform downward
+force to the patient’s arms as they resist and attempt to
+maintain 90 of forward ﬂexion. This maneuver is then
+repeated with the arms at 90 of forward ﬂexion, with
+the shoulders externally rotated and forearms supi-
+nated with palms facing upward. Simultaneous exam-
+ination of bilateral shoulders with adduction to the
+midline (i.e., the “Dines” modiﬁcation) allows for more
+consistent positioning of the upper extremity, with
+reliable adduction to the midline. The ulnar surfaces of
+the patient’s hand should remain touching. A positive
+active compression test (O’Brien sign) occurs when the
+patient reports pain “inside the shoulder” when their
+thumb is pointing inferiorly, but the pain is eliminated
+or reduced when the maneuver is repeated with the
+palm facing upward. Pain “inside the shoulder” is used
+to identify the biceps-labrum complex as the source of
+the pain instead of the acromioclavicular joint, which
+can also be painful at the top of the shoulder with this
+maneuver. An alternative modiﬁcation to this maneu-
+ver involves the examiner controlling the contralateral
+arm at 45 of forward ﬂexion with the shoulder inter-
+nally rotated to prevent the patient from externally
+rotating the shoulder of interest during the examina-
+tion (Taylor modiﬁcation).
+Resisted Throwing Test
+This test is performed with the elbow ﬂexed to 90,
+and the shoulder abducted to 90 with maximal
+external rotation to mimic the late-cocking position (Fig
+2). The examiner stands behind the patient on the side
+being tested and applies isometric resistance to the arm
+as the patient steps forward with the contralateral leg
+moving into the early acceleration throwing phase. A
+painful throwing test is most speciﬁc for junctional
+disease, but can also indicate bicipital tunnel disease or
+lesions inside the joint.8
+Palpation of the Bicipital Tunnel
+This test involves manual palpation along the course
+of the extra-articular LHBT with the arm in a neutral
+position. To assist palpation of the LHBT, the examiner
+may passively internally and externally rotate the up-
+per arm (Fig 3). Not surprisingly, this maneuver is most
+sensitive for lesions in the bicipital tunnel; however, it
+can also assist in detecting lesions inside the joint and at
+Fig 1. Photograph of the active compression test (O’Brien Sign) with the Dines modiﬁcation (A) or Taylor modiﬁcation (B). The
+examiner applies a uniform downward force to the patient’s arms as they resist and attempt to maintain 90 of forward ﬂexion.
+In the Dines modiﬁcation, the test is performed bilaterally; in the Taylor modiﬁcation, the contralateral arm is controlled at the
+wrist with the arm forward ﬂexed to 45.
+e2
+M. R. BRYAN ET AL.
+=====PAGE 3
+the articular junction.8 It should be noted that excessive
+pressure in the anterior shoulder can be painful even in
+uninjured extremities; thus careful titration of force
+should be used. Comparison of examination ﬁndings to
+the contralateral extremity is of particular value for this
+maneuver.
+Other Examination Maneuvers
+Crank Test
+The crank test can be performed in either the upright
+or supine position. The patient’s arm is elevated to 160
+and the examiner applies axial load through the
+shoulder joint while also rotating the humerus inter-
+nally and externally. Pain with this test is typically eli-
+cited during external rotation, and a positive ﬁnding
+has historically indicated labral pathology.
+Speed’s Test
+This test is performed with the patient standing up-
+right with their shoulder in 60 to 90 of forward
+ﬂexion with their forearm fully supinated and elbow
+extended (Fig 4). The examiner applies a downward
+force to the patient’s forearm as they resist. A positive
+test is indicated by pain in the anterior shoulder or
+within the shoulder joint. Studies are somewhat vari-
+able; however, most have indicated Speed’s test to be
+poorly
+sensitive
+but
+somewhat
+speciﬁc
+for
+BLC
+lesions.9,10
+Fig 2. Photograph of the resisted throwing test performed on
+a patient’s right shoulder. The examiner applies isometric
+resistance to the patient’s arm as they step forward with the
+contralateral leg moving into the early acceleration throwing
+phase.
+Fig 3. Photograph of the palpation of the bicipital tunnel
+examination on a patient’s right shoulder. The examiner
+palpates the long head of the biceps tendon while passively
+internally and externally rotating the upper arm.
+Fig 4. Photograph of examiner preforming a bilateral Speed’s
+test. The examiner applies a uniform downward force to the
+patient’s forearms as they resist with the arms in 60 to 90 of
+forward ﬂexion and with their forearms fully supinated and
+elbows extended.
+BICEPS-LABRUM COMPLEX OF THE SHOULDER
+e3
+=====PAGE 4
+Dynamic Labral Shear Test
+The dynamic labral shear test is performed with the
+patient standing upright with the examiner positioned
+behind them. The examiner holds the wrist of the pa-
+tient with one hand and uses the other hand to apply
+an anteriorly directed force on the proximal humerus
+near the joint line. This is performed with the patient
+not resisting any of the maneuvers and with the arm
+externally rotated and elevated in the plane of the body
+up to maximal abduction. This test is considered posi-
+tive if the patient reports pain in their shoulder or the
+examiner feels a click in the posterior shoulder between
+90 and 120 of abduction. In assessing SLAP tears, this
+test has demonstrated moderate sensitivity with some-
+what good speciﬁcity.11
+Yergason’s Test
+Yergason’s test is performed with the patient standing
+upright with their arm at their side and the elbow ﬂexed
+to 90 (Fig 5). With the forearm in full pronation, the
+patient is directed to supinate their forearm against the
+examiner’s resistance. Alternatively, the patient may
+begin with the forearm in full supination and resist the
+examiner’s force to pronate the forearm. A positive test
+is indicated by pain in the area of the bicipital tunnel or
+glenohumeral joint. Research has shown this test to be
+poorly sensitive but highly speciﬁc for BLC lesions.10
+Empty-Can (Jobe’s) Test
+The empty-can test is performed with the patient
+standing upright and the arm forward ﬂexed to 90 in
+the plane of the scapula (Fig 6). The arm, however, is
+internally rotated with the thumb pointing downward.
+The examiner applies a downward force as the patient
+resists. Traditionally, a positive test in the form of
+shoulder pain indicates supraspinatus pathology.
+Full-Can Test
+Similar to the empty-can, the full-can test is per-
+formed with the patient standing upright and the arm
+Fig 5. Photograph of Yergason’s test performed on a patient’s right arm. (A) The patient attempts to pronate the arm against
+examiner resistance. (B) The patient attempts to supinate the arm against examiner resistance.
+Fig 6. Photograph of examiner preforming the empty-can
+(Jobe’s) test. The examiner applies a downward force as the
+patient resists with their arms forward ﬂexed to 90 in the
+plane of the scapula and internally rotated with the thumbs
+pointing downward.
+e4
+M. R. BRYAN ET AL.
+=====PAGE 5
+forward ﬂexed to 90 in the plane of the scapula (Fig 7).
+With the patient’s ﬁst closed and thumb pointing up,
+the patient resists a downward-directed force from the
+examiner applied through the forearm. A positive test is
+indicated by pain or weakness in the shoulder joint.
+Given the arm position, a positive full can implicates
+pathology along the leading edge of the supraspinatus,
+LHBT, and upper border of the subscapularis.
+Discussion
+The BLC represents the shared anatomic and clinical
+features of the biceps and labrum, and it has 3
+anatomical zones: inside, junction, and bicipital tunnel.
+In their cadaveric study of glenohumeral and subdeltoid
+arthroscopy, Taylor et al.3,4 deﬁned the various BLC
+pathologies unique to these zones. Inside lesions
+include SLAP tears, anterior labrum tears, posterior
+labrum tears, and dynamic incarceration of the LHBT
+between the humeral head and glenoid. Junctional le-
+sions include partial tears of the LHBT, biceps chon-
+dromalacia,
+and
+proximal
+LHBT
+instability
+from
+subscapularis
+insufﬁciency.
+Bicipital
+tunnel
+lesions
+include partial tears of the LHBT, painful vincula,
+instability, stenosis, and loose bodies (Table 1).3 BLC
+disease is an important source of shoulder pain,
+particularly in overhead athletes who present with
+anterior shoulder pain, shoulder instability, and often
+mechanical symptoms, such as clicking and popping
+during the late cocking phase of the throwing motion.12
+Concomitant shoulder injuries are common in the
+setting of BLC pathology.
+The reported sensitivity and speciﬁcity of the Speed’s
+and Yergason’s tests are quite variable throughout the
+literature. In a study of 152 patients with shoulder pain,
+the sensitivity and speciﬁcity for Speed’s test was 32%
+and 75%, respectively, and the sensitivity and speci-
+ﬁcity for Yergason’s was 43% and 79%, respectively.10
+In a separate study, Bennett reported Speed’s test to be
+90% sensitive and 13.8% speciﬁc for biceps tendinitis,
+SLAP lesions, and biceps avulsions when compared
+against arthroscopy.9 Thus, as concluded by Holtby and
+Razmjou,10 these traditional biceps examination ma-
+neuvers have variable predictive values in different
+populations and settings, do not change post-test
+probability, and are unlikely to change the pretest
+diagnosis. Another important examination maneuver,
+the dynamic labral shear test, is useful for evaluating
+BLC disease and speciﬁcally ruling out isolated SLAP
+tears. In a cohort study evaluating the labral shear test
+against diagnostic arthroscopy it was found to be 78%
+sensitive and 51% speciﬁc, with a positive predictive
+value and negative predictive value (NPV) of 2% and
+100%, respectively. The high relative sensitivity and
+NPV with low speciﬁcity would suggest that a negative
+dynamic labral shear test can reliably rule out a SLAP
+lesion but a positive test cannot effectively distinguish
+SLAP lesions from concomitant shoulder pathologies.11
+The crank test is an additional test for labral pathology
+that demonstrated a 41% positive predictive value and
+61% NPV, with just 56% speciﬁcity and 46% sensi-
+tivity.13 These ﬁndings bring into question the utility of
+the labral shear test for diagnosing labral tears in the
+shoulder.13
+In a study of 116 subjects with chronic BLC symptoms
+and 29 asymptomatic comparison subjects, Taylor
+et al.8 evaluated 4 of the traditional examination ma-
+neuvers (Speed’s test, Yergason’s test, empty-can test,
+and full-can test) for their diagnostic utility in the
+identiﬁcation of BLC disease. Similar to previous
+studies, the traditional tests were speciﬁc (75.6-100.0),
+but much less sensitive (15.2-67.4). In addition, these
+Fig 7. Photograph of examiner preforming the full-can test.
+With the patient’s arms forward ﬂexed to 90 in the plane of
+the scapula and with thumbs pointing upward, the examiner
+applied a uniform downward force as the patient resists.
+Table 1. Common Pathologies of the Three Zones of the
+Biceps Labrum Complex
+Inside Lesions
+Junctional Lesions
+Bicipital Tunnel
+Lesions
+SLAP tears
+Partial LHBT tears
+Partial tears of the
+LHBT
+Anterior labrum
+tears
+Biceps
+chondromalacia
+Painful biceps
+vincula
+Posterior labrum
+tears
+Proximal LHBT
+instability
+(subscapularis
+insufﬁciency)
+LHBT instability and
+stenosis
+Incarceration of the
+LHBT
+Loose bodies
+LHBT, long head of the biceps tendon.
+BICEPS-LABRUM COMPLEX OF THE SHOULDER
+e5
+=====PAGE 6
+tests had widely variable inter-rater reliability with
+kappa coefﬁcients from 25.4 to 56.2, indicating weak-
+to-moderate inter-rater reliability. In the same study,
+the 3-Pack examination maneuvers were found to be
+more sensitive (72.6-97.8) but less speciﬁc (45.7-78.8)
+than the traditional physical examination maneu-
+vers.8,12 Palpation of the bicipital tunnel and the
+O’Brien sign demonstrated NPVs of 96.4% and 92.6%,
+respectively, for lesions in the bicipital tunnel, demon-
+strating that these 2 components of the 3-Pack exami-
+nation can very effectively rule out extra-articular
+bicipital tunnel disease when negative.8,12 Given that
+extra-articular bicipital tunnel lesions are frequently
+concealed during arthroscopy,3 examination maneu-
+vers that can effectively identify or rule out these le-
+sions
+are
+valuable.
+The
+3-Pack
+examination
+also
+demonstrates excellent inter-rater reliability with a
+kappa coefﬁcient of 71.0, 70.0, and 85.0 for the active
+compression test, throwing test, and bicipital tunnel
+palpation, respectively.8 The 3-Pack examination has
+greater sensitivity, NPV, and inter-rater reliability than
+traditional tests, making it critical in the assessment and
+diagnosis of BLC disease. Pearls and pitfalls of the
+described physical examination maneuvers are pre-
+sented in Table 2.
+Orthopaedic surgeons face challenges in the diagnosis
+of BLC disease and its related pathologies. In general,
+there is no single presentation unique to BLC disease,
+and there is a somewhat broad differential in the
+assessment of anterior shoulder pain. In addition,
+magnetic
+resonance
+imaging
+and
+arthroscopy
+are
+limited in their diagnostic value. For these reasons,
+developing a reliable compendium of physical exami-
+nation maneuvers is critical in the evaluation of BLC
+disease. Although Speed’s, Yergason’s, empty-can, and
+full-can tests have diagnostic value, the 3-Pack exami-
+nation maneuvers have greater sensitivity, NPV, and
+inter-rater reliability. The combination of these exami-
+nation maneuvers is critical in the comprehensive
+evaluation of anterior shoulder pathology and in the
+diagnosis of BLC disease.
+Disclosures
+The authors declare the following ﬁnancial interests/
+personal relationships which may be considered as
+potential competing interests: S.A.T. reports a rela-
+tionship with DJ Orthopedics that includes: consulting
+or advisory. All other authors (M.R.B., A.E.W., P.M.I.,
+S.J.O.) declare that they have no known competing
+ﬁnancial interests or personal relationships that could
+have appeared to inﬂuence the work reported in this
+paper.
+References
+1. Gill HS, El Rassi G, Bahk MS, Castillo RC, McFarland EG.
+Physical examination for partial tears of the biceps
+tendon. Am J Sports Med 2007;35:1334-1340.
+2. Goncharov
+EN,
+Koval
+OA,
+Bezuglov
+EN,
+et
+al.
+A comparative analysis between conservative treatment,
+arthroscopic repair, and biceps tenodesis in superior labral
+anterior-posterior (SLAP) lesions. Cureus 2023;15:e47512.
+3. Taylor SA, Khair MM, Gulotta LV, et al. Diagnostic gle-
+nohumeral arthroscopy fails to fully evaluate the biceps-
+labral complex. Arthroscopy 2015;31:215-224.
+4. Taylor SA, Newman AM, Nguyen J, et al. Magnetic
+resonance imaging currently fails to fully evaluate the
+biceps-labrum complex and bicipital tunnel. Arthroscopy
+2016;32:238-244.
+5. Wilk KE, Macrina LC, Cain EL, Dugas JR, Andrews JR.
+The recognition and treatment of superior labral (slap)
+lesions in the overhead athlete. Int J Sports Phys Ther
+2013;8:579-600.
+6. O’Brien SJ, Pagnani MJ, Fealy S, McGlynn SR, Wilson JB.
+The active compression test: A new and effective test for
+diagnosing labral tears and acromioclavicular joint ab-
+normality. Am J Sports Med 1998;26:610-613.
+7. Urch E, Taylor SA, Zitkovsky H, O’Brien SJ, Dines JS,
+Dines DM. A modiﬁcation of the active compression test
+for the shoulder biceps-labrum complex. Arthrosc Tech
+2017;6:e859-e862.
+Table 2. Pearls and Pitfalls
+Pearls
+Pitfalls
+The active compression test
+(O’Brien sign) should be
+performed with the Dines or
+Taylor modiﬁcation to
+prevent the patient from
+externally rotating their
+shoulder during the
+examination
+Failure to control the patient’s
+contralateral arm during the
+active compression test
+(O’Brien sign) can lead to
+false-negative or false-
+positive ﬁndings as the
+patient rotates the extremity
+of interest into the plane of
+the scapula
+The empty- and full-can tests
+can help the examiner to
+differentiate BLC pathology
+(full can) from rotator cuff
+pathology (empty can)
+Pain during the active
+compression test must be
+identiﬁed as either “inside
+the shoulder” or “on top of
+the shoulder” to distinguish
+between pain at the BLC
+versus pain at the
+acromioclavicular joint
+During palpation of the
+bicipital tunnel, internal and
+external rotation at the
+shoulder can help the
+examiner reliably palpate
+the LHBT
+Excessive force when
+palpating the bicipital
+tunnel may result in a false-
+positive examination.
+Given its high NPV, a negative
+3-Pack examination can
+effectively rule out extra-
+articular BLC disease
+Imaging (MRI) and
+arthroscopy incompletely
+evaluates all 3 zones of the
+BLC; reliance on these
+modalities without a
+comprehensive
+examination will lead to
+missed pathology
+BLC, biceps-labrum complex; LHBT, long head of the biceps tendon;
+MRI, magnetic resonance imaging; NPV, negative predictive value.
+e6
+M. R. BRYAN ET AL.
+=====PAGE 7
+8. Taylor SA, Newman AM, Dawson C, et al. The “3-pack”
+examination is critical for comprehensive evaluation of
+the biceps-labrum complex and the bicipital tunnel: A
+prospective study. Arthroscopy 2017;33:28-38.
+9. Bennett WF. Speciﬁcity of the Speed’s test: Arthroscopic
+technique for evaluating the biceps tendon at the level of
+the bicipital groove. Arthroscopy 1998;14:789-796.
+10. Holtby R, Razmjou H. Accuracy of the Speed’s and Yer-
+gason’s tests in detecting biceps pathology and SLAP le-
+sions: Comparison with arthroscopic ﬁndings. Arthroscopy
+2004;20:231-236.
+11. Sodha
+S,
+Srikumaran
+U,
+Choi
+K,
+Borade
+AU,
+McFarland EG. Clinical assessment of the dynamic labral
+shear test for superior labrum anterior and posterior le-
+sions. Am J Sports Med 2017;45:775-781.
+12. Calcei JG, Boddapati V, Altchek DW, Camp CL, Dines JS.
+Diagnosis and treatment of injuries to the biceps and su-
+perior labral complex in overhead athletes. Curr Rev
+Musculoskelet Med 2018;11:63-71.
+13. Stetson WB, Templin K. The crank test, the O’Brien test,
+and routine magnetic resonance imaging scans in the
+diagnosis of labral tears. Am J Sports Med 2002;30:806-809.
+BICEPS-LABRUM COMPLEX OF THE SHOULDER
+e7
