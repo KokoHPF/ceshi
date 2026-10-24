@@ -110,23 +110,26 @@ def erase(img, box, lh):
 
 def apply(p, L, fx, font, out):
     bs, zh = boxes(p, L, fx); img = np.asarray(Image.open(p).convert('RGB')).copy()
-    lh = lambda b: min(b[3] - b[1], b[2] - b[0]) if (b[3] - b[1]) > 1.6 * (b[2] - b[0]) else b[3] - b[1]
+    nl = lambda b: zh(b[4]).count('\n') + 1  # 译文可用 \n 分行（多行英文合并成一个框时）
+    lh = lambda b: min(b[3] - b[1], b[2] - b[0]) if (b[3] - b[1]) > 1.6 * (b[2] - b[0]) and nl(b) == 1 else (b[3] - b[1]) / nl(b)
     for b in bs: img = erase(img, b[:4], lh(b))
     for b in fx.get('erase', []): img = erase(img, b, (b[3] - b[1]) * .8)
     im = Image.fromarray(img); d = ImageDraw.Draw(im)
     if bs:
         base = sorted(lh(b) for b in bs)[len(bs) // 2]; fs = int(base * 1.15 * fx.get('size', 1.0)); f = ImageFont.truetype(font, fs)
         for b in bs:
-            t = zh(b[4]); tw = d.textlength(t, font=f)
+            t = zh(b[4]); tw = max(d.textlength(q, font=f) for q in t.split('\n'))
             cx, cy = fx.get('pos', {}).get(b[4], ((b[0] + b[2]) / 2, (b[1] + b[3]) / 2))
             light = np.asarray(im.convert('L').crop(tuple(int(v) for v in b[:4]))).mean() >= 170
             fill, st = ((20, 20, 20), (255, 255, 255)) if light else ((255, 255, 255), (0, 0, 0))
-            if (b[3] - b[1]) > 1.6 * (b[2] - b[0]) and len(t) > 1:  # 竖排
+            if (b[3] - b[1]) > 1.6 * (b[2] - b[0]) and len(t) > 1 and '\n' not in t:  # 竖排
                 tmp = Image.new('RGBA', (int(tw) + 20, int(fs * 1.5)), (0, 0, 0, 0))
                 ImageDraw.Draw(tmp).text((10, fs * .1), t, font=f, fill=fill, stroke_width=max(2, fs // 12), stroke_fill=st)
                 tmp = tmp.rotate(90, expand=True); im.paste(tmp, (int(cx - tmp.width / 2), int(cy - tmp.height / 2)), tmp); continue
-            x = max(4, min(im.width - tw - 4, cx - tw / 2))
-            d.text((x, cy - fs * .62), t, font=f, fill=fill, stroke_width=max(2, fs // 12), stroke_fill=st)
+            ls = t.split('\n')
+            for k, ln in enumerate(ls):
+                tw = d.textlength(ln, font=f); x = max(4, min(im.width - tw - 4, cx - tw / 2))
+                d.text((x, cy - fs * .62 + (k - (len(ls) - 1) / 2) * fs * 1.25), ln, font=f, fill=fill, stroke_width=max(2, fs // 12), stroke_fill=st)
     os.makedirs(out, exist_ok=True); o = os.path.join(out, os.path.splitext(os.path.basename(p))[0] + '.zh.jpg')
     im.save(o, quality=92); print(o, len(bs), '处标注')
 
