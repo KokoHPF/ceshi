@@ -1,0 +1,11 @@
+[
+ {"src": "work/x75.jpg", "out": "work/fig1.zh.jpg", "scale": 2, "fs": 40,
+  "labels": [["起始：肩前屈 90°", [20, 1010], null, "teal"], ["终点：90/90 外旋", [640, 1010], null, "accent"]]},
+ {"src": "work/x81.jpg", "out": "work/fig2.zh.jpg", "scale": 2, "fs": 46,
+  "labels": [["背靠墙坐，单手推 6 磅球", [30, 1700], null, "teal"]]},
+ {"src": "work/x82.jpg", "out": "work/fig3.zh.jpg", "scale": 2, "fs": 42,
+  "labels": [["起始：前臂撑平板，靠墙", [30, 30], null, "teal"], ["以支撑侧上肢为轴转体，另一手拍墙", [30, 820], null, "accent"]]},
+ {"src": "work/x93.jpg", "out": "work/fig4.zh.jpg", "scale": 2, "fs": 40,
+  "labels": [["外展 90°", [40, 960], null, "teal"], ["外展 120°", [620, 960], null, "teal"], ["外展 160°", [1220, 960], null, "teal"],
+             ["外展 90°＋屈肘 90°", [30, 2050], null, "accent"], ["＋弹力带拉向外旋", [600, 2050], null, "accent"], ["过头＋弹力带拉向后伸", [1260, 2050], null, "accent"]]}
+]
