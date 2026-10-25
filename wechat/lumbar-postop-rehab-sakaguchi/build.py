@@ -349,6 +349,18 @@ A.append(small(
     "首图、三类问题卡和临床要点卡为编者根据原文整理。原文附录的 RMDQ、ODI 问卷有各自的版权，本文未转载。仅供学习交流，如有侵权请联系删除。"
 ))
 
+def inline_imgs(html):
+    """预览页里的图片改成 base64 内嵌：单个 preview.html 拿到哪里打开都能看到图。"""
+    import base64
+    import re
+    mime = {".png": "image/png", ".gif": "image/gif"}
+
+    def rep(m):
+        f = HERE / m.group(1)
+        return f'src="data:{mime.get(f.suffix, "image/jpeg")};base64,{base64.b64encode(f.read_bytes()).decode()}"'
+    return re.sub(r'src="((?:images|gifs)/[^"]+)"', rep, html)
+
+
 TITLE = "「腰椎术后」康复怎么评、怎么练？日本团队综述：按入路练肌力，平衡要同等重视，这 4 个动作融合前先别做"
 BODY = "".join(A)
 (HERE / "article_body.html").write_text(BODY, encoding="utf-8")
@@ -368,7 +380,7 @@ BODY = "".join(A)
 <div class="paper">
 <h1>""" + TITLE + """</h1>
 <div class="by">原创 · 骨科康复小黄</div>
-""" + BODY + "\n</div>\n",
+""" + inline_imgs(BODY) + "\n</div>\n",
     encoding="utf-8",
 )
 print("written", len(BODY), "chars", BODY.count("<img"), "imgs")

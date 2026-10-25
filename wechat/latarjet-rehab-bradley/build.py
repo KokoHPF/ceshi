@@ -335,6 +335,18 @@ A.append(small(
     "附录 1 进阶流程图由编者翻译并重新排版；表格、首图和临床要点卡为编者根据原文整理。改编的图片同样按 CC BY-NC-SA 4.0 共享。仅供学习交流，如有侵权请联系删除。"
 ))
 
+def inline_imgs(html):
+    """预览页里的图片改成 base64 内嵌：单个 preview.html 拿到哪里打开都能看到图。"""
+    import base64
+    import re
+    mime = {".png": "image/png", ".gif": "image/gif"}
+
+    def rep(m):
+        f = HERE / m.group(1)
+        return f'src="data:{mime.get(f.suffix, "image/jpeg")};base64,{base64.b64encode(f.read_bytes()).decode()}"'
+    return re.sub(r'src="((?:images|gifs)/[^"]+)"', rep, html)
+
+
 TITLE = "「Latarjet 术后」运动员怎么练回赛场？五阶段按标准进阶：前 3 周外旋别过 30°，力量期不早于 6 周"
 BODY = "".join(A)
 (HERE / "article_body.html").write_text(BODY, encoding="utf-8")
@@ -354,7 +366,7 @@ BODY = "".join(A)
 <div class="paper">
 <h1>""" + TITLE + """</h1>
 <div class="by">原创 · 骨科康复小黄</div>
-""" + BODY + "\n</div>\n",
+""" + inline_imgs(BODY) + "\n</div>\n",
     encoding="utf-8",
 )
 print("written", len(BODY), "chars", BODY.count("<img"), "imgs")

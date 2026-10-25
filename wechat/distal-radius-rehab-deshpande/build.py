@@ -321,6 +321,18 @@ A.append(small(
     "表格、首图、时间轴和临床要点卡为编者根据原文整理。仅供学习交流，如有侵权请联系删除。"
 ))
 
+def inline_imgs(html):
+    """预览页里的图片改成 base64 内嵌：单个 preview.html 拿到哪里打开都能看到图。"""
+    import base64
+    import re
+    mime = {".png": "image/png", ".gif": "image/gif"}
+
+    def rep(m):
+        f = HERE / m.group(1)
+        return f'src="data:{mime.get(f.suffix, "image/jpeg")};base64,{base64.b64encode(f.read_bytes()).decode()}"'
+    return re.sub(r'src="((?:images|gifs)/[^"]+)"', rep, html)
+
+
 TITLE = "「桡骨远端骨折」保守、克氏针、钢板分别怎么练？三条路线分期康复，附原文对不上的地方"
 BODY = "".join(A)
 (HERE / "article_body.html").write_text(BODY, encoding="utf-8")
@@ -340,7 +352,7 @@ BODY = "".join(A)
 <div class="paper">
 <h1>""" + TITLE + """</h1>
 <div class="by">原创 · 骨科康复小黄</div>
-""" + BODY + "\n</div>\n",
+""" + inline_imgs(BODY) + "\n</div>\n",
     encoding="utf-8",
 )
 print("written", len(BODY), "chars", BODY.count("<img"), "imgs")

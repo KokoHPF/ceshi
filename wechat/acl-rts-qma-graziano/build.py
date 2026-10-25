@@ -325,6 +325,18 @@ A.append(small(
     "表格为编者翻译；首图、评估卡、结果图和临床要点卡为编者根据原文整理。版权归原作者所有，仅供学习交流，如有侵权请联系删除。"
 ))
 
+def inline_imgs(html):
+    """预览页里的图片改成 base64 内嵌：单个 preview.html 拿到哪里打开都能看到图。"""
+    import base64
+    import re
+    mime = {".png": "image/png", ".gif": "image/gif"}
+
+    def rep(m):
+        f = HERE / m.group(1)
+        return f'src="data:{mime.get(f.suffix, "image/jpeg")};base64,{base64.b64encode(f.read_bytes()).decode()}"'
+    return re.sub(r'src="((?:images|gifs)/[^"]+)"', rep, html)
+
+
 TITLE = "「青少年 ACL 重建」单腿跳 100% 对称也不该放行？42 名骨骺未闭运动员加做动作质量评估，平均 12 个月重返运动"
 BODY = "".join(A)
 (HERE / "article_body.html").write_text(BODY, encoding="utf-8")
@@ -344,7 +356,7 @@ BODY = "".join(A)
 <div class="paper">
 <h1>""" + TITLE + """</h1>
 <div class="by">原创 · 骨科康复小黄</div>
-""" + BODY + "\n</div>\n",
+""" + inline_imgs(BODY) + "\n</div>\n",
     encoding="utf-8",
 )
 print("written", len(BODY), "chars", BODY.count("<img"), "imgs")

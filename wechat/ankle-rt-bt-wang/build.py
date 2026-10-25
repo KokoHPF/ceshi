@@ -312,6 +312,18 @@ A.append(small(
     "首图、指标说明卡和临床要点卡为编者根据原文整理；文中重新计算的 P 值为编者根据原文给出的人数推算。仅供学习交流，如有侵权请联系删除。"
 ))
 
+def inline_imgs(html):
+    """预览页里的图片改成 base64 内嵌：单个 preview.html 拿到哪里打开都能看到图。"""
+    import base64
+    import re
+    mime = {".png": "image/png", ".gif": "image/gif"}
+
+    def rep(m):
+        f = HERE / m.group(1)
+        return f'src="data:{mime.get(f.suffix, "image/jpeg")};base64,{base64.b64encode(f.read_bytes()).decode()}"'
+    return re.sub(r'src="((?:images|gifs)/[^"]+)"', rep, html)
+
+
 TITLE = "「踝扭伤」在家练 6 周，弹力带还是平衡垫？54 人对比：平衡训练在交叉跳和疼痛上更占优"
 BODY = "".join(A)
 (HERE / "article_body.html").write_text(BODY, encoding="utf-8")
@@ -331,7 +343,7 @@ BODY = "".join(A)
 <div class="paper">
 <h1>""" + TITLE + """</h1>
 <div class="by">原创 · 骨科康复小黄</div>
-""" + BODY + "\n</div>\n",
+""" + inline_imgs(BODY) + "\n</div>\n",
     encoding="utf-8",
 )
 print("written", len(BODY), "chars", BODY.count("<img"), "imgs")
