@@ -17,6 +17,7 @@
 SKILL.md                    给模型看的完整流程（核心）
 config/theme.default.json   默认主题：账号名、配色、字体、尺寸、张数上限
 scripts/cardkit.py          排版引擎（封面 / 图文卡 / 文字卡 / 数据图卡 / 速查表卡，自动字号）
+scripts/label_figure.py     在原图编号旁写中文名称、盖住英文、加图下中文图例条
 scripts/extract_figures.py  提取 PDF 图片、图注、页面渲染
 scripts/fetch_supplement.py 按 DOI 下载补充材料（视频、高清图）
 scripts/video_frames.py     视频截帧
