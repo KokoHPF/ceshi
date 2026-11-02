@@ -4,7 +4,7 @@
 用法：python3 label_figure.py spec.json 字体目录
 spec.json 是一个列表，每项对应一张图：
 [
-  {"src": "work/x108.jpg", "out": "work/f01.jpg", "fs": 30,
+  {"src": "work/x108.jpg", "out": "work/f01.jpg", "fs": 30,   # fs 可省略：默认 图宽/30，图例按图宽自动换行
    "items": [[421, 387, "后腹", "c", 140],      # 带第 5 项(最小宽度) = 不透明框，用来完全盖住原英文
              [600, 200, "距骨", "l"]],          # 4 项 = 半透明小框，放在数字旁边，不盖原标注
    "strip": ["a 冈上肌前腹与后腹", "b、c 轴位：实线箭头 = 前腹长腱"]}
@@ -14,18 +14,30 @@ spec.json 是一个列表，每项对应一张图：
 - 中文放在数字旁边、空白处，不压住结构和箭头；没有空间时只写进 strip。
 - 只在许可允许演绎时修改原图（CC BY 等）；ND / 非开放获取的图保持原样，说明写进卡片文字。
 """
-import json, os, sys
+import json, os, re, sys
 from PIL import Image, ImageDraw, ImageFont
 
 BOX = (20, 30, 50, 200)
 TXT = (255, 255, 255, 255)
 
 
+def wrap(lines, f, maxw):
+    """图例条自动换行（按像素宽度），续行缩进两格。"""
+    d = ImageDraw.Draw(Image.new('RGB', (1, 1))); out = []
+    for ln in lines:
+        cur = ''
+        for ch in re.findall(r'[A-Za-z0-9.\-/]+|.', ln):  # 英文单词、数字不拆开
+            if d.textlength(cur + ch, font=f) > maxw: out.append(cur); cur = '\u3000' + ch
+            else: cur += ch
+        out.append(cur)
+    return out
+
+
 def run(spec, fontdir):
     font = lambda s: ImageFont.truetype(os.path.join(fontdir, 'NotoSansSC-Bold.otf'), s)
     for e in spec:
-        fs = e.get('fs', 28); strip = e.get('strip') or []
         im = Image.open(e['src']).convert('RGBA'); top = im.height
+        fs = e.get('fs') or max(22, round(im.width / 30)); strip = wrap(e.get('strip') or [], font(fs), im.width - round(fs * 1.6))
         if strip:
             h = round(len(strip) * fs * 1.6 + fs * 1.2)
             c = Image.new('RGBA', (im.width, im.height + h), (0, 0, 0, 255)); c.paste(im, (0, 0)); im = c
