@@ -9,7 +9,7 @@ from cardkit import Deck
 WORK, FONTS, OUT = sys.argv[1:4]
 deck = Deck(series='腕关节超声', source='Australas J Ultrasound Med 2025;28:e70012', fonts_dir=FONTS)
 def G(x, box=None):
-    p = os.path.join(WORK, 'zh', f'{x}.zh.jpg'); p = p if os.path.exists(p) else os.path.join(WORK, f'{x}.jpg')
+    p = os.path.join(WORK, 'zh', f'{x}.full.jpg'); p = p if os.path.exists(p) else os.path.join(WORK, 'zh', f'{x}.zh.jpg'); p = p if os.path.exists(p) else os.path.join(WORK, f'{x}.jpg')
     im = Image.open(p).convert('RGB'); return im.crop(box) if box else im
 def hcat(*ims, gap=12):
     h = max(i.height for i in ims); ims = [i.resize((round(i.width * h / i.height), h)) for i in ims]
@@ -41,8 +41,8 @@ deck.figure('⑤ 外在稳定：旋前方肌、骨间膜', '原文图 3E（编�
     ('box', '骨间膜', '远端增厚为远侧斜束，止于乙状切迹背侧缘；Galeazzi 骨折常伴骨间膜损伤', 'navy'),
     ('box', '旋前方肌', '骨间前神经支配；绷紧关节囊、限制桡骨背移', 'teal'),
     ('box', '下图对照', '图为左右对照：左前臂骨折后骨间前神经被卡压 → 旋前方肌萎缩、**回声增高**', 'accent')], max_h=640)
-deck.figure('⑥ TFCC 五个组成部分', '原文图 4（背侧观，编者中文标注）', G('x69', (240, 0, 1001, 1098)), None, [
-    ('steps', [('①', '关节盘 Disc proper'), ('②', '半月板同系物 MH'), ('③', 'ECU 腱下鞘'), ('④', '尺月韧带 ULL、尺三角韧带 UTL'), ('⑤', '背侧 / 掌侧桡尺远侧韧带 DDRUL / PDRUL')])], max_h=800)
+deck.figure('⑥ TFCC 五个组成部分', '原文图 4（背侧观，编者中文标注）', G('x69', (455, 430, 975, 1000)), None, [
+    ('steps', [('①', '关节盘（Disc proper）'), ('②', '半月板同系物（MH）'), ('③', '尺侧腕伸肌腱下鞘（ECU sub-sheath）'), ('④', '尺月韧带（ULL）、尺三角韧带（UTL）'), ('⑤', '背侧 / 掌侧桡尺远侧韧带（DDRUL / PDRUL）')])], max_h=900)
 deck.figure('⑦ 关节盘', '原文图 5A–C（编者中文标注）', [G('x94', (0, 0, 725, 834)), G('x94', (725, 0, 1501, 834))], None, [
     ('box', '结构', '桡侧附着部发出 → 分**近侧板**（止于小凹）和**远侧板**（止于茎突）；两板之间是下隐韧带（L. Subcruentum）', 'navy'),
     ('box', '怎么扫', '背侧入路屈腕 + 桡偏；尺侧入路以 ECU 为声窗', 'teal')], max_h=640)

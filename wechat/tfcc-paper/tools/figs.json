@@ -38,15 +38,13 @@
   ]
  },
  {
-  "src": "work/zh/x69.zh.jpg",
+  "src": "work/zh/x69.full.jpg",
   "out": "work/f05.jpg",
   "strip": [
    "背侧观 TFCC 五个组成部分：",
-   "① 关节盘（Disc proper）　② 半月板同系物（MH）",
-   "③ ECU 腱下鞘（ECU sub-sheath）",
+   "① 关节盘　② 半月板同系物（MH）　③ 尺侧腕伸肌（ECU）腱下鞘",
    "④ 掌侧尺腕韧带：尺月韧带（ULL）、尺三角韧带（UTL）",
-   "⑤ 背侧、掌侧桡尺远侧韧带（DDRUL、PDRUL）",
-   "US 尺骨茎突　ECU 尺侧腕伸肌"
+   "⑤ 背侧、掌侧桡尺远侧韧带（DDRUL、PDRUL）"
   ]
  },
  {
